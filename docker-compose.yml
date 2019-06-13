@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+    exporter:
+        image: python:3.7
+        volumes:
+           -   ./exporter:/exporter
+        working_dir: /exporter
+        command: ["cat"]
+
+        links:
+            -   database
+        environment:
+            -   POSTGRES_HOST=database
+            -   POSTGRES_USER=postgres
+
+    scraper:
+        image: python:3.7
+        volumes:
+           -   ./scraper:/scraper
+        working_dir: /scraper
+        command: ["bash", "-c", "pip3 install -r requirements.txt && python3 main.py"]
+        # command: ["cat"]
+
+        links:
+            -   database
+        environment:
+            -   POSTGRES_HOST=database
+            -   POSTGRES_USER=postgres
+
+    database:
+        image: postgres:11
+
+        volumes:
+            -   ./database/init:/docker-entrypoint-initdb.d  # initialize the database with the feature of the official image
+            -   ./database/data:/var/lib/postgresql/data
