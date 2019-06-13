@@ -62,7 +62,7 @@ def export_contests(*, conn):
                     "duration_second": int((row["end_at"] - row["start_at"]).total_seconds()),
                     "rate_change": row["rated_range"],
                 }
-                fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True) + "\n")
+                fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True, ensure_ascii=False) + "\n")
         fh.write("]\n")
 
 
@@ -88,7 +88,7 @@ def export_tasks(*, conn):
                     "contest_id": row["contest_id"],
                     "title": row["alphabet"] + ". " + row["task_name"],
                 }
-                fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True) + "\n")
+                fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True, ensure_ascii=False) + "\n")
         fh.write("]\n")
 
 

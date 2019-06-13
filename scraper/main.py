@@ -182,6 +182,7 @@ def main():
         try:
             with db() as conn:
                 with requests.Session() as session:
+                    scrape_contests(session=session, conn=conn)
                     while True:
                         run(session=session, conn=conn)
                         time.sleep(10)
