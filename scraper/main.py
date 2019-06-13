@@ -34,11 +34,9 @@ def db():
 
 
 def scrape_contests(*, session, conn):
-
     service = AtCoderService()
     for contest in service.iterate_contests(session=session):
         time.sleep(1)
-        logger.debug('INSERT INTO contests: %s', contest.get_url())
 
         with conn.cursor() as cur:
             values = (
@@ -48,41 +46,58 @@ def scrape_contests(*, session, conn):
                 contest.get_start_time(session=session),
                 contest.get_start_time(session=session) + contest.get_duration(session=session),
             )
-            cur.execute("""
-                INSERT INTO contests (contest_id, contest_name, rated_range, start_at, end_at)
-                VALUES (%s, %s, %s, %s, %s)
-            """, values)
+            try:
+                cur.execute("""
+                    INSERT INTO contests (contest_id, contest_name, rated_range, start_at, end_at)
+                    VALUES (%s, %s, %s, %s, %s)
+                """, values)
+            except psycopg2.errors.UniqueViolation:
+                pass
+            else:
+                logger.debug('INSERT INTO contests: %s', contest.get_url())
 
-        try:
-            problems = contest.list_problems(session=session)
-        except requests.exceptions.HTTPError:
-            traceback.print_exc()
-            continue
+        scrape_tasks(contest, session=session, conn=conn)
 
-        for problem in problems:
-            time.sleep(1)
-            logger.debug('INSERT INTO tasks: %s', problem.get_url())
+def scrape_tasks(contest: AtCoderContest, *, session, conn):
+    try:
+        problems = contest.list_problems(session=session)
+    except requests.exceptions.HTTPError:
+        traceback.print_exc()
+        return
 
-            with conn.cursor() as cur:
-                values = (
-                    problem.problem_id,
-                    problem.get_name(session=session),
-                )
+    for problem in problems:
+        time.sleep(1)
+
+        with conn.cursor() as cur:
+            values = (
+                problem.problem_id,
+                problem.get_name(session=session),
+            )
+            try:
                 cur.execute("""
                     INSERT INTO tasks (task_id, task_name)
                     VALUES (%s, %s)
                 """, values)
+            except psycopg2.errors.UniqueViolation:
+                pass
+            else:
+                logger.debug('INSERT INTO tasks: %s', problem.get_url())
 
-            with conn.cursor() as cur:
-                values = (
-                    problem.contest_id,
-                    problem.problem_id,
-                    problem.get_alphabet(),
-                )
+        with conn.cursor() as cur:
+            values = (
+                problem.contest_id,
+                problem.problem_id,
+                problem.get_alphabet(),
+            )
+            try:
                 cur.execute("""
                     INSERT INTO contests_tasks (contest_id, task_id, alphabet)
                     VALUES (%s, %s, %s)
                 """, values)
+            except psycopg2.errors.UniqueViolation:
+                pass
+            else:
+                logger.debug('INSERT INTO contests_tasks: %s', problem.get_url())
 
 
 def select_contests(*, conn) -> List[AtCoderContest]:
@@ -133,10 +148,15 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
             "memory_consumed": submission.get_memory_byte(session=session) and submission.get_memory_byte(session=session) // 1000,
         }
         keys = list(values.keys())
-        sql = """
-            INSERT INTO submissions ({}) VALUES ({})
-        """.format(", ".join(keys), ", ".join(["%s"] * len(keys)))
-        cur.execute(sql, tuple(values[key] for key in keys))
+        try:
+            sql = """
+                INSERT INTO submissions ({}) VALUES ({})
+            """.format(", ".join(keys), ", ".join(["%s"] * len(keys)))
+            cur.execute(sql, tuple(values[key] for key in keys))
+        except psycopg2.errors.UniqueViolation:
+            pass
+        else:
+            logger.debug('INSERT INTO submissions: %s', submission.get_url())
 
 
 def run(*, session, conn):
