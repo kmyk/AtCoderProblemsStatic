@@ -7,12 +7,14 @@ CREATE TABLE contests (
     end_at          TIMESTAMP WITH TIME ZONE NOT NULL,
     inserted_at     TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+CREATE INDEX ON contests (inserted_at);
 
 CREATE TABLE tasks (
     task_id         VARCHAR(255) PRIMARY KEY,
     task_name       VARCHAR(255) NOT NULL,
     inserted_at     TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+CREATE INDEX ON tasks (inserted_at);
 
 CREATE TABLE contests_tasks (
     contest_id      VARCHAR(255) REFERENCES contests,
@@ -21,6 +23,7 @@ CREATE TABLE contests_tasks (
     inserted_at     TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (contest_id, task_id)
 );
+CREATE INDEX ON contests (inserted_at);
 
 CREATE TABLE users (
     user_id         VARCHAR(255) PRIMARY KEY,
@@ -50,3 +53,4 @@ CREATE TABLE submissions (
     FOREIGN KEY (contest_id, task_id) REFERENCES contests_tasks
 );
 CREATE INDEX ON submissions (user_id, submitted_at);
+CREATE INDEX ON submissions (user_id, inserted_at);

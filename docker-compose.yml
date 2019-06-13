@@ -6,7 +6,7 @@ services:
         volumes:
            -   ./exporter:/exporter
         working_dir: /exporter
-        command: ["cat"]
+        command: ["bash", "-c", "pip3 install -r requirements.txt && python3 main.py"]
 
         links:
             -   database
