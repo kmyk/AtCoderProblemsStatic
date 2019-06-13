@@ -5,12 +5,14 @@ services:
         image: python:3.7
         volumes:
            -   ./exporter:/exporter
+           -   ./exporter/dist:/dist
         working_dir: /exporter
         command: ["bash", "-c", "pip3 install -r requirements.txt && python3 main.py"]
 
         links:
             -   database
         environment:
+            -   EXPORT_DIR=/dist
             -   POSTGRES_HOST=database
             -   POSTGRES_USER=postgres
 
