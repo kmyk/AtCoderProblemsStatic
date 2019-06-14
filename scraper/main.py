@@ -56,6 +56,7 @@ def scrape_contests(*, session, conn):
 
 
 def scrape_tasks(contest: AtCoderContest, *, session, conn):
+    time.sleep(1)
     try:
         problems = contest.list_problems(session=session)
     except requests.exceptions.HTTPError:
@@ -67,7 +68,6 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
         return
 
     for problem in problems:
-        time.sleep(0.5)
 
         with conn.cursor() as cur:
             values1 = (
@@ -85,7 +85,7 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
             values2 = (
                 problem.contest_id,
                 problem.problem_id,
-                problem.get_alphabet(),
+                problem.get_alphabet(session=session),
             )
             cur.execute("""
                 INSERT INTO contests_tasks (contest_id, task_id, alphabet)
@@ -143,7 +143,7 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
         keys = list(values.keys())
         sql = """
             INSERT INTO submissions ({}) VALUES ({})
-        ON CONFLICT DO NOTHING
+            ON CONFLICT DO NOTHING
         """.format(", ".join(keys), ", ".join(["%s"] * len(keys)))
         cur.execute(sql, tuple(values[key] for key in keys))
         logger.debug('INSERT INTO submissions: %s', submission.get_url())
@@ -159,7 +159,7 @@ def scrape_submissions(*, session, conn):
         # for submission in contest.iterate_submissions_where(session=session, pages=itertools.count(page)):
         for submission in contest.iterate_submissions_where(session=session):
 
-            time.sleep(0.1)
+            time.sleep(1 / SUBMISSIONS_IN_PAGE)
             insert_submission(submission, session=session, conn=conn)
 
 
