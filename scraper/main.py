@@ -1,9 +1,8 @@
 # Python Version: 3.x
 import contextlib
-import datetime
+import itertools
 import json
 import os
-import random
 import time
 import traceback
 from logging import DEBUG, StreamHandler, getLogger
@@ -33,7 +32,7 @@ def db():
         yield conn
 
 
-def scrape_contests(*, session, conn):
+def scrape_contests(*, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     service = AtCoderService()
     for contest in service.iterate_contests(session=session):
 
@@ -55,7 +54,7 @@ def scrape_contests(*, session, conn):
         scrape_tasks(contest, session=session, conn=conn)
 
 
-def scrape_tasks(contest: AtCoderContest, *, session, conn):
+def scrape_tasks(contest: AtCoderContest, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     time.sleep(1)
     try:
         problems = contest.list_problems(session=session)
@@ -92,8 +91,7 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
             logger.debug('INSERT INTO contests_tasks: %s', problem.get_url())
 
 
-def select_contests(*, conn) -> List[AtCoderContest]:
-
+def select_contests(*, conn: psycopg2.extensions.connection) -> List[AtCoderContest]:
     with conn.cursor() as cur:
         cur.execute("""
             SELECT contest_id FROM contests
@@ -104,7 +102,7 @@ def select_contests(*, conn) -> List[AtCoderContest]:
 SUBMISSIONS_IN_PAGE = 20
 
 
-def get_next_page(contest: AtCoderContest, *, conn):
+def get_next_page(contest: AtCoderContest, *, conn: psycopg2.extensions.connection) -> int:
     with conn.cursor() as cur:
         # TODO: manage to compute the page number even when some submissions deleted (using binary search)
         cur.execute("""
@@ -114,7 +112,7 @@ def get_next_page(contest: AtCoderContest, *, conn):
         return count // SUBMISSIONS_IN_PAGE + 1
 
 
-def insert_submission(submission: AtCoderSubmission, *, session, conn):
+def insert_submission(submission: AtCoderSubmission, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     user_id = submission.get_user_id(session=session)
     with conn.cursor() as cur:
         cur.execute("""
@@ -146,15 +144,15 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
         logger.debug('INSERT INTO submissions: %s', submission.get_url())
 
 
-def scrape_submissions(*, session, conn):
+def scrape_submissions(*, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     for contest in select_contests(conn=conn):
         page = get_next_page(contest, conn=conn)
-        for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
+        for submission in contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session):
             time.sleep(1 / SUBMISSIONS_IN_PAGE)
             insert_submission(submission, session=session, conn=conn)
 
 
-def main():
+def main() -> None:
     with db() as conn:
         with requests.Session() as session:
             scrape_contests(session=session, conn=conn)
