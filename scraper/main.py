@@ -45,22 +45,23 @@ def scrape_contests(*, session, conn):
                 contest.get_start_time(session=session),
                 contest.get_start_time(session=session) + contest.get_duration(session=session),
             )
-            try:
-                cur.execute("""
-                    INSERT INTO contests (contest_id, contest_name, rated_range, start_at, end_at)
-                    VALUES (%s, %s, %s, %s, %s)
-                """, values)
-            except psycopg2.errors.UniqueViolation:
-                pass
-            else:
-                logger.debug('INSERT INTO contests: %s', contest.get_url())
+            cur.execute("""
+                INSERT INTO contests (contest_id, contest_name, rated_range, start_at, end_at)
+                VALUES (%s, %s, %s, %s, %s)
+                ON CONFLICT DO NOTHING
+            """, values)
+            logger.debug('INSERT INTO contests: %s', contest.get_url())
 
         scrape_tasks(contest, session=session, conn=conn)
 
 def scrape_tasks(contest: AtCoderContest, *, session, conn):
     try:
         problems = contest.list_problems(session=session)
+    except requests.exceptions.HTTPError:
+        traceback.print_exc()
+        return
     except:
+        # TODO:
         traceback.print_exc()
         return
 
@@ -72,15 +73,12 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
                 problem.problem_id,
                 problem.get_name(session=session),
             )
-            try:
-                cur.execute("""
-                    INSERT INTO tasks (task_id, task_name)
-                    VALUES (%s, %s)
-                """, values)
-            except psycopg2.errors.UniqueViolation:
-                pass
-            else:
-                logger.debug('INSERT INTO tasks: %s', problem.get_url())
+            cur.execute("""
+                INSERT INTO tasks (task_id, task_name)
+                VALUES (%s, %s)
+                ON CONFLICT DO NOTHING
+            """, values)
+            logger.debug('INSERT INTO tasks: %s', problem.get_url())
 
         with conn.cursor() as cur:
             values = (
@@ -88,15 +86,12 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
                 problem.problem_id,
                 problem.get_alphabet(),
             )
-            try:
-                cur.execute("""
-                    INSERT INTO contests_tasks (contest_id, task_id, alphabet)
-                    VALUES (%s, %s, %s)
-                """, values)
-            except psycopg2.errors.UniqueViolation:
-                pass
-            else:
-                logger.debug('INSERT INTO contests_tasks: %s', problem.get_url())
+            cur.execute("""
+                INSERT INTO contests_tasks (contest_id, task_id, alphabet)
+                VALUES (%s, %s, %s)
+                ON CONFLICT DO NOTHING
+            """, values)
+            logger.debug('INSERT INTO contests_tasks: %s', problem.get_url())
 
 
 def select_contests(*, conn) -> List[AtCoderContest]:
@@ -113,6 +108,7 @@ SUBMISSIONS_IN_PAGE = 20
 
 def get_next_page(contest: AtCoderContest, *, conn):
     with conn.cursor() as cur:
+        # TODO: manage to compute the page number even when some submissions deleted (using binary search)
         cur.execute("""
             SELECT count(submission_id) FROM submissions WHERE contest_id = %s
         """, (contest.contest_id,))
@@ -123,13 +119,10 @@ def get_next_page(contest: AtCoderContest, *, conn):
 def insert_submission(submission: AtCoderSubmission, *, session, conn):
     user_id = submission.get_user_id(session=session)
     with conn.cursor() as cur:
-        try:
-            cur.execute("""
-                INSERT INTO users (user_id) VALUES (%s)
-            """, (user_id,))
-        except psycopg2.errors.UniqueViolation:
-            pass
-        else:
+        cur.execute("""
+            INSERT INTO users (user_id) VALUES (%s)
+            ON CONFLICT DO NOTHING
+        """, (user_id,))
             logger.debug('INSERT INTO users: https://atcoder.jp/users/%s', user_id)
 
     with conn.cursor() as cur:
@@ -147,26 +140,21 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
             "memory_consumed": submission.get_memory_byte(session=session) and submission.get_memory_byte(session=session) // 1000,
         }
         keys = list(values.keys())
-        try:
-            sql = """
-                INSERT INTO submissions ({}) VALUES ({})
-            """.format(", ".join(keys), ", ".join(["%s"] * len(keys)))
-            cur.execute(sql, tuple(values[key] for key in keys))
-        except psycopg2.errors.UniqueViolation:
-            pass
-        else:
-            logger.debug('INSERT INTO submissions: %s', submission.get_url())
+        sql = """
+            INSERT INTO submissions ({}) VALUES ({})
+        ON CONFLICT DO NOTHING
+        """.format(", ".join(keys), ", ".join(["%s"] * len(keys)))
+        cur.execute(sql, tuple(values[key] for key in keys))
+        logger.debug('INSERT INTO submissions: %s', submission.get_url())
 
 
-def run(*, session, conn):
-    if random.random() < 0.01:
-        scrape_contests(session=session, conn=conn)
-
+def scrape_submissions(*, session, conn):
     contests = select_contests(conn=conn)
     random.shuffle(contests)
     for contest in contests:
 
         page = get_next_page(contest, conn=conn)
+        # TODO:
         # for submission in contest.iterate_submissions_where(session=session, pages=itertools.count(page)):
         for submission in contest.iterate_submissions_where(session=session):
 
@@ -178,7 +166,7 @@ def main():
     with db() as conn:
         with requests.Session() as session:
             scrape_contests(session=session, conn=conn)
-            run(session=session, conn=conn)
+            scrape_submissions(session=session, conn=conn)
 
 if __name__ == "__main__":
     main()
