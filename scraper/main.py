@@ -36,7 +36,6 @@ def db():
 def scrape_contests(*, session, conn):
     service = AtCoderService()
     for contest in service.iterate_contests(session=session):
-        time.sleep(1)
 
         with conn.cursor() as cur:
             values = (
@@ -61,12 +60,12 @@ def scrape_contests(*, session, conn):
 def scrape_tasks(contest: AtCoderContest, *, session, conn):
     try:
         problems = contest.list_problems(session=session)
-    except requests.exceptions.HTTPError:
+    except:
         traceback.print_exc()
         return
 
     for problem in problems:
-        time.sleep(1)
+        time.sleep(0.5)
 
         with conn.cursor() as cur:
             values = (
@@ -166,29 +165,20 @@ def run(*, session, conn):
     contests = select_contests(conn=conn)
     random.shuffle(contests)
     for contest in contests:
-        time.sleep(1)
 
         page = get_next_page(contest, conn=conn)
         # for submission in contest.iterate_submissions_where(session=session, pages=itertools.count(page)):
         for submission in contest.iterate_submissions_where(session=session):
-            time.sleep(1)
-            logger.debug('INSERT INTO submissions: %s', submission.get_url())
 
+            time.sleep(0.1)
             insert_submission(submission, session=session, conn=conn)
 
 
 def main():
-    while True:
-        try:
-            with db() as conn:
-                with requests.Session() as session:
-                    scrape_contests(session=session, conn=conn)
-                    while True:
-                        run(session=session, conn=conn)
-                        time.sleep(10)
-        except:
-            traceback.print_exc()
-            time.sleep(60)
+    with db() as conn:
+        with requests.Session() as session:
+            scrape_contests(session=session, conn=conn)
+            run(session=session, conn=conn)
 
 if __name__ == "__main__":
     main()

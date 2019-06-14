@@ -152,7 +152,7 @@ def export_submissions_for_user(user_id, *, conn):
         cur.execute(sql, aliases)
         inserted_at, = cur.fetchone() or (datetime.datetime.now(),)
 
-    path = EXPORT_DIR / "results" / hashlib.md5(user_id.encode()).hexdigest()[:2] / (user_id + ".json")
+    path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".tsv")
     if path.exists() and inserted_at.timestamp() < path.stat().st_mtime:
         return
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -161,24 +161,28 @@ def export_submissions_for_user(user_id, *, conn):
 
         with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
             sql = """
-                SELECT submission_id, contest_id, task_id, submitted_at, language_name, score, code_size, status, execution_time, memory_consumed
+                SELECT submission_id, contest_id, task_id, submitted_at, language_name, score, code_size, status, execution_time
                 FROM submissions
                 WHERE """ + " OR ".join(["user_id = %s"] * len(aliases)) + """
                 ORDER BY submission_id
             """
             cur.execute(sql, aliases)
+            header = ["id", "epoch_second", "problem_id", "contest_id", "user_id", "language", "point", "length", "result", "execution_time"]
+            fh.write("\t".join(header) + "\n")
             for i, row in enumerate(cur.fetchall()):
-                if i == 0:
-                    fh.write("[")
-                else:
-                    fh.write(",")
-                data = {
-                    "id": row["submission_id"],
-                    "contest_id": row["submission_id"],
-                    "problem_id": row["task_id"],
-                }
-                fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True) + "\n")
-            fh.write("]\n")
+                data = [
+                    row["submission_id"],
+                    int(row["submitted_at"].timestamp()),
+                    row["task_id"],
+                    row["contest_id"],
+                    user_id,
+                    row["language_name"],
+                    row["score"],
+                    row["code_size"],
+                    row["status"],
+                    "" if row["execution_time"] is None else row["execution_time"],
+                ]
+                fh.write("\t".join(map(str, data)) + "\n")
 
 
 def export_submissions(*, conn):
@@ -199,13 +203,7 @@ def export():
 
 
 def main():
-    while True:
-        try:
-            export()
-        except:
-            traceback.print_exc()
-        time.sleep(3 * 60 * 60)
-
+    export()
 
 if __name__ == "__main__":
     main()
