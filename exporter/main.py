@@ -1,19 +1,13 @@
 # Python Version: 3.x
 import contextlib
 import datetime
-import hashlib
 import json
 import os
 import pathlib
-import random
-import stat
-import time
-import traceback
 from logging import DEBUG, StreamHandler, getLogger
 from typing import *
 
 import psycopg2
-import psycopg2.extensions
 import psycopg2.extras
 
 EXPORT_DIR = pathlib.Path(os.environ.get("EXPORT_DIR", os.path.curdir)).resolve()
@@ -37,7 +31,7 @@ def db():
         yield conn
 
 
-def export_contests(*, conn):
+def export_contests(*, conn: psycopg2.extensions.connection) -> None:
     path = EXPORT_DIR / "contests.json"
     logger.info("write: %s", path)
     with open(path, "w") as fh:
@@ -64,7 +58,7 @@ def export_contests(*, conn):
         fh.write("]\n")
 
 
-def export_tasks(*, conn):
+def export_tasks(*, conn: psycopg2.extensions.connection) -> None:
     path = EXPORT_DIR / "problems.json"
     logger.info("write: %s", path)
     with open(path, "w") as fh:
@@ -90,7 +84,7 @@ def export_tasks(*, conn):
         fh.write("]\n")
 
 
-def export_contests_tasks(*, conn):
+def export_contests_tasks(*, conn: psycopg2.extensions.connection) -> None:
     path = EXPORT_DIR / "contest-problem.json"
     logger.info("write: %s", path)
     with open(path, "w") as fh:
@@ -114,7 +108,7 @@ def export_contests_tasks(*, conn):
         fh.write("]\n")
 
 
-def iterate_aliases_for_user(user_id, *, conn):
+def iterate_aliases_for_user(user_id: str, *, conn: psycopg2.extensions.connection) -> Iterator[str]:
     with conn.cursor() as cur:
         cur.execute("""
             SELECT user_id_to FROM renamed WHERE user_id_from = %s
@@ -134,7 +128,7 @@ def iterate_aliases_for_user(user_id, *, conn):
             user_id, = row
 
 
-def export_submissions_for_user(user_id, *, conn):
+def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.connection) -> None:
     aliases = list(iterate_aliases_for_user(user_id, conn=conn))
     if not aliases:
         return
@@ -183,7 +177,7 @@ def export_submissions_for_user(user_id, *, conn):
                 fh.write("\t".join(map(str, data)) + "\n")
 
 
-def export_submissions(*, conn):
+def export_submissions(*, conn: psycopg2.extensions.connection) -> None:
     with conn.cursor() as cur:
         cur.execute("""
             SELECT user_id FROM users
@@ -192,7 +186,7 @@ def export_submissions(*, conn):
             export_submissions_for_user(user_id, conn=conn)
 
 
-def export():
+def export() -> None:
     with db() as conn:
         export_contests(conn=conn)
         export_tasks(conn=conn)
@@ -200,7 +194,7 @@ def export():
         export_submissions(conn=conn)
 
 
-def main():
+def main() -> None:
     export()
 
 
