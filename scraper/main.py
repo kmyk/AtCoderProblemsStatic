@@ -60,10 +60,7 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
     try:
         problems = contest.list_problems(session=session)
     except requests.exceptions.HTTPError:
-        traceback.print_exc()
-        return
-    except:
-        # TODO:
+        # This happens when the contest is running yet.
         traceback.print_exc()
         return
 
@@ -150,15 +147,9 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
 
 
 def scrape_submissions(*, session, conn):
-    contests = select_contests(conn=conn)
-    random.shuffle(contests)
-    for contest in contests:
-
+    for contest in select_contests(conn=conn):
         page = get_next_page(contest, conn=conn)
-        # TODO:
-        # for submission in contest.iterate_submissions_where(session=session, pages=itertools.count(page)):
-        for submission in contest.iterate_submissions_where(session=session):
-
+        for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
             time.sleep(1 / SUBMISSIONS_IN_PAGE)
             insert_submission(submission, session=session, conn=conn)
 

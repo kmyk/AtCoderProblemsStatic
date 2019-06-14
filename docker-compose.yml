@@ -7,7 +7,7 @@ services:
            -   ./exporter:/exporter
            -   ./exporter/dist:/dist
         working_dir: /exporter
-        command: ["bash", "-c", "pip3 install -r requirements.txt && python3 main.py"]
+        command: ["bash", "-c", "pip3 install -U -r requirements.txt && python3 main.py"]
 
         links:
             -   database
@@ -21,7 +21,7 @@ services:
         volumes:
            -   ./scraper:/scraper
         working_dir: /scraper
-        command: ["bash", "-c", "pip3 install -r requirements.txt && python3 main.py"]
+        command: ["bash", "-c", "pip3 install -U -r requirements.txt && python3 main.py"]
         # command: ["cat"]
 
         links:

@@ -53,3 +53,4 @@ CREATE TABLE submissions (
     FOREIGN KEY (contest_id, task_id) REFERENCES contests_tasks
 );
 CREATE INDEX ON submissions (user_id, inserted_at);
+CREATE INDEX ON submissions (contest_id, submission_id);
