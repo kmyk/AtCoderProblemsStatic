@@ -1,0 +1,12 @@
+language: python
+python:
+    - 3.7
+install:
+    - pip install -r exporter/requirements.txt
+    - pip install -r scraper/requirements.txt
+    - pip install isort yapf mypy
+script:
+    - isort --check-only --diff scraper/main.py exporter/main.py
+    - yapf --diff scraper/main.py exporter/main.py | tee yapf.patch && test ! -s yapf.patch
+    - mypy scraper/main.py
+    - mypy exporter/main.py
