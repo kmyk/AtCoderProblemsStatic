@@ -6,13 +6,13 @@ import os
 import random
 import time
 import traceback
-from logging import getLogger, StreamHandler, DEBUG
+from logging import DEBUG, StreamHandler, getLogger
 from typing import *
 
 import psycopg2
 import requests
-from onlinejudge.service.atcoder import AtCoderService, AtCoderContest, AtCoderProblem, AtCoderSubmission
 
+from onlinejudge.service.atcoder import AtCoderContest, AtCoderProblem, AtCoderService, AtCoderSubmission
 
 logger = getLogger(__name__)
 handler = StreamHandler()
@@ -54,6 +54,7 @@ def scrape_contests(*, session, conn):
 
         scrape_tasks(contest, session=session, conn=conn)
 
+
 def scrape_tasks(contest: AtCoderContest, *, session, conn):
     try:
         problems = contest.list_problems(session=session)
@@ -69,7 +70,7 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
         time.sleep(0.5)
 
         with conn.cursor() as cur:
-            values = (
+            values1 = (
                 problem.problem_id,
                 problem.get_name(session=session),
             )
@@ -77,11 +78,11 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
                 INSERT INTO tasks (task_id, task_name)
                 VALUES (%s, %s)
                 ON CONFLICT DO NOTHING
-            """, values)
+            """, values1)
             logger.debug('INSERT INTO tasks: %s', problem.get_url())
 
         with conn.cursor() as cur:
-            values = (
+            values2 = (
                 problem.contest_id,
                 problem.problem_id,
                 problem.get_alphabet(),
@@ -90,7 +91,7 @@ def scrape_tasks(contest: AtCoderContest, *, session, conn):
                 INSERT INTO contests_tasks (contest_id, task_id, alphabet)
                 VALUES (%s, %s, %s)
                 ON CONFLICT DO NOTHING
-            """, values)
+            """, values2)
             logger.debug('INSERT INTO contests_tasks: %s', problem.get_url())
 
 
@@ -111,7 +112,7 @@ def get_next_page(contest: AtCoderContest, *, conn):
         # TODO: manage to compute the page number even when some submissions deleted (using binary search)
         cur.execute("""
             SELECT count(submission_id) FROM submissions WHERE contest_id = %s
-        """, (contest.contest_id,))
+        """, (contest.contest_id, ))
         count, = cur.fetchone()
         return count // SUBMISSIONS_IN_PAGE + 1
 
@@ -122,8 +123,8 @@ def insert_submission(submission: AtCoderSubmission, *, session, conn):
         cur.execute("""
             INSERT INTO users (user_id) VALUES (%s)
             ON CONFLICT DO NOTHING
-        """, (user_id,))
-            logger.debug('INSERT INTO users: https://atcoder.jp/users/%s', user_id)
+        """, (user_id, ))
+        logger.debug('INSERT INTO users: https://atcoder.jp/users/%s', user_id)
 
     with conn.cursor() as cur:
         values = {
@@ -167,6 +168,7 @@ def main():
         with requests.Session() as session:
             scrape_contests(session=session, conn=conn)
             scrape_submissions(session=session, conn=conn)
+
 
 if __name__ == "__main__":
     main()

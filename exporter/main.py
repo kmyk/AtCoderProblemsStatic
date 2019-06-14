@@ -1,24 +1,22 @@
 # Python Version: 3.x
 import contextlib
-import hashlib
 import datetime
+import hashlib
 import json
 import os
-import stat
-import random
 import pathlib
+import random
+import stat
 import time
 import traceback
-from logging import getLogger, StreamHandler, DEBUG
+from logging import DEBUG, StreamHandler, getLogger
 from typing import *
 
 import psycopg2
 import psycopg2.extensions
 import psycopg2.extras
 
-
 EXPORT_DIR = pathlib.Path(os.environ.get("EXPORT_DIR", os.path.curdir)).resolve()
-
 
 logger = getLogger(__name__)
 handler = StreamHandler()
@@ -120,7 +118,7 @@ def iterate_aliases_for_user(user_id, *, conn):
     with conn.cursor() as cur:
         cur.execute("""
             SELECT user_id_to FROM renamed WHERE user_id_from = %s
-        """, (user_id,))
+        """, (user_id, ))
         if cur.fetchone() is not None:
             return
     while True:
@@ -128,7 +126,7 @@ def iterate_aliases_for_user(user_id, *, conn):
         with conn.cursor() as cur:
             cur.execute("""
                 SELECT user_id_from FROM renamed WHERE user_id_to = %s
-            """, (user_id,))
+            """, (user_id, ))
             row = cur.fetchone()
         if row is None:
             break
@@ -150,7 +148,7 @@ def export_submissions_for_user(user_id, *, conn):
             LIMIT 1
         """
         cur.execute(sql, aliases)
-        inserted_at, = cur.fetchone() or (datetime.datetime.now(),)
+        inserted_at, = cur.fetchone() or (datetime.datetime.now(), )
 
     path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".tsv")
     if path.exists() and inserted_at.timestamp() < path.stat().st_mtime:
@@ -204,6 +202,7 @@ def export():
 
 def main():
     export()
+
 
 if __name__ == "__main__":
     main()

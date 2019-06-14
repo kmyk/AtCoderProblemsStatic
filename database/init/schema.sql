@@ -52,5 +52,4 @@ CREATE TABLE submissions (
     inserted_at     TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (contest_id, task_id) REFERENCES contests_tasks
 );
-CREATE INDEX ON submissions (user_id, submitted_at);
 CREATE INDEX ON submissions (user_id, inserted_at);
