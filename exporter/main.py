@@ -129,8 +129,13 @@ def iterate_aliases_for_user(user_id: str, *, conn: psycopg2.extensions.connecti
 
 
 def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.connection) -> None:
+    path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".tsv")
+
     aliases = list(iterate_aliases_for_user(user_id, conn=conn))
     if not aliases:
+        if path.exists():
+            logger.info("unlink: %s", path)
+            path.unlink()
         return
 
     with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
@@ -144,24 +149,30 @@ def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.conne
         cur.execute(sql, aliases)
         inserted_at, = cur.fetchone() or (datetime.datetime.now(), )
 
-    path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".tsv")
     if path.exists() and inserted_at.timestamp() < path.stat().st_mtime:
         return
     path.parent.mkdir(parents=True, exist_ok=True)
-    logger.info("write: %s", path)
-    with open(path, "w") as fh:
 
-        with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
-            sql = """
-                SELECT submission_id, contest_id, task_id, submitted_at, language_name, score, code_size, status, execution_time
-                FROM submissions
-                WHERE """ + " OR ".join(["user_id = %s"] * len(aliases)) + """
-                ORDER BY submission_id
-            """
-            cur.execute(sql, aliases)
+    with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
+        sql = """
+            SELECT submission_id, contest_id, task_id, submitted_at, language_name, score, code_size, status, execution_time
+            FROM submissions
+            WHERE """ + " OR ".join(["user_id = %s"] * len(aliases)) + """
+            ORDER BY submission_id
+        """
+        cur.execute(sql, aliases)
+        rows = cur.fetchall()
+
+    if not rows:
+        if path.exists():
+            logger.info("unlink: %s", path)
+            path.unlink()
+    else:
+        logger.info("write: %s", path)
+        with open(path, "w") as fh:
             header = ["id", "epoch_second", "problem_id", "contest_id", "user_id", "language", "point", "length", "result", "execution_time"]
             fh.write("\t".join(header) + "\n")
-            for i, row in enumerate(cur.fetchall()):
+            for i, row in enumerate(rows):
                 data = [
                     row["submission_id"],
                     int(row["submitted_at"].timestamp()),
