@@ -276,7 +276,7 @@ def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force:
                     ORDER BY submission_id
                     OFFSET %s LIMIT %s
                 )
-            """, (contest.contest_id, (page - 1) * SUBMISSIONS_IN_PAGE, SUBMISSIONS_IN_PAGE))
+            """, (contest.contest_id, (max(1, page - 5) - 1) * SUBMISSIONS_IN_PAGE, 11 * SUBMISSIONS_IN_PAGE))
         logger.debug("DELETE FROM submissions: %s page=%d", contest.get_url(), page)
     else:
         for expected in get_expected_submissions(contest, page, limit=SUBMISSIONS_IN_PAGE, conn=conn):
@@ -298,6 +298,8 @@ def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force:
 
 def scrape_lost_submissions(*, probability: float = 1.0, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     for contest in select_contests(conn=conn):
+        if check_running_contests(conn=conn):
+            break
         if random.random() > probability:
             continue
         try:
@@ -314,6 +316,8 @@ def scrape_lost_submissions(*, probability: float = 1.0, session: requests.Sessi
 
 def scrape_submissions(*, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     for contest in select_contests(conn=conn):
+        if check_running_contests(conn=conn):
+            break
         logger.debug("scrape_submissions(): %s", contest.get_url())
         try:
             page = get_next_page(contest, conn=conn)
@@ -324,8 +328,29 @@ def scrape_submissions(*, session: requests.Session, conn: psycopg2.extensions.c
             traceback.print_exc()
 
 
+def check_running_contests(*, conn: psycopg2.extensions.connection) -> bool:
+    with conn.cursor() as cur:
+        cur.execute("""
+            SELECT start_at, end_at FROM contests
+        """)
+        now = datetime.datetime.now(tz=datetime.timezone.utc)
+        for start_at, end_at in cur.fetchall():
+            if start_at - datetime.timedelta(hours=1) < now < min(end_at, start_at + datetime.timedelta(hours=2)):
+                logger.debug("check_running_contests(): found")
+                return True
+            if end_at - datetime.timedelta(hours=1) < now < end_at + datetime.timedelta(minutes=20):
+                logger.debug("check_running_contests(): found")
+                return True
+    return False
+
+
 def main() -> None:
     with db() as conn:
+        if check_running_contests(conn=conn):
+            logger.debug("wait 10 mins and exit")
+            time.sleep(10 * 60)
+            return
+
         with requests.Session() as session:
             scrape_contests(only_recent=(random.random() < 0.95), session=session, conn=conn)
             scrape_lost_submissions(probability=0.2, session=session, conn=conn)
