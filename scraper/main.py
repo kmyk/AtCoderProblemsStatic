@@ -1,8 +1,10 @@
 # Python Version: 3.x
+import collections
 import contextlib
 import itertools
 import json
 import os
+import random
 import time
 import traceback
 from logging import DEBUG, StreamHandler, getLogger
@@ -60,7 +62,8 @@ def scrape_tasks(contest: AtCoderContest, *, session: requests.Session, conn: ps
     time.sleep(1)
     try:
         problems = contest.list_problems(session=session)
-    except requests.exceptions.HTTPError:
+    # TODO: except requests.exceptions.HTTPError:
+    except:
         # This happens when the contest is running yet.
         traceback.print_exc()
         return
@@ -150,13 +153,13 @@ def insert_submission(submission: AtCoderSubmission, *, session: requests.Sessio
         return cur.rowcount != 0
 
 
-def is_user_updated(user_id: int, *, session: requests.Session) -> bool:
+def is_user_updated(user_id: str, *, session: requests.Session) -> bool:
     url = "https://atcoder.jp/users/{}".format(user_id)
     resp = session.get(url)
     return resp.status_code == 404
 
 
-def report_updated_user(user_id: int, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
+def report_updated_user(user_id: str, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     logger.debug("report_updated_user(): %s", user_id)
     assert is_user_updated(user_id, session=session)
 
@@ -215,52 +218,86 @@ def is_submissions_page_broken(contest: AtCoderContest, page: int, *, session: r
     return is_broken
 
 
-def scrape_lost_submissions_for_contest(contest: AtCoderContest, *, session: requests.Session, conn: psycopg2.extensions.connection) -> bool:
-    logger.debug("scrape_lost_submissions_for_submission(): %s", contest.get_url())
+def find_lost_submissions_for_contest(contest: AtCoderContest, *, session: requests.Session, conn: psycopg2.extensions.connection) -> Optional[int]:
+    logger.debug("find_lost_submissions_for_contest(): %s", contest.get_url())
 
     # binary search
     pred = lambda page: is_submissions_page_broken(contest, page, session=session, conn=conn)
     l, r = 0, get_next_page(contest, conn=conn) + 1
     if not pred(r - 1):
-        return False  # heuristic
+        return None  # heuristic
     while r - l > 1:
-        m = (l + r) // 2
+        m = random.randint(l + 1, r - 1)  # for robustness
         if pred(m):
             r = m
         else:
             l = m
     page = r
+    return page
 
-    # do recovery
-    logger.debug("%s recobery from page %d", contest.get_url(), page)
-    expected = get_expected_submissions(contest, page, conn=conn)
-    inserted = SUBMISSIONS_IN_PAGE
-    for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
-        if i < len(expected):
-            if expected[i].submission_id < submission.submission_id:
-                # remote rows are deleted
-                with conn.cursor() as cur:
-                    cur.execute("""
-                        SELECT user_id FROM submissions WHERE submission_id = %s
-                    """, (expected[i].submission_id, ))
-                    user_id, = cur.fetchone()
-                if is_user_updated(user_id, session=session):
-                    report_updated_user(user_id, session=session, conn=conn)
-                    break
-        if insert_submission(submission, session=session, conn=conn):
-            inserted = min(2 * SUBMISSIONS_IN_PAGE, inserted + 1)
-        else:
-            inserted = max(0, inserted - 1)
-        if (i + 1) % SUBMISSIONS_IN_PAGE == 0 and not inserted:
-            break
-    return True
+
+def load_user_id_for_submission(submission: AtCoderSubmission, *, conn: psycopg2.extensions.connection) -> str:
+    with conn.cursor() as cur:
+        cur.execute("""
+            SELECT user_id FROM submissions WHERE submission_id = %s
+        """, (submission.submission_id, ))
+        user_id, = cur.fetchone()
+    return user_id
+
+
+def load_latest_user_id(user_id: str, *, conn: psycopg2.extensions.connection) -> str:
+    while True:
+        with conn.cursor() as cur:
+            cur.execute("""
+                SELECT user_id_to FROM renamed WHERE user_id_from = %s
+            """, (user_id, ))
+            row = cur.fetchone()
+        if row is None:
+            return user_id
+        user_id, = row
+
+
+def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force: bool = False, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
+    logger.debug("recovery_lost_submissions_from(): %s page=%d", contest.get_url(), page)
+
+    deleted = False
+    if force:
+        with conn.cursor() as cur:
+            cur.execute("""
+                DELETE FROM submissions WHERE contest_id = %s
+                ORDER BY submission_id
+                OFFSET %d LIMIT %d
+            """, (contest.contest_id, (page - 1) * SUBMISSIONS_IN_PAGE, SUBMISSIONS_IN_PAGE))
+        logger.debug("DELETE FROM submissions: %s page=%d", contest.get_url(), page)
+        deleted = True
+    else:
+        for expected in get_expected_submissions(contest, page, limit=SUBMISSIONS_IN_PAGE, conn=conn):
+            user_id = load_latest_user_id(load_user_id_for_submission(expected, conn=conn), conn=conn)
+            if is_user_updated(user_id, session=session):
+                report_updated_user(user_id, session=session, conn=conn)
+                deleted = True
+    if not deleted:
+        inserted = 10 * SUBMISSIONS_IN_PAGE
+        for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
+            time.sleep(1 / SUBMISSIONS_IN_PAGE)
+            if insert_submission(submission, session=session, conn=conn):
+                inserted = min(10 * SUBMISSIONS_IN_PAGE, inserted + 1)
+            else:
+                inserted = max(0, inserted - 1)
+            if (i + 1) % SUBMISSIONS_IN_PAGE == 0 and not inserted:
+                break
 
 
 def scrape_lost_submissions(*, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     for contest in select_contests(conn=conn):
         try:
-            while scrape_lost_submissions_for_contest(contest, session=session, conn=conn):
-                pass
+            used = collections.Counter()  # type: Counter[int]
+            while True:
+                page = find_lost_submissions_for_contest(contest, session=session, conn=conn)
+                if page is None:
+                    break
+                used[page] += 1
+                recovery_lost_submissions_from(contest, page, force=(used[page] >= 3), session=session, conn=conn)
         except:
             traceback.print_exc()
 
