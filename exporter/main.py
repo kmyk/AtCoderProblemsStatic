@@ -4,6 +4,8 @@ import datetime
 import json
 import os
 import pathlib
+import shutil
+import tempfile
 from logging import DEBUG, StreamHandler, getLogger
 from typing import *
 
@@ -168,24 +170,31 @@ def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.conne
             logger.info("unlink: %s", path)
             path.unlink()
     else:
-        logger.info("write: %s", path)
-        with open(path, "w") as fh:
-            header = ["id", "epoch_second", "problem_id", "contest_id", "user_id", "language", "point", "length", "result", "execution_time"]
-            fh.write("\t".join(header) + "\n")
-            for i, row in enumerate(rows):
-                data = [
-                    row["submission_id"],
-                    int(row["submitted_at"].timestamp()),
-                    row["task_id"],
-                    row["contest_id"],
-                    user_id,
-                    row["language_name"],
-                    row["score"],
-                    row["code_size"],
-                    row["status"],
-                    "" if row["execution_time"] is None else row["execution_time"],
-                ]
-                fh.write("\t".join(map(str, data)) + "\n")
+        with tempfile.NamedTemporaryFile() as fh:
+            temppath = pathlib.Path(fh.name)
+        try:
+            with open(temppath, "w") as fh:
+                header = ["id", "epoch_second", "problem_id", "contest_id", "user_id", "language", "point", "length", "result", "execution_time"]
+                fh.write("\t".join(header) + "\n")
+                for i, row in enumerate(rows):
+                    data = [
+                        row["submission_id"],
+                        int(row["submitted_at"].timestamp()),
+                        row["task_id"],
+                        row["contest_id"],
+                        user_id,
+                        row["language_name"],
+                        row["score"],
+                        row["code_size"],
+                        row["status"],
+                        "" if row["execution_time"] is None else row["execution_time"],
+                    ]
+                    fh.write("\t".join(map(str, data)) + "\n")
+            logger.info("write: %s", path)
+            shutil.copyfile(temppath, path)  # almost atomic write, over differennt filesystems
+        finally:
+            if temppath.exists():
+                temppath.unlink()
 
 
 def export_submissions(*, conn: psycopg2.extensions.connection) -> None:
