@@ -19,6 +19,6 @@ $ docker-compose start database
 # scrape the submissions from AtCoder
 $ docker-compose up scraper
 
-# export the submissions to export/dist/
-$ docker-compose up database
+# export the submissions to exporter/dist/
+$ docker-compose up exporter
 ```
