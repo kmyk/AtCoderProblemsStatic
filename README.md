@@ -1,6 +1,6 @@
 # AtCoderProblemsStatic
 
-[![Travis](https://img.shields.io/travis/kmyk/online-judge-tools/master.svg)](https://travis-ci.org/kmyk/online-judge-tools)
+[![Travis](https://img.shields.io/travis/kmyk/AtCoderProblemsStatic/master.svg)](https://travis-ci.org/kmyk/AtCoderProblemsStatic)
 
 <https://kimiyuki.net/AtCoderProblemsStatic/index.html#/table/kimiyuki/kenkoooo>
 
