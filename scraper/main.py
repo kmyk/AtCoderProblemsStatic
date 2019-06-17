@@ -265,25 +265,30 @@ def load_latest_user_id(user_id: str, *, conn: psycopg2.extensions.connection) -
         user_id, = row
 
 
+def delete_submissions_around(contest: AtCoderContest, page: int, *, session: requests.Session, conn: psycopg2.extensions.connection) -> int:
+    logger.debug("delete_submissions_around(): %s page=%d", contest.get_url(), page)
+
+    SIZE = 10
+    with conn.cursor() as cur:
+        cur.execute("""
+            DELETE FROM submissions WHERE submission_id IN (
+                SELECT submission_id FROM submissions WHERE contest_id = %s
+                ORDER BY submission_id
+                OFFSET %s LIMIT %s
+            )
+        """, (contest.contest_id, (max(1, page - SIZE) - 1) * SUBMISSIONS_IN_PAGE, (2 * SIZE + 1) * SUBMISSIONS_IN_PAGE))
+    logger.debug("DELETE FROM submissions: %s page=%d", contest.get_url(), page)
+    return max(1, page - SIZE)
+
+
 def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force: bool = False, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     logger.debug("recovery_lost_submissions_from(): %s page=%d", contest.get_url(), page)
 
-    if force:
-        with conn.cursor() as cur:
-            cur.execute("""
-                DELETE FROM submissions WHERE submission_id IN (
-                    SELECT submission_id FROM submissions WHERE contest_id = %s
-                    ORDER BY submission_id
-                    OFFSET %s LIMIT %s
-                )
-            """, (contest.contest_id, (max(1, page - 5) - 1) * SUBMISSIONS_IN_PAGE, 11 * SUBMISSIONS_IN_PAGE))
-        logger.debug("DELETE FROM submissions: %s page=%d", contest.get_url(), page)
-    else:
-        for expected in get_expected_submissions(contest, page, limit=SUBMISSIONS_IN_PAGE, conn=conn):
-            user_id = load_latest_user_id(load_user_id_for_submission(expected, conn=conn), conn=conn)
-            if is_user_deleted(user_id, session=session, conn=conn):
-                apply_deleted_user(user_id, session=session, conn=conn)
-                return
+    for expected in get_expected_submissions(contest, page, limit=SUBMISSIONS_IN_PAGE, conn=conn):
+        user_id = load_latest_user_id(load_user_id_for_submission(expected, conn=conn), conn=conn)
+        if is_user_deleted(user_id, session=session, conn=conn):
+            apply_deleted_user(user_id, session=session, conn=conn)
+            return
     INSERTED_MAX = 15 * SUBMISSIONS_IN_PAGE
     inserted = INSERTED_MAX
     for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
@@ -296,42 +301,46 @@ def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force:
             break
 
 
-def scrape_lost_submissions(*, probability: float = 1.0, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
-    for contest in select_contests(conn=conn):
-        if check_running_contests(conn=conn):
+def scrape_submissions_for_contest(contest: AtCoderContest, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
+    logger.debug("scrape_submissions_for_contest(): %s", contest.get_url())
+
+    # recovery
+    used = collections.Counter()  # type: Counter[int]
+    while True:
+        page = find_lost_submissions_for_contest(contest, session=session, conn=conn)
+        if page is None:
             break
-        if random.random() > probability:
-            continue
-        try:
-            used = collections.Counter()  # type: Counter[int]
-            while True:
-                page = find_lost_submissions_for_contest(contest, session=session, conn=conn)
-                if page is None:
-                    break
-                used[page] += 1
-                recovery_lost_submissions_from(contest, page, force=(used[page] % 4 == 0), session=session, conn=conn)
-        except:
-            traceback.print_exc()
+        used[page] += 1
+        if used[page] % 4 == 0:
+            page = delete_submissions_around(contest, page, session=session, conn=conn)
+            recovery_lost_submissions_from(contest, page, session=session, conn=conn)
+            return
+        recovery_lost_submissions_from(contest, page, session=session, conn=conn)
+
+    # find new submissions
+    page = get_next_page(contest, conn=conn)
+    for submission in contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session):
+        time.sleep(1 / SUBMISSIONS_IN_PAGE)
+        insert_submission(submission, session=session, conn=conn)
 
 
 def scrape_submissions(*, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
     for contest in select_contests(conn=conn):
         if check_running_contests(conn=conn):
             break
-        logger.debug("scrape_submissions(): %s", contest.get_url())
         try:
-            page = get_next_page(contest, conn=conn)
-            for submission in contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session):
-                time.sleep(1 / SUBMISSIONS_IN_PAGE)
-                insert_submission(submission, session=session, conn=conn)
+            scrape_submissions_for_contest(contest, session=session, conn=conn)
         except:
             traceback.print_exc()
 
 
 def check_running_contests(*, conn: psycopg2.extensions.connection) -> bool:
+    # TODO: there is no feature to get future/running contests, so this function does nothing
     with conn.cursor() as cur:
         cur.execute("""
             SELECT start_at, end_at FROM contests
+            ORDER BY start_at DESC
+            LIMIT 10
         """)
         now = datetime.datetime.now(tz=datetime.timezone.utc)
         for start_at, end_at in cur.fetchall():
@@ -347,13 +356,10 @@ def check_running_contests(*, conn: psycopg2.extensions.connection) -> bool:
 def main() -> None:
     with db() as conn:
         if check_running_contests(conn=conn):
-            logger.debug("wait 10 mins and exit")
-            time.sleep(10 * 60)
             return
 
         with requests.Session() as session:
             scrape_contests(only_recent=(random.random() < 0.95), session=session, conn=conn)
-            scrape_lost_submissions(probability=0.2, session=session, conn=conn)
             scrape_submissions(session=session, conn=conn)
 
 
