@@ -192,7 +192,7 @@ def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.conne
                         "execution_time": "" if row["execution_time"] is None else row["execution_time"],
                     }
                     fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True, ensure_ascii=False) + "\n")
-                fh.write("}")
+                fh.write("]")
             logger.info("write: %s", path)
             shutil.copyfile(temppath, path)  # almost atomic write, over differennt filesystems
         finally:
