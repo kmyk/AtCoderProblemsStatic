@@ -131,7 +131,7 @@ def iterate_aliases_for_user(user_id: str, *, conn: psycopg2.extensions.connecti
 
 
 def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.connection) -> None:
-    path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".tsv")
+    path = EXPORT_DIR / "results" / user_id[:2].lower() / (user_id + ".json")
 
     aliases = list(iterate_aliases_for_user(user_id, conn=conn))
     if not aliases:
@@ -174,22 +174,25 @@ def export_submissions_for_user(user_id: str, *, conn: psycopg2.extensions.conne
             temppath = pathlib.Path(fh.name)
         try:
             with open(temppath, "w") as fh:
-                header = ["id", "epoch_second", "problem_id", "contest_id", "user_id", "language", "point", "length", "result", "execution_time"]
-                fh.write("\t".join(header) + "\n")
                 for i, row in enumerate(rows):
-                    data = [
-                        row["submission_id"],
-                        int(row["submitted_at"].timestamp()),
-                        row["task_id"],
-                        row["contest_id"],
-                        user_id,
-                        row["language_name"],
-                        row["score"],
-                        row["code_size"],
-                        row["status"],
-                        "" if row["execution_time"] is None else row["execution_time"],
-                    ]
-                    fh.write("\t".join(map(str, data)) + "\n")
+                    if i == 0:
+                        fh.write("[")
+                    else:
+                        fh.write(",")
+                    data = {
+                        "id": row["submission_id"],
+                        "epoch_second": int(row["submitted_at"].timestamp()),
+                        "problem_id": row["task_id"],
+                        "contest_id": row["contest_id"],
+                        "user_id": user_id,
+                        "language": row["language_name"],
+                        "point": row["score"],
+                        "length": row["code_size"],
+                        "result": row["status"],
+                        "execution_time": "" if row["execution_time"] is None else row["execution_time"],
+                    }
+                    fh.write(json.dumps(data, separators=(',', ':'), sort_keys=True, ensure_ascii=False) + "\n")
+                fh.write("}")
             logger.info("write: %s", path)
             shutil.copyfile(temppath, path)  # almost atomic write, over differennt filesystems
         finally:
