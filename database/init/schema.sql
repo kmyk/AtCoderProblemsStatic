@@ -44,7 +44,7 @@ CREATE TABLE submissions (
     user_id         VARCHAR(255) REFERENCES users,
     submitted_at    TIMESTAMP WITH TIME ZONE NOT NULL,
     language_name   VARCHAR(255) NOT NULL,
-    score           BIGINT NOT NULL,
+    score           DOUBLE PRECISION NOT NULL,
     code_size       INT NOT NULL,
     status          VARCHAR(255) NOT NULL,
     execution_time  INT NULL,
