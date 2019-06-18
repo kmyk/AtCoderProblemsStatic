@@ -1,62 +1,65 @@
-[{"contest_id":"abc028","epoch_second":1441615535,"execution_time":31,"id":487846,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":219,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc028","epoch_second":1441636922,"execution_time":30,"id":488075,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":315,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc028","epoch_second":1441639365,"execution_time":"","id":488092,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":98,"point":0,"problem_id":"abc028_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc028","epoch_second":1441639479,"execution_time":"","id":488094,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":126,"point":0,"problem_id":"abc028_c","result":"RE","user_id":"morogon"}
-,{"contest_id":"arc043","epoch_second":1441695865,"execution_time":"","id":488391,"language":"C++ (GCC 4.9.2)","length":582,"point":0,"problem_id":"arc043_a","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535290919,"execution_time":"","id":3085930,"language":"Python3 (3.4.3)","length":1047,"point":0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535291250,"execution_time":156,"id":3085962,"language":"Python3 (3.4.3)","length":1049,"point":0,"problem_id":"abc001_4","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535296551,"execution_time":"","id":3086359,"language":"Python3 (3.4.3)","length":1330,"point":0,"problem_id":"abc001_1","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535296576,"execution_time":"","id":3086361,"language":"Python3 (3.4.3)","length":1330,"point":0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535296674,"execution_time":"","id":3086366,"language":"Python3 (3.4.3)","length":1227,"point":0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc001","epoch_second":1535296917,"execution_time":175,"id":3086395,"language":"Python3 (3.4.3)","length":1179,"point":100,"problem_id":"abc001_4","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc002","epoch_second":1535859601,"execution_time":79,"id":3124255,"language":"Python3 (3.4.3)","length":1245,"point":0,"problem_id":"abc002_4","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc002","epoch_second":1535859730,"execution_time":80,"id":3124267,"language":"Python3 (3.4.3)","length":1249,"point":100,"problem_id":"abc002_4","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc123","epoch_second":1554991658,"execution_time":2,"id":4919435,"language":"Rust (1.15.1)","length":1016,"point":200,"problem_id":"abc123_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc123","epoch_second":1555165984,"execution_time":2,"id":4962511,"language":"Rust (1.15.1)","length":410,"point":0,"problem_id":"abc123_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc123","epoch_second":1555166577,"execution_time":2,"id":4962736,"language":"Rust (1.15.1)","length":490,"point":300,"problem_id":"abc123_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc124","epoch_second":1555215965,"execution_time":2,"id":4968321,"language":"Rust (1.15.1)","length":621,"point":200,"problem_id":"abc124_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc124","epoch_second":1555231875,"execution_time":"","id":4971217,"language":"Rust (1.15.1)","length":718,"point":0,"problem_id":"abc124_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc124","epoch_second":1555232024,"execution_time":"","id":4971253,"language":"Rust (1.15.1)","length":746,"point":0,"problem_id":"abc124_c","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc122","epoch_second":1555822412,"execution_time":2,"id":5071779,"language":"Rust (1.15.1)","length":749,"point":200,"problem_id":"abc122_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc122","epoch_second":1555824066,"execution_time":"","id":5072018,"language":"Rust (1.15.1)","length":767,"point":0,"problem_id":"abc122_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc122","epoch_second":1555824452,"execution_time":"","id":5072077,"language":"Rust (1.15.1)","length":795,"point":0,"problem_id":"abc122_c","result":"TLE","user_id":"morogon"}
-,{"contest_id":"abc122","epoch_second":1555824727,"execution_time":"","id":5072138,"language":"Rust (1.15.1)","length":862,"point":0,"problem_id":"abc122_c","result":"TLE","user_id":"morogon"}
-,{"contest_id":"abc122","epoch_second":1555828509,"execution_time":184,"id":5072961,"language":"Rust (1.15.1)","length":927,"point":300,"problem_id":"abc122_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc121","epoch_second":1555838281,"execution_time":2,"id":5075402,"language":"Rust (1.15.1)","length":804,"point":200,"problem_id":"abc121_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc121","epoch_second":1555839959,"execution_time":"","id":5075788,"language":"Rust (1.15.1)","length":915,"point":0,"problem_id":"abc121_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc121","epoch_second":1555840084,"execution_time":21,"id":5075808,"language":"Rust (1.15.1)","length":906,"point":300,"problem_id":"abc121_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555843051,"execution_time":"","id":5076327,"language":"Rust (1.15.1)","length":509,"point":0,"problem_id":"abc120_b","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555843300,"execution_time":"","id":5076372,"language":"Rust (1.15.1)","length":505,"point":0,"problem_id":"abc120_b","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555848872,"execution_time":2,"id":5077502,"language":"Rust (1.15.1)","length":530,"point":200,"problem_id":"abc120_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555849893,"execution_time":2103,"id":5077775,"language":"Rust (1.15.1)","length":797,"point":0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555850847,"execution_time":"","id":5078064,"language":"Rust (1.15.1)","length":863,"point":0,"problem_id":"abc120_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555851208,"execution_time":2,"id":5078171,"language":"Rust (1.15.1)","length":761,"point":0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555924501,"execution_time":"","id":5087659,"language":"Rust (1.15.1)","length":391,"point":0,"problem_id":"abc120_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc120","epoch_second":1555924599,"execution_time":2,"id":5087680,"language":"Rust (1.15.1)","length":404,"point":0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc119","epoch_second":1555926965,"execution_time":2,"id":5088188,"language":"Rust (1.15.1)","length":616,"point":200,"problem_id":"abc119_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc119","epoch_second":1555930195,"execution_time":11,"id":5088869,"language":"Rust (1.15.1)","length":1684,"point":300,"problem_id":"abc119_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc118","epoch_second":1556008627,"execution_time":2,"id":5097639,"language":"Rust (1.15.1)","length":694,"point":200,"problem_id":"abc118_b","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc118","epoch_second":1556010238,"execution_time":10,"id":5097927,"language":"Rust (1.15.1)","length":609,"point":300,"problem_id":"abc118_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc118","epoch_second":1556021992,"execution_time":2,"id":5099848,"language":"Rust (1.15.1)","length":1333,"point":400,"problem_id":"abc118_d","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc117","epoch_second":1556104115,"execution_time":20,"id":5108982,"language":"Rust (1.15.1)","length":995,"point":300,"problem_id":"abc117_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc115","epoch_second":1556370094,"execution_time":16,"id":5155590,"language":"Rust (1.15.1)","length":633,"point":300,"problem_id":"abc115_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc114","epoch_second":1556509137,"execution_time":8,"id":5182173,"language":"Rust (1.15.1)","length":934,"point":300,"problem_id":"abc114_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc113","epoch_second":1556527934,"execution_time":"","id":5185495,"language":"Rust (1.15.1)","length":1671,"point":0,"problem_id":"abc113_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc113","epoch_second":1556528013,"execution_time":232,"id":5185513,"language":"Rust (1.15.1)","length":1680,"point":0,"problem_id":"abc113_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc113","epoch_second":1556528234,"execution_time":237,"id":5185565,"language":"Rust (1.15.1)","length":1678,"point":300,"problem_id":"abc113_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc113","epoch_second":1556604691,"execution_time":2,"id":5199212,"language":"Rust (1.15.1)","length":2185,"point":400,"problem_id":"abc113_d","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc112","epoch_second":1556611154,"execution_time":"","id":5202124,"language":"Rust (1.15.1)","length":997,"point":0,"problem_id":"abc112_c","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc112","epoch_second":1556611185,"execution_time":2,"id":5202138,"language":"Rust (1.15.1)","length":998,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc112","epoch_second":1556611729,"execution_time":3,"id":5202381,"language":"Rust (1.15.1)","length":1172,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc112","epoch_second":1556612056,"execution_time":2,"id":5202515,"language":"Rust (1.15.1)","length":1053,"point":300,"problem_id":"abc112_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc112","epoch_second":1556613428,"execution_time":3,"id":5203063,"language":"Rust (1.15.1)","length":850,"point":400,"problem_id":"abc112_d","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc111","epoch_second":1556714374,"execution_time":"","id":5219757,"language":"Rust (1.15.1)","length":1409,"point":0,"problem_id":"arc103_a","result":"CE","user_id":"morogon"}
-,{"contest_id":"abc110","epoch_second":1556757691,"execution_time":5,"id":5224001,"language":"Rust (1.15.1)","length":758,"point":300,"problem_id":"abc110_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc109","epoch_second":1556898902,"execution_time":16,"id":5247229,"language":"Rust (1.15.1)","length":740,"point":300,"problem_id":"abc109_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc108","epoch_second":1556931182,"execution_time":"","id":5249073,"language":"Rust (1.15.1)","length":1167,"point":0,"problem_id":"arc102_a","result":"TLE","user_id":"morogon"}
-,{"contest_id":"abc106","epoch_second":1557105711,"execution_time":2,"id":5284892,"language":"Rust (1.15.1)","length":566,"point":300,"problem_id":"abc106_c","result":"AC","user_id":"morogon"}
-,{"contest_id":"abc105","epoch_second":1557222931,"execution_time":"","id":5300106,"language":"Rust (1.15.1)","length":712,"point":0,"problem_id":"abc105_c","result":"RE","user_id":"morogon"}
-,{"contest_id":"abc103","epoch_second":1557635306,"execution_time":2,"id":5374432,"language":"Rust (1.15.1)","length":763,"point":0,"problem_id":"abc103_c","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc102","epoch_second":1557739094,"execution_time":20,"id":5388157,"language":"Rust (1.15.1)","length":668,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"morogon"}
-,{"contest_id":"abc102","epoch_second":1557739172,"execution_time":31,"id":5388171,"language":"Rust (1.15.1)","length":685,"point":300,"problem_id":"arc100_a","result":"AC","user_id":"morogon"}
+[{"contest_id":"abc028","epoch_second":1441613536,"execution_time":26,"id":487811,"language":"C++ (GCC 4.9.2)","length":298,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc028","epoch_second":1441615402,"execution_time":30,"id":487845,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":216,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc028","epoch_second":1441615535,"execution_time":31,"id":487846,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":219,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc028","epoch_second":1441636922,"execution_time":30,"id":488075,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":315,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc028","epoch_second":1441639365,"execution_time":"","id":488092,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":98,"point":0.0,"problem_id":"abc028_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc028","epoch_second":1441639479,"execution_time":"","id":488094,"language":"Haskell (Haskell Platform 2014.2.0.0)","length":126,"point":0.0,"problem_id":"abc028_c","result":"RE","user_id":"morogon"}
+,{"contest_id":"arc043","epoch_second":1441695865,"execution_time":"","id":488391,"language":"C++ (GCC 4.9.2)","length":582,"point":0.0,"problem_id":"arc043_a","result":"CE","user_id":"morogon"}
+,{"contest_id":"arc043","epoch_second":1441695894,"execution_time":119,"id":488392,"language":"C++11 (GCC 4.9.2)","length":582,"point":0.0,"problem_id":"arc043_a","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535290919,"execution_time":"","id":3085930,"language":"Python3 (3.4.3)","length":1047,"point":0.0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535291250,"execution_time":156,"id":3085962,"language":"Python3 (3.4.3)","length":1049,"point":0.0,"problem_id":"abc001_4","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535296551,"execution_time":"","id":3086359,"language":"Python3 (3.4.3)","length":1330,"point":0.0,"problem_id":"abc001_1","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535296576,"execution_time":"","id":3086361,"language":"Python3 (3.4.3)","length":1330,"point":0.0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535296674,"execution_time":"","id":3086366,"language":"Python3 (3.4.3)","length":1227,"point":0.0,"problem_id":"abc001_4","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc001","epoch_second":1535296917,"execution_time":175,"id":3086395,"language":"Python3 (3.4.3)","length":1179,"point":100.0,"problem_id":"abc001_4","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc002","epoch_second":1535859601,"execution_time":79,"id":3124255,"language":"Python3 (3.4.3)","length":1245,"point":0.0,"problem_id":"abc002_4","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc002","epoch_second":1535859730,"execution_time":80,"id":3124267,"language":"Python3 (3.4.3)","length":1249,"point":100.0,"problem_id":"abc002_4","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc123","epoch_second":1554991658,"execution_time":2,"id":4919435,"language":"Rust (1.15.1)","length":1016,"point":200.0,"problem_id":"abc123_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc123","epoch_second":1555165984,"execution_time":2,"id":4962511,"language":"Rust (1.15.1)","length":410,"point":0.0,"problem_id":"abc123_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc123","epoch_second":1555166577,"execution_time":2,"id":4962736,"language":"Rust (1.15.1)","length":490,"point":300.0,"problem_id":"abc123_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc124","epoch_second":1555215965,"execution_time":2,"id":4968321,"language":"Rust (1.15.1)","length":621,"point":200.0,"problem_id":"abc124_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc124","epoch_second":1555231875,"execution_time":"","id":4971217,"language":"Rust (1.15.1)","length":718,"point":0.0,"problem_id":"abc124_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc124","epoch_second":1555232024,"execution_time":"","id":4971253,"language":"Rust (1.15.1)","length":746,"point":0.0,"problem_id":"abc124_c","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc122","epoch_second":1555822412,"execution_time":2,"id":5071779,"language":"Rust (1.15.1)","length":749,"point":200.0,"problem_id":"abc122_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc122","epoch_second":1555824066,"execution_time":"","id":5072018,"language":"Rust (1.15.1)","length":767,"point":0.0,"problem_id":"abc122_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc122","epoch_second":1555824452,"execution_time":"","id":5072077,"language":"Rust (1.15.1)","length":795,"point":0.0,"problem_id":"abc122_c","result":"TLE","user_id":"morogon"}
+,{"contest_id":"abc122","epoch_second":1555824727,"execution_time":"","id":5072138,"language":"Rust (1.15.1)","length":862,"point":0.0,"problem_id":"abc122_c","result":"TLE","user_id":"morogon"}
+,{"contest_id":"abc122","epoch_second":1555828509,"execution_time":184,"id":5072961,"language":"Rust (1.15.1)","length":927,"point":300.0,"problem_id":"abc122_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc121","epoch_second":1555838281,"execution_time":2,"id":5075402,"language":"Rust (1.15.1)","length":804,"point":200.0,"problem_id":"abc121_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc121","epoch_second":1555839959,"execution_time":"","id":5075788,"language":"Rust (1.15.1)","length":915,"point":0.0,"problem_id":"abc121_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc121","epoch_second":1555840084,"execution_time":21,"id":5075808,"language":"Rust (1.15.1)","length":906,"point":300.0,"problem_id":"abc121_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555843051,"execution_time":"","id":5076327,"language":"Rust (1.15.1)","length":509,"point":0.0,"problem_id":"abc120_b","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555843300,"execution_time":"","id":5076372,"language":"Rust (1.15.1)","length":505,"point":0.0,"problem_id":"abc120_b","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555848872,"execution_time":2,"id":5077502,"language":"Rust (1.15.1)","length":530,"point":200.0,"problem_id":"abc120_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555849893,"execution_time":2103,"id":5077775,"language":"Rust (1.15.1)","length":797,"point":0.0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555850847,"execution_time":"","id":5078064,"language":"Rust (1.15.1)","length":863,"point":0.0,"problem_id":"abc120_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555851208,"execution_time":2,"id":5078171,"language":"Rust (1.15.1)","length":761,"point":0.0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555924501,"execution_time":"","id":5087659,"language":"Rust (1.15.1)","length":391,"point":0.0,"problem_id":"abc120_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc120","epoch_second":1555924599,"execution_time":2,"id":5087680,"language":"Rust (1.15.1)","length":404,"point":0.0,"problem_id":"abc120_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc119","epoch_second":1555926965,"execution_time":2,"id":5088188,"language":"Rust (1.15.1)","length":616,"point":200.0,"problem_id":"abc119_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc119","epoch_second":1555930195,"execution_time":11,"id":5088869,"language":"Rust (1.15.1)","length":1684,"point":300.0,"problem_id":"abc119_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc118","epoch_second":1556008627,"execution_time":2,"id":5097639,"language":"Rust (1.15.1)","length":694,"point":200.0,"problem_id":"abc118_b","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc118","epoch_second":1556010238,"execution_time":10,"id":5097927,"language":"Rust (1.15.1)","length":609,"point":300.0,"problem_id":"abc118_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc118","epoch_second":1556021992,"execution_time":2,"id":5099848,"language":"Rust (1.15.1)","length":1333,"point":400.0,"problem_id":"abc118_d","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc117","epoch_second":1556104115,"execution_time":20,"id":5108982,"language":"Rust (1.15.1)","length":995,"point":300.0,"problem_id":"abc117_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc115","epoch_second":1556370094,"execution_time":16,"id":5155590,"language":"Rust (1.15.1)","length":633,"point":300.0,"problem_id":"abc115_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc114","epoch_second":1556509137,"execution_time":8,"id":5182173,"language":"Rust (1.15.1)","length":934,"point":300.0,"problem_id":"abc114_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc113","epoch_second":1556527934,"execution_time":"","id":5185495,"language":"Rust (1.15.1)","length":1671,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc113","epoch_second":1556528013,"execution_time":232,"id":5185513,"language":"Rust (1.15.1)","length":1680,"point":0.0,"problem_id":"abc113_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc113","epoch_second":1556528234,"execution_time":237,"id":5185565,"language":"Rust (1.15.1)","length":1678,"point":300.0,"problem_id":"abc113_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc113","epoch_second":1556604691,"execution_time":2,"id":5199212,"language":"Rust (1.15.1)","length":2185,"point":400.0,"problem_id":"abc113_d","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc112","epoch_second":1556611154,"execution_time":"","id":5202124,"language":"Rust (1.15.1)","length":997,"point":0.0,"problem_id":"abc112_c","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc112","epoch_second":1556611185,"execution_time":2,"id":5202138,"language":"Rust (1.15.1)","length":998,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc112","epoch_second":1556611729,"execution_time":3,"id":5202381,"language":"Rust (1.15.1)","length":1172,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc112","epoch_second":1556612056,"execution_time":2,"id":5202515,"language":"Rust (1.15.1)","length":1053,"point":300.0,"problem_id":"abc112_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc112","epoch_second":1556613428,"execution_time":3,"id":5203063,"language":"Rust (1.15.1)","length":850,"point":400.0,"problem_id":"abc112_d","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc111","epoch_second":1556714374,"execution_time":"","id":5219757,"language":"Rust (1.15.1)","length":1409,"point":0.0,"problem_id":"arc103_a","result":"CE","user_id":"morogon"}
+,{"contest_id":"abc110","epoch_second":1556757691,"execution_time":5,"id":5224001,"language":"Rust (1.15.1)","length":758,"point":300.0,"problem_id":"abc110_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc109","epoch_second":1556898902,"execution_time":16,"id":5247229,"language":"Rust (1.15.1)","length":740,"point":300.0,"problem_id":"abc109_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc108","epoch_second":1556931182,"execution_time":"","id":5249073,"language":"Rust (1.15.1)","length":1167,"point":0.0,"problem_id":"arc102_a","result":"TLE","user_id":"morogon"}
+,{"contest_id":"abc106","epoch_second":1557105711,"execution_time":2,"id":5284892,"language":"Rust (1.15.1)","length":566,"point":300.0,"problem_id":"abc106_c","result":"AC","user_id":"morogon"}
+,{"contest_id":"abc105","epoch_second":1557222931,"execution_time":"","id":5300106,"language":"Rust (1.15.1)","length":712,"point":0.0,"problem_id":"abc105_c","result":"RE","user_id":"morogon"}
+,{"contest_id":"abc103","epoch_second":1557635306,"execution_time":2,"id":5374432,"language":"Rust (1.15.1)","length":763,"point":0.0,"problem_id":"abc103_c","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc102","epoch_second":1557739094,"execution_time":20,"id":5388157,"language":"Rust (1.15.1)","length":668,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"morogon"}
+,{"contest_id":"abc102","epoch_second":1557739172,"execution_time":31,"id":5388171,"language":"Rust (1.15.1)","length":685,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"morogon"}
 ]

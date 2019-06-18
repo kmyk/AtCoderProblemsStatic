@@ -1,441 +1,464 @@
-[{"contest_id":"arc045","epoch_second":1444478870,"execution_time":36,"id":523434,"language":"C++ (GCC 4.9.2)","length":297,"point":0,"problem_id":"arc045_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc045","epoch_second":1444479233,"execution_time":26,"id":523557,"language":"C++ (GCC 4.9.2)","length":325,"point":100,"problem_id":"arc045_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc045","epoch_second":1444481901,"execution_time":"","id":524144,"language":"C++ (GCC 4.9.2)","length":1048,"point":30,"problem_id":"arc045_b","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445688279,"execution_time":26,"id":535708,"language":"C++ (GCC 4.9.2)","length":197,"point":0,"problem_id":"abc030_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445688425,"execution_time":27,"id":535809,"language":"C++ (GCC 4.9.2)","length":197,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445689178,"execution_time":27,"id":536249,"language":"C++ (GCC 4.9.2)","length":251,"point":0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445689417,"execution_time":26,"id":536374,"language":"C++ (GCC 4.9.2)","length":250,"point":0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445692146,"execution_time":156,"id":537414,"language":"C++ (GCC 4.9.2)","length":894,"point":100,"problem_id":"abc030_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445695176,"execution_time":"","id":538214,"language":"C++ (GCC 4.9.2)","length":740,"point":0,"problem_id":"abc030_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1445695377,"execution_time":"","id":538256,"language":"C++ (GCC 4.9.2)","length":743,"point":0,"problem_id":"abc030_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445774585,"execution_time":28,"id":542574,"language":"C++ (GCC 4.9.2)","length":144,"point":100,"problem_id":"codefestival_2015_qualB_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445776284,"execution_time":"","id":544996,"language":"C++ (GCC 4.9.2)","length":537,"point":0,"problem_id":"codefestival_2015_qualB_b","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445776304,"execution_time":81,"id":545017,"language":"C++11 (GCC 4.9.2)","length":537,"point":100,"problem_id":"codefestival_2015_qualB_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445777393,"execution_time":125,"id":546227,"language":"C++11 (GCC 4.9.2)","length":486,"point":100,"problem_id":"codefestival_2015_qualB_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445779862,"execution_time":"","id":548004,"language":"C++11 (GCC 4.9.2)","length":496,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780030,"execution_time":"","id":548100,"language":"C++ (GCC 4.9.2)","length":496,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780158,"execution_time":290,"id":548170,"language":"C++ (GCC 4.9.2)","length":490,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"WA","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780194,"execution_time":"","id":548186,"language":"C++ (GCC 4.9.2)","length":493,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780229,"execution_time":"","id":548203,"language":"C++ (GCC 4.9.2)","length":492,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
-,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780299,"execution_time":2068,"id":548237,"language":"C++ (GCC 4.9.2)","length":491,"point":0,"problem_id":"codefestival_2015_qualB_d","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1448107957,"execution_time":27,"id":575340,"language":"C++ (GCC 4.9.2)","length":349,"point":100,"problem_id":"abc031_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1448109896,"execution_time":43,"id":575848,"language":"C++ (GCC 4.9.2)","length":963,"point":0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1448112225,"execution_time":28,"id":576219,"language":"C++ (GCC 4.9.2)","length":1103,"point":0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1448112611,"execution_time":26,"id":576271,"language":"C++ (GCC 4.9.2)","length":1107,"point":0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450009510,"execution_time":213,"id":592500,"language":"C++11 (GCC 4.9.2)","length":474,"point":100,"problem_id":"arc046_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450010326,"execution_time":26,"id":592746,"language":"C++11 (GCC 4.9.2)","length":220,"point":0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450010569,"execution_time":38,"id":592809,"language":"C++11 (GCC 4.9.2)","length":338,"point":0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450011012,"execution_time":28,"id":592927,"language":"C++11 (GCC 4.9.2)","length":363,"point":40,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450011206,"execution_time":27,"id":592971,"language":"C++11 (GCC 4.9.2)","length":497,"point":40,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450011699,"execution_time":28,"id":593085,"language":"C++11 (GCC 4.9.2)","length":523,"point":100,"problem_id":"arc046_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450011736,"execution_time":34,"id":593096,"language":"C++11 (GCC 4.9.2)","length":443,"point":100,"problem_id":"arc046_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450012790,"execution_time":528,"id":593313,"language":"C++11 (GCC 4.9.2)","length":702,"point":0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450013116,"execution_time":532,"id":593378,"language":"C++11 (GCC 4.9.2)","length":708,"point":0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450015139,"execution_time":565,"id":593615,"language":"C++11 (GCC 4.9.2)","length":710,"point":0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450015583,"execution_time":976,"id":593638,"language":"C++11 (GCC 4.9.2)","length":791,"point":0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc046","epoch_second":1450015709,"execution_time":533,"id":593646,"language":"C++11 (GCC 4.9.2)","length":720,"point":0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454330986,"execution_time":28,"id":626710,"language":"C++11 (GCC 4.9.2)","length":1578,"point":100,"problem_id":"abc032_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454331945,"execution_time":28,"id":626719,"language":"C++11 (GCC 4.9.2)","length":1723,"point":0,"problem_id":"abc032_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454332097,"execution_time":280,"id":626722,"language":"C++11 (GCC 4.9.2)","length":1725,"point":0,"problem_id":"abc032_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454332357,"execution_time":28,"id":626726,"language":"C++11 (GCC 4.9.2)","length":1725,"point":100,"problem_id":"abc032_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454335540,"execution_time":118,"id":626745,"language":"C++11 (GCC 4.9.2)","length":2244,"point":0,"problem_id":"abc032_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1454350820,"execution_time":490,"id":626849,"language":"C++11 (GCC 4.9.2)","length":1915,"point":100,"problem_id":"abc032_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1454410751,"execution_time":28,"id":627073,"language":"C++11 (GCC 4.9.2)","length":1498,"point":100,"problem_id":"abc031_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1454411044,"execution_time":27,"id":627077,"language":"C++11 (GCC 4.9.2)","length":1636,"point":100,"problem_id":"abc031_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1454413054,"execution_time":31,"id":627090,"language":"C++11 (GCC 4.9.2)","length":2462,"point":0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1454413135,"execution_time":32,"id":627091,"language":"C++11 (GCC 4.9.2)","length":2458,"point":100,"problem_id":"abc031_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1454597382,"execution_time":31,"id":627926,"language":"C++11 (GCC 4.9.2)","length":1545,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1454597863,"execution_time":42,"id":627933,"language":"C++11 (GCC 4.9.2)","length":1572,"point":0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1454599349,"execution_time":28,"id":627948,"language":"C++11 (GCC 4.9.2)","length":1613,"point":100,"problem_id":"abc030_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1454602398,"execution_time":156,"id":627971,"language":"C++11 (GCC 4.9.2)","length":1931,"point":100,"problem_id":"abc030_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc049","epoch_second":1458389369,"execution_time":4,"id":665745,"language":"C++14 (GCC 5.4.1)","length":873,"point":100,"problem_id":"arc049_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc049","epoch_second":1458390920,"execution_time":36,"id":666109,"language":"C++14 (GCC 5.4.1)","length":1170,"point":30,"problem_id":"arc049_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc049","epoch_second":1458393094,"execution_time":42,"id":666463,"language":"C++14 (GCC 5.4.1)","length":1170,"point":100,"problem_id":"arc049_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"code-festival-2016-qualc","epoch_second":1477225586,"execution_time":3,"id":944145,"language":"C++14 (GCC 5.4.1)","length":1420,"point":200,"problem_id":"codefestival_2016_qualC_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480853212,"execution_time":"","id":1008182,"language":"C++14 (GCC 5.4.1)","length":1069,"point":0,"problem_id":"arc064_a","result":"TLE","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480855949,"execution_time":45,"id":1010065,"language":"C++14 (GCC 5.4.1)","length":1346,"point":0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480856999,"execution_time":45,"id":1010658,"language":"C++14 (GCC 5.4.1)","length":1349,"point":0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480857521,"execution_time":2102,"id":1010934,"language":"C++14 (GCC 5.4.1)","length":1149,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480857838,"execution_time":2102,"id":1011089,"language":"C++14 (GCC 5.4.1)","length":1171,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480858377,"execution_time":417,"id":1011318,"language":"C++14 (GCC 5.4.1)","length":1143,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480858518,"execution_time":6,"id":1011397,"language":"C++14 (GCC 5.4.1)","length":1147,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480858778,"execution_time":2102,"id":1011554,"language":"C++14 (GCC 5.4.1)","length":1546,"point":0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480858816,"execution_time":47,"id":1011574,"language":"C++14 (GCC 5.4.1)","length":1363,"point":300,"problem_id":"arc064_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480859335,"execution_time":2102,"id":1011692,"language":"C++14 (GCC 5.4.1)","length":1219,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc064","epoch_second":1480859415,"execution_time":6,"id":1011707,"language":"C++14 (GCC 5.4.1)","length":1234,"point":0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481372552,"execution_time":6,"id":1018666,"language":"C++14 (GCC 5.4.1)","length":2023,"point":0,"problem_id":"arc065_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481372903,"execution_time":6,"id":1018858,"language":"C++14 (GCC 5.4.1)","length":2084,"point":0,"problem_id":"arc065_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481373028,"execution_time":6,"id":1018921,"language":"C++14 (GCC 5.4.1)","length":2129,"point":300,"problem_id":"arc065_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481377337,"execution_time":2104,"id":1020586,"language":"C++14 (GCC 5.4.1)","length":3781,"point":0,"problem_id":"arc065_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481377811,"execution_time":"","id":1020666,"language":"C++14 (GCC 5.4.1)","length":3383,"point":0,"problem_id":"arc065_b","result":"CE","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481377844,"execution_time":2210,"id":1020674,"language":"C++14 (GCC 5.4.1)","length":3383,"point":0,"problem_id":"arc065_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc065","epoch_second":1481378050,"execution_time":"","id":1020699,"language":"C++14 (GCC 5.4.1)","length":3395,"point":0,"problem_id":"arc065_b","result":"TLE","user_id":"choruru"}
-,{"contest_id":"arc066","epoch_second":1482064504,"execution_time":31,"id":1031994,"language":"C++14 (GCC 5.4.1)","length":1765,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc066","epoch_second":1482064702,"execution_time":31,"id":1032041,"language":"C++14 (GCC 5.4.1)","length":1871,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc066","epoch_second":1482066012,"execution_time":31,"id":1032335,"language":"C++14 (GCC 5.4.1)","length":1409,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc066","epoch_second":1482066942,"execution_time":31,"id":1032517,"language":"C++14 (GCC 5.4.1)","length":1531,"point":300,"problem_id":"arc066_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482667528,"execution_time":3,"id":1041154,"language":"C++14 (GCC 5.4.1)","length":899,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482667962,"execution_time":3,"id":1041425,"language":"C++14 (GCC 5.4.1)","length":1172,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482668352,"execution_time":8,"id":1041697,"language":"C++14 (GCC 5.4.1)","length":1212,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482668542,"execution_time":3,"id":1041825,"language":"C++14 (GCC 5.4.1)","length":1212,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482668706,"execution_time":3,"id":1041941,"language":"C++14 (GCC 5.4.1)","length":1217,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482669084,"execution_time":3,"id":1042197,"language":"C++14 (GCC 5.4.1)","length":974,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482669477,"execution_time":3,"id":1042451,"language":"C++14 (GCC 5.4.1)","length":1393,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482669839,"execution_time":3,"id":1042653,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482669902,"execution_time":3,"id":1042688,"language":"C++14 (GCC 5.4.1)","length":1006,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482669938,"execution_time":3,"id":1042707,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482670613,"execution_time":4,"id":1043054,"language":"C++14 (GCC 5.4.1)","length":1414,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482670938,"execution_time":975,"id":1043204,"language":"C++14 (GCC 5.4.1)","length":1068,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482671081,"execution_time":974,"id":1043258,"language":"C++14 (GCC 5.4.1)","length":1094,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482672555,"execution_time":3,"id":1043855,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482672795,"execution_time":3,"id":1043940,"language":"C++14 (GCC 5.4.1)","length":1100,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482672938,"execution_time":3,"id":1043976,"language":"C++14 (GCC 5.4.1)","length":1112,"point":0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482673543,"execution_time":2,"id":1044237,"language":"C++14 (GCC 5.4.1)","length":1340,"point":0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482673631,"execution_time":3,"id":1044284,"language":"C++14 (GCC 5.4.1)","length":1362,"point":300,"problem_id":"agc008_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"agc008","epoch_second":1482674484,"execution_time":3,"id":1044531,"language":"C++14 (GCC 5.4.1)","length":1167,"point":600,"problem_id":"agc008_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc051","epoch_second":1483967910,"execution_time":23,"id":1059752,"language":"Python3 (3.4.3)","length":360,"point":300,"problem_id":"abc051_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc051","epoch_second":1483967939,"execution_time":"","id":1059753,"language":"Python3 (3.4.3)","length":302,"point":0,"problem_id":"abc051_b","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc051","epoch_second":1483968441,"execution_time":"","id":1059767,"language":"Python3 (3.4.3)","length":311,"point":0,"problem_id":"abc051_b","result":"TLE","user_id":"choruru"}
-,{"contest_id":"agc009","epoch_second":1485088079,"execution_time":2102,"id":1074416,"language":"C++14 (GCC 5.4.1)","length":1085,"point":0,"problem_id":"agc009_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"agc009","epoch_second":1485088457,"execution_time":91,"id":1074596,"language":"C++14 (GCC 5.4.1)","length":1106,"point":300,"problem_id":"agc009_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485605763,"execution_time":3,"id":1081815,"language":"C++14 (GCC 5.4.1)","length":913,"point":0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485607728,"execution_time":"","id":1083106,"language":"C++14 (GCC 5.4.1)","length":1903,"point":0,"problem_id":"arc068_b","result":"RE","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485607898,"execution_time":"","id":1083206,"language":"C++14 (GCC 5.4.1)","length":910,"point":0,"problem_id":"arc068_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485608055,"execution_time":"","id":1083275,"language":"C++14 (GCC 5.4.1)","length":1951,"point":0,"problem_id":"arc068_b","result":"CE","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485608288,"execution_time":32,"id":1083388,"language":"C++14 (GCC 5.4.1)","length":2006,"point":400,"problem_id":"arc068_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485608448,"execution_time":24,"id":1083449,"language":"Python3 (3.4.3)","length":115,"point":0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485608567,"execution_time":2,"id":1083503,"language":"C++14 (GCC 5.4.1)","length":945,"point":0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485609047,"execution_time":3,"id":1083717,"language":"C++14 (GCC 5.4.1)","length":951,"point":0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485609486,"execution_time":3,"id":1083882,"language":"C++14 (GCC 5.4.1)","length":956,"point":300,"problem_id":"arc068_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc068","epoch_second":1485610726,"execution_time":"","id":1084338,"language":"C++14 (GCC 5.4.1)","length":1114,"point":0,"problem_id":"arc068_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"agc013","epoch_second":1492259590,"execution_time":"","id":1222181,"language":"Java8 (OpenJDK 1.8.0)","length":1269,"point":0,"problem_id":"agc013_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"agc013","epoch_second":1492259632,"execution_time":474,"id":1222199,"language":"Java8 (OpenJDK 1.8.0)","length":1272,"point":300,"problem_id":"agc013_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493548781,"execution_time":615,"id":1255530,"language":"Java8 (OpenJDK 1.8.0)","length":883,"point":300,"problem_id":"arc073_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493553317,"execution_time":740,"id":1255634,"language":"Java8 (OpenJDK 1.8.0)","length":2354,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493553687,"execution_time":1879,"id":1255643,"language":"Java8 (OpenJDK 1.8.0)","length":2987,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493553904,"execution_time":1900,"id":1255650,"language":"Java8 (OpenJDK 1.8.0)","length":2986,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493554682,"execution_time":1002,"id":1255672,"language":"Java8 (OpenJDK 1.8.0)","length":3842,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493554980,"execution_time":580,"id":1255680,"language":"Java8 (OpenJDK 1.8.0)","length":3836,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493555064,"execution_time":583,"id":1255682,"language":"Java8 (OpenJDK 1.8.0)","length":3828,"point":0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493555283,"execution_time":"","id":1255688,"language":"Java8 (OpenJDK 1.8.0)","length":3879,"point":0,"problem_id":"arc073_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"arc073","epoch_second":1493555376,"execution_time":962,"id":1255693,"language":"Java8 (OpenJDK 1.8.0)","length":3879,"point":400,"problem_id":"arc073_b","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1539869219,"execution_time":"","id":3428618,"language":"Kotlin (1.0.0)","length":455,"point":0,"problem_id":"abc001_1","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1539869792,"execution_time":214,"id":3428700,"language":"Kotlin (1.0.0)","length":506,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1539870672,"execution_time":"","id":3428811,"language":"Kotlin (1.0.0)","length":578,"point":0,"problem_id":"abc002_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1539870893,"execution_time":"","id":3428847,"language":"Kotlin (1.0.0)","length":586,"point":0,"problem_id":"abc002_1","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1539870945,"execution_time":244,"id":3428854,"language":"Kotlin (1.0.0)","length":586,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1539871399,"execution_time":"","id":3428925,"language":"Kotlin (1.0.0)","length":591,"point":0,"problem_id":"abc003_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1539871472,"execution_time":"","id":3428941,"language":"Kotlin (1.0.0)","length":628,"point":0,"problem_id":"abc003_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1539871962,"execution_time":214,"id":3429001,"language":"Kotlin (1.0.0)","length":576,"point":0,"problem_id":"abc003_1","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1539954801,"execution_time":217,"id":3433765,"language":"Kotlin (1.0.0)","length":587,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc004","epoch_second":1539954917,"execution_time":217,"id":3433770,"language":"Kotlin (1.0.0)","length":528,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1539955119,"execution_time":240,"id":3433784,"language":"Kotlin (1.0.0)","length":565,"point":0,"problem_id":"abc005_1","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc006","epoch_second":1539955241,"execution_time":210,"id":3433795,"language":"Kotlin (1.0.0)","length":554,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1539955321,"execution_time":"","id":3433805,"language":"Kotlin (1.0.0)","length":555,"point":0,"problem_id":"abc007_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1539955355,"execution_time":208,"id":3433811,"language":"Kotlin (1.0.0)","length":528,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1539955552,"execution_time":"","id":3433825,"language":"Kotlin (1.0.0)","length":565,"point":0,"problem_id":"abc005_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1539955569,"execution_time":235,"id":3433827,"language":"Kotlin (1.0.0)","length":565,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc008","epoch_second":1539955693,"execution_time":235,"id":3433840,"language":"Kotlin (1.0.0)","length":561,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc009","epoch_second":1539955915,"execution_time":215,"id":3433859,"language":"Kotlin (1.0.0)","length":534,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc010","epoch_second":1539956120,"execution_time":209,"id":3433871,"language":"Kotlin (1.0.0)","length":525,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc011","epoch_second":1539966010,"execution_time":222,"id":3434627,"language":"Kotlin (1.0.0)","length":535,"point":0,"problem_id":"abc011_1","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc012","epoch_second":1539966200,"execution_time":"","id":3434639,"language":"Kotlin (1.0.0)","length":547,"point":0,"problem_id":"abc012_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc012","epoch_second":1539966260,"execution_time":236,"id":3434644,"language":"Kotlin (1.0.0)","length":548,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc013","epoch_second":1539967046,"execution_time":207,"id":3434682,"language":"Kotlin (1.0.0)","length":701,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc014","epoch_second":1539967576,"execution_time":214,"id":3434712,"language":"Kotlin (1.0.0)","length":667,"point":0,"problem_id":"abc014_1","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc014","epoch_second":1539967646,"execution_time":212,"id":3434716,"language":"Kotlin (1.0.0)","length":670,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc015","epoch_second":1539967790,"execution_time":"","id":3434722,"language":"Kotlin (1.0.0)","length":587,"point":0,"problem_id":"abc015_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc016","epoch_second":1539967909,"execution_time":"","id":3434730,"language":"Kotlin (1.0.0)","length":586,"point":0,"problem_id":"abc016_1","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc016","epoch_second":1539968391,"execution_time":245,"id":3434746,"language":"Kotlin (1.0.0)","length":587,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc019","epoch_second":1539969414,"execution_time":239,"id":3434781,"language":"Kotlin (1.0.0)","length":727,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc018","epoch_second":1539969612,"execution_time":"","id":3434797,"language":"Kotlin (1.0.0)","length":609,"point":0,"problem_id":"abc018_1","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc018","epoch_second":1539969734,"execution_time":232,"id":3434799,"language":"Kotlin (1.0.0)","length":607,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc015","epoch_second":1539969860,"execution_time":219,"id":3434802,"language":"Kotlin (1.0.0)","length":590,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc011","epoch_second":1539970021,"execution_time":211,"id":3434805,"language":"Kotlin (1.0.0)","length":642,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc021","epoch_second":1540017630,"execution_time":225,"id":3438318,"language":"Kotlin (1.0.0)","length":563,"point":0,"problem_id":"abc021_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc021","epoch_second":1540017668,"execution_time":224,"id":3438329,"language":"Kotlin (1.0.0)","length":580,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc022","epoch_second":1540019750,"execution_time":"","id":3438922,"language":"Kotlin (1.0.0)","length":657,"point":0,"problem_id":"abc022_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc022","epoch_second":1540019758,"execution_time":304,"id":3438927,"language":"Kotlin (1.0.0)","length":658,"point":0,"problem_id":"abc022_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc022","epoch_second":1540019916,"execution_time":252,"id":3438968,"language":"Kotlin (1.0.0)","length":728,"point":100,"problem_id":"abc022_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc023","epoch_second":1540031651,"execution_time":214,"id":3440458,"language":"Kotlin (1.0.0)","length":629,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc024","epoch_second":1540032124,"execution_time":238,"id":3440503,"language":"Kotlin (1.0.0)","length":798,"point":0,"problem_id":"abc024_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc024","epoch_second":1540032197,"execution_time":239,"id":3440511,"language":"Kotlin (1.0.0)","length":803,"point":0,"problem_id":"abc024_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc024","epoch_second":1540032297,"execution_time":236,"id":3440527,"language":"Kotlin (1.0.0)","length":803,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc025","epoch_second":1540032781,"execution_time":"","id":3440587,"language":"Kotlin (1.0.0)","length":663,"point":0,"problem_id":"abc025_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc025","epoch_second":1540032803,"execution_time":212,"id":3440591,"language":"Kotlin (1.0.0)","length":664,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc026","epoch_second":1540033174,"execution_time":"","id":3440633,"language":"Kotlin (1.0.0)","length":590,"point":0,"problem_id":"abc026_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc027","epoch_second":1540033530,"execution_time":"","id":3440667,"language":"Kotlin (1.0.0)","length":671,"point":0,"problem_id":"abc027_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc026","epoch_second":1540033551,"execution_time":211,"id":3440673,"language":"Kotlin (1.0.0)","length":590,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc027","epoch_second":1540033573,"execution_time":236,"id":3440677,"language":"Kotlin (1.0.0)","length":671,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc028","epoch_second":1540033971,"execution_time":212,"id":3440741,"language":"Kotlin (1.0.0)","length":708,"point":0,"problem_id":"abc028_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc028","epoch_second":1540034062,"execution_time":214,"id":3440751,"language":"Kotlin (1.0.0)","length":708,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc029","epoch_second":1540034151,"execution_time":211,"id":3440766,"language":"Kotlin (1.0.0)","length":518,"point":100,"problem_id":"abc029_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc030","epoch_second":1540034368,"execution_time":236,"id":3440806,"language":"Kotlin (1.0.0)","length":756,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc031","epoch_second":1540034624,"execution_time":238,"id":3440834,"language":"Kotlin (1.0.0)","length":716,"point":100,"problem_id":"abc031_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1540035354,"execution_time":"","id":3440931,"language":"Kotlin (1.0.0)","length":790,"point":0,"problem_id":"abc032_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1540035423,"execution_time":"","id":3440940,"language":"Kotlin (1.0.0)","length":790,"point":0,"problem_id":"abc032_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1540035644,"execution_time":209,"id":3440965,"language":"Kotlin (1.0.0)","length":776,"point":0,"problem_id":"abc032_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1540035745,"execution_time":212,"id":3440977,"language":"Kotlin (1.0.0)","length":781,"point":0,"problem_id":"abc032_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc032","epoch_second":1540036139,"execution_time":211,"id":3441004,"language":"Kotlin (1.0.0)","length":841,"point":100,"problem_id":"abc032_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc035","epoch_second":1540036967,"execution_time":235,"id":3441104,"language":"Kotlin (1.0.0)","length":766,"point":100,"problem_id":"abc035_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc036","epoch_second":1540039053,"execution_time":234,"id":3441341,"language":"Kotlin (1.0.0)","length":648,"point":100,"problem_id":"abc036_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc037","epoch_second":1540041035,"execution_time":239,"id":3441631,"language":"Kotlin (1.0.0)","length":614,"point":100,"problem_id":"abc037_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc038","epoch_second":1540041195,"execution_time":214,"id":3441657,"language":"Kotlin (1.0.0)","length":554,"point":100,"problem_id":"abc038_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc039","epoch_second":1540041333,"execution_time":236,"id":3441682,"language":"Kotlin (1.0.0)","length":580,"point":0,"problem_id":"abc039_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc039","epoch_second":1540042105,"execution_time":235,"id":3441765,"language":"Kotlin (1.0.0)","length":611,"point":100,"problem_id":"abc039_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc040","epoch_second":1540042385,"execution_time":"","id":3441805,"language":"Kotlin (1.0.0)","length":557,"point":0,"problem_id":"abc040_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc040","epoch_second":1540042682,"execution_time":"","id":3441844,"language":"Kotlin (1.0.0)","length":555,"point":0,"problem_id":"abc040_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc040","epoch_second":1540043287,"execution_time":234,"id":3441925,"language":"Kotlin (1.0.0)","length":575,"point":100,"problem_id":"abc040_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc041","epoch_second":1540113183,"execution_time":207,"id":3445828,"language":"Kotlin (1.0.0)","length":556,"point":100,"problem_id":"abc041_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc042","epoch_second":1540113511,"execution_time":238,"id":3445861,"language":"Kotlin (1.0.0)","length":628,"point":100,"problem_id":"abc042_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc043","epoch_second":1540113661,"execution_time":210,"id":3445881,"language":"Kotlin (1.0.0)","length":527,"point":100,"problem_id":"abc043_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc044","epoch_second":1540115950,"execution_time":208,"id":3446093,"language":"Kotlin (1.0.0)","length":606,"point":100,"problem_id":"abc044_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc045","epoch_second":1540116049,"execution_time":216,"id":3446101,"language":"Kotlin (1.0.0)","length":562,"point":0,"problem_id":"abc045_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc045","epoch_second":1540116872,"execution_time":210,"id":3446167,"language":"Kotlin (1.0.0)","length":577,"point":0,"problem_id":"abc045_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc045","epoch_second":1540117772,"execution_time":209,"id":3446231,"language":"Kotlin (1.0.0)","length":566,"point":100,"problem_id":"abc045_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc046","epoch_second":1540117919,"execution_time":"","id":3446246,"language":"Kotlin (1.0.0)","length":551,"point":0,"problem_id":"abc046_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc046","epoch_second":1540117954,"execution_time":216,"id":3446252,"language":"Kotlin (1.0.0)","length":554,"point":0,"problem_id":"abc046_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc046","epoch_second":1540118923,"execution_time":"","id":3446337,"language":"Kotlin (1.0.0)","length":564,"point":0,"problem_id":"abc046_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc046","epoch_second":1540118970,"execution_time":237,"id":3446345,"language":"Kotlin (1.0.0)","length":565,"point":100,"problem_id":"abc046_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc047","epoch_second":1540119124,"execution_time":237,"id":3446372,"language":"Kotlin (1.0.0)","length":624,"point":100,"problem_id":"abc047_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc049","epoch_second":1540119314,"execution_time":211,"id":3446386,"language":"Kotlin (1.0.0)","length":594,"point":0,"problem_id":"abc049_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc049","epoch_second":1540120162,"execution_time":208,"id":3446474,"language":"Kotlin (1.0.0)","length":606,"point":100,"problem_id":"abc049_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc048","epoch_second":1540124193,"execution_time":213,"id":3446942,"language":"Kotlin (1.0.0)","length":548,"point":0,"problem_id":"abc048_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc048","epoch_second":1540124408,"execution_time":233,"id":3446978,"language":"Kotlin (1.0.0)","length":540,"point":100,"problem_id":"abc048_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc050","epoch_second":1540124807,"execution_time":239,"id":3447029,"language":"Kotlin (1.0.0)","length":712,"point":100,"problem_id":"abc050_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc051","epoch_second":1540214591,"execution_time":238,"id":3452609,"language":"Kotlin (1.0.0)","length":509,"point":100,"problem_id":"abc051_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc052","epoch_second":1540214961,"execution_time":"","id":3452660,"language":"Kotlin (1.0.0)","length":599,"point":0,"problem_id":"abc052_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc053","epoch_second":1540215173,"execution_time":216,"id":3452693,"language":"Kotlin (1.0.0)","length":530,"point":100,"problem_id":"abc053_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc052","epoch_second":1540215265,"execution_time":234,"id":3452707,"language":"Kotlin (1.0.0)","length":595,"point":100,"problem_id":"abc052_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc054","epoch_second":1540218732,"execution_time":237,"id":3453095,"language":"Kotlin (1.0.0)","length":656,"point":0,"problem_id":"abc054_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc055","epoch_second":1540218837,"execution_time":208,"id":3453107,"language":"Kotlin (1.0.0)","length":537,"point":0,"problem_id":"abc055_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc055","epoch_second":1540218941,"execution_time":210,"id":3453120,"language":"Kotlin (1.0.0)","length":537,"point":100,"problem_id":"abc055_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc054","epoch_second":1540219690,"execution_time":252,"id":3453185,"language":"Kotlin (1.0.0)","length":780,"point":100,"problem_id":"abc054_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc056","epoch_second":1540221548,"execution_time":235,"id":3453344,"language":"Kotlin (1.0.0)","length":636,"point":100,"problem_id":"abc056_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc057","epoch_second":1540221628,"execution_time":236,"id":3453353,"language":"Kotlin (1.0.0)","length":564,"point":0,"problem_id":"abc057_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc057","epoch_second":1540221853,"execution_time":234,"id":3453366,"language":"Kotlin (1.0.0)","length":566,"point":100,"problem_id":"abc057_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc058","epoch_second":1540222291,"execution_time":"","id":3453392,"language":"Kotlin (1.0.0)","length":648,"point":0,"problem_id":"abc058_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc058","epoch_second":1540222314,"execution_time":"","id":3453396,"language":"Kotlin (1.0.0)","length":648,"point":0,"problem_id":"abc058_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc058","epoch_second":1540222515,"execution_time":237,"id":3453410,"language":"Kotlin (1.0.0)","length":672,"point":100,"problem_id":"abc058_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc059","epoch_second":1540222737,"execution_time":236,"id":3453429,"language":"Kotlin (1.0.0)","length":583,"point":100,"problem_id":"abc059_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc060","epoch_second":1540223071,"execution_time":240,"id":3453449,"language":"Kotlin (1.0.0)","length":657,"point":0,"problem_id":"abc060_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc060","epoch_second":1540223140,"execution_time":235,"id":3453453,"language":"Kotlin (1.0.0)","length":657,"point":100,"problem_id":"abc060_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc061","epoch_second":1540297371,"execution_time":241,"id":3457230,"language":"Kotlin (1.0.0)","length":589,"point":0,"problem_id":"abc061_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc062","epoch_second":1540297744,"execution_time":247,"id":3457268,"language":"Kotlin (1.0.0)","length":750,"point":0,"problem_id":"abc062_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc061","epoch_second":1540297828,"execution_time":238,"id":3457279,"language":"Kotlin (1.0.0)","length":589,"point":100,"problem_id":"abc061_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc062","epoch_second":1540297854,"execution_time":238,"id":3457282,"language":"Kotlin (1.0.0)","length":750,"point":100,"problem_id":"abc062_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc063","epoch_second":1540298024,"execution_time":236,"id":3457297,"language":"Kotlin (1.0.0)","length":593,"point":100,"problem_id":"abc063_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc064","epoch_second":1540298179,"execution_time":236,"id":3457311,"language":"Kotlin (1.0.0)","length":567,"point":100,"problem_id":"abc064_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc065","epoch_second":1540298635,"execution_time":237,"id":3457354,"language":"Kotlin (1.0.0)","length":688,"point":100,"problem_id":"abc065_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc066","epoch_second":1540298824,"execution_time":244,"id":3457373,"language":"Kotlin (1.0.0)","length":580,"point":0,"problem_id":"abc066_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc066","epoch_second":1540298864,"execution_time":237,"id":3457375,"language":"Kotlin (1.0.0)","length":589,"point":100,"problem_id":"abc066_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc067","epoch_second":1540299042,"execution_time":240,"id":3457394,"language":"Kotlin (1.0.0)","length":601,"point":0,"problem_id":"abc067_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc067","epoch_second":1540299160,"execution_time":241,"id":3457403,"language":"Kotlin (1.0.0)","length":636,"point":100,"problem_id":"abc067_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc068","epoch_second":1540299305,"execution_time":207,"id":3457423,"language":"Kotlin (1.0.0)","length":528,"point":100,"problem_id":"abc068_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc069","epoch_second":1540299442,"execution_time":236,"id":3457438,"language":"Kotlin (1.0.0)","length":561,"point":100,"problem_id":"abc069_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc070","epoch_second":1540299533,"execution_time":210,"id":3457445,"language":"Kotlin (1.0.0)","length":551,"point":100,"problem_id":"abc070_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc071","epoch_second":1540299890,"execution_time":236,"id":3457478,"language":"Kotlin (1.0.0)","length":689,"point":100,"problem_id":"abc071_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc072","epoch_second":1540300062,"execution_time":234,"id":3457493,"language":"Kotlin (1.0.0)","length":585,"point":100,"problem_id":"abc072_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc073","epoch_second":1540300225,"execution_time":211,"id":3457513,"language":"Kotlin (1.0.0)","length":549,"point":100,"problem_id":"abc073_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc074","epoch_second":1540300344,"execution_time":"","id":3457529,"language":"Kotlin (1.0.0)","length":570,"point":0,"problem_id":"abc074_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc074","epoch_second":1540300414,"execution_time":210,"id":3457538,"language":"Kotlin (1.0.0)","length":556,"point":100,"problem_id":"abc074_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc075","epoch_second":1540300844,"execution_time":235,"id":3457591,"language":"Kotlin (1.0.0)","length":610,"point":100,"problem_id":"abc075_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc076","epoch_second":1540379507,"execution_time":"","id":3462177,"language":"Kotlin (1.0.0)","length":557,"point":0,"problem_id":"abc076_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc076","epoch_second":1540379571,"execution_time":215,"id":3462182,"language":"Kotlin (1.0.0)","length":557,"point":0,"problem_id":"abc076_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc076","epoch_second":1540379666,"execution_time":218,"id":3462188,"language":"Kotlin (1.0.0)","length":567,"point":100,"problem_id":"abc076_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc077","epoch_second":1540379856,"execution_time":216,"id":3462202,"language":"Kotlin (1.0.0)","length":567,"point":100,"problem_id":"abc077_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc078","epoch_second":1540380604,"execution_time":"","id":3462266,"language":"Kotlin (1.0.0)","length":647,"point":0,"problem_id":"abc078_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc078","epoch_second":1540380613,"execution_time":"","id":3462267,"language":"Kotlin (1.0.0)","length":650,"point":0,"problem_id":"abc078_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc078","epoch_second":1540380724,"execution_time":237,"id":3462283,"language":"Kotlin (1.0.0)","length":739,"point":100,"problem_id":"abc078_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc079","epoch_second":1540460358,"execution_time":242,"id":3467104,"language":"Kotlin (1.0.0)","length":644,"point":0,"problem_id":"abc079_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc079","epoch_second":1540460720,"execution_time":217,"id":3467142,"language":"Kotlin (1.0.0)","length":635,"point":100,"problem_id":"abc079_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc080","epoch_second":1540460919,"execution_time":236,"id":3467166,"language":"Kotlin (1.0.0)","length":623,"point":100,"problem_id":"abc080_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc081","epoch_second":1540461211,"execution_time":209,"id":3467189,"language":"Kotlin (1.0.0)","length":513,"point":100,"problem_id":"abc081_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc082","epoch_second":1540461772,"execution_time":235,"id":3467243,"language":"Kotlin (1.0.0)","length":616,"point":100,"problem_id":"abc082_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc083","epoch_second":1540461979,"execution_time":238,"id":3467269,"language":"Kotlin (1.0.0)","length":730,"point":100,"problem_id":"abc083_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc084","epoch_second":1540462291,"execution_time":210,"id":3467295,"language":"Kotlin (1.0.0)","length":527,"point":100,"problem_id":"abc084_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc085","epoch_second":1540462405,"execution_time":216,"id":3467304,"language":"Kotlin (1.0.0)","length":543,"point":0,"problem_id":"abc085_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc085","epoch_second":1540462537,"execution_time":215,"id":3467320,"language":"Kotlin (1.0.0)","length":543,"point":100,"problem_id":"abc085_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc086","epoch_second":1540462822,"execution_time":236,"id":3467342,"language":"Kotlin (1.0.0)","length":581,"point":100,"problem_id":"abc086_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc087","epoch_second":1540462943,"execution_time":"","id":3467352,"language":"Kotlin (1.0.0)","length":544,"point":0,"problem_id":"abc087_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc087","epoch_second":1540463054,"execution_time":216,"id":3467366,"language":"Kotlin (1.0.0)","length":544,"point":0,"problem_id":"abc087_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc088","epoch_second":1540463201,"execution_time":209,"id":3467378,"language":"Kotlin (1.0.0)","length":581,"point":100,"problem_id":"abc088_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc087","epoch_second":1540463315,"execution_time":210,"id":3467389,"language":"Kotlin (1.0.0)","length":544,"point":100,"problem_id":"abc087_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc089","epoch_second":1540463468,"execution_time":209,"id":3467410,"language":"Kotlin (1.0.0)","length":524,"point":100,"problem_id":"abc089_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc090","epoch_second":1540463620,"execution_time":212,"id":3467418,"language":"Kotlin (1.0.0)","length":529,"point":100,"problem_id":"abc090_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc091","epoch_second":1540463772,"execution_time":234,"id":3467429,"language":"Kotlin (1.0.0)","length":583,"point":0,"problem_id":"abc091_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc091","epoch_second":1540463807,"execution_time":237,"id":3467434,"language":"Kotlin (1.0.0)","length":584,"point":100,"problem_id":"abc091_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc092","epoch_second":1540464007,"execution_time":214,"id":3467454,"language":"Kotlin (1.0.0)","length":632,"point":100,"problem_id":"abc092_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1540464200,"execution_time":233,"id":3467468,"language":"Kotlin (1.0.0)","length":569,"point":0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1540464460,"execution_time":213,"id":3467495,"language":"Kotlin (1.0.0)","length":555,"point":0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1540464579,"execution_time":214,"id":3467507,"language":"Kotlin (1.0.0)","length":573,"point":0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1540464676,"execution_time":"","id":3467516,"language":"Kotlin (1.0.0)","length":589,"point":0,"problem_id":"abc093_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1540464704,"execution_time":243,"id":3467517,"language":"Kotlin (1.0.0)","length":592,"point":100,"problem_id":"abc093_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1540465056,"execution_time":238,"id":3467548,"language":"Kotlin (1.0.0)","length":591,"point":0,"problem_id":"abc094_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1540465095,"execution_time":238,"id":3467550,"language":"Kotlin (1.0.0)","length":599,"point":0,"problem_id":"abc094_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1540465220,"execution_time":236,"id":3467562,"language":"Kotlin (1.0.0)","length":599,"point":100,"problem_id":"abc094_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc095","epoch_second":1540465539,"execution_time":209,"id":3467592,"language":"Kotlin (1.0.0)","length":531,"point":100,"problem_id":"abc095_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc096","epoch_second":1540465661,"execution_time":236,"id":3467610,"language":"Kotlin (1.0.0)","length":531,"point":0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc096","epoch_second":1540465779,"execution_time":237,"id":3467620,"language":"Kotlin (1.0.0)","length":583,"point":0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc096","epoch_second":1540465855,"execution_time":237,"id":3467629,"language":"Kotlin (1.0.0)","length":583,"point":0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc096","epoch_second":1540465924,"execution_time":237,"id":3467640,"language":"Kotlin (1.0.0)","length":585,"point":100,"problem_id":"abc096_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc097","epoch_second":1540466135,"execution_time":242,"id":3467669,"language":"Kotlin (1.0.0)","length":616,"point":0,"problem_id":"abc097_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc097","epoch_second":1540466320,"execution_time":241,"id":3467687,"language":"Kotlin (1.0.0)","length":689,"point":0,"problem_id":"abc097_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc097","epoch_second":1540466468,"execution_time":236,"id":3467704,"language":"Kotlin (1.0.0)","length":714,"point":100,"problem_id":"abc097_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc098","epoch_second":1540466653,"execution_time":241,"id":3467721,"language":"Kotlin (1.0.0)","length":579,"point":100,"problem_id":"abc098_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc099","epoch_second":1540466768,"execution_time":211,"id":3467740,"language":"Kotlin (1.0.0)","length":535,"point":100,"problem_id":"abc099_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc100","epoch_second":1540466951,"execution_time":243,"id":3467764,"language":"Kotlin (1.0.0)","length":564,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc101","epoch_second":1540571677,"execution_time":214,"id":3474345,"language":"Kotlin (1.0.0)","length":621,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc102","epoch_second":1540572584,"execution_time":212,"id":3474393,"language":"Kotlin (1.0.0)","length":555,"point":100,"problem_id":"abc102_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc103","epoch_second":1540573038,"execution_time":241,"id":3474409,"language":"Kotlin (1.0.0)","length":598,"point":100,"problem_id":"abc103_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1540573384,"execution_time":208,"id":3474421,"language":"Kotlin (1.0.0)","length":620,"point":0,"problem_id":"abc104_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1540573469,"execution_time":213,"id":3474425,"language":"Kotlin (1.0.0)","length":620,"point":100,"problem_id":"abc104_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc105","epoch_second":1540573748,"execution_time":238,"id":3474441,"language":"Kotlin (1.0.0)","length":584,"point":100,"problem_id":"abc105_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc106","epoch_second":1540573991,"execution_time":244,"id":3474454,"language":"Kotlin (1.0.0)","length":565,"point":100,"problem_id":"abc106_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc107","epoch_second":1540574298,"execution_time":240,"id":3474469,"language":"Kotlin (1.0.0)","length":553,"point":0,"problem_id":"abc107_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc107","epoch_second":1540574339,"execution_time":235,"id":3474475,"language":"Kotlin (1.0.0)","length":555,"point":100,"problem_id":"abc107_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc108","epoch_second":1540574713,"execution_time":211,"id":3474493,"language":"Kotlin (1.0.0)","length":635,"point":100,"problem_id":"abc108_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1540575306,"execution_time":209,"id":3474518,"language":"Kotlin (1.0.0)","length":574,"point":0,"problem_id":"abc112_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1540575386,"execution_time":209,"id":3474523,"language":"Kotlin (1.0.0)","length":573,"point":100,"problem_id":"abc112_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc110","epoch_second":1540575523,"execution_time":239,"id":3474528,"language":"Kotlin (1.0.0)","length":609,"point":100,"problem_id":"abc110_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1540575748,"execution_time":209,"id":3474537,"language":"Kotlin (1.0.0)","length":639,"point":0,"problem_id":"abc111_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1540576270,"execution_time":211,"id":3474561,"language":"Kotlin (1.0.0)","length":657,"point":100,"problem_id":"abc111_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540581993,"execution_time":535,"id":3474656,"language":"Kotlin (1.0.0)","length":986,"point":2,"problem_id":"tdpc_contest","result":"AC","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540630936,"execution_time":"","id":3477275,"language":"Kotlin (1.0.0)","length":1870,"point":0,"problem_id":"tdpc_game","result":"CE","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540630981,"execution_time":481,"id":3477279,"language":"Kotlin (1.0.0)","length":1868,"point":0,"problem_id":"tdpc_game","result":"WA","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540640977,"execution_time":733,"id":3478119,"language":"Kotlin (1.0.0)","length":1885,"point":3,"problem_id":"tdpc_game","result":"AC","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540729926,"execution_time":2111,"id":3494322,"language":"Kotlin (1.0.0)","length":2097,"point":0,"problem_id":"tdpc_tournament","result":"WA","user_id":"choruru"}
-,{"contest_id":"tdpc","epoch_second":1540735791,"execution_time":790,"id":3495114,"language":"Kotlin (1.0.0)","length":2573,"point":4,"problem_id":"tdpc_tournament","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540802134,"execution_time":265,"id":3498303,"language":"Kotlin (1.0.0)","length":1530,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540802276,"execution_time":239,"id":3498319,"language":"Kotlin (1.0.0)","length":1536,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540802697,"execution_time":"","id":3498352,"language":"Kotlin (1.0.0)","length":1527,"point":0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540802810,"execution_time":241,"id":3498369,"language":"Kotlin (1.0.0)","length":1534,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540818969,"execution_time":"","id":3500169,"language":"Kotlin (1.0.0)","length":1631,"point":0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540897637,"execution_time":"","id":3504587,"language":"Kotlin (1.0.0)","length":1932,"point":0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540897778,"execution_time":266,"id":3504597,"language":"Kotlin (1.0.0)","length":1941,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc001","epoch_second":1540898186,"execution_time":245,"id":3504639,"language":"Kotlin (1.0.0)","length":1911,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1540899759,"execution_time":"","id":3504772,"language":"Kotlin (1.0.0)","length":930,"point":0,"problem_id":"abc002_3","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1540899855,"execution_time":"","id":3504780,"language":"Kotlin (1.0.0)","length":911,"point":0,"problem_id":"abc002_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc002","epoch_second":1540900031,"execution_time":245,"id":3504792,"language":"Kotlin (1.0.0)","length":910,"point":100,"problem_id":"abc002_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1540901014,"execution_time":"","id":3504873,"language":"Kotlin (1.0.0)","length":801,"point":0,"problem_id":"abc003_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1540901048,"execution_time":"","id":3504878,"language":"Kotlin (1.0.0)","length":801,"point":0,"problem_id":"abc003_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1540901076,"execution_time":247,"id":3504882,"language":"Kotlin (1.0.0)","length":799,"point":0,"problem_id":"abc003_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1540901135,"execution_time":"","id":3504888,"language":"Kotlin (1.0.0)","length":802,"point":0,"problem_id":"abc003_3","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc003","epoch_second":1540901148,"execution_time":250,"id":3504891,"language":"Kotlin (1.0.0)","length":803,"point":100,"problem_id":"abc003_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc004","epoch_second":1540902171,"execution_time":233,"id":3504999,"language":"Kotlin (1.0.0)","length":815,"point":0,"problem_id":"abc004_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc004","epoch_second":1540903014,"execution_time":235,"id":3505097,"language":"Kotlin (1.0.0)","length":869,"point":0,"problem_id":"abc004_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc004","epoch_second":1540903424,"execution_time":239,"id":3505149,"language":"Kotlin (1.0.0)","length":869,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540906464,"execution_time":256,"id":3505574,"language":"Kotlin (1.0.0)","length":1085,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540906578,"execution_time":255,"id":3505592,"language":"Kotlin (1.0.0)","length":1065,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540906956,"execution_time":256,"id":3505639,"language":"Kotlin (1.0.0)","length":1079,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540907157,"execution_time":241,"id":3505668,"language":"Kotlin (1.0.0)","length":1147,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540907381,"execution_time":263,"id":3505704,"language":"Kotlin (1.0.0)","length":1098,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540907541,"execution_time":323,"id":3505727,"language":"Kotlin (1.0.0)","length":1098,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540907724,"execution_time":244,"id":3505750,"language":"Kotlin (1.0.0)","length":1092,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc005","epoch_second":1540907794,"execution_time":260,"id":3505760,"language":"Kotlin (1.0.0)","length":1092,"point":100,"problem_id":"abc005_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc006","epoch_second":1540984255,"execution_time":2119,"id":3509901,"language":"Kotlin (1.0.0)","length":1572,"point":0,"problem_id":"abc006_3","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc006","epoch_second":1540987425,"execution_time":"","id":3510162,"language":"Kotlin (1.0.0)","length":1978,"point":10,"problem_id":"abc006_3","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc006","epoch_second":1540992627,"execution_time":258,"id":3510744,"language":"Kotlin (1.0.0)","length":949,"point":100,"problem_id":"abc006_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541368056,"execution_time":"","id":3544624,"language":"Kotlin (1.0.0)","length":1700,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541368208,"execution_time":"","id":3544626,"language":"Kotlin (1.0.0)","length":1735,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541368954,"execution_time":"","id":3544640,"language":"Kotlin (1.0.0)","length":1830,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541369129,"execution_time":"","id":3544646,"language":"Kotlin (1.0.0)","length":1830,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541369276,"execution_time":"","id":3544651,"language":"Kotlin (1.0.0)","length":1830,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541369710,"execution_time":"","id":3544662,"language":"Kotlin (1.0.0)","length":1791,"point":0,"problem_id":"abc007_3","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc007","epoch_second":1541370172,"execution_time":382,"id":3544672,"language":"Kotlin (1.0.0)","length":1883,"point":100,"problem_id":"abc007_3","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541407795,"execution_time":"","id":3547312,"language":"Kotlin (1.0.0)","length":887,"point":0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541407824,"execution_time":"","id":3547315,"language":"Kotlin (1.0.0)","length":888,"point":0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541408331,"execution_time":"","id":3547354,"language":"Kotlin (1.0.0)","length":854,"point":0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541409185,"execution_time":"","id":3547444,"language":"Kotlin (1.0.0)","length":926,"point":0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541409243,"execution_time":"","id":3547450,"language":"Kotlin (1.0.0)","length":958,"point":0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc113","epoch_second":1541410144,"execution_time":"","id":3547572,"language":"Kotlin (1.0.0)","length":1051,"point":0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1541412226,"execution_time":297,"id":3547782,"language":"Kotlin (1.0.0)","length":875,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1541413048,"execution_time":301,"id":3547858,"language":"Kotlin (1.0.0)","length":897,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1541413381,"execution_time":298,"id":3547888,"language":"Kotlin (1.0.0)","length":1010,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1541413845,"execution_time":292,"id":3547922,"language":"Kotlin (1.0.0)","length":1011,"point":0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc112","epoch_second":1541414662,"execution_time":332,"id":3547988,"language":"Kotlin (1.0.0)","length":1031,"point":300,"problem_id":"abc112_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541507647,"execution_time":673,"id":3554100,"language":"Kotlin (1.0.0)","length":2140,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541507880,"execution_time":674,"id":3554124,"language":"Kotlin (1.0.0)","length":2132,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541508193,"execution_time":673,"id":3554154,"language":"Kotlin (1.0.0)","length":2263,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541510169,"execution_time":"","id":3554361,"language":"Kotlin (1.0.0)","length":1675,"point":0,"problem_id":"arc103_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541510510,"execution_time":821,"id":3554409,"language":"Kotlin (1.0.0)","length":1667,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc111","epoch_second":1541510649,"execution_time":783,"id":3554429,"language":"Kotlin (1.0.0)","length":1667,"point":300,"problem_id":"arc103_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc110","epoch_second":1541510939,"execution_time":750,"id":3554461,"language":"Kotlin (1.0.0)","length":499,"point":0,"problem_id":"abc110_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc110","epoch_second":1541511380,"execution_time":"","id":3554517,"language":"Kotlin (1.0.0)","length":863,"point":0,"problem_id":"abc110_c","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc110","epoch_second":1541511468,"execution_time":"","id":3554526,"language":"Kotlin (1.0.0)","length":865,"point":0,"problem_id":"abc110_c","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc110","epoch_second":1541511523,"execution_time":375,"id":3554534,"language":"Kotlin (1.0.0)","length":865,"point":300,"problem_id":"abc110_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc109","epoch_second":1541512812,"execution_time":513,"id":3554686,"language":"Kotlin (1.0.0)","length":724,"point":300,"problem_id":"abc109_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc107","epoch_second":1541838363,"execution_time":"","id":3575678,"language":"Kotlin (1.0.0)","length":1634,"point":0,"problem_id":"arc101_a","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc107","epoch_second":1541838612,"execution_time":"","id":3575740,"language":"Kotlin (1.0.0)","length":1740,"point":0,"problem_id":"arc101_a","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc107","epoch_second":1541839321,"execution_time":557,"id":3575930,"language":"Kotlin (1.0.0)","length":865,"point":300,"problem_id":"arc101_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc106","epoch_second":1541840294,"execution_time":"","id":3576177,"language":"Kotlin (1.0.0)","length":681,"point":0,"problem_id":"abc106_c","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc106","epoch_second":1541840431,"execution_time":"","id":3576214,"language":"Kotlin (1.0.0)","length":768,"point":0,"problem_id":"abc106_c","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc106","epoch_second":1541841176,"execution_time":234,"id":3576390,"language":"Kotlin (1.0.0)","length":767,"point":300,"problem_id":"abc106_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541854461,"execution_time":"","id":3580438,"language":"Kotlin (1.0.0)","length":1820,"point":0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541854558,"execution_time":"","id":3580499,"language":"Kotlin (1.0.0)","length":1832,"point":0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541854614,"execution_time":"","id":3580521,"language":"Kotlin (1.0.0)","length":1850,"point":0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541855260,"execution_time":"","id":3580790,"language":"Kotlin (1.0.0)","length":1838,"point":0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541855327,"execution_time":"","id":3580802,"language":"Kotlin (1.0.0)","length":1791,"point":0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc104","epoch_second":1541855394,"execution_time":292,"id":3580814,"language":"Kotlin (1.0.0)","length":1795,"point":0,"problem_id":"abc104_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc103","epoch_second":1541856553,"execution_time":2111,"id":3581066,"language":"Kotlin (1.0.0)","length":574,"point":0,"problem_id":"abc103_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc103","epoch_second":1541856737,"execution_time":309,"id":3581102,"language":"Kotlin (1.0.0)","length":497,"point":300,"problem_id":"abc103_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc102","epoch_second":1541857620,"execution_time":1024,"id":3581291,"language":"Kotlin (1.0.0)","length":650,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc102","epoch_second":1541858143,"execution_time":1111,"id":3581403,"language":"Kotlin (1.0.0)","length":971,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc102","epoch_second":1541858583,"execution_time":"","id":3581495,"language":"Kotlin (1.0.0)","length":792,"point":0,"problem_id":"arc100_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc102","epoch_second":1541859940,"execution_time":993,"id":3581665,"language":"Kotlin (1.0.0)","length":792,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc101","epoch_second":1541866721,"execution_time":"","id":3582241,"language":"Kotlin (1.0.0)","length":903,"point":0,"problem_id":"arc099_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc101","epoch_second":1541868097,"execution_time":528,"id":3582318,"language":"Kotlin (1.0.0)","length":913,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc101","epoch_second":1541868712,"execution_time":523,"id":3582351,"language":"Kotlin (1.0.0)","length":1025,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc101","epoch_second":1541869014,"execution_time":522,"id":3582369,"language":"Kotlin (1.0.0)","length":1082,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc100","epoch_second":1541938319,"execution_time":459,"id":3585763,"language":"Kotlin (1.0.0)","length":749,"point":300,"problem_id":"abc100_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc099","epoch_second":1541938978,"execution_time":229,"id":3585812,"language":"Kotlin (1.0.0)","length":658,"point":0,"problem_id":"abc099_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc099","epoch_second":1541939270,"execution_time":212,"id":3585829,"language":"Kotlin (1.0.0)","length":908,"point":0,"problem_id":"abc099_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc098","epoch_second":1542014621,"execution_time":504,"id":3589476,"language":"Kotlin (1.0.0)","length":2441,"point":300,"problem_id":"arc098_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc095","epoch_second":1542016450,"execution_time":"","id":3589634,"language":"Kotlin (1.0.0)","length":699,"point":0,"problem_id":"arc096_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc097","epoch_second":1542016482,"execution_time":"","id":3589638,"language":"Kotlin (1.0.0)","length":699,"point":200,"problem_id":"arc097_a","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc097","epoch_second":1542017033,"execution_time":441,"id":3589694,"language":"Kotlin (1.0.0)","length":692,"point":300,"problem_id":"arc097_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc096","epoch_second":1542019609,"execution_time":279,"id":3589919,"language":"Kotlin (1.0.0)","length":1334,"point":300,"problem_id":"abc096_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc095","epoch_second":1542281203,"execution_time":306,"id":3603998,"language":"Kotlin (1.0.0)","length":608,"point":0,"problem_id":"arc096_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc095","epoch_second":1542281620,"execution_time":305,"id":3604020,"language":"Kotlin (1.0.0)","length":638,"point":300,"problem_id":"arc096_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1542282247,"execution_time":2046,"id":3604069,"language":"Kotlin (1.0.0)","length":786,"point":0,"problem_id":"arc095_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1542282375,"execution_time":"","id":3604076,"language":"Kotlin (1.0.0)","length":801,"point":0,"problem_id":"arc095_a","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc094","epoch_second":1542282626,"execution_time":1301,"id":3604096,"language":"Kotlin (1.0.0)","length":904,"point":300,"problem_id":"arc095_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc093","epoch_second":1542283578,"execution_time":243,"id":3604157,"language":"Kotlin (1.0.0)","length":1175,"point":300,"problem_id":"arc094_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc092","epoch_second":1542285708,"execution_time":"","id":3604328,"language":"Kotlin (1.0.0)","length":901,"point":0,"problem_id":"arc093_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc092","epoch_second":1542285816,"execution_time":642,"id":3604337,"language":"Kotlin (1.0.0)","length":921,"point":300,"problem_id":"arc093_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc091","epoch_second":1542550596,"execution_time":"","id":3623670,"language":"Kotlin (1.0.0)","length":4950,"point":0,"problem_id":"arc092_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc091","epoch_second":1542550759,"execution_time":"","id":3623687,"language":"Kotlin (1.0.0)","length":5018,"point":0,"problem_id":"arc092_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc091","epoch_second":1542551019,"execution_time":988,"id":3623703,"language":"Kotlin (1.0.0)","length":5088,"point":400,"problem_id":"arc092_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc090","epoch_second":1542623116,"execution_time":235,"id":3626824,"language":"Kotlin (1.0.0)","length":622,"point":0,"problem_id":"arc091_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc090","epoch_second":1542623329,"execution_time":245,"id":3626846,"language":"Kotlin (1.0.0)","length":627,"point":300,"problem_id":"arc091_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc089","epoch_second":1542625281,"execution_time":453,"id":3627008,"language":"Kotlin (1.0.0)","length":1413,"point":0,"problem_id":"abc089_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc089","epoch_second":1542626269,"execution_time":453,"id":3627099,"language":"Kotlin (1.0.0)","length":1359,"point":300,"problem_id":"abc089_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc088","epoch_second":1542706753,"execution_time":252,"id":3630910,"language":"Kotlin (1.0.0)","length":1400,"point":0,"problem_id":"abc088_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc088","epoch_second":1542706828,"execution_time":253,"id":3630912,"language":"Kotlin (1.0.0)","length":1400,"point":300,"problem_id":"abc088_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc087","epoch_second":1542707400,"execution_time":245,"id":3630954,"language":"Kotlin (1.0.0)","length":1024,"point":300,"problem_id":"arc090_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc086","epoch_second":1542707926,"execution_time":731,"id":3631008,"language":"Kotlin (1.0.0)","length":802,"point":300,"problem_id":"arc089_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc085","epoch_second":1542718286,"execution_time":"","id":3631712,"language":"Kotlin (1.0.0)","length":904,"point":0,"problem_id":"abc085_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc085","epoch_second":1542718572,"execution_time":"","id":3631742,"language":"Kotlin (1.0.0)","length":1169,"point":0,"problem_id":"abc085_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"abc084","epoch_second":1542799763,"execution_time":307,"id":3636026,"language":"Kotlin (1.0.0)","length":908,"point":0,"problem_id":"abc084_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc084","epoch_second":1542800756,"execution_time":328,"id":3636096,"language":"Kotlin (1.0.0)","length":958,"point":0,"problem_id":"abc084_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc083","epoch_second":1542802308,"execution_time":246,"id":3636236,"language":"Kotlin (1.0.0)","length":571,"point":300,"problem_id":"arc088_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc082","epoch_second":1542802826,"execution_time":"","id":3636292,"language":"Kotlin (1.0.0)","length":692,"point":0,"problem_id":"arc087_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc082","epoch_second":1542802909,"execution_time":"","id":3636301,"language":"Kotlin (1.0.0)","length":738,"point":0,"problem_id":"arc087_a","result":"RE","user_id":"choruru"}
-,{"contest_id":"abc082","epoch_second":1542802956,"execution_time":612,"id":3636305,"language":"Kotlin (1.0.0)","length":741,"point":0,"problem_id":"arc087_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc082","epoch_second":1542803084,"execution_time":611,"id":3636311,"language":"Kotlin (1.0.0)","length":740,"point":300,"problem_id":"arc087_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc081","epoch_second":1542804377,"execution_time":819,"id":3636380,"language":"Kotlin (1.0.0)","length":766,"point":300,"problem_id":"arc086_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543057573,"execution_time":240,"id":3653466,"language":"Kotlin (1.0.0)","length":609,"point":200,"problem_id":"dwacon5th_prelims_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543059757,"execution_time":1130,"id":3655878,"language":"Kotlin (1.0.0)","length":915,"point":0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543061418,"execution_time":2663,"id":3657104,"language":"Kotlin (1.0.0)","length":988,"point":0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543062995,"execution_time":"","id":3658259,"language":"Kotlin (1.0.0)","length":1271,"point":0,"problem_id":"dwacon5th_prelims_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543063108,"execution_time":"","id":3658344,"language":"Kotlin (1.0.0)","length":1291,"point":0,"problem_id":"dwacon5th_prelims_c","result":"TLE","user_id":"choruru"}
-,{"contest_id":"dwacon5th-prelims","epoch_second":1543063717,"execution_time":2663,"id":3658836,"language":"Kotlin (1.0.0)","length":1161,"point":0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc079","epoch_second":1543844325,"execution_time":226,"id":3713083,"language":"Kotlin (1.0.0)","length":1407,"point":300,"problem_id":"abc079_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc078","epoch_second":1543845288,"execution_time":246,"id":3713178,"language":"Kotlin (1.0.0)","length":521,"point":300,"problem_id":"arc085_a","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc077","epoch_second":1543847924,"execution_time":"","id":3713413,"language":"Kotlin (1.0.0)","length":1270,"point":0,"problem_id":"arc084_a","result":"CE","user_id":"choruru"}
-,{"contest_id":"abc077","epoch_second":1543847979,"execution_time":1509,"id":3713420,"language":"Kotlin (1.0.0)","length":1281,"point":0,"problem_id":"arc084_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc072","epoch_second":1546238979,"execution_time":273,"id":3904377,"language":"Kotlin (1.0.0)","length":1236,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc076","epoch_second":1546239096,"execution_time":228,"id":3904387,"language":"Kotlin (1.0.0)","length":1238,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"choruru"}
-,{"contest_id":"abc076","epoch_second":1546239226,"execution_time":235,"id":3904397,"language":"Kotlin (1.0.0)","length":1238,"point":300,"problem_id":"abc076_c","result":"AC","user_id":"choruru"}
-,{"contest_id":"abc075","epoch_second":1546241530,"execution_time":273,"id":3904602,"language":"Kotlin (1.0.0)","length":1326,"point":300,"problem_id":"abc075_c","result":"AC","user_id":"choruru"}
+[{"contest_id":"arc045","epoch_second":1444478870,"execution_time":36,"id":523434,"language":"C++ (GCC 4.9.2)","length":297,"point":0.0,"problem_id":"arc045_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc045","epoch_second":1444479233,"execution_time":26,"id":523557,"language":"C++ (GCC 4.9.2)","length":325,"point":100.0,"problem_id":"arc045_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc045","epoch_second":1444481901,"execution_time":"","id":524144,"language":"C++ (GCC 4.9.2)","length":1048,"point":30.0,"problem_id":"arc045_b","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445688279,"execution_time":26,"id":535708,"language":"C++ (GCC 4.9.2)","length":197,"point":0.0,"problem_id":"abc030_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445688425,"execution_time":27,"id":535809,"language":"C++ (GCC 4.9.2)","length":197,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445689178,"execution_time":27,"id":536249,"language":"C++ (GCC 4.9.2)","length":251,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445689417,"execution_time":26,"id":536374,"language":"C++ (GCC 4.9.2)","length":250,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445689831,"execution_time":28,"id":536569,"language":"C++ (GCC 4.9.2)","length":339,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445692146,"execution_time":156,"id":537414,"language":"C++ (GCC 4.9.2)","length":894,"point":100.0,"problem_id":"abc030_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445695176,"execution_time":"","id":538214,"language":"C++ (GCC 4.9.2)","length":740,"point":0.0,"problem_id":"abc030_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445695377,"execution_time":"","id":538256,"language":"C++ (GCC 4.9.2)","length":743,"point":0.0,"problem_id":"abc030_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445695476,"execution_time":30,"id":538263,"language":"C++ (GCC 4.9.2)","length":782,"point":0.0,"problem_id":"abc030_d","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1445695551,"execution_time":34,"id":538271,"language":"C++ (GCC 4.9.2)","length":784,"point":0.0,"problem_id":"abc030_d","result":"WA","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445774585,"execution_time":28,"id":542574,"language":"C++ (GCC 4.9.2)","length":144,"point":100.0,"problem_id":"codefestival_2015_qualB_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445776284,"execution_time":"","id":544996,"language":"C++ (GCC 4.9.2)","length":537,"point":0.0,"problem_id":"codefestival_2015_qualB_b","result":"CE","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445776304,"execution_time":81,"id":545017,"language":"C++11 (GCC 4.9.2)","length":537,"point":100.0,"problem_id":"codefestival_2015_qualB_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445777393,"execution_time":125,"id":546227,"language":"C++11 (GCC 4.9.2)","length":486,"point":100.0,"problem_id":"codefestival_2015_qualB_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445779862,"execution_time":"","id":548004,"language":"C++11 (GCC 4.9.2)","length":496,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780030,"execution_time":"","id":548100,"language":"C++ (GCC 4.9.2)","length":496,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780158,"execution_time":290,"id":548170,"language":"C++ (GCC 4.9.2)","length":490,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"WA","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780194,"execution_time":"","id":548186,"language":"C++ (GCC 4.9.2)","length":493,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780229,"execution_time":"","id":548203,"language":"C++ (GCC 4.9.2)","length":492,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"CE","user_id":"choruru"}
+,{"contest_id":"code-festival-2015-qualb","epoch_second":1445780299,"execution_time":2068,"id":548237,"language":"C++ (GCC 4.9.2)","length":491,"point":0.0,"problem_id":"codefestival_2015_qualB_d","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1448107467,"execution_time":29,"id":575036,"language":"C++ (GCC 4.9.2)","length":156,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1448107957,"execution_time":27,"id":575340,"language":"C++ (GCC 4.9.2)","length":349,"point":100.0,"problem_id":"abc031_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1448109896,"execution_time":43,"id":575848,"language":"C++ (GCC 4.9.2)","length":963,"point":0.0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1448112225,"execution_time":28,"id":576219,"language":"C++ (GCC 4.9.2)","length":1103,"point":0.0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1448112611,"execution_time":26,"id":576271,"language":"C++ (GCC 4.9.2)","length":1107,"point":0.0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450009510,"execution_time":213,"id":592500,"language":"C++11 (GCC 4.9.2)","length":474,"point":100.0,"problem_id":"arc046_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450010326,"execution_time":26,"id":592746,"language":"C++11 (GCC 4.9.2)","length":220,"point":0.0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450010485,"execution_time":28,"id":592787,"language":"C++11 (GCC 4.9.2)","length":332,"point":0.0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450010569,"execution_time":38,"id":592809,"language":"C++11 (GCC 4.9.2)","length":338,"point":0.0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450011012,"execution_time":28,"id":592927,"language":"C++11 (GCC 4.9.2)","length":363,"point":40.0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450011206,"execution_time":27,"id":592971,"language":"C++11 (GCC 4.9.2)","length":497,"point":40.0,"problem_id":"arc046_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450011699,"execution_time":28,"id":593085,"language":"C++11 (GCC 4.9.2)","length":523,"point":100.0,"problem_id":"arc046_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450011736,"execution_time":34,"id":593096,"language":"C++11 (GCC 4.9.2)","length":443,"point":100.0,"problem_id":"arc046_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450012790,"execution_time":528,"id":593313,"language":"C++11 (GCC 4.9.2)","length":702,"point":0.0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450013116,"execution_time":532,"id":593378,"language":"C++11 (GCC 4.9.2)","length":708,"point":0.0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450015139,"execution_time":565,"id":593615,"language":"C++11 (GCC 4.9.2)","length":710,"point":0.0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450015583,"execution_time":976,"id":593638,"language":"C++11 (GCC 4.9.2)","length":791,"point":0.0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc046","epoch_second":1450015709,"execution_time":533,"id":593646,"language":"C++11 (GCC 4.9.2)","length":720,"point":0.0,"problem_id":"arc046_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454330986,"execution_time":28,"id":626710,"language":"C++11 (GCC 4.9.2)","length":1578,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454331945,"execution_time":28,"id":626719,"language":"C++11 (GCC 4.9.2)","length":1723,"point":0.0,"problem_id":"abc032_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454332097,"execution_time":280,"id":626722,"language":"C++11 (GCC 4.9.2)","length":1725,"point":0.0,"problem_id":"abc032_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454332357,"execution_time":28,"id":626726,"language":"C++11 (GCC 4.9.2)","length":1725,"point":100.0,"problem_id":"abc032_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454335540,"execution_time":118,"id":626745,"language":"C++11 (GCC 4.9.2)","length":2244,"point":0.0,"problem_id":"abc032_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454336185,"execution_time":2041,"id":626748,"language":"C++11 (GCC 4.9.2)","length":2272,"point":0.0,"problem_id":"abc032_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454336628,"execution_time":110,"id":626750,"language":"C++11 (GCC 4.9.2)","length":2286,"point":0.0,"problem_id":"abc032_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1454350820,"execution_time":490,"id":626849,"language":"C++11 (GCC 4.9.2)","length":1915,"point":100.0,"problem_id":"abc032_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1454410751,"execution_time":28,"id":627073,"language":"C++11 (GCC 4.9.2)","length":1498,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1454411044,"execution_time":27,"id":627077,"language":"C++11 (GCC 4.9.2)","length":1636,"point":100.0,"problem_id":"abc031_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1454413054,"execution_time":31,"id":627090,"language":"C++11 (GCC 4.9.2)","length":2462,"point":0.0,"problem_id":"abc031_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1454413135,"execution_time":32,"id":627091,"language":"C++11 (GCC 4.9.2)","length":2458,"point":100.0,"problem_id":"abc031_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454597382,"execution_time":31,"id":627926,"language":"C++11 (GCC 4.9.2)","length":1545,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454597863,"execution_time":42,"id":627933,"language":"C++11 (GCC 4.9.2)","length":1572,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454598951,"execution_time":32,"id":627939,"language":"C++11 (GCC 4.9.2)","length":1639,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454599349,"execution_time":28,"id":627948,"language":"C++11 (GCC 4.9.2)","length":1613,"point":100.0,"problem_id":"abc030_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454602398,"execution_time":156,"id":627971,"language":"C++11 (GCC 4.9.2)","length":1931,"point":100.0,"problem_id":"abc030_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1454613485,"execution_time":70,"id":628021,"language":"C++11 (GCC 4.9.2)","length":2031,"point":0.0,"problem_id":"abc030_d","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc049","epoch_second":1458389369,"execution_time":4,"id":665745,"language":"C++14 (GCC 5.4.1)","length":873,"point":100.0,"problem_id":"arc049_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc049","epoch_second":1458390920,"execution_time":36,"id":666109,"language":"C++14 (GCC 5.4.1)","length":1170,"point":30.0,"problem_id":"arc049_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc049","epoch_second":1458393094,"execution_time":42,"id":666463,"language":"C++14 (GCC 5.4.1)","length":1170,"point":100.0,"problem_id":"arc049_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2016-qualc","epoch_second":1477224206,"execution_time":3,"id":942337,"language":"C++14 (GCC 5.4.1)","length":987,"point":100.0,"problem_id":"codefestival_2016_qualC_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2016-qualc","epoch_second":1477225586,"execution_time":3,"id":944145,"language":"C++14 (GCC 5.4.1)","length":1420,"point":200.0,"problem_id":"codefestival_2016_qualC_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"code-festival-2016-qualc","epoch_second":1477230699,"execution_time":510,"id":947532,"language":"C++14 (GCC 5.4.1)","length":1481,"point":0.0,"problem_id":"codefestival_2016_qualC_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480853212,"execution_time":"","id":1008182,"language":"C++14 (GCC 5.4.1)","length":1069,"point":0.0,"problem_id":"arc064_a","result":"TLE","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480855949,"execution_time":45,"id":1010065,"language":"C++14 (GCC 5.4.1)","length":1346,"point":0.0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480856999,"execution_time":45,"id":1010658,"language":"C++14 (GCC 5.4.1)","length":1349,"point":0.0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480857521,"execution_time":2102,"id":1010934,"language":"C++14 (GCC 5.4.1)","length":1149,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480857838,"execution_time":2102,"id":1011089,"language":"C++14 (GCC 5.4.1)","length":1171,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480858377,"execution_time":417,"id":1011318,"language":"C++14 (GCC 5.4.1)","length":1143,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480858518,"execution_time":6,"id":1011397,"language":"C++14 (GCC 5.4.1)","length":1147,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480858778,"execution_time":2102,"id":1011554,"language":"C++14 (GCC 5.4.1)","length":1546,"point":0.0,"problem_id":"arc064_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480858816,"execution_time":47,"id":1011574,"language":"C++14 (GCC 5.4.1)","length":1363,"point":300.0,"problem_id":"arc064_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480859335,"execution_time":2102,"id":1011692,"language":"C++14 (GCC 5.4.1)","length":1219,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc064","epoch_second":1480859415,"execution_time":6,"id":1011707,"language":"C++14 (GCC 5.4.1)","length":1234,"point":0.0,"problem_id":"arc064_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481372552,"execution_time":6,"id":1018666,"language":"C++14 (GCC 5.4.1)","length":2023,"point":0.0,"problem_id":"arc065_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481372903,"execution_time":6,"id":1018858,"language":"C++14 (GCC 5.4.1)","length":2084,"point":0.0,"problem_id":"arc065_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481373028,"execution_time":6,"id":1018921,"language":"C++14 (GCC 5.4.1)","length":2129,"point":300.0,"problem_id":"arc065_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481377337,"execution_time":2104,"id":1020586,"language":"C++14 (GCC 5.4.1)","length":3781,"point":0.0,"problem_id":"arc065_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481377811,"execution_time":"","id":1020666,"language":"C++14 (GCC 5.4.1)","length":3383,"point":0.0,"problem_id":"arc065_b","result":"CE","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481377844,"execution_time":2210,"id":1020674,"language":"C++14 (GCC 5.4.1)","length":3383,"point":0.0,"problem_id":"arc065_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc065","epoch_second":1481378050,"execution_time":"","id":1020699,"language":"C++14 (GCC 5.4.1)","length":3395,"point":0.0,"problem_id":"arc065_b","result":"TLE","user_id":"choruru"}
+,{"contest_id":"arc066","epoch_second":1482064504,"execution_time":31,"id":1031994,"language":"C++14 (GCC 5.4.1)","length":1765,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc066","epoch_second":1482064702,"execution_time":31,"id":1032041,"language":"C++14 (GCC 5.4.1)","length":1871,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc066","epoch_second":1482066012,"execution_time":31,"id":1032335,"language":"C++14 (GCC 5.4.1)","length":1409,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc066","epoch_second":1482066942,"execution_time":31,"id":1032517,"language":"C++14 (GCC 5.4.1)","length":1531,"point":300.0,"problem_id":"arc066_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482667528,"execution_time":3,"id":1041154,"language":"C++14 (GCC 5.4.1)","length":899,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482667962,"execution_time":3,"id":1041425,"language":"C++14 (GCC 5.4.1)","length":1172,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482668352,"execution_time":8,"id":1041697,"language":"C++14 (GCC 5.4.1)","length":1212,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482668542,"execution_time":3,"id":1041825,"language":"C++14 (GCC 5.4.1)","length":1212,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482668706,"execution_time":3,"id":1041941,"language":"C++14 (GCC 5.4.1)","length":1217,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482669084,"execution_time":3,"id":1042197,"language":"C++14 (GCC 5.4.1)","length":974,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482669477,"execution_time":3,"id":1042451,"language":"C++14 (GCC 5.4.1)","length":1393,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482669839,"execution_time":3,"id":1042653,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482669902,"execution_time":3,"id":1042688,"language":"C++14 (GCC 5.4.1)","length":1006,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482669938,"execution_time":3,"id":1042707,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482670613,"execution_time":4,"id":1043054,"language":"C++14 (GCC 5.4.1)","length":1414,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482670938,"execution_time":975,"id":1043204,"language":"C++14 (GCC 5.4.1)","length":1068,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482671081,"execution_time":974,"id":1043258,"language":"C++14 (GCC 5.4.1)","length":1094,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482672555,"execution_time":3,"id":1043855,"language":"C++14 (GCC 5.4.1)","length":1419,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482672795,"execution_time":3,"id":1043940,"language":"C++14 (GCC 5.4.1)","length":1100,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482672938,"execution_time":3,"id":1043976,"language":"C++14 (GCC 5.4.1)","length":1112,"point":0.0,"problem_id":"agc008_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482673543,"execution_time":2,"id":1044237,"language":"C++14 (GCC 5.4.1)","length":1340,"point":0.0,"problem_id":"agc008_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482673631,"execution_time":3,"id":1044284,"language":"C++14 (GCC 5.4.1)","length":1362,"point":300.0,"problem_id":"agc008_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"agc008","epoch_second":1482674484,"execution_time":3,"id":1044531,"language":"C++14 (GCC 5.4.1)","length":1167,"point":600.0,"problem_id":"agc008_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc051","epoch_second":1483967910,"execution_time":23,"id":1059752,"language":"Python3 (3.4.3)","length":360,"point":300.0,"problem_id":"abc051_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc051","epoch_second":1483967939,"execution_time":"","id":1059753,"language":"Python3 (3.4.3)","length":302,"point":0.0,"problem_id":"abc051_b","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc051","epoch_second":1483968441,"execution_time":"","id":1059767,"language":"Python3 (3.4.3)","length":311,"point":0.0,"problem_id":"abc051_b","result":"TLE","user_id":"choruru"}
+,{"contest_id":"agc009","epoch_second":1485088079,"execution_time":2102,"id":1074416,"language":"C++14 (GCC 5.4.1)","length":1085,"point":0.0,"problem_id":"agc009_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"agc009","epoch_second":1485088457,"execution_time":91,"id":1074596,"language":"C++14 (GCC 5.4.1)","length":1106,"point":300.0,"problem_id":"agc009_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485605763,"execution_time":3,"id":1081815,"language":"C++14 (GCC 5.4.1)","length":913,"point":0.0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485607728,"execution_time":"","id":1083106,"language":"C++14 (GCC 5.4.1)","length":1903,"point":0.0,"problem_id":"arc068_b","result":"RE","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485607898,"execution_time":"","id":1083206,"language":"C++14 (GCC 5.4.1)","length":910,"point":0.0,"problem_id":"arc068_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485608055,"execution_time":"","id":1083275,"language":"C++14 (GCC 5.4.1)","length":1951,"point":0.0,"problem_id":"arc068_b","result":"CE","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485608288,"execution_time":32,"id":1083388,"language":"C++14 (GCC 5.4.1)","length":2006,"point":400.0,"problem_id":"arc068_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485608448,"execution_time":24,"id":1083449,"language":"Python3 (3.4.3)","length":115,"point":0.0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485608567,"execution_time":2,"id":1083503,"language":"C++14 (GCC 5.4.1)","length":945,"point":0.0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485609047,"execution_time":3,"id":1083717,"language":"C++14 (GCC 5.4.1)","length":951,"point":0.0,"problem_id":"arc068_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485609486,"execution_time":3,"id":1083882,"language":"C++14 (GCC 5.4.1)","length":956,"point":300.0,"problem_id":"arc068_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc068","epoch_second":1485610726,"execution_time":"","id":1084338,"language":"C++14 (GCC 5.4.1)","length":1114,"point":0.0,"problem_id":"arc068_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"agc013","epoch_second":1492259590,"execution_time":"","id":1222181,"language":"Java8 (OpenJDK 1.8.0)","length":1269,"point":0.0,"problem_id":"agc013_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"agc013","epoch_second":1492259632,"execution_time":474,"id":1222199,"language":"Java8 (OpenJDK 1.8.0)","length":1272,"point":300.0,"problem_id":"agc013_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493548781,"execution_time":615,"id":1255530,"language":"Java8 (OpenJDK 1.8.0)","length":883,"point":300.0,"problem_id":"arc073_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493553317,"execution_time":740,"id":1255634,"language":"Java8 (OpenJDK 1.8.0)","length":2354,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493553687,"execution_time":1879,"id":1255643,"language":"Java8 (OpenJDK 1.8.0)","length":2987,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493553904,"execution_time":1900,"id":1255650,"language":"Java8 (OpenJDK 1.8.0)","length":2986,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493554682,"execution_time":1002,"id":1255672,"language":"Java8 (OpenJDK 1.8.0)","length":3842,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493554980,"execution_time":580,"id":1255680,"language":"Java8 (OpenJDK 1.8.0)","length":3836,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493555064,"execution_time":583,"id":1255682,"language":"Java8 (OpenJDK 1.8.0)","length":3828,"point":0.0,"problem_id":"arc073_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493555283,"execution_time":"","id":1255688,"language":"Java8 (OpenJDK 1.8.0)","length":3879,"point":0.0,"problem_id":"arc073_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"arc073","epoch_second":1493555376,"execution_time":962,"id":1255693,"language":"Java8 (OpenJDK 1.8.0)","length":3879,"point":400.0,"problem_id":"arc073_b","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1539869219,"execution_time":"","id":3428618,"language":"Kotlin (1.0.0)","length":455,"point":0.0,"problem_id":"abc001_1","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1539869792,"execution_time":214,"id":3428700,"language":"Kotlin (1.0.0)","length":506,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1539870672,"execution_time":"","id":3428811,"language":"Kotlin (1.0.0)","length":578,"point":0.0,"problem_id":"abc002_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1539870735,"execution_time":"","id":3428825,"language":"Kotlin (1.0.0)","length":579,"point":0.0,"problem_id":"abc002_1","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1539870893,"execution_time":"","id":3428847,"language":"Kotlin (1.0.0)","length":586,"point":0.0,"problem_id":"abc002_1","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1539870945,"execution_time":244,"id":3428854,"language":"Kotlin (1.0.0)","length":586,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1539871399,"execution_time":"","id":3428925,"language":"Kotlin (1.0.0)","length":591,"point":0.0,"problem_id":"abc003_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1539871472,"execution_time":"","id":3428941,"language":"Kotlin (1.0.0)","length":628,"point":0.0,"problem_id":"abc003_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1539871953,"execution_time":"","id":3429000,"language":"Kotlin (1.0.0)","length":611,"point":0.0,"problem_id":"abc003_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1539871962,"execution_time":214,"id":3429001,"language":"Kotlin (1.0.0)","length":576,"point":0.0,"problem_id":"abc003_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1539954801,"execution_time":217,"id":3433765,"language":"Kotlin (1.0.0)","length":587,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc004","epoch_second":1539954917,"execution_time":217,"id":3433770,"language":"Kotlin (1.0.0)","length":528,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1539955119,"execution_time":240,"id":3433784,"language":"Kotlin (1.0.0)","length":565,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc006","epoch_second":1539955241,"execution_time":210,"id":3433795,"language":"Kotlin (1.0.0)","length":554,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1539955321,"execution_time":"","id":3433805,"language":"Kotlin (1.0.0)","length":555,"point":0.0,"problem_id":"abc007_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1539955355,"execution_time":208,"id":3433811,"language":"Kotlin (1.0.0)","length":528,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1539955552,"execution_time":"","id":3433825,"language":"Kotlin (1.0.0)","length":565,"point":0.0,"problem_id":"abc005_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1539955569,"execution_time":235,"id":3433827,"language":"Kotlin (1.0.0)","length":565,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc008","epoch_second":1539955693,"execution_time":235,"id":3433840,"language":"Kotlin (1.0.0)","length":561,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc009","epoch_second":1539955915,"execution_time":215,"id":3433859,"language":"Kotlin (1.0.0)","length":534,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc010","epoch_second":1539956120,"execution_time":209,"id":3433871,"language":"Kotlin (1.0.0)","length":525,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc011","epoch_second":1539966010,"execution_time":222,"id":3434627,"language":"Kotlin (1.0.0)","length":535,"point":0.0,"problem_id":"abc011_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc012","epoch_second":1539966200,"execution_time":"","id":3434639,"language":"Kotlin (1.0.0)","length":547,"point":0.0,"problem_id":"abc012_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc012","epoch_second":1539966260,"execution_time":236,"id":3434644,"language":"Kotlin (1.0.0)","length":548,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc013","epoch_second":1539967046,"execution_time":207,"id":3434682,"language":"Kotlin (1.0.0)","length":701,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc014","epoch_second":1539967576,"execution_time":214,"id":3434712,"language":"Kotlin (1.0.0)","length":667,"point":0.0,"problem_id":"abc014_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc014","epoch_second":1539967646,"execution_time":212,"id":3434716,"language":"Kotlin (1.0.0)","length":670,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc015","epoch_second":1539967790,"execution_time":"","id":3434722,"language":"Kotlin (1.0.0)","length":587,"point":0.0,"problem_id":"abc015_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc016","epoch_second":1539967909,"execution_time":"","id":3434730,"language":"Kotlin (1.0.0)","length":586,"point":0.0,"problem_id":"abc016_1","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc017","epoch_second":1539968370,"execution_time":237,"id":3434745,"language":"Kotlin (1.0.0)","length":681,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc016","epoch_second":1539968391,"execution_time":245,"id":3434746,"language":"Kotlin (1.0.0)","length":587,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc018","epoch_second":1539968879,"execution_time":235,"id":3434760,"language":"Kotlin (1.0.0)","length":623,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc018","epoch_second":1539969083,"execution_time":"","id":3434767,"language":"Kotlin (1.0.0)","length":623,"point":0.0,"problem_id":"abc018_1","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc019","epoch_second":1539969414,"execution_time":239,"id":3434781,"language":"Kotlin (1.0.0)","length":727,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc018","epoch_second":1539969428,"execution_time":236,"id":3434782,"language":"Kotlin (1.0.0)","length":623,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc020","epoch_second":1539969519,"execution_time":210,"id":3434790,"language":"Kotlin (1.0.0)","length":558,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc018","epoch_second":1539969612,"execution_time":"","id":3434797,"language":"Kotlin (1.0.0)","length":609,"point":0.0,"problem_id":"abc018_1","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc018","epoch_second":1539969734,"execution_time":232,"id":3434799,"language":"Kotlin (1.0.0)","length":607,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc015","epoch_second":1539969860,"execution_time":219,"id":3434802,"language":"Kotlin (1.0.0)","length":590,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc011","epoch_second":1539970021,"execution_time":211,"id":3434805,"language":"Kotlin (1.0.0)","length":642,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc021","epoch_second":1540017630,"execution_time":225,"id":3438318,"language":"Kotlin (1.0.0)","length":563,"point":0.0,"problem_id":"abc021_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc021","epoch_second":1540017668,"execution_time":224,"id":3438329,"language":"Kotlin (1.0.0)","length":580,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc022","epoch_second":1540019750,"execution_time":"","id":3438922,"language":"Kotlin (1.0.0)","length":657,"point":0.0,"problem_id":"abc022_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc022","epoch_second":1540019758,"execution_time":304,"id":3438927,"language":"Kotlin (1.0.0)","length":658,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc022","epoch_second":1540019916,"execution_time":252,"id":3438968,"language":"Kotlin (1.0.0)","length":728,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc023","epoch_second":1540031651,"execution_time":214,"id":3440458,"language":"Kotlin (1.0.0)","length":629,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc024","epoch_second":1540032124,"execution_time":238,"id":3440503,"language":"Kotlin (1.0.0)","length":798,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc024","epoch_second":1540032197,"execution_time":239,"id":3440511,"language":"Kotlin (1.0.0)","length":803,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc024","epoch_second":1540032297,"execution_time":236,"id":3440527,"language":"Kotlin (1.0.0)","length":803,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc025","epoch_second":1540032781,"execution_time":"","id":3440587,"language":"Kotlin (1.0.0)","length":663,"point":0.0,"problem_id":"abc025_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc025","epoch_second":1540032803,"execution_time":212,"id":3440591,"language":"Kotlin (1.0.0)","length":664,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc026","epoch_second":1540033174,"execution_time":"","id":3440633,"language":"Kotlin (1.0.0)","length":590,"point":0.0,"problem_id":"abc026_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc027","epoch_second":1540033530,"execution_time":"","id":3440667,"language":"Kotlin (1.0.0)","length":671,"point":0.0,"problem_id":"abc027_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc026","epoch_second":1540033551,"execution_time":211,"id":3440673,"language":"Kotlin (1.0.0)","length":590,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc027","epoch_second":1540033573,"execution_time":236,"id":3440677,"language":"Kotlin (1.0.0)","length":671,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc028","epoch_second":1540033971,"execution_time":212,"id":3440741,"language":"Kotlin (1.0.0)","length":708,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc028","epoch_second":1540034062,"execution_time":214,"id":3440751,"language":"Kotlin (1.0.0)","length":708,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc029","epoch_second":1540034151,"execution_time":211,"id":3440766,"language":"Kotlin (1.0.0)","length":518,"point":100.0,"problem_id":"abc029_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc030","epoch_second":1540034368,"execution_time":236,"id":3440806,"language":"Kotlin (1.0.0)","length":756,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc031","epoch_second":1540034624,"execution_time":238,"id":3440834,"language":"Kotlin (1.0.0)","length":716,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1540035354,"execution_time":"","id":3440931,"language":"Kotlin (1.0.0)","length":790,"point":0.0,"problem_id":"abc032_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1540035423,"execution_time":"","id":3440940,"language":"Kotlin (1.0.0)","length":790,"point":0.0,"problem_id":"abc032_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1540035644,"execution_time":209,"id":3440965,"language":"Kotlin (1.0.0)","length":776,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1540035745,"execution_time":212,"id":3440977,"language":"Kotlin (1.0.0)","length":781,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc032","epoch_second":1540036139,"execution_time":211,"id":3441004,"language":"Kotlin (1.0.0)","length":841,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc033","epoch_second":1540036472,"execution_time":216,"id":3441042,"language":"Kotlin (1.0.0)","length":565,"point":100.0,"problem_id":"abc033_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc034","epoch_second":1540036719,"execution_time":"","id":3441078,"language":"Kotlin (1.0.0)","length":594,"point":0.0,"problem_id":"abc034_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc034","epoch_second":1540036760,"execution_time":244,"id":3441082,"language":"Kotlin (1.0.0)","length":594,"point":100.0,"problem_id":"abc034_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc035","epoch_second":1540036967,"execution_time":235,"id":3441104,"language":"Kotlin (1.0.0)","length":766,"point":100.0,"problem_id":"abc035_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc036","epoch_second":1540039053,"execution_time":234,"id":3441341,"language":"Kotlin (1.0.0)","length":648,"point":100.0,"problem_id":"abc036_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc037","epoch_second":1540041035,"execution_time":239,"id":3441631,"language":"Kotlin (1.0.0)","length":614,"point":100.0,"problem_id":"abc037_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc038","epoch_second":1540041195,"execution_time":214,"id":3441657,"language":"Kotlin (1.0.0)","length":554,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc039","epoch_second":1540041333,"execution_time":236,"id":3441682,"language":"Kotlin (1.0.0)","length":580,"point":0.0,"problem_id":"abc039_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc039","epoch_second":1540042105,"execution_time":235,"id":3441765,"language":"Kotlin (1.0.0)","length":611,"point":100.0,"problem_id":"abc039_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc040","epoch_second":1540042290,"execution_time":"","id":3441785,"language":"Kotlin (1.0.0)","length":557,"point":0.0,"problem_id":"abc040_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc040","epoch_second":1540042385,"execution_time":"","id":3441805,"language":"Kotlin (1.0.0)","length":557,"point":0.0,"problem_id":"abc040_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc040","epoch_second":1540042682,"execution_time":"","id":3441844,"language":"Kotlin (1.0.0)","length":555,"point":0.0,"problem_id":"abc040_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc040","epoch_second":1540042965,"execution_time":236,"id":3441879,"language":"Kotlin (1.0.0)","length":569,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc040","epoch_second":1540043287,"execution_time":234,"id":3441925,"language":"Kotlin (1.0.0)","length":575,"point":100.0,"problem_id":"abc040_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc041","epoch_second":1540113183,"execution_time":207,"id":3445828,"language":"Kotlin (1.0.0)","length":556,"point":100.0,"problem_id":"abc041_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc042","epoch_second":1540113511,"execution_time":238,"id":3445861,"language":"Kotlin (1.0.0)","length":628,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc043","epoch_second":1540113661,"execution_time":210,"id":3445881,"language":"Kotlin (1.0.0)","length":527,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc044","epoch_second":1540115950,"execution_time":208,"id":3446093,"language":"Kotlin (1.0.0)","length":606,"point":100.0,"problem_id":"abc044_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc045","epoch_second":1540116049,"execution_time":216,"id":3446101,"language":"Kotlin (1.0.0)","length":562,"point":0.0,"problem_id":"abc045_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc045","epoch_second":1540116872,"execution_time":210,"id":3446167,"language":"Kotlin (1.0.0)","length":577,"point":0.0,"problem_id":"abc045_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc045","epoch_second":1540117772,"execution_time":209,"id":3446231,"language":"Kotlin (1.0.0)","length":566,"point":100.0,"problem_id":"abc045_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc046","epoch_second":1540117919,"execution_time":"","id":3446246,"language":"Kotlin (1.0.0)","length":551,"point":0.0,"problem_id":"abc046_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc046","epoch_second":1540117954,"execution_time":216,"id":3446252,"language":"Kotlin (1.0.0)","length":554,"point":0.0,"problem_id":"abc046_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc046","epoch_second":1540118923,"execution_time":"","id":3446337,"language":"Kotlin (1.0.0)","length":564,"point":0.0,"problem_id":"abc046_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc046","epoch_second":1540118970,"execution_time":237,"id":3446345,"language":"Kotlin (1.0.0)","length":565,"point":100.0,"problem_id":"abc046_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc047","epoch_second":1540119124,"execution_time":237,"id":3446372,"language":"Kotlin (1.0.0)","length":624,"point":100.0,"problem_id":"abc047_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc049","epoch_second":1540119314,"execution_time":211,"id":3446386,"language":"Kotlin (1.0.0)","length":594,"point":0.0,"problem_id":"abc049_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc049","epoch_second":1540120162,"execution_time":208,"id":3446474,"language":"Kotlin (1.0.0)","length":606,"point":100.0,"problem_id":"abc049_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc048","epoch_second":1540124193,"execution_time":213,"id":3446942,"language":"Kotlin (1.0.0)","length":548,"point":0.0,"problem_id":"abc048_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc048","epoch_second":1540124408,"execution_time":233,"id":3446978,"language":"Kotlin (1.0.0)","length":540,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc050","epoch_second":1540124807,"execution_time":239,"id":3447029,"language":"Kotlin (1.0.0)","length":712,"point":100.0,"problem_id":"abc050_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc051","epoch_second":1540214591,"execution_time":238,"id":3452609,"language":"Kotlin (1.0.0)","length":509,"point":100.0,"problem_id":"abc051_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc052","epoch_second":1540214961,"execution_time":"","id":3452660,"language":"Kotlin (1.0.0)","length":599,"point":0.0,"problem_id":"abc052_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc053","epoch_second":1540215173,"execution_time":216,"id":3452693,"language":"Kotlin (1.0.0)","length":530,"point":100.0,"problem_id":"abc053_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc052","epoch_second":1540215265,"execution_time":234,"id":3452707,"language":"Kotlin (1.0.0)","length":595,"point":100.0,"problem_id":"abc052_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc054","epoch_second":1540218732,"execution_time":237,"id":3453095,"language":"Kotlin (1.0.0)","length":656,"point":0.0,"problem_id":"abc054_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc055","epoch_second":1540218837,"execution_time":208,"id":3453107,"language":"Kotlin (1.0.0)","length":537,"point":0.0,"problem_id":"abc055_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc055","epoch_second":1540218941,"execution_time":210,"id":3453120,"language":"Kotlin (1.0.0)","length":537,"point":100.0,"problem_id":"abc055_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc054","epoch_second":1540219690,"execution_time":252,"id":3453185,"language":"Kotlin (1.0.0)","length":780,"point":100.0,"problem_id":"abc054_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc056","epoch_second":1540221548,"execution_time":235,"id":3453344,"language":"Kotlin (1.0.0)","length":636,"point":100.0,"problem_id":"abc056_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc057","epoch_second":1540221628,"execution_time":236,"id":3453353,"language":"Kotlin (1.0.0)","length":564,"point":0.0,"problem_id":"abc057_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc057","epoch_second":1540221853,"execution_time":234,"id":3453366,"language":"Kotlin (1.0.0)","length":566,"point":100.0,"problem_id":"abc057_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc058","epoch_second":1540222291,"execution_time":"","id":3453392,"language":"Kotlin (1.0.0)","length":648,"point":0.0,"problem_id":"abc058_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc058","epoch_second":1540222314,"execution_time":"","id":3453396,"language":"Kotlin (1.0.0)","length":648,"point":0.0,"problem_id":"abc058_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc058","epoch_second":1540222515,"execution_time":237,"id":3453410,"language":"Kotlin (1.0.0)","length":672,"point":100.0,"problem_id":"abc058_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc059","epoch_second":1540222737,"execution_time":236,"id":3453429,"language":"Kotlin (1.0.0)","length":583,"point":100.0,"problem_id":"abc059_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc060","epoch_second":1540223071,"execution_time":240,"id":3453449,"language":"Kotlin (1.0.0)","length":657,"point":0.0,"problem_id":"abc060_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc060","epoch_second":1540223140,"execution_time":235,"id":3453453,"language":"Kotlin (1.0.0)","length":657,"point":100.0,"problem_id":"abc060_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc061","epoch_second":1540297371,"execution_time":241,"id":3457230,"language":"Kotlin (1.0.0)","length":589,"point":0.0,"problem_id":"abc061_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc062","epoch_second":1540297744,"execution_time":247,"id":3457268,"language":"Kotlin (1.0.0)","length":750,"point":0.0,"problem_id":"abc062_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc061","epoch_second":1540297828,"execution_time":238,"id":3457279,"language":"Kotlin (1.0.0)","length":589,"point":100.0,"problem_id":"abc061_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc062","epoch_second":1540297854,"execution_time":238,"id":3457282,"language":"Kotlin (1.0.0)","length":750,"point":100.0,"problem_id":"abc062_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc063","epoch_second":1540298024,"execution_time":236,"id":3457297,"language":"Kotlin (1.0.0)","length":593,"point":100.0,"problem_id":"abc063_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc064","epoch_second":1540298179,"execution_time":236,"id":3457311,"language":"Kotlin (1.0.0)","length":567,"point":100.0,"problem_id":"abc064_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc065","epoch_second":1540298635,"execution_time":237,"id":3457354,"language":"Kotlin (1.0.0)","length":688,"point":100.0,"problem_id":"abc065_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc066","epoch_second":1540298824,"execution_time":244,"id":3457373,"language":"Kotlin (1.0.0)","length":580,"point":0.0,"problem_id":"abc066_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc066","epoch_second":1540298864,"execution_time":237,"id":3457375,"language":"Kotlin (1.0.0)","length":589,"point":100.0,"problem_id":"abc066_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc067","epoch_second":1540299042,"execution_time":240,"id":3457394,"language":"Kotlin (1.0.0)","length":601,"point":0.0,"problem_id":"abc067_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc067","epoch_second":1540299160,"execution_time":241,"id":3457403,"language":"Kotlin (1.0.0)","length":636,"point":100.0,"problem_id":"abc067_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc068","epoch_second":1540299305,"execution_time":207,"id":3457423,"language":"Kotlin (1.0.0)","length":528,"point":100.0,"problem_id":"abc068_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc069","epoch_second":1540299442,"execution_time":236,"id":3457438,"language":"Kotlin (1.0.0)","length":561,"point":100.0,"problem_id":"abc069_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc070","epoch_second":1540299533,"execution_time":210,"id":3457445,"language":"Kotlin (1.0.0)","length":551,"point":100.0,"problem_id":"abc070_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc071","epoch_second":1540299890,"execution_time":236,"id":3457478,"language":"Kotlin (1.0.0)","length":689,"point":100.0,"problem_id":"abc071_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc072","epoch_second":1540300062,"execution_time":234,"id":3457493,"language":"Kotlin (1.0.0)","length":585,"point":100.0,"problem_id":"abc072_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc073","epoch_second":1540300225,"execution_time":211,"id":3457513,"language":"Kotlin (1.0.0)","length":549,"point":100.0,"problem_id":"abc073_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc074","epoch_second":1540300344,"execution_time":"","id":3457529,"language":"Kotlin (1.0.0)","length":570,"point":0.0,"problem_id":"abc074_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc074","epoch_second":1540300414,"execution_time":210,"id":3457538,"language":"Kotlin (1.0.0)","length":556,"point":100.0,"problem_id":"abc074_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc075","epoch_second":1540300844,"execution_time":235,"id":3457591,"language":"Kotlin (1.0.0)","length":610,"point":100.0,"problem_id":"abc075_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc076","epoch_second":1540379507,"execution_time":"","id":3462177,"language":"Kotlin (1.0.0)","length":557,"point":0.0,"problem_id":"abc076_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc076","epoch_second":1540379571,"execution_time":215,"id":3462182,"language":"Kotlin (1.0.0)","length":557,"point":0.0,"problem_id":"abc076_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc076","epoch_second":1540379666,"execution_time":218,"id":3462188,"language":"Kotlin (1.0.0)","length":567,"point":100.0,"problem_id":"abc076_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc077","epoch_second":1540379856,"execution_time":216,"id":3462202,"language":"Kotlin (1.0.0)","length":567,"point":100.0,"problem_id":"abc077_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc078","epoch_second":1540380604,"execution_time":"","id":3462266,"language":"Kotlin (1.0.0)","length":647,"point":0.0,"problem_id":"abc078_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc078","epoch_second":1540380613,"execution_time":"","id":3462267,"language":"Kotlin (1.0.0)","length":650,"point":0.0,"problem_id":"abc078_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc078","epoch_second":1540380724,"execution_time":237,"id":3462283,"language":"Kotlin (1.0.0)","length":739,"point":100.0,"problem_id":"abc078_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc079","epoch_second":1540460358,"execution_time":242,"id":3467104,"language":"Kotlin (1.0.0)","length":644,"point":0.0,"problem_id":"abc079_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc079","epoch_second":1540460720,"execution_time":217,"id":3467142,"language":"Kotlin (1.0.0)","length":635,"point":100.0,"problem_id":"abc079_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc080","epoch_second":1540460919,"execution_time":236,"id":3467166,"language":"Kotlin (1.0.0)","length":623,"point":100.0,"problem_id":"abc080_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc081","epoch_second":1540461211,"execution_time":209,"id":3467189,"language":"Kotlin (1.0.0)","length":513,"point":100.0,"problem_id":"abc081_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc082","epoch_second":1540461772,"execution_time":235,"id":3467243,"language":"Kotlin (1.0.0)","length":616,"point":100.0,"problem_id":"abc082_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc083","epoch_second":1540461979,"execution_time":238,"id":3467269,"language":"Kotlin (1.0.0)","length":730,"point":100.0,"problem_id":"abc083_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc084","epoch_second":1540462291,"execution_time":210,"id":3467295,"language":"Kotlin (1.0.0)","length":527,"point":100.0,"problem_id":"abc084_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc085","epoch_second":1540462405,"execution_time":216,"id":3467304,"language":"Kotlin (1.0.0)","length":543,"point":0.0,"problem_id":"abc085_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc085","epoch_second":1540462537,"execution_time":215,"id":3467320,"language":"Kotlin (1.0.0)","length":543,"point":100.0,"problem_id":"abc085_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc086","epoch_second":1540462822,"execution_time":236,"id":3467342,"language":"Kotlin (1.0.0)","length":581,"point":100.0,"problem_id":"abc086_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc087","epoch_second":1540462943,"execution_time":"","id":3467352,"language":"Kotlin (1.0.0)","length":544,"point":0.0,"problem_id":"abc087_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc087","epoch_second":1540463054,"execution_time":216,"id":3467366,"language":"Kotlin (1.0.0)","length":544,"point":0.0,"problem_id":"abc087_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc088","epoch_second":1540463201,"execution_time":209,"id":3467378,"language":"Kotlin (1.0.0)","length":581,"point":100.0,"problem_id":"abc088_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc087","epoch_second":1540463315,"execution_time":210,"id":3467389,"language":"Kotlin (1.0.0)","length":544,"point":100.0,"problem_id":"abc087_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc089","epoch_second":1540463468,"execution_time":209,"id":3467410,"language":"Kotlin (1.0.0)","length":524,"point":100.0,"problem_id":"abc089_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc090","epoch_second":1540463620,"execution_time":212,"id":3467418,"language":"Kotlin (1.0.0)","length":529,"point":100.0,"problem_id":"abc090_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc091","epoch_second":1540463772,"execution_time":234,"id":3467429,"language":"Kotlin (1.0.0)","length":583,"point":0.0,"problem_id":"abc091_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc091","epoch_second":1540463807,"execution_time":237,"id":3467434,"language":"Kotlin (1.0.0)","length":584,"point":100.0,"problem_id":"abc091_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc092","epoch_second":1540464007,"execution_time":214,"id":3467454,"language":"Kotlin (1.0.0)","length":632,"point":100.0,"problem_id":"abc092_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1540464200,"execution_time":233,"id":3467468,"language":"Kotlin (1.0.0)","length":569,"point":0.0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1540464460,"execution_time":213,"id":3467495,"language":"Kotlin (1.0.0)","length":555,"point":0.0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1540464579,"execution_time":214,"id":3467507,"language":"Kotlin (1.0.0)","length":573,"point":0.0,"problem_id":"abc093_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1540464676,"execution_time":"","id":3467516,"language":"Kotlin (1.0.0)","length":589,"point":0.0,"problem_id":"abc093_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1540464704,"execution_time":243,"id":3467517,"language":"Kotlin (1.0.0)","length":592,"point":100.0,"problem_id":"abc093_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1540465056,"execution_time":238,"id":3467548,"language":"Kotlin (1.0.0)","length":591,"point":0.0,"problem_id":"abc094_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1540465095,"execution_time":238,"id":3467550,"language":"Kotlin (1.0.0)","length":599,"point":0.0,"problem_id":"abc094_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1540465220,"execution_time":236,"id":3467562,"language":"Kotlin (1.0.0)","length":599,"point":100.0,"problem_id":"abc094_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc095","epoch_second":1540465539,"execution_time":209,"id":3467592,"language":"Kotlin (1.0.0)","length":531,"point":100.0,"problem_id":"abc095_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc096","epoch_second":1540465661,"execution_time":236,"id":3467610,"language":"Kotlin (1.0.0)","length":531,"point":0.0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc096","epoch_second":1540465779,"execution_time":237,"id":3467620,"language":"Kotlin (1.0.0)","length":583,"point":0.0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc096","epoch_second":1540465855,"execution_time":237,"id":3467629,"language":"Kotlin (1.0.0)","length":583,"point":0.0,"problem_id":"abc096_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc096","epoch_second":1540465924,"execution_time":237,"id":3467640,"language":"Kotlin (1.0.0)","length":585,"point":100.0,"problem_id":"abc096_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc097","epoch_second":1540466135,"execution_time":242,"id":3467669,"language":"Kotlin (1.0.0)","length":616,"point":0.0,"problem_id":"abc097_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc097","epoch_second":1540466320,"execution_time":241,"id":3467687,"language":"Kotlin (1.0.0)","length":689,"point":0.0,"problem_id":"abc097_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc097","epoch_second":1540466468,"execution_time":236,"id":3467704,"language":"Kotlin (1.0.0)","length":714,"point":100.0,"problem_id":"abc097_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc098","epoch_second":1540466653,"execution_time":241,"id":3467721,"language":"Kotlin (1.0.0)","length":579,"point":100.0,"problem_id":"abc098_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc099","epoch_second":1540466768,"execution_time":211,"id":3467740,"language":"Kotlin (1.0.0)","length":535,"point":100.0,"problem_id":"abc099_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc100","epoch_second":1540466951,"execution_time":243,"id":3467764,"language":"Kotlin (1.0.0)","length":564,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc101","epoch_second":1540571677,"execution_time":214,"id":3474345,"language":"Kotlin (1.0.0)","length":621,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc102","epoch_second":1540572584,"execution_time":212,"id":3474393,"language":"Kotlin (1.0.0)","length":555,"point":100.0,"problem_id":"abc102_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc103","epoch_second":1540573038,"execution_time":241,"id":3474409,"language":"Kotlin (1.0.0)","length":598,"point":100.0,"problem_id":"abc103_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1540573384,"execution_time":208,"id":3474421,"language":"Kotlin (1.0.0)","length":620,"point":0.0,"problem_id":"abc104_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1540573469,"execution_time":213,"id":3474425,"language":"Kotlin (1.0.0)","length":620,"point":100.0,"problem_id":"abc104_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc105","epoch_second":1540573748,"execution_time":238,"id":3474441,"language":"Kotlin (1.0.0)","length":584,"point":100.0,"problem_id":"abc105_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc106","epoch_second":1540573991,"execution_time":244,"id":3474454,"language":"Kotlin (1.0.0)","length":565,"point":100.0,"problem_id":"abc106_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc107","epoch_second":1540574298,"execution_time":240,"id":3474469,"language":"Kotlin (1.0.0)","length":553,"point":0.0,"problem_id":"abc107_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc107","epoch_second":1540574339,"execution_time":235,"id":3474475,"language":"Kotlin (1.0.0)","length":555,"point":100.0,"problem_id":"abc107_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc108","epoch_second":1540574713,"execution_time":211,"id":3474493,"language":"Kotlin (1.0.0)","length":635,"point":100.0,"problem_id":"abc108_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1540575306,"execution_time":209,"id":3474518,"language":"Kotlin (1.0.0)","length":574,"point":0.0,"problem_id":"abc112_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1540575386,"execution_time":209,"id":3474523,"language":"Kotlin (1.0.0)","length":573,"point":100.0,"problem_id":"abc112_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc110","epoch_second":1540575523,"execution_time":239,"id":3474528,"language":"Kotlin (1.0.0)","length":609,"point":100.0,"problem_id":"abc110_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1540575748,"execution_time":209,"id":3474537,"language":"Kotlin (1.0.0)","length":639,"point":0.0,"problem_id":"abc111_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1540576270,"execution_time":211,"id":3474561,"language":"Kotlin (1.0.0)","length":657,"point":100.0,"problem_id":"abc111_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540581993,"execution_time":535,"id":3474656,"language":"Kotlin (1.0.0)","length":986,"point":2.0,"problem_id":"tdpc_contest","result":"AC","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540630936,"execution_time":"","id":3477275,"language":"Kotlin (1.0.0)","length":1870,"point":0.0,"problem_id":"tdpc_game","result":"CE","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540630981,"execution_time":481,"id":3477279,"language":"Kotlin (1.0.0)","length":1868,"point":0.0,"problem_id":"tdpc_game","result":"WA","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540640977,"execution_time":733,"id":3478119,"language":"Kotlin (1.0.0)","length":1885,"point":3.0,"problem_id":"tdpc_game","result":"AC","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540729926,"execution_time":2111,"id":3494322,"language":"Kotlin (1.0.0)","length":2097,"point":0.0,"problem_id":"tdpc_tournament","result":"WA","user_id":"choruru"}
+,{"contest_id":"tdpc","epoch_second":1540735791,"execution_time":790,"id":3495114,"language":"Kotlin (1.0.0)","length":2573,"point":4.0,"problem_id":"tdpc_tournament","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540802134,"execution_time":265,"id":3498303,"language":"Kotlin (1.0.0)","length":1530,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540802276,"execution_time":239,"id":3498319,"language":"Kotlin (1.0.0)","length":1536,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540802697,"execution_time":"","id":3498352,"language":"Kotlin (1.0.0)","length":1527,"point":0.0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540802810,"execution_time":241,"id":3498369,"language":"Kotlin (1.0.0)","length":1534,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540818969,"execution_time":"","id":3500169,"language":"Kotlin (1.0.0)","length":1631,"point":0.0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540897637,"execution_time":"","id":3504587,"language":"Kotlin (1.0.0)","length":1932,"point":0.0,"problem_id":"abc001_3","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540897778,"execution_time":266,"id":3504597,"language":"Kotlin (1.0.0)","length":1941,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc001","epoch_second":1540898186,"execution_time":245,"id":3504639,"language":"Kotlin (1.0.0)","length":1911,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1540899759,"execution_time":"","id":3504772,"language":"Kotlin (1.0.0)","length":930,"point":0.0,"problem_id":"abc002_3","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1540899855,"execution_time":"","id":3504780,"language":"Kotlin (1.0.0)","length":911,"point":0.0,"problem_id":"abc002_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc002","epoch_second":1540900031,"execution_time":245,"id":3504792,"language":"Kotlin (1.0.0)","length":910,"point":100.0,"problem_id":"abc002_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1540901014,"execution_time":"","id":3504873,"language":"Kotlin (1.0.0)","length":801,"point":0.0,"problem_id":"abc003_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1540901048,"execution_time":"","id":3504878,"language":"Kotlin (1.0.0)","length":801,"point":0.0,"problem_id":"abc003_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1540901076,"execution_time":247,"id":3504882,"language":"Kotlin (1.0.0)","length":799,"point":0.0,"problem_id":"abc003_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1540901135,"execution_time":"","id":3504888,"language":"Kotlin (1.0.0)","length":802,"point":0.0,"problem_id":"abc003_3","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc003","epoch_second":1540901148,"execution_time":250,"id":3504891,"language":"Kotlin (1.0.0)","length":803,"point":100.0,"problem_id":"abc003_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc004","epoch_second":1540902171,"execution_time":233,"id":3504999,"language":"Kotlin (1.0.0)","length":815,"point":0.0,"problem_id":"abc004_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc004","epoch_second":1540903014,"execution_time":235,"id":3505097,"language":"Kotlin (1.0.0)","length":869,"point":0.0,"problem_id":"abc004_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc004","epoch_second":1540903424,"execution_time":239,"id":3505149,"language":"Kotlin (1.0.0)","length":869,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540906464,"execution_time":256,"id":3505574,"language":"Kotlin (1.0.0)","length":1085,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540906578,"execution_time":255,"id":3505592,"language":"Kotlin (1.0.0)","length":1065,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540906956,"execution_time":256,"id":3505639,"language":"Kotlin (1.0.0)","length":1079,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540907157,"execution_time":241,"id":3505668,"language":"Kotlin (1.0.0)","length":1147,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540907381,"execution_time":263,"id":3505704,"language":"Kotlin (1.0.0)","length":1098,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540907541,"execution_time":323,"id":3505727,"language":"Kotlin (1.0.0)","length":1098,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540907724,"execution_time":244,"id":3505750,"language":"Kotlin (1.0.0)","length":1092,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc005","epoch_second":1540907794,"execution_time":260,"id":3505760,"language":"Kotlin (1.0.0)","length":1092,"point":100.0,"problem_id":"abc005_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc006","epoch_second":1540984255,"execution_time":2119,"id":3509901,"language":"Kotlin (1.0.0)","length":1572,"point":0.0,"problem_id":"abc006_3","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc006","epoch_second":1540987425,"execution_time":"","id":3510162,"language":"Kotlin (1.0.0)","length":1978,"point":10.0,"problem_id":"abc006_3","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc006","epoch_second":1540992627,"execution_time":258,"id":3510744,"language":"Kotlin (1.0.0)","length":949,"point":100.0,"problem_id":"abc006_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541368056,"execution_time":"","id":3544624,"language":"Kotlin (1.0.0)","length":1700,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541368208,"execution_time":"","id":3544626,"language":"Kotlin (1.0.0)","length":1735,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541368954,"execution_time":"","id":3544640,"language":"Kotlin (1.0.0)","length":1830,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541369129,"execution_time":"","id":3544646,"language":"Kotlin (1.0.0)","length":1830,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541369276,"execution_time":"","id":3544651,"language":"Kotlin (1.0.0)","length":1830,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541369710,"execution_time":"","id":3544662,"language":"Kotlin (1.0.0)","length":1791,"point":0.0,"problem_id":"abc007_3","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc007","epoch_second":1541370172,"execution_time":382,"id":3544672,"language":"Kotlin (1.0.0)","length":1883,"point":100.0,"problem_id":"abc007_3","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541407795,"execution_time":"","id":3547312,"language":"Kotlin (1.0.0)","length":887,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541407824,"execution_time":"","id":3547315,"language":"Kotlin (1.0.0)","length":888,"point":0.0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541408331,"execution_time":"","id":3547354,"language":"Kotlin (1.0.0)","length":854,"point":0.0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541409185,"execution_time":"","id":3547444,"language":"Kotlin (1.0.0)","length":926,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541409243,"execution_time":"","id":3547450,"language":"Kotlin (1.0.0)","length":958,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc113","epoch_second":1541410144,"execution_time":"","id":3547572,"language":"Kotlin (1.0.0)","length":1051,"point":0.0,"problem_id":"abc113_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1541412226,"execution_time":297,"id":3547782,"language":"Kotlin (1.0.0)","length":875,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1541413048,"execution_time":301,"id":3547858,"language":"Kotlin (1.0.0)","length":897,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1541413381,"execution_time":298,"id":3547888,"language":"Kotlin (1.0.0)","length":1010,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1541413845,"execution_time":292,"id":3547922,"language":"Kotlin (1.0.0)","length":1011,"point":0.0,"problem_id":"abc112_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc112","epoch_second":1541414662,"execution_time":332,"id":3547988,"language":"Kotlin (1.0.0)","length":1031,"point":300.0,"problem_id":"abc112_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541507647,"execution_time":673,"id":3554100,"language":"Kotlin (1.0.0)","length":2140,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541507880,"execution_time":674,"id":3554124,"language":"Kotlin (1.0.0)","length":2132,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541508193,"execution_time":673,"id":3554154,"language":"Kotlin (1.0.0)","length":2263,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541510169,"execution_time":"","id":3554361,"language":"Kotlin (1.0.0)","length":1675,"point":0.0,"problem_id":"arc103_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541510510,"execution_time":821,"id":3554409,"language":"Kotlin (1.0.0)","length":1667,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc111","epoch_second":1541510649,"execution_time":783,"id":3554429,"language":"Kotlin (1.0.0)","length":1667,"point":300.0,"problem_id":"arc103_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc110","epoch_second":1541510939,"execution_time":750,"id":3554461,"language":"Kotlin (1.0.0)","length":499,"point":0.0,"problem_id":"abc110_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc110","epoch_second":1541511380,"execution_time":"","id":3554517,"language":"Kotlin (1.0.0)","length":863,"point":0.0,"problem_id":"abc110_c","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc110","epoch_second":1541511468,"execution_time":"","id":3554526,"language":"Kotlin (1.0.0)","length":865,"point":0.0,"problem_id":"abc110_c","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc110","epoch_second":1541511523,"execution_time":375,"id":3554534,"language":"Kotlin (1.0.0)","length":865,"point":300.0,"problem_id":"abc110_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc109","epoch_second":1541512812,"execution_time":513,"id":3554686,"language":"Kotlin (1.0.0)","length":724,"point":300.0,"problem_id":"abc109_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc107","epoch_second":1541838363,"execution_time":"","id":3575678,"language":"Kotlin (1.0.0)","length":1634,"point":0.0,"problem_id":"arc101_a","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc107","epoch_second":1541838612,"execution_time":"","id":3575740,"language":"Kotlin (1.0.0)","length":1740,"point":0.0,"problem_id":"arc101_a","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc107","epoch_second":1541839321,"execution_time":557,"id":3575930,"language":"Kotlin (1.0.0)","length":865,"point":300.0,"problem_id":"arc101_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc106","epoch_second":1541840294,"execution_time":"","id":3576177,"language":"Kotlin (1.0.0)","length":681,"point":0.0,"problem_id":"abc106_c","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc106","epoch_second":1541840431,"execution_time":"","id":3576214,"language":"Kotlin (1.0.0)","length":768,"point":0.0,"problem_id":"abc106_c","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc106","epoch_second":1541841176,"execution_time":234,"id":3576390,"language":"Kotlin (1.0.0)","length":767,"point":300.0,"problem_id":"abc106_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541854461,"execution_time":"","id":3580438,"language":"Kotlin (1.0.0)","length":1820,"point":0.0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541854558,"execution_time":"","id":3580499,"language":"Kotlin (1.0.0)","length":1832,"point":0.0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541854614,"execution_time":"","id":3580521,"language":"Kotlin (1.0.0)","length":1850,"point":0.0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541855260,"execution_time":"","id":3580790,"language":"Kotlin (1.0.0)","length":1838,"point":0.0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541855327,"execution_time":"","id":3580802,"language":"Kotlin (1.0.0)","length":1791,"point":0.0,"problem_id":"abc104_c","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc104","epoch_second":1541855394,"execution_time":292,"id":3580814,"language":"Kotlin (1.0.0)","length":1795,"point":0.0,"problem_id":"abc104_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc103","epoch_second":1541856553,"execution_time":2111,"id":3581066,"language":"Kotlin (1.0.0)","length":574,"point":0.0,"problem_id":"abc103_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc103","epoch_second":1541856737,"execution_time":309,"id":3581102,"language":"Kotlin (1.0.0)","length":497,"point":300.0,"problem_id":"abc103_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc102","epoch_second":1541857620,"execution_time":1024,"id":3581291,"language":"Kotlin (1.0.0)","length":650,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc102","epoch_second":1541858143,"execution_time":1111,"id":3581403,"language":"Kotlin (1.0.0)","length":971,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc102","epoch_second":1541858583,"execution_time":"","id":3581495,"language":"Kotlin (1.0.0)","length":792,"point":0.0,"problem_id":"arc100_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc102","epoch_second":1541859940,"execution_time":993,"id":3581665,"language":"Kotlin (1.0.0)","length":792,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc101","epoch_second":1541866721,"execution_time":"","id":3582241,"language":"Kotlin (1.0.0)","length":903,"point":0.0,"problem_id":"arc099_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc101","epoch_second":1541868097,"execution_time":528,"id":3582318,"language":"Kotlin (1.0.0)","length":913,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc101","epoch_second":1541868712,"execution_time":523,"id":3582351,"language":"Kotlin (1.0.0)","length":1025,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc101","epoch_second":1541869014,"execution_time":522,"id":3582369,"language":"Kotlin (1.0.0)","length":1082,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc100","epoch_second":1541938319,"execution_time":459,"id":3585763,"language":"Kotlin (1.0.0)","length":749,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc099","epoch_second":1541938978,"execution_time":229,"id":3585812,"language":"Kotlin (1.0.0)","length":658,"point":0.0,"problem_id":"abc099_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc099","epoch_second":1541939270,"execution_time":212,"id":3585829,"language":"Kotlin (1.0.0)","length":908,"point":0.0,"problem_id":"abc099_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc098","epoch_second":1542014621,"execution_time":504,"id":3589476,"language":"Kotlin (1.0.0)","length":2441,"point":300.0,"problem_id":"arc098_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc095","epoch_second":1542016450,"execution_time":"","id":3589634,"language":"Kotlin (1.0.0)","length":699,"point":0.0,"problem_id":"arc096_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc097","epoch_second":1542016482,"execution_time":"","id":3589638,"language":"Kotlin (1.0.0)","length":699,"point":200.0,"problem_id":"arc097_a","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc097","epoch_second":1542017033,"execution_time":441,"id":3589694,"language":"Kotlin (1.0.0)","length":692,"point":300.0,"problem_id":"arc097_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc096","epoch_second":1542019609,"execution_time":279,"id":3589919,"language":"Kotlin (1.0.0)","length":1334,"point":300.0,"problem_id":"abc096_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc095","epoch_second":1542281203,"execution_time":306,"id":3603998,"language":"Kotlin (1.0.0)","length":608,"point":0.0,"problem_id":"arc096_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc095","epoch_second":1542281620,"execution_time":305,"id":3604020,"language":"Kotlin (1.0.0)","length":638,"point":300.0,"problem_id":"arc096_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1542282247,"execution_time":2046,"id":3604069,"language":"Kotlin (1.0.0)","length":786,"point":0.0,"problem_id":"arc095_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1542282375,"execution_time":"","id":3604076,"language":"Kotlin (1.0.0)","length":801,"point":0.0,"problem_id":"arc095_a","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc094","epoch_second":1542282626,"execution_time":1301,"id":3604096,"language":"Kotlin (1.0.0)","length":904,"point":300.0,"problem_id":"arc095_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc093","epoch_second":1542283578,"execution_time":243,"id":3604157,"language":"Kotlin (1.0.0)","length":1175,"point":300.0,"problem_id":"arc094_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc092","epoch_second":1542285708,"execution_time":"","id":3604328,"language":"Kotlin (1.0.0)","length":901,"point":0.0,"problem_id":"arc093_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc092","epoch_second":1542285816,"execution_time":642,"id":3604337,"language":"Kotlin (1.0.0)","length":921,"point":300.0,"problem_id":"arc093_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc091","epoch_second":1542550596,"execution_time":"","id":3623670,"language":"Kotlin (1.0.0)","length":4950,"point":0.0,"problem_id":"arc092_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc091","epoch_second":1542550759,"execution_time":"","id":3623687,"language":"Kotlin (1.0.0)","length":5018,"point":0.0,"problem_id":"arc092_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc091","epoch_second":1542551019,"execution_time":988,"id":3623703,"language":"Kotlin (1.0.0)","length":5088,"point":400.0,"problem_id":"arc092_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc090","epoch_second":1542623116,"execution_time":235,"id":3626824,"language":"Kotlin (1.0.0)","length":622,"point":0.0,"problem_id":"arc091_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc090","epoch_second":1542623329,"execution_time":245,"id":3626846,"language":"Kotlin (1.0.0)","length":627,"point":300.0,"problem_id":"arc091_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc089","epoch_second":1542625281,"execution_time":453,"id":3627008,"language":"Kotlin (1.0.0)","length":1413,"point":0.0,"problem_id":"abc089_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc089","epoch_second":1542626269,"execution_time":453,"id":3627099,"language":"Kotlin (1.0.0)","length":1359,"point":300.0,"problem_id":"abc089_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc088","epoch_second":1542706753,"execution_time":252,"id":3630910,"language":"Kotlin (1.0.0)","length":1400,"point":0.0,"problem_id":"abc088_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc088","epoch_second":1542706828,"execution_time":253,"id":3630912,"language":"Kotlin (1.0.0)","length":1400,"point":300.0,"problem_id":"abc088_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc087","epoch_second":1542707400,"execution_time":245,"id":3630954,"language":"Kotlin (1.0.0)","length":1024,"point":300.0,"problem_id":"arc090_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc086","epoch_second":1542707926,"execution_time":731,"id":3631008,"language":"Kotlin (1.0.0)","length":802,"point":300.0,"problem_id":"arc089_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc085","epoch_second":1542718286,"execution_time":"","id":3631712,"language":"Kotlin (1.0.0)","length":904,"point":0.0,"problem_id":"abc085_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc085","epoch_second":1542718572,"execution_time":"","id":3631742,"language":"Kotlin (1.0.0)","length":1169,"point":0.0,"problem_id":"abc085_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"abc084","epoch_second":1542799763,"execution_time":307,"id":3636026,"language":"Kotlin (1.0.0)","length":908,"point":0.0,"problem_id":"abc084_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc084","epoch_second":1542800756,"execution_time":328,"id":3636096,"language":"Kotlin (1.0.0)","length":958,"point":0.0,"problem_id":"abc084_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc083","epoch_second":1542802308,"execution_time":246,"id":3636236,"language":"Kotlin (1.0.0)","length":571,"point":300.0,"problem_id":"arc088_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc082","epoch_second":1542802826,"execution_time":"","id":3636292,"language":"Kotlin (1.0.0)","length":692,"point":0.0,"problem_id":"arc087_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc082","epoch_second":1542802909,"execution_time":"","id":3636301,"language":"Kotlin (1.0.0)","length":738,"point":0.0,"problem_id":"arc087_a","result":"RE","user_id":"choruru"}
+,{"contest_id":"abc082","epoch_second":1542802956,"execution_time":612,"id":3636305,"language":"Kotlin (1.0.0)","length":741,"point":0.0,"problem_id":"arc087_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc082","epoch_second":1542803084,"execution_time":611,"id":3636311,"language":"Kotlin (1.0.0)","length":740,"point":300.0,"problem_id":"arc087_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc081","epoch_second":1542804377,"execution_time":819,"id":3636380,"language":"Kotlin (1.0.0)","length":766,"point":300.0,"problem_id":"arc086_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543057573,"execution_time":240,"id":3653466,"language":"Kotlin (1.0.0)","length":609,"point":200.0,"problem_id":"dwacon5th_prelims_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543059757,"execution_time":1130,"id":3655878,"language":"Kotlin (1.0.0)","length":915,"point":0.0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543061418,"execution_time":2663,"id":3657104,"language":"Kotlin (1.0.0)","length":988,"point":0.0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543062995,"execution_time":"","id":3658259,"language":"Kotlin (1.0.0)","length":1271,"point":0.0,"problem_id":"dwacon5th_prelims_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543063108,"execution_time":"","id":3658344,"language":"Kotlin (1.0.0)","length":1291,"point":0.0,"problem_id":"dwacon5th_prelims_c","result":"TLE","user_id":"choruru"}
+,{"contest_id":"dwacon5th-prelims","epoch_second":1543063717,"execution_time":2663,"id":3658836,"language":"Kotlin (1.0.0)","length":1161,"point":0.0,"problem_id":"dwacon5th_prelims_b","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc079","epoch_second":1543844325,"execution_time":226,"id":3713083,"language":"Kotlin (1.0.0)","length":1407,"point":300.0,"problem_id":"abc079_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc078","epoch_second":1543845288,"execution_time":246,"id":3713178,"language":"Kotlin (1.0.0)","length":521,"point":300.0,"problem_id":"arc085_a","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc077","epoch_second":1543847924,"execution_time":"","id":3713413,"language":"Kotlin (1.0.0)","length":1270,"point":0.0,"problem_id":"arc084_a","result":"CE","user_id":"choruru"}
+,{"contest_id":"abc077","epoch_second":1543847979,"execution_time":1509,"id":3713420,"language":"Kotlin (1.0.0)","length":1281,"point":0.0,"problem_id":"arc084_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc072","epoch_second":1546238979,"execution_time":273,"id":3904377,"language":"Kotlin (1.0.0)","length":1236,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc076","epoch_second":1546239096,"execution_time":228,"id":3904387,"language":"Kotlin (1.0.0)","length":1238,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"choruru"}
+,{"contest_id":"abc076","epoch_second":1546239226,"execution_time":235,"id":3904397,"language":"Kotlin (1.0.0)","length":1238,"point":300.0,"problem_id":"abc076_c","result":"AC","user_id":"choruru"}
+,{"contest_id":"abc075","epoch_second":1546241530,"execution_time":273,"id":3904602,"language":"Kotlin (1.0.0)","length":1326,"point":300.0,"problem_id":"abc075_c","result":"AC","user_id":"choruru"}
 ]

@@ -1,74 +1,85 @@
-[{"contest_id":"abc005","epoch_second":1510279911,"execution_time":7,"id":1756587,"language":"Ruby (2.3.3)","length":148,"point":100,"problem_id":"abc005_2","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510280471,"execution_time":"","id":1756615,"language":"Ruby (2.3.3)","length":254,"point":0,"problem_id":"abc006_2","result":"TLE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510280891,"execution_time":2114,"id":1756644,"language":"Ruby (2.3.3)","length":273,"point":0,"problem_id":"abc006_2","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc004","epoch_second":1510281042,"execution_time":2110,"id":1756652,"language":"Ruby (2.3.3)","length":125,"point":0,"problem_id":"abc004_3","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510281524,"execution_time":"","id":1756679,"language":"Ruby (2.3.3)","length":387,"point":0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510282361,"execution_time":"","id":1756723,"language":"Ruby (2.3.3)","length":299,"point":0,"problem_id":"abc006_2","result":"TLE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510282942,"execution_time":"","id":1756745,"language":"Ruby (2.3.3)","length":600,"point":0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510282983,"execution_time":"","id":1756747,"language":"Ruby (2.3.3)","length":600,"point":0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1510283016,"execution_time":6,"id":1756748,"language":"C++14 (GCC 5.4.1)","length":600,"point":100,"problem_id":"abc006_2","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc004","epoch_second":1510292227,"execution_time":1,"id":1756921,"language":"C++ (GCC 5.4.1)","length":399,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510364079,"execution_time":"","id":1758246,"language":"C++14 (GCC 5.4.1)","length":2498,"point":0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510364418,"execution_time":"","id":1758249,"language":"C++14 (GCC 5.4.1)","length":2502,"point":0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510364735,"execution_time":"","id":1758257,"language":"C++14 (GCC 5.4.1)","length":2534,"point":0,"problem_id":"arc043_b","result":"CE","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510364811,"execution_time":"","id":1758262,"language":"C++14 (GCC 5.4.1)","length":2537,"point":50,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510366703,"execution_time":"","id":1758311,"language":"C++14 (GCC 5.4.1)","length":2691,"point":50,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
-,{"contest_id":"arc043","epoch_second":1510627033,"execution_time":"","id":1771623,"language":"C++14 (GCC 5.4.1)","length":2737,"point":0,"problem_id":"arc043_a","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511006698,"execution_time":7,"id":1782540,"language":"Ruby (2.3.3)","length":166,"point":100,"problem_id":"abc079_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511007257,"execution_time":7,"id":1783925,"language":"Ruby (2.3.3)","length":171,"point":200,"problem_id":"abc079_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511008562,"execution_time":7,"id":1785897,"language":"Ruby (2.3.3)","length":590,"point":0,"problem_id":"abc079_c","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511008726,"execution_time":7,"id":1786062,"language":"Ruby (2.3.3)","length":597,"point":300,"problem_id":"abc079_c","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511012228,"execution_time":30,"id":1788582,"language":"Ruby (2.3.3)","length":1196,"point":0,"problem_id":"abc079_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc079","epoch_second":1511012307,"execution_time":21,"id":1788627,"language":"Ruby (2.3.3)","length":1083,"point":0,"problem_id":"abc079_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"arc014","epoch_second":1512094022,"execution_time":7,"id":1818936,"language":"Ruby (2.3.3)","length":558,"point":0,"problem_id":"arc014_3","result":"WA","user_id":"liwii"}
-,{"contest_id":"arc014","epoch_second":1512094366,"execution_time":9,"id":1818944,"language":"Ruby (2.3.3)","length":189,"point":100,"problem_id":"arc014_3","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc007","epoch_second":1512097028,"execution_time":223,"id":1819025,"language":"Ruby (2.3.3)","length":1230,"point":0,"problem_id":"abc007_3","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc007","epoch_second":1512097078,"execution_time":18,"id":1819028,"language":"Ruby (2.3.3)","length":1165,"point":100,"problem_id":"abc007_3","result":"AC","user_id":"liwii"}
-,{"contest_id":"arc021","epoch_second":1512701351,"execution_time":2109,"id":1839568,"language":"Ruby (2.3.3)","length":873,"point":0,"problem_id":"arc021_3","result":"WA","user_id":"liwii"}
-,{"contest_id":"arc021","epoch_second":1512701453,"execution_time":"","id":1839576,"language":"Ruby (2.3.3)","length":842,"point":40,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
-,{"contest_id":"arc021","epoch_second":1512702438,"execution_time":"","id":1839632,"language":"Ruby (2.3.3)","length":848,"point":30,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
-,{"contest_id":"arc021","epoch_second":1512702639,"execution_time":"","id":1839635,"language":"Ruby (2.3.3)","length":931,"point":40,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
-,{"contest_id":"arc021","epoch_second":1512708218,"execution_time":"","id":1839856,"language":"Ruby (2.3.3)","length":989,"point":40,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1513305681,"execution_time":"","id":1871707,"language":"Ruby (2.3.3)","length":412,"point":50,"problem_id":"abc006_4","result":"TLE","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1513306006,"execution_time":39,"id":1871712,"language":"Ruby (2.3.3)","length":346,"point":0,"problem_id":"abc006_4","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc006","epoch_second":1513306516,"execution_time":"","id":1871727,"language":"Ruby (2.3.3)","length":374,"point":50,"problem_id":"abc006_4","result":"TLE","user_id":"liwii"}
-,{"contest_id":"arc035","epoch_second":1513911208,"execution_time":61,"id":1892370,"language":"Ruby (2.3.3)","length":412,"point":100,"problem_id":"arc035_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517667690,"execution_time":7,"id":2052515,"language":"Ruby (2.3.3)","length":89,"point":100,"problem_id":"apc001_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517668443,"execution_time":19,"id":2053350,"language":"Ruby (2.3.3)","length":325,"point":300,"problem_id":"apc001_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517672144,"execution_time":"","id":2056510,"language":"Ruby (2.3.3)","length":960,"point":0,"problem_id":"apc001_c","result":"TLE","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517672553,"execution_time":13,"id":2056788,"language":"Ruby (2.3.3)","length":951,"point":0,"problem_id":"apc001_c","result":"WA","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517673559,"execution_time":12,"id":2057374,"language":"Ruby (2.3.3)","length":953,"point":500,"problem_id":"apc001_c","result":"AC","user_id":"liwii"}
-,{"contest_id":"apc001","epoch_second":1517678537,"execution_time":2108,"id":2059592,"language":"Ruby (2.3.3)","length":1345,"point":0,"problem_id":"apc001_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"yahoo-procon2018-qual","epoch_second":1518264855,"execution_time":7,"id":2080807,"language":"Ruby (2.3.3)","length":137,"point":100,"problem_id":"yahoo_procon2018_qual_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"yahoo-procon2018-qual","epoch_second":1518265111,"execution_time":7,"id":2080980,"language":"Ruby (2.3.3)","length":101,"point":200,"problem_id":"yahoo_procon2018_qual_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529150649,"execution_time":"","id":2675302,"language":"Ruby (2.3.3)","length":96,"point":0,"problem_id":"abc100_a","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529151247,"execution_time":7,"id":2678265,"language":"Ruby (2.3.3)","length":96,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529151272,"execution_time":7,"id":2678404,"language":"Ruby (2.3.3)","length":97,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529151815,"execution_time":29,"id":2680343,"language":"Ruby (2.3.3)","length":216,"point":300,"problem_id":"abc100_c","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529152827,"execution_time":13,"id":2682990,"language":"Ruby (2.3.3)","length":465,"point":0,"problem_id":"abc100_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529157778,"execution_time":14,"id":2689459,"language":"Ruby (2.3.3)","length":468,"point":0,"problem_id":"abc100_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529157924,"execution_time":"","id":2689491,"language":"Ruby (2.3.3)","length":504,"point":0,"problem_id":"abc100_d","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc100","epoch_second":1529157952,"execution_time":13,"id":2689502,"language":"Ruby (2.3.3)","length":502,"point":400,"problem_id":"abc100_d","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc101","epoch_second":1529755369,"execution_time":7,"id":2718423,"language":"Ruby (2.3.3)","length":77,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc101","epoch_second":1529755523,"execution_time":10,"id":2719170,"language":"Ruby (2.3.3)","length":150,"point":200,"problem_id":"abc101_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc101","epoch_second":1529755876,"execution_time":8,"id":2720672,"language":"Ruby (2.3.3)","length":88,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc101","epoch_second":1529760122,"execution_time":17,"id":2731138,"language":"Ruby (2.3.3)","length":436,"point":500,"problem_id":"arc099_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc101","epoch_second":1529760911,"execution_time":8,"id":2733006,"language":"Ruby (2.3.3)","length":155,"point":300,"problem_id":"arc099_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"agc026","epoch_second":1531570087,"execution_time":9,"id":2842277,"language":"Ruby (2.3.3)","length":235,"point":200,"problem_id":"agc026_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"agc026","epoch_second":1531573245,"execution_time":"","id":2844997,"language":"Ruby (2.3.3)","length":490,"point":0,"problem_id":"agc026_b","result":"RE","user_id":"liwii"}
-,{"contest_id":"agc026","epoch_second":1531573818,"execution_time":9,"id":2845425,"language":"Ruby (2.3.3)","length":438,"point":600,"problem_id":"agc026_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"agc026","epoch_second":1531582761,"execution_time":"","id":2849364,"language":"Ruby (2.3.3)","length":931,"point":0,"problem_id":"agc026_c","result":"TLE","user_id":"liwii"}
-,{"contest_id":"arc103","epoch_second":1540651620,"execution_time":"","id":3488898,"language":"Ruby (2.3.3)","length":750,"point":0,"problem_id":"arc103_a","result":"RE","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551614634,"execution_time":7,"id":4444301,"language":"Ruby (2.3.3)","length":103,"point":100,"problem_id":"abc120_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551615348,"execution_time":8,"id":4448765,"language":"Ruby (2.3.3)","length":264,"point":200,"problem_id":"abc120_b","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551615521,"execution_time":79,"id":4449563,"language":"Ruby (2.3.3)","length":136,"point":300,"problem_id":"abc120_c","result":"AC","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551619822,"execution_time":34,"id":4457921,"language":"C (GCC 5.4.1)","length":1696,"point":0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551620248,"execution_time":36,"id":4458500,"language":"C (GCC 5.4.1)","length":1702,"point":0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551620341,"execution_time":35,"id":4458687,"language":"C (GCC 5.4.1)","length":1704,"point":0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"abc120","epoch_second":1551620599,"execution_time":35,"id":4459057,"language":"C (GCC 5.4.1)","length":1768,"point":0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
-,{"contest_id":"agc031","epoch_second":1552737982,"execution_time":76,"id":4596376,"language":"Ruby (2.3.3)","length":200,"point":0,"problem_id":"agc031_a","result":"WA","user_id":"liwii"}
-,{"contest_id":"agc031","epoch_second":1552738071,"execution_time":76,"id":4596527,"language":"Ruby (2.3.3)","length":218,"point":200,"problem_id":"agc031_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"agc031","epoch_second":1552740189,"execution_time":723,"id":4599176,"language":"Ruby (2.3.3)","length":1183,"point":0,"problem_id":"agc031_c","result":"WA","user_id":"liwii"}
-,{"contest_id":"agc032","epoch_second":1553346698,"execution_time":7,"id":4669963,"language":"Ruby (2.3.3)","length":342,"point":400,"problem_id":"agc032_a","result":"AC","user_id":"liwii"}
-,{"contest_id":"agc032","epoch_second":1553349894,"execution_time":18,"id":4673098,"language":"Ruby (2.3.3)","length":372,"point":700,"problem_id":"agc032_b","result":"AC","user_id":"liwii"}
+[{"contest_id":"abc005","epoch_second":1510279911,"execution_time":7,"id":1756587,"language":"Ruby (2.3.3)","length":148,"point":100.0,"problem_id":"abc005_2","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510280471,"execution_time":"","id":1756615,"language":"Ruby (2.3.3)","length":254,"point":0.0,"problem_id":"abc006_2","result":"TLE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510280891,"execution_time":2114,"id":1756644,"language":"Ruby (2.3.3)","length":273,"point":0.0,"problem_id":"abc006_2","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc004","epoch_second":1510281042,"execution_time":2110,"id":1756652,"language":"Ruby (2.3.3)","length":125,"point":0.0,"problem_id":"abc004_3","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510281524,"execution_time":"","id":1756679,"language":"Ruby (2.3.3)","length":387,"point":0.0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510282361,"execution_time":"","id":1756723,"language":"Ruby (2.3.3)","length":299,"point":0.0,"problem_id":"abc006_2","result":"TLE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510282942,"execution_time":"","id":1756745,"language":"Ruby (2.3.3)","length":600,"point":0.0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510282983,"execution_time":"","id":1756747,"language":"Ruby (2.3.3)","length":600,"point":0.0,"problem_id":"abc006_2","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1510283016,"execution_time":6,"id":1756748,"language":"C++14 (GCC 5.4.1)","length":600,"point":100.0,"problem_id":"abc006_2","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc004","epoch_second":1510292227,"execution_time":1,"id":1756921,"language":"C++ (GCC 5.4.1)","length":399,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510363787,"execution_time":"","id":1758240,"language":"C++14 (GCC 5.4.1)","length":2397,"point":0.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510364079,"execution_time":"","id":1758246,"language":"C++14 (GCC 5.4.1)","length":2498,"point":0.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510364418,"execution_time":"","id":1758249,"language":"C++14 (GCC 5.4.1)","length":2502,"point":0.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510364735,"execution_time":"","id":1758257,"language":"C++14 (GCC 5.4.1)","length":2534,"point":0.0,"problem_id":"arc043_b","result":"CE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510364811,"execution_time":"","id":1758262,"language":"C++14 (GCC 5.4.1)","length":2537,"point":50.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510366703,"execution_time":"","id":1758311,"language":"C++14 (GCC 5.4.1)","length":2691,"point":50.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510627033,"execution_time":"","id":1771623,"language":"C++14 (GCC 5.4.1)","length":2737,"point":0.0,"problem_id":"arc043_a","result":"RE","user_id":"liwii"}
+,{"contest_id":"arc043","epoch_second":1510627044,"execution_time":"","id":1771625,"language":"C++14 (GCC 5.4.1)","length":2737,"point":50.0,"problem_id":"arc043_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511006698,"execution_time":7,"id":1782540,"language":"Ruby (2.3.3)","length":166,"point":100.0,"problem_id":"abc079_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511007257,"execution_time":7,"id":1783925,"language":"Ruby (2.3.3)","length":171,"point":200.0,"problem_id":"abc079_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511008562,"execution_time":7,"id":1785897,"language":"Ruby (2.3.3)","length":590,"point":0.0,"problem_id":"abc079_c","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511008726,"execution_time":7,"id":1786062,"language":"Ruby (2.3.3)","length":597,"point":300.0,"problem_id":"abc079_c","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511012228,"execution_time":30,"id":1788582,"language":"Ruby (2.3.3)","length":1196,"point":0.0,"problem_id":"abc079_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc079","epoch_second":1511012307,"execution_time":21,"id":1788627,"language":"Ruby (2.3.3)","length":1083,"point":0.0,"problem_id":"abc079_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"arc014","epoch_second":1512094022,"execution_time":7,"id":1818936,"language":"Ruby (2.3.3)","length":558,"point":0.0,"problem_id":"arc014_3","result":"WA","user_id":"liwii"}
+,{"contest_id":"arc014","epoch_second":1512094366,"execution_time":9,"id":1818944,"language":"Ruby (2.3.3)","length":189,"point":100.0,"problem_id":"arc014_3","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc007","epoch_second":1512097028,"execution_time":223,"id":1819025,"language":"Ruby (2.3.3)","length":1230,"point":0.0,"problem_id":"abc007_3","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc007","epoch_second":1512097078,"execution_time":18,"id":1819028,"language":"Ruby (2.3.3)","length":1165,"point":100.0,"problem_id":"abc007_3","result":"AC","user_id":"liwii"}
+,{"contest_id":"arc021","epoch_second":1512701351,"execution_time":2109,"id":1839568,"language":"Ruby (2.3.3)","length":873,"point":0.0,"problem_id":"arc021_3","result":"WA","user_id":"liwii"}
+,{"contest_id":"arc021","epoch_second":1512701453,"execution_time":"","id":1839576,"language":"Ruby (2.3.3)","length":842,"point":40.0,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
+,{"contest_id":"arc021","epoch_second":1512702438,"execution_time":"","id":1839632,"language":"Ruby (2.3.3)","length":848,"point":30.0,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
+,{"contest_id":"arc021","epoch_second":1512702639,"execution_time":"","id":1839635,"language":"Ruby (2.3.3)","length":931,"point":40.0,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
+,{"contest_id":"arc021","epoch_second":1512708218,"execution_time":"","id":1839856,"language":"Ruby (2.3.3)","length":989,"point":40.0,"problem_id":"arc021_3","result":"TLE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1513305681,"execution_time":"","id":1871707,"language":"Ruby (2.3.3)","length":412,"point":50.0,"problem_id":"abc006_4","result":"TLE","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1513306006,"execution_time":39,"id":1871712,"language":"Ruby (2.3.3)","length":346,"point":0.0,"problem_id":"abc006_4","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc006","epoch_second":1513306516,"execution_time":"","id":1871727,"language":"Ruby (2.3.3)","length":374,"point":50.0,"problem_id":"abc006_4","result":"TLE","user_id":"liwii"}
+,{"contest_id":"arc035","epoch_second":1513911208,"execution_time":61,"id":1892370,"language":"Ruby (2.3.3)","length":412,"point":100.0,"problem_id":"arc035_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc027","epoch_second":1514255884,"execution_time":104,"id":1911002,"language":"Ruby (2.3.3)","length":467,"point":100.0,"problem_id":"abc027_d","result":"AC","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517667690,"execution_time":7,"id":2052515,"language":"Ruby (2.3.3)","length":89,"point":100.0,"problem_id":"apc001_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517668443,"execution_time":19,"id":2053350,"language":"Ruby (2.3.3)","length":325,"point":300.0,"problem_id":"apc001_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517672144,"execution_time":"","id":2056510,"language":"Ruby (2.3.3)","length":960,"point":0.0,"problem_id":"apc001_c","result":"TLE","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517672553,"execution_time":13,"id":2056788,"language":"Ruby (2.3.3)","length":951,"point":0.0,"problem_id":"apc001_c","result":"WA","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517673559,"execution_time":12,"id":2057374,"language":"Ruby (2.3.3)","length":953,"point":500.0,"problem_id":"apc001_c","result":"AC","user_id":"liwii"}
+,{"contest_id":"apc001","epoch_second":1517678537,"execution_time":2108,"id":2059592,"language":"Ruby (2.3.3)","length":1345,"point":0.0,"problem_id":"apc001_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"yahoo-procon2018-qual","epoch_second":1518264855,"execution_time":7,"id":2080807,"language":"Ruby (2.3.3)","length":137,"point":100.0,"problem_id":"yahoo_procon2018_qual_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"yahoo-procon2018-qual","epoch_second":1518265111,"execution_time":7,"id":2080980,"language":"Ruby (2.3.3)","length":101,"point":200.0,"problem_id":"yahoo_procon2018_qual_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529150649,"execution_time":"","id":2675302,"language":"Ruby (2.3.3)","length":96,"point":0.0,"problem_id":"abc100_a","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529151247,"execution_time":7,"id":2678265,"language":"Ruby (2.3.3)","length":96,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529151272,"execution_time":7,"id":2678404,"language":"Ruby (2.3.3)","length":97,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529151815,"execution_time":29,"id":2680343,"language":"Ruby (2.3.3)","length":216,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529152827,"execution_time":13,"id":2682990,"language":"Ruby (2.3.3)","length":465,"point":0.0,"problem_id":"abc100_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529157778,"execution_time":14,"id":2689459,"language":"Ruby (2.3.3)","length":468,"point":0.0,"problem_id":"abc100_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529157924,"execution_time":"","id":2689491,"language":"Ruby (2.3.3)","length":504,"point":0.0,"problem_id":"abc100_d","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc100","epoch_second":1529157952,"execution_time":13,"id":2689502,"language":"Ruby (2.3.3)","length":502,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc101","epoch_second":1529755369,"execution_time":7,"id":2718423,"language":"Ruby (2.3.3)","length":77,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc101","epoch_second":1529755523,"execution_time":10,"id":2719170,"language":"Ruby (2.3.3)","length":150,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc101","epoch_second":1529755876,"execution_time":8,"id":2720672,"language":"Ruby (2.3.3)","length":88,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc101","epoch_second":1529760122,"execution_time":17,"id":2731138,"language":"Ruby (2.3.3)","length":436,"point":500.0,"problem_id":"arc099_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc101","epoch_second":1529760911,"execution_time":8,"id":2733006,"language":"Ruby (2.3.3)","length":155,"point":300.0,"problem_id":"arc099_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"agc026","epoch_second":1531570087,"execution_time":9,"id":2842277,"language":"Ruby (2.3.3)","length":235,"point":200.0,"problem_id":"agc026_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"agc026","epoch_second":1531573245,"execution_time":"","id":2844997,"language":"Ruby (2.3.3)","length":490,"point":0.0,"problem_id":"agc026_b","result":"RE","user_id":"liwii"}
+,{"contest_id":"agc026","epoch_second":1531573818,"execution_time":9,"id":2845425,"language":"Ruby (2.3.3)","length":438,"point":600.0,"problem_id":"agc026_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"agc026","epoch_second":1531582761,"execution_time":"","id":2849364,"language":"Ruby (2.3.3)","length":931,"point":0.0,"problem_id":"agc026_c","result":"TLE","user_id":"liwii"}
+,{"contest_id":"arc103","epoch_second":1540651620,"execution_time":"","id":3488898,"language":"Ruby (2.3.3)","length":750,"point":0.0,"problem_id":"arc103_a","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551614634,"execution_time":7,"id":4444301,"language":"Ruby (2.3.3)","length":103,"point":100.0,"problem_id":"abc120_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551615348,"execution_time":8,"id":4448765,"language":"Ruby (2.3.3)","length":264,"point":200.0,"problem_id":"abc120_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551615521,"execution_time":79,"id":4449563,"language":"Ruby (2.3.3)","length":136,"point":300.0,"problem_id":"abc120_c","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551619822,"execution_time":34,"id":4457921,"language":"C (GCC 5.4.1)","length":1696,"point":0.0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551620248,"execution_time":36,"id":4458500,"language":"C (GCC 5.4.1)","length":1702,"point":0.0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551620341,"execution_time":35,"id":4458687,"language":"C (GCC 5.4.1)","length":1704,"point":0.0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc120","epoch_second":1551620599,"execution_time":35,"id":4459057,"language":"C (GCC 5.4.1)","length":1768,"point":0.0,"problem_id":"abc120_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"agc031","epoch_second":1552737982,"execution_time":76,"id":4596376,"language":"Ruby (2.3.3)","length":200,"point":0.0,"problem_id":"agc031_a","result":"WA","user_id":"liwii"}
+,{"contest_id":"agc031","epoch_second":1552738071,"execution_time":76,"id":4596527,"language":"Ruby (2.3.3)","length":218,"point":200.0,"problem_id":"agc031_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"agc031","epoch_second":1552740189,"execution_time":723,"id":4599176,"language":"Ruby (2.3.3)","length":1183,"point":0.0,"problem_id":"agc031_c","result":"WA","user_id":"liwii"}
+,{"contest_id":"agc032","epoch_second":1553346698,"execution_time":7,"id":4669963,"language":"Ruby (2.3.3)","length":342,"point":400.0,"problem_id":"agc032_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"agc032","epoch_second":1553349894,"execution_time":18,"id":4673098,"language":"Ruby (2.3.3)","length":372,"point":700.0,"problem_id":"agc032_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560686510,"execution_time":8,"id":5952456,"language":"Ruby (2.3.3)","length":63,"point":100.0,"problem_id":"abc130_a","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560686798,"execution_time":7,"id":5956590,"language":"Ruby (2.3.3)","length":193,"point":0.0,"problem_id":"abc130_b","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560689660,"execution_time":63,"id":5974117,"language":"Ruby (2.3.3)","length":372,"point":0.0,"problem_id":"abc130_d","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560690033,"execution_time":7,"id":5975676,"language":"Ruby (2.3.3)","length":221,"point":200.0,"problem_id":"abc130_b","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560690255,"execution_time":62,"id":5976562,"language":"Ruby (2.3.3)","length":373,"point":400.0,"problem_id":"abc130_d","result":"AC","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560695588,"execution_time":8,"id":5988523,"language":"Ruby (2.3.3)","length":373,"point":0.0,"problem_id":"abc130_e","result":"WA","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560695656,"execution_time":"","id":5988573,"language":"Ruby (2.3.3)","length":856,"point":0.0,"problem_id":"abc130_e","result":"RE","user_id":"liwii"}
+,{"contest_id":"abc130","epoch_second":1560695811,"execution_time":"","id":5988639,"language":"Ruby (2.3.3)","length":884,"point":0.0,"problem_id":"abc130_e","result":"TLE","user_id":"liwii"}
 ]

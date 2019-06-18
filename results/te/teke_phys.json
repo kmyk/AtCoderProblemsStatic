@@ -1,226 +1,240 @@
-[{"contest_id":"abc025","epoch_second":1435846759,"execution_time":25,"id":436936,"language":"C (GCC 4.9.2)","length":259,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc025","epoch_second":1436013239,"execution_time":28,"id":439291,"language":"C (GCC 4.9.2)","length":699,"point":0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc025","epoch_second":1436013692,"execution_time":25,"id":439393,"language":"C (GCC 4.9.2)","length":699,"point":0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc025","epoch_second":1436014184,"execution_time":25,"id":439494,"language":"C (GCC 4.9.2)","length":693,"point":0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc025","epoch_second":1436017584,"execution_time":29,"id":440032,"language":"C (GCC 4.9.2)","length":703,"point":100,"problem_id":"abc025_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc026","epoch_second":1436620810,"execution_time":25,"id":445861,"language":"C (GCC 4.9.2)","length":249,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc026","epoch_second":1436621625,"execution_time":25,"id":446047,"language":"C (GCC 4.9.2)","length":307,"point":0,"problem_id":"abc026_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc026","epoch_second":1436702451,"execution_time":27,"id":447824,"language":"C (GCC 4.9.2)","length":689,"point":100,"problem_id":"abc026_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"arc042","epoch_second":1437831056,"execution_time":2035,"id":455232,"language":"C (GCC 4.9.2)","length":686,"point":0,"problem_id":"arc042_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc029","epoch_second":1442664434,"execution_time":25,"id":497468,"language":"C (GCC 4.9.2)","length":223,"point":100,"problem_id":"abc029_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc029","epoch_second":1442667424,"execution_time":31,"id":498570,"language":"C (GCC 4.9.2)","length":400,"point":0,"problem_id":"abc029_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc029","epoch_second":1442668601,"execution_time":29,"id":498824,"language":"C (GCC 4.9.2)","length":387,"point":100,"problem_id":"abc029_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc032","epoch_second":1454243700,"execution_time":60,"id":626214,"language":"Ruby (2.1.5p273)","length":368,"point":0,"problem_id":"abc032_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc032","epoch_second":1454244485,"execution_time":62,"id":626222,"language":"Ruby (2.1.5p273)","length":451,"point":100,"problem_id":"abc032_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc037","epoch_second":1463408963,"execution_time":"","id":732298,"language":"C++14 (GCC 5.4.1)","length":176,"point":0,"problem_id":"abc037_a","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc037","epoch_second":1463495190,"execution_time":"","id":732883,"language":"C++14 (GCC 5.4.1)","length":459,"point":0,"problem_id":"abc037_b","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc038","epoch_second":1464524021,"execution_time":4,"id":747701,"language":"C++14 (GCC 5.4.1)","length":391,"point":100,"problem_id":"abc038_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc039","epoch_second":1465646903,"execution_time":4,"id":762117,"language":"C++14 (GCC 5.4.1)","length":151,"point":100,"problem_id":"abc039_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc039","epoch_second":1465653364,"execution_time":4,"id":764617,"language":"C++14 (GCC 5.4.1)","length":577,"point":0,"problem_id":"abc039_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc039","epoch_second":1465733004,"execution_time":4,"id":765950,"language":"C++14 (GCC 5.4.1)","length":742,"point":100,"problem_id":"abc039_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc039","epoch_second":1465733848,"execution_time":6,"id":765960,"language":"C++14 (GCC 5.4.1)","length":794,"point":100,"problem_id":"abc039_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"agc002","epoch_second":1469971473,"execution_time":4,"id":826885,"language":"C++14 (GCC 5.4.1)","length":352,"point":200,"problem_id":"agc002_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc043","epoch_second":1471090312,"execution_time":4,"id":836316,"language":"C++14 (GCC 5.4.1)","length":175,"point":100,"problem_id":"abc043_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc043","epoch_second":1471095664,"execution_time":6,"id":838927,"language":"C++14 (GCC 5.4.1)","length":409,"point":200,"problem_id":"abc043_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc043","epoch_second":1471105521,"execution_time":4,"id":839492,"language":"C++14 (GCC 5.4.1)","length":807,"point":0,"problem_id":"arc059_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc043","epoch_second":1471105856,"execution_time":6,"id":839501,"language":"C++14 (GCC 5.4.1)","length":808,"point":0,"problem_id":"arc059_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc063","epoch_second":1496678326,"execution_time":1,"id":1333619,"language":"C++14 (GCC 5.4.1)","length":437,"point":200,"problem_id":"abc063_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc062","epoch_second":1497066660,"execution_time":1,"id":1338581,"language":"C++14 (GCC 5.4.1)","length":490,"point":0,"problem_id":"abc062_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc062","epoch_second":1497066840,"execution_time":1,"id":1338583,"language":"C++14 (GCC 5.4.1)","length":490,"point":100,"problem_id":"abc062_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc062","epoch_second":1497195162,"execution_time":2,"id":1349691,"language":"C++14 (GCC 5.4.1)","length":1190,"point":200,"problem_id":"abc062_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc064","epoch_second":1497270626,"execution_time":1,"id":1350814,"language":"C++14 (GCC 5.4.1)","length":207,"point":100,"problem_id":"abc064_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc064","epoch_second":1497279471,"execution_time":1,"id":1351047,"language":"C++14 (GCC 5.4.1)","length":362,"point":200,"problem_id":"abc064_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306533,"execution_time":1,"id":1374382,"language":"C++14 (GCC 5.4.1)","length":311,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306586,"execution_time":1,"id":1374455,"language":"C++14 (GCC 5.4.1)","length":312,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306642,"execution_time":1,"id":1374531,"language":"C++14 (GCC 5.4.1)","length":310,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306683,"execution_time":1,"id":1374588,"language":"C++14 (GCC 5.4.1)","length":311,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306799,"execution_time":1,"id":1374734,"language":"C++14 (GCC 5.4.1)","length":311,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498306960,"execution_time":1,"id":1374912,"language":"C++14 (GCC 5.4.1)","length":311,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498307053,"execution_time":1,"id":1375010,"language":"C++14 (GCC 5.4.1)","length":311,"point":100,"problem_id":"abc065_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498309737,"execution_time":"","id":1377140,"language":"C++14 (GCC 5.4.1)","length":495,"point":0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498310919,"execution_time":"","id":1377961,"language":"C++14 (GCC 5.4.1)","length":495,"point":0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc065","epoch_second":1498908724,"execution_time":"","id":1390872,"language":"C++14 (GCC 5.4.1)","length":510,"point":0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498910746,"execution_time":1,"id":1391537,"language":"C++14 (GCC 5.4.1)","length":305,"point":100,"problem_id":"abc066_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498912572,"execution_time":1,"id":1393690,"language":"C++14 (GCC 5.4.1)","length":616,"point":200,"problem_id":"abc066_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498913432,"execution_time":"","id":1394403,"language":"C++14 (GCC 5.4.1)","length":378,"point":0,"problem_id":"arc077_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498913850,"execution_time":"","id":1394705,"language":"C++14 (GCC 5.4.1)","length":370,"point":0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498914063,"execution_time":"","id":1394861,"language":"C++14 (GCC 5.4.1)","length":390,"point":0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498914351,"execution_time":"","id":1395050,"language":"C++14 (GCC 5.4.1)","length":405,"point":0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc066","epoch_second":1498914514,"execution_time":"","id":1395151,"language":"C++14 (Clang 3.8.0)","length":407,"point":0,"problem_id":"arc077_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc057","epoch_second":1499781626,"execution_time":1,"id":1417121,"language":"C++14 (GCC 5.4.1)","length":172,"point":100,"problem_id":"abc057_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc057","epoch_second":1499870630,"execution_time":1,"id":1418443,"language":"C++14 (GCC 5.4.1)","length":1205,"point":200,"problem_id":"abc057_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc057","epoch_second":1500042514,"execution_time":4,"id":1420349,"language":"C++14 (GCC 5.4.1)","length":693,"point":300,"problem_id":"abc057_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc067","epoch_second":1500388383,"execution_time":1,"id":1437310,"language":"C++14 (GCC 5.4.1)","length":288,"point":100,"problem_id":"abc067_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1505011925,"execution_time":2,"id":1584738,"language":"C++14 (GCC 5.4.1)","length":411,"point":200,"problem_id":"abc073_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1505144368,"execution_time":"","id":1588416,"language":"C++14 (GCC 5.4.1)","length":573,"point":0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1505144775,"execution_time":"","id":1588427,"language":"C++14 (GCC 5.4.1)","length":575,"point":0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1505145482,"execution_time":"","id":1588437,"language":"C++14 (GCC 5.4.1)","length":580,"point":0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1505145821,"execution_time":"","id":1588442,"language":"C++14 (GCC 5.4.1)","length":594,"point":0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc075","epoch_second":1507983106,"execution_time":1,"id":1682516,"language":"C++14 (GCC 5.4.1)","length":293,"point":100,"problem_id":"abc075_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc077","epoch_second":1510927330,"execution_time":2,"id":1779944,"language":"C++14 (GCC 5.4.1)","length":544,"point":200,"problem_id":"abc077_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc077","epoch_second":1510928736,"execution_time":"","id":1779977,"language":"C++14 (GCC 5.4.1)","length":802,"point":0,"problem_id":"arc084_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc077","epoch_second":1511050643,"execution_time":"","id":1789996,"language":"C++14 (GCC 5.4.1)","length":857,"point":0,"problem_id":"arc084_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc084","epoch_second":1515072495,"execution_time":18,"id":1940239,"language":"Python3 (3.4.3)","length":64,"point":100,"problem_id":"abc084_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc084","epoch_second":1515936471,"execution_time":17,"id":1978069,"language":"Python3 (3.4.3)","length":504,"point":200,"problem_id":"abc084_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc085","epoch_second":1515939518,"execution_time":17,"id":1980358,"language":"Python3 (3.4.3)","length":117,"point":100,"problem_id":"abc085_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc085","epoch_second":1515942772,"execution_time":18,"id":1980850,"language":"Python3 (3.4.3)","length":147,"point":200,"problem_id":"abc085_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc087","epoch_second":1518608339,"execution_time":7,"id":2094843,"language":"Ruby (2.3.3)","length":114,"point":100,"problem_id":"abc087_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1534522546,"execution_time":"","id":3024941,"language":"C++14 (GCC 5.4.1)","length":68,"point":0,"problem_id":"abc102_a","result":"CE","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1534522609,"execution_time":7,"id":3024944,"language":"Ruby (2.3.3)","length":68,"point":100,"problem_id":"abc102_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1537196763,"execution_time":7,"id":3217676,"language":"Ruby (2.3.3)","length":130,"point":200,"problem_id":"abc102_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1537372647,"execution_time":145,"id":3227131,"language":"Ruby (2.3.3)","length":316,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1537630722,"execution_time":182,"id":3245918,"language":"Ruby (2.3.3)","length":618,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc102","epoch_second":1537702186,"execution_time":169,"id":3249389,"language":"Ruby (2.3.3)","length":453,"point":300,"problem_id":"arc100_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc110","epoch_second":1537704231,"execution_time":8,"id":3250336,"language":"Ruby (2.3.3)","length":124,"point":100,"problem_id":"abc110_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc110","epoch_second":1537705874,"execution_time":7,"id":3254538,"language":"Ruby (2.3.3)","length":371,"point":200,"problem_id":"abc110_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc110","epoch_second":1537802994,"execution_time":119,"id":3266294,"language":"Ruby (2.3.3)","length":506,"point":300,"problem_id":"abc110_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc110","epoch_second":1538129700,"execution_time":12,"id":3283466,"language":"Ruby (2.3.3)","length":508,"point":400,"problem_id":"abc110_d","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc109","epoch_second":1538161529,"execution_time":81,"id":3285130,"language":"Ruby (2.3.3)","length":463,"point":300,"problem_id":"abc109_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538222641,"execution_time":7,"id":3290295,"language":"Ruby (2.3.3)","length":87,"point":100,"problem_id":"abc111_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538223302,"execution_time":7,"id":3292788,"language":"Ruby (2.3.3)","length":458,"point":200,"problem_id":"abc111_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538225174,"execution_time":93,"id":3296663,"language":"Ruby (2.3.3)","length":461,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538225903,"execution_time":"","id":3297882,"language":"Ruby (2.3.3)","length":565,"point":0,"problem_id":"arc103_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538226077,"execution_time":"","id":3298157,"language":"Ruby (2.3.3)","length":565,"point":0,"problem_id":"arc103_a","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538226472,"execution_time":107,"id":3298860,"language":"Ruby (2.3.3)","length":232,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538227850,"execution_time":98,"id":3301104,"language":"Ruby (2.3.3)","length":389,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc111","epoch_second":1538228064,"execution_time":"","id":3301440,"language":"Ruby (2.3.3)","length":377,"point":0,"problem_id":"arc103_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"kupc2018","epoch_second":1538288371,"execution_time":7,"id":3308591,"language":"Ruby (2.3.3)","length":190,"point":200,"problem_id":"kupc2018_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"atc001","epoch_second":1538892556,"execution_time":"","id":3361464,"language":"Ruby (2.3.3)","length":1135,"point":0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"atc001","epoch_second":1538892768,"execution_time":"","id":3361488,"language":"Ruby (2.3.3)","length":1141,"point":0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"atc001","epoch_second":1538903212,"execution_time":"","id":3362536,"language":"Ruby (2.3.3)","length":1139,"point":0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"atc001","epoch_second":1538922280,"execution_time":"","id":3364625,"language":"Ruby (2.3.3)","length":1298,"point":0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"atc001","epoch_second":1539528117,"execution_time":487,"id":3410117,"language":"Ruby (2.3.3)","length":1808,"point":100,"problem_id":"unionfind_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2018-beginner","epoch_second":1540641915,"execution_time":7,"id":3479135,"language":"Ruby (2.3.3)","length":152,"point":100,"problem_id":"tenka1_2018_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2018-beginner","epoch_second":1540644124,"execution_time":7,"id":3482931,"language":"Ruby (2.3.3)","length":505,"point":200,"problem_id":"tenka1_2018_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2018-beginner","epoch_second":1540660708,"execution_time":161,"id":3490025,"language":"Ruby (2.3.3)","length":978,"point":400,"problem_id":"tenka1_2018_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2018-beginner","epoch_second":1540735380,"execution_time":111,"id":3495055,"language":"Ruby (2.3.3)","length":2676,"point":0,"problem_id":"tenka1_2018_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2018-beginner","epoch_second":1540738052,"execution_time":182,"id":3495359,"language":"Ruby (2.3.3)","length":2873,"point":400,"problem_id":"tenka1_2018_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc113","epoch_second":1541332982,"execution_time":7,"id":3532275,"language":"Ruby (2.3.3)","length":82,"point":100,"problem_id":"abc113_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc113","epoch_second":1541334090,"execution_time":7,"id":3536034,"language":"Ruby (2.3.3)","length":369,"point":200,"problem_id":"abc113_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc113","epoch_second":1541334098,"execution_time":7,"id":3536052,"language":"Ruby (2.3.3)","length":369,"point":200,"problem_id":"abc113_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc122","epoch_second":1554044061,"execution_time":7,"id":4789941,"language":"Ruby (2.3.3)","length":389,"point":200,"problem_id":"abc122_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc122","epoch_second":1554121929,"execution_time":"","id":4797095,"language":"Ruby (2.3.3)","length":591,"point":0,"problem_id":"abc122_c","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762064,"execution_time":7,"id":5040072,"language":"Ruby (2.3.3)","length":143,"point":100,"problem_id":"tenka1_2019_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555763020,"execution_time":7,"id":5045782,"language":"Ruby (2.3.3)","length":233,"point":200,"problem_id":"tenka1_2019_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555763821,"execution_time":85,"id":5049628,"language":"Ruby (2.3.3)","length":184,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555764821,"execution_time":125,"id":5053577,"language":"Ruby (2.3.3)","length":516,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555765415,"execution_time":125,"id":5055591,"language":"Ruby (2.3.3)","length":554,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555767238,"execution_time":2108,"id":5061203,"language":"Ruby (2.3.3)","length":713,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555812623,"execution_time":148,"id":5070351,"language":"Ruby (2.3.3)","length":742,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555834163,"execution_time":147,"id":5074325,"language":"Ruby (2.3.3)","length":736,"point":300,"problem_id":"tenka1_2019_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc124","epoch_second":1555849883,"execution_time":75,"id":5077773,"language":"Ruby (2.3.3)","length":520,"point":300,"problem_id":"abc124_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"iroha2019-day1","epoch_second":1557064527,"execution_time":8,"id":5281990,"language":"Ruby (2.3.3)","length":334,"point":200,"problem_id":"iroha2019_day1_d","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"iroha2019-day1","epoch_second":1557155226,"execution_time":166,"id":5294123,"language":"Ruby (2.3.3)","length":520,"point":300,"problem_id":"iroha2019_day1_e","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"diverta2019","epoch_second":1557588662,"execution_time":7,"id":5368883,"language":"Ruby (2.3.3)","length":110,"point":100,"problem_id":"diverta2019_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"diverta2019","epoch_second":1557593359,"execution_time":1797,"id":5370562,"language":"Ruby (2.3.3)","length":298,"point":200,"problem_id":"diverta2019_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558269373,"execution_time":7,"id":5464545,"language":"Ruby (2.3.3)","length":235,"point":100,"problem_id":"abc126_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558271380,"execution_time":7,"id":5472787,"language":"Ruby (2.3.3)","length":329,"point":0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558272126,"execution_time":7,"id":5475242,"language":"Ruby (2.3.3)","length":340,"point":0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558272633,"execution_time":7,"id":5476944,"language":"Ruby (2.3.3)","length":396,"point":0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558781788,"execution_time":7,"id":5584203,"language":"Ruby (2.3.3)","length":438,"point":0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc126","epoch_second":1558782835,"execution_time":7,"id":5584424,"language":"Ruby (2.3.3)","length":576,"point":200,"problem_id":"abc126_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558785781,"execution_time":7,"id":5587423,"language":"Ruby (2.3.3)","length":198,"point":100,"problem_id":"abc127_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558786473,"execution_time":7,"id":5596730,"language":"Ruby (2.3.3)","length":211,"point":200,"problem_id":"abc127_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558788337,"execution_time":"","id":5605574,"language":"Ruby (2.3.3)","length":446,"point":0,"problem_id":"abc127_c","result":"TLE","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558795794,"execution_time":"","id":5620016,"language":"Ruby (2.3.3)","length":247,"point":0,"problem_id":"abc127_c","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558824079,"execution_time":142,"id":5623848,"language":"Ruby (2.3.3)","length":248,"point":300,"problem_id":"abc127_c","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc127","epoch_second":1558862155,"execution_time":"","id":5630194,"language":"Ruby (2.3.3)","length":586,"point":0,"problem_id":"abc127_d","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc128","epoch_second":1558872186,"execution_time":8,"id":5634992,"language":"Ruby (2.3.3)","length":95,"point":100,"problem_id":"abc128_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc125","epoch_second":1558884870,"execution_time":7,"id":5655321,"language":"Ruby (2.3.3)","length":96,"point":100,"problem_id":"abc125_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc128","epoch_second":1558967508,"execution_time":7,"id":5666721,"language":"Ruby (2.3.3)","length":289,"point":200,"problem_id":"abc128_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc124","epoch_second":1558970118,"execution_time":7,"id":5667266,"language":"Ruby (2.3.3)","length":94,"point":100,"problem_id":"abc124_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc123","epoch_second":1559051204,"execution_time":7,"id":5677448,"language":"Ruby (2.3.3)","length":410,"point":100,"problem_id":"abc123_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc122","epoch_second":1559054793,"execution_time":7,"id":5678420,"language":"Ruby (2.3.3)","length":191,"point":100,"problem_id":"abc122_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc121","epoch_second":1559057636,"execution_time":7,"id":5679035,"language":"Ruby (2.3.3)","length":130,"point":100,"problem_id":"abc121_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc120","epoch_second":1559136807,"execution_time":7,"id":5693848,"language":"Ruby (2.3.3)","length":121,"point":100,"problem_id":"abc120_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc119","epoch_second":1559137648,"execution_time":7,"id":5694012,"language":"Ruby (2.3.3)","length":197,"point":100,"problem_id":"abc119_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc119","epoch_second":1559138293,"execution_time":17,"id":5694128,"language":"Ruby (2.3.3)","length":179,"point":100,"problem_id":"abc119_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc118","epoch_second":1559138580,"execution_time":7,"id":5694184,"language":"Ruby (2.3.3)","length":126,"point":100,"problem_id":"abc118_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc118","epoch_second":1559138749,"execution_time":7,"id":5694212,"language":"Ruby (2.3.3)","length":107,"point":100,"problem_id":"abc118_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc117","epoch_second":1559139123,"execution_time":7,"id":5694309,"language":"Ruby (2.3.3)","length":84,"point":100,"problem_id":"abc117_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc116","epoch_second":1559139440,"execution_time":7,"id":5694371,"language":"Ruby (2.3.3)","length":81,"point":100,"problem_id":"abc116_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc115","epoch_second":1559139988,"execution_time":7,"id":5694482,"language":"Ruby (2.3.3)","length":242,"point":100,"problem_id":"abc115_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc114","epoch_second":1559140611,"execution_time":7,"id":5694611,"language":"Ruby (2.3.3)","length":126,"point":100,"problem_id":"abc114_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc112","epoch_second":1559222789,"execution_time":7,"id":5704245,"language":"Ruby (2.3.3)","length":152,"point":100,"problem_id":"abc112_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc109","epoch_second":1559307945,"execution_time":7,"id":5714015,"language":"Ruby (2.3.3)","length":94,"point":100,"problem_id":"abc109_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc108","epoch_second":1559308589,"execution_time":7,"id":5714118,"language":"Ruby (2.3.3)","length":90,"point":100,"problem_id":"abc108_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc107","epoch_second":1559308988,"execution_time":7,"id":5714180,"language":"Ruby (2.3.3)","length":40,"point":100,"problem_id":"abc107_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc106","epoch_second":1559309466,"execution_time":7,"id":5714244,"language":"Ruby (2.3.3)","length":52,"point":100,"problem_id":"abc106_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc105","epoch_second":1559397453,"execution_time":7,"id":5736816,"language":"Ruby (2.3.3)","length":78,"point":100,"problem_id":"abc105_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc104","epoch_second":1559451710,"execution_time":7,"id":5743350,"language":"Ruby (2.3.3)","length":137,"point":100,"problem_id":"abc104_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc103","epoch_second":1559454336,"execution_time":7,"id":5743753,"language":"Ruby (2.3.3)","length":133,"point":100,"problem_id":"abc103_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc101","epoch_second":1559454863,"execution_time":7,"id":5743811,"language":"Ruby (2.3.3)","length":173,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc100","epoch_second":1559455859,"execution_time":7,"id":5743962,"language":"Ruby (2.3.3)","length":127,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc124","epoch_second":1559481940,"execution_time":7,"id":5761122,"language":"Ruby (2.3.3)","length":295,"point":200,"problem_id":"abc124_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc099","epoch_second":1559547434,"execution_time":7,"id":5775741,"language":"Ruby (2.3.3)","length":71,"point":100,"problem_id":"abc099_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc098","epoch_second":1559547620,"execution_time":7,"id":5775768,"language":"Ruby (2.3.3)","length":54,"point":100,"problem_id":"abc098_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc123","epoch_second":1559569434,"execution_time":"","id":5779771,"language":"Ruby (2.3.3)","length":395,"point":0,"problem_id":"abc123_b","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc123","epoch_second":1559570867,"execution_time":"","id":5780128,"language":"Ruby (2.3.3)","length":395,"point":0,"problem_id":"abc123_b","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc123","epoch_second":1559571980,"execution_time":7,"id":5780399,"language":"Ruby (2.3.3)","length":491,"point":200,"problem_id":"abc123_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc097","epoch_second":1559645892,"execution_time":7,"id":5787866,"language":"Ruby (2.3.3)","length":205,"point":0,"problem_id":"abc097_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc097","epoch_second":1559646276,"execution_time":7,"id":5787926,"language":"Ruby (2.3.3)","length":206,"point":100,"problem_id":"abc097_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc096","epoch_second":1559646569,"execution_time":7,"id":5787969,"language":"Ruby (2.3.3)","length":189,"point":0,"problem_id":"abc096_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc096","epoch_second":1559654431,"execution_time":7,"id":5789245,"language":"Ruby (2.3.3)","length":118,"point":100,"problem_id":"abc096_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc095","epoch_second":1559654706,"execution_time":7,"id":5789301,"language":"Ruby (2.3.3)","length":148,"point":100,"problem_id":"abc095_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc121","epoch_second":1559655167,"execution_time":7,"id":5789413,"language":"Ruby (2.3.3)","length":354,"point":200,"problem_id":"abc121_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc120","epoch_second":1559657594,"execution_time":8,"id":5789927,"language":"Ruby (2.3.3)","length":206,"point":200,"problem_id":"abc120_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc119","epoch_second":1559687202,"execution_time":8,"id":5792193,"language":"Ruby (2.3.3)","length":307,"point":200,"problem_id":"abc119_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc094","epoch_second":1559737377,"execution_time":7,"id":5798345,"language":"Ruby (2.3.3)","length":108,"point":100,"problem_id":"abc094_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc093","epoch_second":1559737867,"execution_time":7,"id":5798419,"language":"Ruby (2.3.3)","length":141,"point":100,"problem_id":"abc093_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc092","epoch_second":1559738212,"execution_time":7,"id":5798492,"language":"Ruby (2.3.3)","length":92,"point":0,"problem_id":"abc092_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc092","epoch_second":1559738404,"execution_time":7,"id":5798519,"language":"Ruby (2.3.3)","length":88,"point":100,"problem_id":"abc092_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc117","epoch_second":1559772750,"execution_time":7,"id":5800987,"language":"Ruby (2.3.3)","length":171,"point":200,"problem_id":"abc117_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc116","epoch_second":1559824456,"execution_time":7,"id":5806913,"language":"Ruby (2.3.3)","length":150,"point":0,"problem_id":"abc116_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc116","epoch_second":1559824663,"execution_time":7,"id":5806953,"language":"Ruby (2.3.3)","length":200,"point":0,"problem_id":"abc116_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc116","epoch_second":1559825134,"execution_time":7,"id":5807029,"language":"Ruby (2.3.3)","length":200,"point":0,"problem_id":"abc116_a","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc116","epoch_second":1559827356,"execution_time":7,"id":5807399,"language":"Ruby (2.3.3)","length":201,"point":200,"problem_id":"abc116_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc115","epoch_second":1559827967,"execution_time":7,"id":5807502,"language":"Ruby (2.3.3)","length":151,"point":200,"problem_id":"abc115_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc114","epoch_second":1559830244,"execution_time":7,"id":5807893,"language":"Ruby (2.3.3)","length":195,"point":200,"problem_id":"abc114_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc091","epoch_second":1559899450,"execution_time":7,"id":5814274,"language":"Ruby (2.3.3)","length":89,"point":100,"problem_id":"abc091_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc090","epoch_second":1559899814,"execution_time":7,"id":5814333,"language":"Ruby (2.3.3)","length":82,"point":100,"problem_id":"abc090_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc089","epoch_second":1559900072,"execution_time":7,"id":5814373,"language":"Ruby (2.3.3)","length":23,"point":100,"problem_id":"abc089_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc088","epoch_second":1559900410,"execution_time":7,"id":5814407,"language":"Ruby (2.3.3)","length":87,"point":100,"problem_id":"abc088_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc109","epoch_second":1559960683,"execution_time":8,"id":5819530,"language":"Ruby (2.3.3)","length":413,"point":200,"problem_id":"abc109_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc108","epoch_second":1559987083,"execution_time":7,"id":5823503,"language":"Ruby (2.3.3)","length":170,"point":200,"problem_id":"abc108_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc106","epoch_second":1559992938,"execution_time":16,"id":5824288,"language":"Ruby (2.3.3)","length":360,"point":200,"problem_id":"abc106_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc105","epoch_second":1559995844,"execution_time":7,"id":5824790,"language":"Ruby (2.3.3)","length":233,"point":200,"problem_id":"abc105_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc104","epoch_second":1560042104,"execution_time":7,"id":5828896,"language":"Ruby (2.3.3)","length":360,"point":200,"problem_id":"abc104_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc103","epoch_second":1560060981,"execution_time":7,"id":5830996,"language":"Ruby (2.3.3)","length":293,"point":200,"problem_id":"abc103_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc101","epoch_second":1560061950,"execution_time":8,"id":5831115,"language":"Ruby (2.3.3)","length":269,"point":200,"problem_id":"abc101_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc100","epoch_second":1560062698,"execution_time":8,"id":5831244,"language":"Ruby (2.3.3)","length":84,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc100","epoch_second":1560065318,"execution_time":7,"id":5831681,"language":"Ruby (2.3.3)","length":131,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc125","epoch_second":1560072016,"execution_time":7,"id":5832923,"language":"Ruby (2.3.3)","length":211,"point":200,"problem_id":"abc125_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc129","epoch_second":1560081761,"execution_time":7,"id":5835859,"language":"Ruby (2.3.3)","length":94,"point":100,"problem_id":"abc129_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc129","epoch_second":1560083245,"execution_time":8,"id":5845489,"language":"Ruby (2.3.3)","length":401,"point":200,"problem_id":"abc129_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc086","epoch_second":1560140291,"execution_time":7,"id":5864317,"language":"Ruby (2.3.3)","length":88,"point":100,"problem_id":"abc086_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc083","epoch_second":1560140594,"execution_time":"","id":5864374,"language":"Ruby (2.3.3)","length":142,"point":0,"problem_id":"abc083_a","result":"RE","user_id":"teke_phys"}
-,{"contest_id":"abc083","epoch_second":1560169079,"execution_time":7,"id":5869730,"language":"Ruby (2.3.3)","length":147,"point":100,"problem_id":"abc083_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc082","epoch_second":1560174844,"execution_time":7,"id":5871154,"language":"Ruby (2.3.3)","length":93,"point":100,"problem_id":"abc082_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc081","epoch_second":1560175058,"execution_time":7,"id":5871205,"language":"Ruby (2.3.3)","length":146,"point":100,"problem_id":"abc081_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc099","epoch_second":1560175628,"execution_time":7,"id":5871327,"language":"Ruby (2.3.3)","length":136,"point":200,"problem_id":"abc099_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc080","epoch_second":1560246308,"execution_time":7,"id":5878371,"language":"Ruby (2.3.3)","length":48,"point":100,"problem_id":"abc080_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc079","epoch_second":1560246666,"execution_time":7,"id":5878403,"language":"Ruby (2.3.3)","length":129,"point":100,"problem_id":"abc079_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc078","epoch_second":1560247851,"execution_time":7,"id":5878569,"language":"Ruby (2.3.3)","length":109,"point":200,"problem_id":"abc078_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc080","epoch_second":1560248260,"execution_time":7,"id":5878628,"language":"Ruby (2.3.3)","length":154,"point":200,"problem_id":"abc080_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc078","epoch_second":1560350477,"execution_time":7,"id":5891070,"language":"Ruby (2.3.3)","length":168,"point":100,"problem_id":"abc078_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc077","epoch_second":1560350723,"execution_time":7,"id":5891120,"language":"Ruby (2.3.3)","length":173,"point":100,"problem_id":"abc077_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc076","epoch_second":1560350961,"execution_time":7,"id":5891163,"language":"Ruby (2.3.3)","length":81,"point":100,"problem_id":"abc076_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc074","epoch_second":1560351105,"execution_time":7,"id":5891194,"language":"Ruby (2.3.3)","length":81,"point":100,"problem_id":"abc074_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc079","epoch_second":1560351728,"execution_time":7,"id":5891318,"language":"Ruby (2.3.3)","length":378,"point":200,"problem_id":"abc079_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc073","epoch_second":1560428499,"execution_time":7,"id":5898534,"language":"Ruby (2.3.3)","length":186,"point":100,"problem_id":"abc073_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc072","epoch_second":1560428644,"execution_time":7,"id":5898557,"language":"Ruby (2.3.3)","length":115,"point":100,"problem_id":"abc072_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc071","epoch_second":1560429774,"execution_time":7,"id":5898750,"language":"Ruby (2.3.3)","length":95,"point":100,"problem_id":"abc071_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc097","epoch_second":1560484851,"execution_time":9,"id":5903042,"language":"Ruby (2.3.3)","length":195,"point":0,"problem_id":"abc097_b","result":"WA","user_id":"teke_phys"}
-,{"contest_id":"abc097","epoch_second":1560484962,"execution_time":9,"id":5903054,"language":"Ruby (2.3.3)","length":196,"point":200,"problem_id":"abc097_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc070","epoch_second":1560516816,"execution_time":7,"id":5908075,"language":"Ruby (2.3.3)","length":78,"point":100,"problem_id":"abc070_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc069","epoch_second":1560517020,"execution_time":7,"id":5908109,"language":"Ruby (2.3.3)","length":48,"point":100,"problem_id":"abc069_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc068","epoch_second":1560596573,"execution_time":7,"id":5916717,"language":"Ruby (2.3.3)","length":30,"point":100,"problem_id":"abc068_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc063","epoch_second":1560596669,"execution_time":7,"id":5916741,"language":"Ruby (2.3.3)","length":83,"point":100,"problem_id":"abc063_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc061","epoch_second":1560596837,"execution_time":7,"id":5916767,"language":"Ruby (2.3.3)","length":110,"point":100,"problem_id":"abc061_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc060","epoch_second":1560597912,"execution_time":7,"id":5916953,"language":"Ruby (2.3.3)","length":115,"point":100,"problem_id":"abc060_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc096","epoch_second":1560771787,"execution_time":7,"id":5999948,"language":"Ruby (2.3.3)","length":165,"point":200,"problem_id":"abc096_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc095","epoch_second":1560772299,"execution_time":7,"id":6000067,"language":"Ruby (2.3.3)","length":191,"point":200,"problem_id":"abc095_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc094","epoch_second":1560777566,"execution_time":7,"id":6001071,"language":"Ruby (2.3.3)","length":349,"point":200,"problem_id":"abc094_b","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc059","epoch_second":1560778625,"execution_time":7,"id":6001309,"language":"Ruby (2.3.3)","length":107,"point":100,"problem_id":"abc059_a","result":"AC","user_id":"teke_phys"}
-,{"contest_id":"abc058","epoch_second":1560783237,"execution_time":7,"id":6002440,"language":"Ruby (2.3.3)","length":88,"point":100,"problem_id":"abc058_a","result":"AC","user_id":"teke_phys"}
+[{"contest_id":"abc025","epoch_second":1435846759,"execution_time":25,"id":436936,"language":"C (GCC 4.9.2)","length":259,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc025","epoch_second":1436013239,"execution_time":28,"id":439291,"language":"C (GCC 4.9.2)","length":699,"point":0.0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc025","epoch_second":1436013692,"execution_time":25,"id":439393,"language":"C (GCC 4.9.2)","length":699,"point":0.0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc025","epoch_second":1436014184,"execution_time":25,"id":439494,"language":"C (GCC 4.9.2)","length":693,"point":0.0,"problem_id":"abc025_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc025","epoch_second":1436017584,"execution_time":29,"id":440032,"language":"C (GCC 4.9.2)","length":703,"point":100.0,"problem_id":"abc025_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc026","epoch_second":1436620810,"execution_time":25,"id":445861,"language":"C (GCC 4.9.2)","length":249,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc026","epoch_second":1436621625,"execution_time":25,"id":446047,"language":"C (GCC 4.9.2)","length":307,"point":0.0,"problem_id":"abc026_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc026","epoch_second":1436702451,"execution_time":27,"id":447824,"language":"C (GCC 4.9.2)","length":689,"point":100.0,"problem_id":"abc026_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"arc042","epoch_second":1437831056,"execution_time":2035,"id":455232,"language":"C (GCC 4.9.2)","length":686,"point":0.0,"problem_id":"arc042_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc029","epoch_second":1442664434,"execution_time":25,"id":497468,"language":"C (GCC 4.9.2)","length":223,"point":100.0,"problem_id":"abc029_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc029","epoch_second":1442667424,"execution_time":31,"id":498570,"language":"C (GCC 4.9.2)","length":400,"point":0.0,"problem_id":"abc029_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc029","epoch_second":1442668601,"execution_time":29,"id":498824,"language":"C (GCC 4.9.2)","length":387,"point":100.0,"problem_id":"abc029_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc032","epoch_second":1454243700,"execution_time":60,"id":626214,"language":"Ruby (2.1.5p273)","length":368,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc032","epoch_second":1454244485,"execution_time":62,"id":626222,"language":"Ruby (2.1.5p273)","length":451,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc037","epoch_second":1463408963,"execution_time":"","id":732298,"language":"C++14 (GCC 5.4.1)","length":176,"point":0.0,"problem_id":"abc037_a","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc037","epoch_second":1463409021,"execution_time":4,"id":732299,"language":"C++14 (GCC 5.4.1)","length":187,"point":100.0,"problem_id":"abc037_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc037","epoch_second":1463495190,"execution_time":"","id":732883,"language":"C++14 (GCC 5.4.1)","length":459,"point":0.0,"problem_id":"abc037_b","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc037","epoch_second":1463495257,"execution_time":5,"id":732885,"language":"C++14 (GCC 5.4.1)","length":460,"point":100.0,"problem_id":"abc037_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc038","epoch_second":1464507086,"execution_time":9,"id":747548,"language":"C++14 (GCC 5.4.1)","length":238,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc038","epoch_second":1464524021,"execution_time":4,"id":747701,"language":"C++14 (GCC 5.4.1)","length":391,"point":100.0,"problem_id":"abc038_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465646633,"execution_time":4,"id":761784,"language":"C++14 (GCC 5.4.1)","length":155,"point":100.0,"problem_id":"abc039_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465646903,"execution_time":4,"id":762117,"language":"C++14 (GCC 5.4.1)","length":151,"point":100.0,"problem_id":"abc039_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465653364,"execution_time":4,"id":764617,"language":"C++14 (GCC 5.4.1)","length":577,"point":0.0,"problem_id":"abc039_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465659491,"execution_time":4,"id":765051,"language":"C++14 (GCC 5.4.1)","length":683,"point":0.0,"problem_id":"abc039_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465733004,"execution_time":4,"id":765950,"language":"C++14 (GCC 5.4.1)","length":742,"point":100.0,"problem_id":"abc039_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc039","epoch_second":1465733848,"execution_time":6,"id":765960,"language":"C++14 (GCC 5.4.1)","length":794,"point":100.0,"problem_id":"abc039_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"agc002","epoch_second":1469970458,"execution_time":6,"id":826538,"language":"C++14 (GCC 5.4.1)","length":304,"point":0.0,"problem_id":"agc002_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"agc002","epoch_second":1469970959,"execution_time":2101,"id":826700,"language":"C++14 (GCC 5.4.1)","length":314,"point":100.0,"problem_id":"agc002_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"agc002","epoch_second":1469971473,"execution_time":4,"id":826885,"language":"C++14 (GCC 5.4.1)","length":352,"point":200.0,"problem_id":"agc002_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc043","epoch_second":1471090312,"execution_time":4,"id":836316,"language":"C++14 (GCC 5.4.1)","length":175,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc043","epoch_second":1471095664,"execution_time":6,"id":838927,"language":"C++14 (GCC 5.4.1)","length":409,"point":200.0,"problem_id":"abc043_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc043","epoch_second":1471105521,"execution_time":4,"id":839492,"language":"C++14 (GCC 5.4.1)","length":807,"point":0.0,"problem_id":"arc059_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc043","epoch_second":1471105856,"execution_time":6,"id":839501,"language":"C++14 (GCC 5.4.1)","length":808,"point":0.0,"problem_id":"arc059_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"agc003","epoch_second":1471876154,"execution_time":6,"id":849827,"language":"C++14 (GCC 5.4.1)","length":1000,"point":200.0,"problem_id":"agc003_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc063","epoch_second":1496678326,"execution_time":1,"id":1333619,"language":"C++14 (GCC 5.4.1)","length":437,"point":200.0,"problem_id":"abc063_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc062","epoch_second":1497066660,"execution_time":1,"id":1338581,"language":"C++14 (GCC 5.4.1)","length":490,"point":0.0,"problem_id":"abc062_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc062","epoch_second":1497066840,"execution_time":1,"id":1338583,"language":"C++14 (GCC 5.4.1)","length":490,"point":100.0,"problem_id":"abc062_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc062","epoch_second":1497195162,"execution_time":2,"id":1349691,"language":"C++14 (GCC 5.4.1)","length":1190,"point":200.0,"problem_id":"abc062_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc064","epoch_second":1497270626,"execution_time":1,"id":1350814,"language":"C++14 (GCC 5.4.1)","length":207,"point":100.0,"problem_id":"abc064_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc064","epoch_second":1497279471,"execution_time":1,"id":1351047,"language":"C++14 (GCC 5.4.1)","length":362,"point":200.0,"problem_id":"abc064_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306533,"execution_time":1,"id":1374382,"language":"C++14 (GCC 5.4.1)","length":311,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306586,"execution_time":1,"id":1374455,"language":"C++14 (GCC 5.4.1)","length":312,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306642,"execution_time":1,"id":1374531,"language":"C++14 (GCC 5.4.1)","length":310,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306683,"execution_time":1,"id":1374588,"language":"C++14 (GCC 5.4.1)","length":311,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306799,"execution_time":1,"id":1374734,"language":"C++14 (GCC 5.4.1)","length":311,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498306960,"execution_time":1,"id":1374912,"language":"C++14 (GCC 5.4.1)","length":311,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498307053,"execution_time":1,"id":1375010,"language":"C++14 (GCC 5.4.1)","length":311,"point":100.0,"problem_id":"abc065_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498309737,"execution_time":"","id":1377140,"language":"C++14 (GCC 5.4.1)","length":495,"point":0.0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498310919,"execution_time":"","id":1377961,"language":"C++14 (GCC 5.4.1)","length":495,"point":0.0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc065","epoch_second":1498908724,"execution_time":"","id":1390872,"language":"C++14 (GCC 5.4.1)","length":510,"point":0.0,"problem_id":"abc065_b","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498910746,"execution_time":1,"id":1391537,"language":"C++14 (GCC 5.4.1)","length":305,"point":100.0,"problem_id":"abc066_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498912572,"execution_time":1,"id":1393690,"language":"C++14 (GCC 5.4.1)","length":616,"point":200.0,"problem_id":"abc066_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498913432,"execution_time":"","id":1394403,"language":"C++14 (GCC 5.4.1)","length":378,"point":0.0,"problem_id":"arc077_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498913850,"execution_time":"","id":1394705,"language":"C++14 (GCC 5.4.1)","length":370,"point":0.0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498914063,"execution_time":"","id":1394861,"language":"C++14 (GCC 5.4.1)","length":390,"point":0.0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498914351,"execution_time":"","id":1395050,"language":"C++14 (GCC 5.4.1)","length":405,"point":0.0,"problem_id":"arc077_a","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc066","epoch_second":1498914514,"execution_time":"","id":1395151,"language":"C++14 (Clang 3.8.0)","length":407,"point":0.0,"problem_id":"arc077_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc057","epoch_second":1499781626,"execution_time":1,"id":1417121,"language":"C++14 (GCC 5.4.1)","length":172,"point":100.0,"problem_id":"abc057_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc057","epoch_second":1499870630,"execution_time":1,"id":1418443,"language":"C++14 (GCC 5.4.1)","length":1205,"point":200.0,"problem_id":"abc057_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc057","epoch_second":1500042514,"execution_time":4,"id":1420349,"language":"C++14 (GCC 5.4.1)","length":693,"point":300.0,"problem_id":"abc057_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc067","epoch_second":1500388383,"execution_time":1,"id":1437310,"language":"C++14 (GCC 5.4.1)","length":288,"point":100.0,"problem_id":"abc067_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1505011925,"execution_time":2,"id":1584738,"language":"C++14 (GCC 5.4.1)","length":411,"point":200.0,"problem_id":"abc073_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1505144368,"execution_time":"","id":1588416,"language":"C++14 (GCC 5.4.1)","length":573,"point":0.0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1505144775,"execution_time":"","id":1588427,"language":"C++14 (GCC 5.4.1)","length":575,"point":0.0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1505145482,"execution_time":"","id":1588437,"language":"C++14 (GCC 5.4.1)","length":580,"point":0.0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1505145821,"execution_time":"","id":1588442,"language":"C++14 (GCC 5.4.1)","length":594,"point":0.0,"problem_id":"abc073_c","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc075","epoch_second":1507983106,"execution_time":1,"id":1682516,"language":"C++14 (GCC 5.4.1)","length":293,"point":100.0,"problem_id":"abc075_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc077","epoch_second":1510927330,"execution_time":2,"id":1779944,"language":"C++14 (GCC 5.4.1)","length":544,"point":200.0,"problem_id":"abc077_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc077","epoch_second":1510928736,"execution_time":"","id":1779977,"language":"C++14 (GCC 5.4.1)","length":802,"point":0.0,"problem_id":"arc084_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc077","epoch_second":1511050643,"execution_time":"","id":1789996,"language":"C++14 (GCC 5.4.1)","length":857,"point":0.0,"problem_id":"arc084_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc084","epoch_second":1515072495,"execution_time":18,"id":1940239,"language":"Python3 (3.4.3)","length":64,"point":100.0,"problem_id":"abc084_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc084","epoch_second":1515936471,"execution_time":17,"id":1978069,"language":"Python3 (3.4.3)","length":504,"point":200.0,"problem_id":"abc084_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc085","epoch_second":1515939518,"execution_time":17,"id":1980358,"language":"Python3 (3.4.3)","length":117,"point":100.0,"problem_id":"abc085_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc085","epoch_second":1515942772,"execution_time":18,"id":1980850,"language":"Python3 (3.4.3)","length":147,"point":200.0,"problem_id":"abc085_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc087","epoch_second":1518608339,"execution_time":7,"id":2094843,"language":"Ruby (2.3.3)","length":114,"point":100.0,"problem_id":"abc087_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1534522546,"execution_time":"","id":3024941,"language":"C++14 (GCC 5.4.1)","length":68,"point":0.0,"problem_id":"abc102_a","result":"CE","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1534522609,"execution_time":7,"id":3024944,"language":"Ruby (2.3.3)","length":68,"point":100.0,"problem_id":"abc102_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1537196763,"execution_time":7,"id":3217676,"language":"Ruby (2.3.3)","length":130,"point":200.0,"problem_id":"abc102_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1537372647,"execution_time":145,"id":3227131,"language":"Ruby (2.3.3)","length":316,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1537630722,"execution_time":182,"id":3245918,"language":"Ruby (2.3.3)","length":618,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc102","epoch_second":1537702186,"execution_time":169,"id":3249389,"language":"Ruby (2.3.3)","length":453,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc110","epoch_second":1537704231,"execution_time":8,"id":3250336,"language":"Ruby (2.3.3)","length":124,"point":100.0,"problem_id":"abc110_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc110","epoch_second":1537705874,"execution_time":7,"id":3254538,"language":"Ruby (2.3.3)","length":371,"point":200.0,"problem_id":"abc110_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc110","epoch_second":1537802994,"execution_time":119,"id":3266294,"language":"Ruby (2.3.3)","length":506,"point":300.0,"problem_id":"abc110_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc110","epoch_second":1538129700,"execution_time":12,"id":3283466,"language":"Ruby (2.3.3)","length":508,"point":400.0,"problem_id":"abc110_d","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc109","epoch_second":1538161529,"execution_time":81,"id":3285130,"language":"Ruby (2.3.3)","length":463,"point":300.0,"problem_id":"abc109_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538222641,"execution_time":7,"id":3290295,"language":"Ruby (2.3.3)","length":87,"point":100.0,"problem_id":"abc111_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538223302,"execution_time":7,"id":3292788,"language":"Ruby (2.3.3)","length":458,"point":200.0,"problem_id":"abc111_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538225174,"execution_time":93,"id":3296663,"language":"Ruby (2.3.3)","length":461,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538225903,"execution_time":"","id":3297882,"language":"Ruby (2.3.3)","length":565,"point":0.0,"problem_id":"arc103_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538226077,"execution_time":"","id":3298157,"language":"Ruby (2.3.3)","length":565,"point":0.0,"problem_id":"arc103_a","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538226472,"execution_time":107,"id":3298860,"language":"Ruby (2.3.3)","length":232,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538227850,"execution_time":98,"id":3301104,"language":"Ruby (2.3.3)","length":389,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc111","epoch_second":1538228064,"execution_time":"","id":3301440,"language":"Ruby (2.3.3)","length":377,"point":0.0,"problem_id":"arc103_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"kupc2018","epoch_second":1538288371,"execution_time":7,"id":3308591,"language":"Ruby (2.3.3)","length":190,"point":200.0,"problem_id":"kupc2018_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1538892556,"execution_time":"","id":3361464,"language":"Ruby (2.3.3)","length":1135,"point":0.0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1538892768,"execution_time":"","id":3361488,"language":"Ruby (2.3.3)","length":1141,"point":0.0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1538903212,"execution_time":"","id":3362536,"language":"Ruby (2.3.3)","length":1139,"point":0.0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1538913840,"execution_time":762,"id":3363627,"language":"Ruby (2.3.3)","length":1337,"point":100.0,"problem_id":"dfs_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1538922280,"execution_time":"","id":3364625,"language":"Ruby (2.3.3)","length":1298,"point":0.0,"problem_id":"dfs_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"atc001","epoch_second":1539528117,"execution_time":487,"id":3410117,"language":"Ruby (2.3.3)","length":1808,"point":100.0,"problem_id":"unionfind_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2018-beginner","epoch_second":1540641915,"execution_time":7,"id":3479135,"language":"Ruby (2.3.3)","length":152,"point":100.0,"problem_id":"tenka1_2018_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2018-beginner","epoch_second":1540644124,"execution_time":7,"id":3482931,"language":"Ruby (2.3.3)","length":505,"point":200.0,"problem_id":"tenka1_2018_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2018-beginner","epoch_second":1540660708,"execution_time":161,"id":3490025,"language":"Ruby (2.3.3)","length":978,"point":400.0,"problem_id":"tenka1_2018_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2018-beginner","epoch_second":1540735380,"execution_time":111,"id":3495055,"language":"Ruby (2.3.3)","length":2676,"point":0.0,"problem_id":"tenka1_2018_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2018-beginner","epoch_second":1540738052,"execution_time":182,"id":3495359,"language":"Ruby (2.3.3)","length":2873,"point":400.0,"problem_id":"tenka1_2018_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc113","epoch_second":1541332982,"execution_time":7,"id":3532275,"language":"Ruby (2.3.3)","length":82,"point":100.0,"problem_id":"abc113_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc113","epoch_second":1541334090,"execution_time":7,"id":3536034,"language":"Ruby (2.3.3)","length":369,"point":200.0,"problem_id":"abc113_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc113","epoch_second":1541334098,"execution_time":7,"id":3536052,"language":"Ruby (2.3.3)","length":369,"point":200.0,"problem_id":"abc113_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc122","epoch_second":1554044061,"execution_time":7,"id":4789941,"language":"Ruby (2.3.3)","length":389,"point":200.0,"problem_id":"abc122_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc122","epoch_second":1554121929,"execution_time":"","id":4797095,"language":"Ruby (2.3.3)","length":591,"point":0.0,"problem_id":"abc122_c","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762064,"execution_time":7,"id":5040072,"language":"Ruby (2.3.3)","length":143,"point":100.0,"problem_id":"tenka1_2019_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555763020,"execution_time":7,"id":5045782,"language":"Ruby (2.3.3)","length":233,"point":200.0,"problem_id":"tenka1_2019_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555763821,"execution_time":85,"id":5049628,"language":"Ruby (2.3.3)","length":184,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555764821,"execution_time":125,"id":5053577,"language":"Ruby (2.3.3)","length":516,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555765415,"execution_time":125,"id":5055591,"language":"Ruby (2.3.3)","length":554,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555767238,"execution_time":2108,"id":5061203,"language":"Ruby (2.3.3)","length":713,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555812623,"execution_time":148,"id":5070351,"language":"Ruby (2.3.3)","length":742,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555834163,"execution_time":147,"id":5074325,"language":"Ruby (2.3.3)","length":736,"point":300.0,"problem_id":"tenka1_2019_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc124","epoch_second":1555849883,"execution_time":75,"id":5077773,"language":"Ruby (2.3.3)","length":520,"point":300.0,"problem_id":"abc124_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"iroha2019-day1","epoch_second":1557064527,"execution_time":8,"id":5281990,"language":"Ruby (2.3.3)","length":334,"point":200.0,"problem_id":"iroha2019_day1_d","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"iroha2019-day1","epoch_second":1557155226,"execution_time":166,"id":5294123,"language":"Ruby (2.3.3)","length":520,"point":300.0,"problem_id":"iroha2019_day1_e","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"diverta2019","epoch_second":1557588662,"execution_time":7,"id":5368883,"language":"Ruby (2.3.3)","length":110,"point":100.0,"problem_id":"diverta2019_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"diverta2019","epoch_second":1557593359,"execution_time":1797,"id":5370562,"language":"Ruby (2.3.3)","length":298,"point":200.0,"problem_id":"diverta2019_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558269373,"execution_time":7,"id":5464545,"language":"Ruby (2.3.3)","length":235,"point":100.0,"problem_id":"abc126_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558271380,"execution_time":7,"id":5472787,"language":"Ruby (2.3.3)","length":329,"point":0.0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558272126,"execution_time":7,"id":5475242,"language":"Ruby (2.3.3)","length":340,"point":0.0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558272633,"execution_time":7,"id":5476944,"language":"Ruby (2.3.3)","length":396,"point":0.0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558781788,"execution_time":7,"id":5584203,"language":"Ruby (2.3.3)","length":438,"point":0.0,"problem_id":"abc126_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc126","epoch_second":1558782835,"execution_time":7,"id":5584424,"language":"Ruby (2.3.3)","length":576,"point":200.0,"problem_id":"abc126_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558785781,"execution_time":7,"id":5587423,"language":"Ruby (2.3.3)","length":198,"point":100.0,"problem_id":"abc127_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558786473,"execution_time":7,"id":5596730,"language":"Ruby (2.3.3)","length":211,"point":200.0,"problem_id":"abc127_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558788337,"execution_time":"","id":5605574,"language":"Ruby (2.3.3)","length":446,"point":0.0,"problem_id":"abc127_c","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558795794,"execution_time":"","id":5620016,"language":"Ruby (2.3.3)","length":247,"point":0.0,"problem_id":"abc127_c","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558824079,"execution_time":142,"id":5623848,"language":"Ruby (2.3.3)","length":248,"point":300.0,"problem_id":"abc127_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc127","epoch_second":1558862155,"execution_time":"","id":5630194,"language":"Ruby (2.3.3)","length":586,"point":0.0,"problem_id":"abc127_d","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc128","epoch_second":1558872186,"execution_time":8,"id":5634992,"language":"Ruby (2.3.3)","length":95,"point":100.0,"problem_id":"abc128_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc125","epoch_second":1558884870,"execution_time":7,"id":5655321,"language":"Ruby (2.3.3)","length":96,"point":100.0,"problem_id":"abc125_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc128","epoch_second":1558967508,"execution_time":7,"id":5666721,"language":"Ruby (2.3.3)","length":289,"point":200.0,"problem_id":"abc128_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc124","epoch_second":1558970118,"execution_time":7,"id":5667266,"language":"Ruby (2.3.3)","length":94,"point":100.0,"problem_id":"abc124_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc123","epoch_second":1559051204,"execution_time":7,"id":5677448,"language":"Ruby (2.3.3)","length":410,"point":100.0,"problem_id":"abc123_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc122","epoch_second":1559054793,"execution_time":7,"id":5678420,"language":"Ruby (2.3.3)","length":191,"point":100.0,"problem_id":"abc122_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc121","epoch_second":1559057636,"execution_time":7,"id":5679035,"language":"Ruby (2.3.3)","length":130,"point":100.0,"problem_id":"abc121_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc120","epoch_second":1559136807,"execution_time":7,"id":5693848,"language":"Ruby (2.3.3)","length":121,"point":100.0,"problem_id":"abc120_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc119","epoch_second":1559137648,"execution_time":7,"id":5694012,"language":"Ruby (2.3.3)","length":197,"point":100.0,"problem_id":"abc119_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc119","epoch_second":1559138293,"execution_time":17,"id":5694128,"language":"Ruby (2.3.3)","length":179,"point":100.0,"problem_id":"abc119_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc118","epoch_second":1559138580,"execution_time":7,"id":5694184,"language":"Ruby (2.3.3)","length":126,"point":100.0,"problem_id":"abc118_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc118","epoch_second":1559138749,"execution_time":7,"id":5694212,"language":"Ruby (2.3.3)","length":107,"point":100.0,"problem_id":"abc118_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc117","epoch_second":1559139123,"execution_time":7,"id":5694309,"language":"Ruby (2.3.3)","length":84,"point":100.0,"problem_id":"abc117_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc116","epoch_second":1559139440,"execution_time":7,"id":5694371,"language":"Ruby (2.3.3)","length":81,"point":100.0,"problem_id":"abc116_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc115","epoch_second":1559139988,"execution_time":7,"id":5694482,"language":"Ruby (2.3.3)","length":242,"point":100.0,"problem_id":"abc115_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc114","epoch_second":1559140611,"execution_time":7,"id":5694611,"language":"Ruby (2.3.3)","length":126,"point":100.0,"problem_id":"abc114_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc112","epoch_second":1559222789,"execution_time":7,"id":5704245,"language":"Ruby (2.3.3)","length":152,"point":100.0,"problem_id":"abc112_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc109","epoch_second":1559307945,"execution_time":7,"id":5714015,"language":"Ruby (2.3.3)","length":94,"point":100.0,"problem_id":"abc109_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc108","epoch_second":1559308589,"execution_time":7,"id":5714118,"language":"Ruby (2.3.3)","length":90,"point":100.0,"problem_id":"abc108_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc107","epoch_second":1559308988,"execution_time":7,"id":5714180,"language":"Ruby (2.3.3)","length":40,"point":100.0,"problem_id":"abc107_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc106","epoch_second":1559309466,"execution_time":7,"id":5714244,"language":"Ruby (2.3.3)","length":52,"point":100.0,"problem_id":"abc106_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc105","epoch_second":1559397453,"execution_time":7,"id":5736816,"language":"Ruby (2.3.3)","length":78,"point":100.0,"problem_id":"abc105_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc104","epoch_second":1559451710,"execution_time":7,"id":5743350,"language":"Ruby (2.3.3)","length":137,"point":100.0,"problem_id":"abc104_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc103","epoch_second":1559454336,"execution_time":7,"id":5743753,"language":"Ruby (2.3.3)","length":133,"point":100.0,"problem_id":"abc103_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc101","epoch_second":1559454863,"execution_time":7,"id":5743811,"language":"Ruby (2.3.3)","length":173,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc100","epoch_second":1559455859,"execution_time":7,"id":5743962,"language":"Ruby (2.3.3)","length":127,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc124","epoch_second":1559481940,"execution_time":7,"id":5761122,"language":"Ruby (2.3.3)","length":295,"point":200.0,"problem_id":"abc124_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc099","epoch_second":1559547434,"execution_time":7,"id":5775741,"language":"Ruby (2.3.3)","length":71,"point":100.0,"problem_id":"abc099_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc098","epoch_second":1559547620,"execution_time":7,"id":5775768,"language":"Ruby (2.3.3)","length":54,"point":100.0,"problem_id":"abc098_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc123","epoch_second":1559569434,"execution_time":"","id":5779771,"language":"Ruby (2.3.3)","length":395,"point":0.0,"problem_id":"abc123_b","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc123","epoch_second":1559570867,"execution_time":"","id":5780128,"language":"Ruby (2.3.3)","length":395,"point":0.0,"problem_id":"abc123_b","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc123","epoch_second":1559571980,"execution_time":7,"id":5780399,"language":"Ruby (2.3.3)","length":491,"point":200.0,"problem_id":"abc123_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc097","epoch_second":1559645892,"execution_time":7,"id":5787866,"language":"Ruby (2.3.3)","length":205,"point":0.0,"problem_id":"abc097_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc097","epoch_second":1559646276,"execution_time":7,"id":5787926,"language":"Ruby (2.3.3)","length":206,"point":100.0,"problem_id":"abc097_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc096","epoch_second":1559646569,"execution_time":7,"id":5787969,"language":"Ruby (2.3.3)","length":189,"point":0.0,"problem_id":"abc096_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc096","epoch_second":1559654431,"execution_time":7,"id":5789245,"language":"Ruby (2.3.3)","length":118,"point":100.0,"problem_id":"abc096_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc095","epoch_second":1559654706,"execution_time":7,"id":5789301,"language":"Ruby (2.3.3)","length":148,"point":100.0,"problem_id":"abc095_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc121","epoch_second":1559655167,"execution_time":7,"id":5789413,"language":"Ruby (2.3.3)","length":354,"point":200.0,"problem_id":"abc121_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc120","epoch_second":1559657594,"execution_time":8,"id":5789927,"language":"Ruby (2.3.3)","length":206,"point":200.0,"problem_id":"abc120_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc119","epoch_second":1559687202,"execution_time":8,"id":5792193,"language":"Ruby (2.3.3)","length":307,"point":200.0,"problem_id":"abc119_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc094","epoch_second":1559737377,"execution_time":7,"id":5798345,"language":"Ruby (2.3.3)","length":108,"point":100.0,"problem_id":"abc094_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc093","epoch_second":1559737867,"execution_time":7,"id":5798419,"language":"Ruby (2.3.3)","length":141,"point":100.0,"problem_id":"abc093_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc092","epoch_second":1559738212,"execution_time":7,"id":5798492,"language":"Ruby (2.3.3)","length":92,"point":0.0,"problem_id":"abc092_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc092","epoch_second":1559738404,"execution_time":7,"id":5798519,"language":"Ruby (2.3.3)","length":88,"point":100.0,"problem_id":"abc092_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc117","epoch_second":1559772750,"execution_time":7,"id":5800987,"language":"Ruby (2.3.3)","length":171,"point":200.0,"problem_id":"abc117_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc116","epoch_second":1559824456,"execution_time":7,"id":5806913,"language":"Ruby (2.3.3)","length":150,"point":0.0,"problem_id":"abc116_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc116","epoch_second":1559824663,"execution_time":7,"id":5806953,"language":"Ruby (2.3.3)","length":200,"point":0.0,"problem_id":"abc116_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc116","epoch_second":1559825134,"execution_time":7,"id":5807029,"language":"Ruby (2.3.3)","length":200,"point":0.0,"problem_id":"abc116_a","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc116","epoch_second":1559827356,"execution_time":7,"id":5807399,"language":"Ruby (2.3.3)","length":201,"point":200.0,"problem_id":"abc116_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc115","epoch_second":1559827967,"execution_time":7,"id":5807502,"language":"Ruby (2.3.3)","length":151,"point":200.0,"problem_id":"abc115_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc114","epoch_second":1559830244,"execution_time":7,"id":5807893,"language":"Ruby (2.3.3)","length":195,"point":200.0,"problem_id":"abc114_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc091","epoch_second":1559899450,"execution_time":7,"id":5814274,"language":"Ruby (2.3.3)","length":89,"point":100.0,"problem_id":"abc091_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc090","epoch_second":1559899814,"execution_time":7,"id":5814333,"language":"Ruby (2.3.3)","length":82,"point":100.0,"problem_id":"abc090_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc089","epoch_second":1559900072,"execution_time":7,"id":5814373,"language":"Ruby (2.3.3)","length":23,"point":100.0,"problem_id":"abc089_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc088","epoch_second":1559900410,"execution_time":7,"id":5814407,"language":"Ruby (2.3.3)","length":87,"point":100.0,"problem_id":"abc088_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc109","epoch_second":1559960683,"execution_time":8,"id":5819530,"language":"Ruby (2.3.3)","length":413,"point":200.0,"problem_id":"abc109_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc108","epoch_second":1559987083,"execution_time":7,"id":5823503,"language":"Ruby (2.3.3)","length":170,"point":200.0,"problem_id":"abc108_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc106","epoch_second":1559992938,"execution_time":16,"id":5824288,"language":"Ruby (2.3.3)","length":360,"point":200.0,"problem_id":"abc106_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc105","epoch_second":1559995844,"execution_time":7,"id":5824790,"language":"Ruby (2.3.3)","length":233,"point":200.0,"problem_id":"abc105_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc104","epoch_second":1560042104,"execution_time":7,"id":5828896,"language":"Ruby (2.3.3)","length":360,"point":200.0,"problem_id":"abc104_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc103","epoch_second":1560060981,"execution_time":7,"id":5830996,"language":"Ruby (2.3.3)","length":293,"point":200.0,"problem_id":"abc103_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc101","epoch_second":1560061950,"execution_time":8,"id":5831115,"language":"Ruby (2.3.3)","length":269,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc100","epoch_second":1560062698,"execution_time":8,"id":5831244,"language":"Ruby (2.3.3)","length":84,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc100","epoch_second":1560065318,"execution_time":7,"id":5831681,"language":"Ruby (2.3.3)","length":131,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc125","epoch_second":1560072016,"execution_time":7,"id":5832923,"language":"Ruby (2.3.3)","length":211,"point":200.0,"problem_id":"abc125_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc129","epoch_second":1560081761,"execution_time":7,"id":5835859,"language":"Ruby (2.3.3)","length":94,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc129","epoch_second":1560083245,"execution_time":8,"id":5845489,"language":"Ruby (2.3.3)","length":401,"point":200.0,"problem_id":"abc129_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc086","epoch_second":1560140291,"execution_time":7,"id":5864317,"language":"Ruby (2.3.3)","length":88,"point":100.0,"problem_id":"abc086_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc083","epoch_second":1560140594,"execution_time":"","id":5864374,"language":"Ruby (2.3.3)","length":142,"point":0.0,"problem_id":"abc083_a","result":"RE","user_id":"teke_phys"}
+,{"contest_id":"abc083","epoch_second":1560169079,"execution_time":7,"id":5869730,"language":"Ruby (2.3.3)","length":147,"point":100.0,"problem_id":"abc083_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc082","epoch_second":1560174844,"execution_time":7,"id":5871154,"language":"Ruby (2.3.3)","length":93,"point":100.0,"problem_id":"abc082_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc081","epoch_second":1560175058,"execution_time":7,"id":5871205,"language":"Ruby (2.3.3)","length":146,"point":100.0,"problem_id":"abc081_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc099","epoch_second":1560175628,"execution_time":7,"id":5871327,"language":"Ruby (2.3.3)","length":136,"point":200.0,"problem_id":"abc099_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc080","epoch_second":1560246308,"execution_time":7,"id":5878371,"language":"Ruby (2.3.3)","length":48,"point":100.0,"problem_id":"abc080_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc079","epoch_second":1560246666,"execution_time":7,"id":5878403,"language":"Ruby (2.3.3)","length":129,"point":100.0,"problem_id":"abc079_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc078","epoch_second":1560247851,"execution_time":7,"id":5878569,"language":"Ruby (2.3.3)","length":109,"point":200.0,"problem_id":"abc078_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc080","epoch_second":1560248260,"execution_time":7,"id":5878628,"language":"Ruby (2.3.3)","length":154,"point":200.0,"problem_id":"abc080_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc078","epoch_second":1560350477,"execution_time":7,"id":5891070,"language":"Ruby (2.3.3)","length":168,"point":100.0,"problem_id":"abc078_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc077","epoch_second":1560350723,"execution_time":7,"id":5891120,"language":"Ruby (2.3.3)","length":173,"point":100.0,"problem_id":"abc077_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc076","epoch_second":1560350961,"execution_time":7,"id":5891163,"language":"Ruby (2.3.3)","length":81,"point":100.0,"problem_id":"abc076_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc074","epoch_second":1560351105,"execution_time":7,"id":5891194,"language":"Ruby (2.3.3)","length":81,"point":100.0,"problem_id":"abc074_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc079","epoch_second":1560351728,"execution_time":7,"id":5891318,"language":"Ruby (2.3.3)","length":378,"point":200.0,"problem_id":"abc079_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc073","epoch_second":1560428499,"execution_time":7,"id":5898534,"language":"Ruby (2.3.3)","length":186,"point":100.0,"problem_id":"abc073_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc072","epoch_second":1560428644,"execution_time":7,"id":5898557,"language":"Ruby (2.3.3)","length":115,"point":100.0,"problem_id":"abc072_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc071","epoch_second":1560429774,"execution_time":7,"id":5898750,"language":"Ruby (2.3.3)","length":95,"point":100.0,"problem_id":"abc071_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc097","epoch_second":1560484851,"execution_time":9,"id":5903042,"language":"Ruby (2.3.3)","length":195,"point":0.0,"problem_id":"abc097_b","result":"WA","user_id":"teke_phys"}
+,{"contest_id":"abc097","epoch_second":1560484962,"execution_time":9,"id":5903054,"language":"Ruby (2.3.3)","length":196,"point":200.0,"problem_id":"abc097_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc070","epoch_second":1560516816,"execution_time":7,"id":5908075,"language":"Ruby (2.3.3)","length":78,"point":100.0,"problem_id":"abc070_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc069","epoch_second":1560517020,"execution_time":7,"id":5908109,"language":"Ruby (2.3.3)","length":48,"point":100.0,"problem_id":"abc069_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc068","epoch_second":1560596573,"execution_time":7,"id":5916717,"language":"Ruby (2.3.3)","length":30,"point":100.0,"problem_id":"abc068_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc063","epoch_second":1560596669,"execution_time":7,"id":5916741,"language":"Ruby (2.3.3)","length":83,"point":100.0,"problem_id":"abc063_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc061","epoch_second":1560596837,"execution_time":7,"id":5916767,"language":"Ruby (2.3.3)","length":110,"point":100.0,"problem_id":"abc061_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc060","epoch_second":1560597912,"execution_time":7,"id":5916953,"language":"Ruby (2.3.3)","length":115,"point":100.0,"problem_id":"abc060_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc130","epoch_second":1560686489,"execution_time":7,"id":5951848,"language":"Ruby (2.3.3)","length":111,"point":100.0,"problem_id":"abc130_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc130","epoch_second":1560687087,"execution_time":7,"id":5959471,"language":"Ruby (2.3.3)","length":364,"point":200.0,"problem_id":"abc130_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc130","epoch_second":1560688480,"execution_time":7,"id":5968661,"language":"Ruby (2.3.3)","length":255,"point":300.0,"problem_id":"abc130_c","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc130","epoch_second":1560690520,"execution_time":"","id":5977582,"language":"Ruby (2.3.3)","length":368,"point":0.0,"problem_id":"abc130_d","result":"TLE","user_id":"teke_phys"}
+,{"contest_id":"abc096","epoch_second":1560771787,"execution_time":7,"id":5999948,"language":"Ruby (2.3.3)","length":165,"point":200.0,"problem_id":"abc096_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc095","epoch_second":1560772299,"execution_time":7,"id":6000067,"language":"Ruby (2.3.3)","length":191,"point":200.0,"problem_id":"abc095_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc094","epoch_second":1560777566,"execution_time":7,"id":6001071,"language":"Ruby (2.3.3)","length":349,"point":200.0,"problem_id":"abc094_b","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc059","epoch_second":1560778625,"execution_time":7,"id":6001309,"language":"Ruby (2.3.3)","length":107,"point":100.0,"problem_id":"abc059_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc058","epoch_second":1560783237,"execution_time":7,"id":6002440,"language":"Ruby (2.3.3)","length":88,"point":100.0,"problem_id":"abc058_a","result":"AC","user_id":"teke_phys"}
+,{"contest_id":"abc002","epoch_second":1560860042,"execution_time":7,"id":6011682,"language":"Ruby (2.3.3)","length":44,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"teke_phys"}
 ]

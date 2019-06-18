@@ -1,219 +1,249 @@
-[{"contest_id":"abc005","epoch_second":1447382293,"execution_time":53,"id":560977,"language":"Ruby (1.9.3)","length":190,"point":0,"problem_id":"abc005_2","result":"WA","user_id":"mala"}
-,{"contest_id":"abc005","epoch_second":1447382399,"execution_time":73,"id":560981,"language":"Ruby (1.9.3)","length":192,"point":100,"problem_id":"abc005_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1447382992,"execution_time":2337,"id":561016,"language":"Ruby (1.9.3)","length":183,"point":0,"problem_id":"abc006_2","result":"WA","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1447383221,"execution_time":"","id":561030,"language":"Ruby (1.9.3)","length":221,"point":0,"problem_id":"abc006_2","result":"MLE","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1447383646,"execution_time":"","id":561049,"language":"Ruby (1.9.3)","length":219,"point":0,"problem_id":"abc006_2","result":"MLE","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1447384070,"execution_time":885,"id":561076,"language":"Ruby (1.9.3)","length":202,"point":100,"problem_id":"abc006_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc004","epoch_second":1448441783,"execution_time":49,"id":580575,"language":"Ruby (1.9.3)","length":271,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1448445692,"execution_time":"","id":580628,"language":"Ruby (1.9.3p550)","length":430,"point":0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1448447489,"execution_time":2043,"id":580661,"language":"Ruby (1.9.3p550)","length":383,"point":0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1448448692,"execution_time":"","id":580693,"language":"Ruby (1.9.3p550)","length":417,"point":0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448479059,"execution_time":2064,"id":581156,"language":"Ruby (1.9.3)","length":192,"point":0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448479405,"execution_time":2041,"id":581157,"language":"Ruby (1.9.3)","length":198,"point":0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448485719,"execution_time":82,"id":581176,"language":"Ruby (1.9.3)","length":242,"point":0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448487975,"execution_time":"","id":581181,"language":"Ruby (1.9.3)","length":351,"point":50,"problem_id":"abc006_4","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc004","epoch_second":1448534228,"execution_time":"","id":581599,"language":"Ruby (1.9.3)","length":273,"point":0,"problem_id":"abc004_3","result":"RE","user_id":"mala"}
-,{"contest_id":"abc004","epoch_second":1448534395,"execution_time":66,"id":581601,"language":"Ruby (1.9.3)","length":273,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448534799,"execution_time":93,"id":581605,"language":"Ruby (1.9.3)","length":246,"point":0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448535198,"execution_time":"","id":581611,"language":"Ruby (1.9.3)","length":345,"point":0,"problem_id":"abc006_4","result":"RE","user_id":"mala"}
-,{"contest_id":"abc006","epoch_second":1448535482,"execution_time":"","id":581614,"language":"Ruby (1.9.3)","length":351,"point":50,"problem_id":"abc006_4","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc031","epoch_second":1448619827,"execution_time":86,"id":582255,"language":"Ruby (2.1.5p273)","length":508,"point":100,"problem_id":"abc031_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc003","epoch_second":1448621194,"execution_time":54,"id":582284,"language":"Ruby (1.9.3)","length":203,"point":100,"problem_id":"abc003_3","result":"AC","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1448708678,"execution_time":55,"id":583212,"language":"Ruby (1.9.3p550)","length":319,"point":100,"problem_id":"abc027_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1449164594,"execution_time":"","id":585319,"language":"Java (OpenJDK 1.7.0)","length":441,"point":0,"problem_id":"abc027_c","result":"CE","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1449164710,"execution_time":397,"id":585321,"language":"Java (OpenJDK 1.7.0)","length":441,"point":100,"problem_id":"abc027_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc031","epoch_second":1449240119,"execution_time":67,"id":585797,"language":"Ruby (2.1.5p273)","length":98,"point":100,"problem_id":"abc031_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc031","epoch_second":1449240689,"execution_time":65,"id":585800,"language":"Ruby (2.1.5p273)","length":204,"point":100,"problem_id":"abc031_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc030","epoch_second":1449281485,"execution_time":68,"id":585932,"language":"Ruby (2.1.5p273)","length":195,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc030","epoch_second":1449282435,"execution_time":64,"id":585939,"language":"Ruby (2.1.5p273)","length":204,"point":0,"problem_id":"abc030_b","result":"WA","user_id":"mala"}
-,{"contest_id":"abc030","epoch_second":1449282601,"execution_time":77,"id":585941,"language":"Ruby (2.1.5p273)","length":209,"point":100,"problem_id":"abc030_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc030","epoch_second":1449305305,"execution_time":223,"id":588103,"language":"Ruby (2.1.5p273)","length":576,"point":100,"problem_id":"abc030_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc029","epoch_second":1449308178,"execution_time":84,"id":588143,"language":"Ruby (2.1.5p273)","length":35,"point":100,"problem_id":"abc029_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc029","epoch_second":1449308379,"execution_time":77,"id":588145,"language":"Ruby (2.1.5p273)","length":100,"point":100,"problem_id":"abc029_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc029","epoch_second":1449313748,"execution_time":57,"id":588189,"language":"Ruby (2.1.5p273)","length":303,"point":100,"problem_id":"abc029_d","result":"AC","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449314026,"execution_time":62,"id":588191,"language":"Ruby (2.1.5p273)","length":201,"point":0,"problem_id":"abc028_a","result":"WA","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449314063,"execution_time":76,"id":588192,"language":"Ruby (2.1.5p273)","length":201,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449314430,"execution_time":71,"id":588196,"language":"Ruby (2.1.5p273)","length":211,"point":0,"problem_id":"abc028_b","result":"WA","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449314491,"execution_time":56,"id":588197,"language":"Ruby (2.1.5p273)","length":224,"point":0,"problem_id":"abc028_b","result":"WA","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449314611,"execution_time":78,"id":588198,"language":"Ruby (2.1.5p273)","length":241,"point":100,"problem_id":"abc028_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc028","epoch_second":1449315138,"execution_time":78,"id":588199,"language":"Ruby (2.1.5p273)","length":228,"point":100,"problem_id":"abc028_c","result":"AC","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449317083,"execution_time":249,"id":588216,"language":"Ruby (2.1.5p273)","length":274,"point":100,"problem_id":"arc043_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449318170,"execution_time":2047,"id":588228,"language":"Ruby (2.1.5p273)","length":595,"point":0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449318510,"execution_time":2043,"id":588233,"language":"Ruby (2.1.5p273)","length":595,"point":0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449318864,"execution_time":2050,"id":588238,"language":"Ruby (2.1.5p273)","length":586,"point":0,"problem_id":"arc043_a","result":"WA","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449319331,"execution_time":"","id":588248,"language":"Ruby (2.1.5p273)","length":600,"point":0,"problem_id":"arc043_a","result":"RE","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449319542,"execution_time":"","id":588251,"language":"Ruby (2.1.5p273)","length":596,"point":0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449321176,"execution_time":"","id":588271,"language":"Java (OpenJDK 1.7.0)","length":789,"point":0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449321227,"execution_time":"","id":588275,"language":"Java (OpenJDK 1.7.0)","length":790,"point":0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449321578,"execution_time":16087,"id":588284,"language":"Java (OpenJDK 1.7.0)","length":812,"point":0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc043","epoch_second":1449322251,"execution_time":"","id":588301,"language":"Java (OpenJDK 1.7.0)","length":878,"point":0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1449322984,"execution_time":464,"id":588320,"language":"Java (OpenJDK 1.7.0)","length":378,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1449323175,"execution_time":57,"id":588327,"language":"Ruby (2.1.5p273)","length":147,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc027","epoch_second":1449324915,"execution_time":60,"id":588364,"language":"Ruby (2.1.5p273)","length":369,"point":100,"problem_id":"abc027_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449365298,"execution_time":418,"id":588595,"language":"Java (OpenJDK 1.7.0)","length":207,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449367878,"execution_time":466,"id":588615,"language":"Java (OpenJDK 1.7.0)","length":803,"point":100,"problem_id":"abc026_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449372173,"execution_time":65,"id":588661,"language":"Ruby (2.1.5p273)","length":567,"point":0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449372404,"execution_time":74,"id":588664,"language":"Ruby (2.1.5p273)","length":568,"point":0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449372608,"execution_time":56,"id":588670,"language":"Ruby (2.1.5p273)","length":571,"point":0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449372823,"execution_time":56,"id":588675,"language":"Ruby (2.1.5p273)","length":596,"point":0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449373236,"execution_time":61,"id":588682,"language":"Ruby (2.1.5p273)","length":600,"point":100,"problem_id":"abc026_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449375477,"execution_time":"","id":588721,"language":"Ruby (2.1.5p273)","length":337,"point":0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449375581,"execution_time":"","id":588722,"language":"Ruby (2.1.5p273)","length":324,"point":0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449376955,"execution_time":"","id":588731,"language":"Java (OpenJDK 1.7.0)","length":550,"point":0,"problem_id":"abc026_d","result":"CE","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449377006,"execution_time":"","id":588732,"language":"Java (OpenJDK 1.7.0)","length":550,"point":0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc026","epoch_second":1449377062,"execution_time":"","id":588734,"language":"Java (OpenJDK 1.7.0)","length":531,"point":0,"problem_id":"abc026_d","result":"CE","user_id":"mala"}
-,{"contest_id":"abc025","epoch_second":1449378753,"execution_time":388,"id":588744,"language":"Java (OpenJDK 1.7.0)","length":354,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc024","epoch_second":1449402412,"execution_time":408,"id":588974,"language":"Java (OpenJDK 1.7.0)","length":400,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc024","epoch_second":1449402936,"execution_time":979,"id":588979,"language":"Java (OpenJDK 1.7.0)","length":453,"point":100,"problem_id":"abc024_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc025","epoch_second":1449405497,"execution_time":534,"id":589004,"language":"Java (OpenJDK 1.7.0)","length":831,"point":100,"problem_id":"abc025_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449405825,"execution_time":384,"id":589011,"language":"Java (OpenJDK 1.7.0)","length":191,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc024","epoch_second":1449408387,"execution_time":792,"id":589033,"language":"Java (OpenJDK 1.7.0)","length":1021,"point":100,"problem_id":"abc024_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc024","epoch_second":1449408557,"execution_time":826,"id":589036,"language":"Java (OpenJDK 1.7.0)","length":1039,"point":100,"problem_id":"abc024_c","result":"WA","user_id":"mala"}
-,{"contest_id":"abc024","epoch_second":1449409181,"execution_time":942,"id":589044,"language":"Java (OpenJDK 1.7.0)","length":1023,"point":100,"problem_id":"abc024_c","result":"AC","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449482514,"execution_time":564,"id":589342,"language":"Java (OpenJDK 1.7.0)","length":573,"point":100,"problem_id":"abc023_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449484352,"execution_time":"","id":589363,"language":"Java (OpenJDK 1.7.0)","length":877,"point":30,"problem_id":"abc023_c","result":"MLE","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449485462,"execution_time":"","id":589373,"language":"Java (OpenJDK 1.7.0)","length":518,"point":0,"problem_id":"abc023_c","result":"CE","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449485485,"execution_time":"","id":589374,"language":"Ruby (2.1.5p273)","length":518,"point":0,"problem_id":"abc023_a","result":"RE","user_id":"mala"}
-,{"contest_id":"abc023","epoch_second":1449485504,"execution_time":"","id":589375,"language":"Ruby (2.1.5p273)","length":518,"point":30,"problem_id":"abc023_c","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc022","epoch_second":1449486124,"execution_time":425,"id":589381,"language":"Java (OpenJDK 1.7.0)","length":439,"point":0,"problem_id":"abc022_a","result":"WA","user_id":"mala"}
-,{"contest_id":"abc022","epoch_second":1449487210,"execution_time":"","id":589401,"language":"Java (OpenJDK 1.7.0)","length":442,"point":0,"problem_id":"abc022_b","result":"CE","user_id":"mala"}
-,{"contest_id":"abc022","epoch_second":1449487597,"execution_time":248,"id":589406,"language":"Ruby (2.1.5p273)","length":126,"point":100,"problem_id":"abc022_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc021","epoch_second":1449487942,"execution_time":"","id":589412,"language":"Java (OpenJDK 1.7.0)","length":226,"point":0,"problem_id":"abc021_a","result":"CE","user_id":"mala"}
-,{"contest_id":"abc021","epoch_second":1449487985,"execution_time":553,"id":589415,"language":"Java (OpenJDK 1.7.0)","length":227,"point":0,"problem_id":"abc021_a","result":"WA","user_id":"mala"}
-,{"contest_id":"abc021","epoch_second":1449488407,"execution_time":556,"id":589421,"language":"Java (OpenJDK 1.7.0)","length":429,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc021","epoch_second":1449492073,"execution_time":"","id":589474,"language":"Ruby (2.1.5p273)","length":218,"point":0,"problem_id":"abc021_b","result":"RE","user_id":"mala"}
-,{"contest_id":"abc021","epoch_second":1449492183,"execution_time":61,"id":589476,"language":"Ruby (2.1.5p273)","length":218,"point":100,"problem_id":"abc021_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc020","epoch_second":1449492615,"execution_time":380,"id":589485,"language":"Java (OpenJDK 1.7.0)","length":236,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc020","epoch_second":1449493368,"execution_time":"","id":589495,"language":"Java (OpenJDK 1.7.0)","length":252,"point":0,"problem_id":"abc020_b","result":"CE","user_id":"mala"}
-,{"contest_id":"abc020","epoch_second":1449493494,"execution_time":537,"id":589498,"language":"Java (OpenJDK 1.7.0)","length":256,"point":100,"problem_id":"abc020_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc019","epoch_second":1449495175,"execution_time":460,"id":589521,"language":"Java (OpenJDK 1.7.0)","length":501,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc019","epoch_second":1449503640,"execution_time":61,"id":589644,"language":"Ruby (1.9.3)","length":207,"point":100,"problem_id":"abc019_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc019","epoch_second":1449503993,"execution_time":"","id":589646,"language":"Ruby (1.9.3)","length":157,"point":0,"problem_id":"abc019_3","result":"RE","user_id":"mala"}
-,{"contest_id":"abc019","epoch_second":1449504066,"execution_time":219,"id":589648,"language":"Ruby (1.9.3)","length":158,"point":100,"problem_id":"abc019_3","result":"AC","user_id":"mala"}
-,{"contest_id":"abc018","epoch_second":1449505039,"execution_time":"","id":589658,"language":"Ruby (1.9.3)","length":983,"point":0,"problem_id":"abc018_1","result":"RE","user_id":"mala"}
-,{"contest_id":"abc018","epoch_second":1449505075,"execution_time":397,"id":589660,"language":"Java (OpenJDK 1.7.0)","length":983,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc018","epoch_second":1449506036,"execution_time":413,"id":589665,"language":"Java (OpenJDK 1.7.0)","length":475,"point":100,"problem_id":"abc018_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc017","epoch_second":1449509334,"execution_time":380,"id":589687,"language":"Java (OpenJDK 1.7.0)","length":294,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc017","epoch_second":1449546604,"execution_time":"","id":589783,"language":"Java (OpenJDK 1.7.0)","length":637,"point":100,"problem_id":"abc017_3","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc017","epoch_second":1449550030,"execution_time":"","id":589804,"language":"Ruby (1.9.3)","length":313,"point":0,"problem_id":"abc017_3","result":"RE","user_id":"mala"}
-,{"contest_id":"abc017","epoch_second":1449550224,"execution_time":"","id":589806,"language":"Ruby (1.9.3)","length":325,"point":30,"problem_id":"abc017_3","result":"TLE","user_id":"mala"}
-,{"contest_id":"abc016","epoch_second":1449561651,"execution_time":567,"id":589930,"language":"Java (OpenJDK 1.7.0)","length":671,"point":100,"problem_id":"abc016_3","result":"AC","user_id":"mala"}
-,{"contest_id":"abc016","epoch_second":1449566540,"execution_time":501,"id":589998,"language":"Java (OpenJDK 1.7.0)","length":496,"point":0,"problem_id":"abc016_2","result":"WA","user_id":"mala"}
-,{"contest_id":"abc016","epoch_second":1449566658,"execution_time":462,"id":590000,"language":"Java (OpenJDK 1.7.0)","length":492,"point":100,"problem_id":"abc016_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc016","epoch_second":1449566858,"execution_time":400,"id":590002,"language":"Java (OpenJDK 1.7.0)","length":274,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc015","epoch_second":1449567324,"execution_time":"","id":590010,"language":"Java (OpenJDK 1.7.0)","length":271,"point":0,"problem_id":"abc015_1","result":"CE","user_id":"mala"}
-,{"contest_id":"abc015","epoch_second":1449567358,"execution_time":442,"id":590012,"language":"Java (OpenJDK 1.7.0)","length":265,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc015","epoch_second":1449568137,"execution_time":393,"id":590022,"language":"Java (OpenJDK 1.7.0)","length":409,"point":100,"problem_id":"abc015_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc014","epoch_second":1449606811,"execution_time":395,"id":590275,"language":"Java (OpenJDK 1.7.0)","length":283,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc013","epoch_second":1449607191,"execution_time":"","id":590276,"language":"Java (OpenJDK 1.7.0)","length":330,"point":0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
-,{"contest_id":"abc013","epoch_second":1449607227,"execution_time":"","id":590277,"language":"Java (OpenJDK 1.7.0)","length":331,"point":0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
-,{"contest_id":"abc013","epoch_second":1449607273,"execution_time":"","id":590278,"language":"Java (OpenJDK 1.7.0)","length":333,"point":0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
-,{"contest_id":"abc013","epoch_second":1449607316,"execution_time":529,"id":590279,"language":"Java (OpenJDK 1.7.0)","length":338,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc013","epoch_second":1449607660,"execution_time":543,"id":590281,"language":"Java (OpenJDK 1.7.0)","length":255,"point":100,"problem_id":"abc013_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc012","epoch_second":1449608418,"execution_time":518,"id":590282,"language":"Java (OpenJDK 1.7.0)","length":216,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc012","epoch_second":1449609096,"execution_time":547,"id":590285,"language":"Java (OpenJDK 1.7.0)","length":445,"point":100,"problem_id":"abc012_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc012","epoch_second":1449609604,"execution_time":532,"id":590286,"language":"Java (OpenJDK 1.7.0)","length":317,"point":100,"problem_id":"abc012_3","result":"AC","user_id":"mala"}
-,{"contest_id":"abc011","epoch_second":1449610590,"execution_time":"","id":590289,"language":"Java (OpenJDK 1.7.0)","length":364,"point":0,"problem_id":"abc011_2","result":"CE","user_id":"mala"}
-,{"contest_id":"abc011","epoch_second":1449611096,"execution_time":"","id":590291,"language":"Java (OpenJDK 1.7.0)","length":319,"point":0,"problem_id":"abc011_2","result":"CE","user_id":"mala"}
-,{"contest_id":"abc011","epoch_second":1449611151,"execution_time":528,"id":590292,"language":"Java (OpenJDK 1.7.0)","length":322,"point":100,"problem_id":"abc011_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc010","epoch_second":1449612590,"execution_time":512,"id":590293,"language":"Java (OpenJDK 1.7.0)","length":188,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc010","epoch_second":1449613206,"execution_time":532,"id":590294,"language":"Java (OpenJDK 1.7.0)","length":342,"point":0,"problem_id":"abc010_2","result":"WA","user_id":"mala"}
-,{"contest_id":"abc010","epoch_second":1449613292,"execution_time":533,"id":590295,"language":"Java (OpenJDK 1.7.0)","length":345,"point":100,"problem_id":"abc010_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc009","epoch_second":1449613559,"execution_time":522,"id":590296,"language":"Java (OpenJDK 1.7.0)","length":187,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc009","epoch_second":1449614011,"execution_time":384,"id":590300,"language":"Java (OpenJDK 1.7.0)","length":444,"point":100,"problem_id":"abc009_2","result":"AC","user_id":"mala"}
-,{"contest_id":"abc008","epoch_second":1449614285,"execution_time":542,"id":590301,"language":"Java (OpenJDK 1.7.0)","length":211,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc008","epoch_second":1449615312,"execution_time":537,"id":590302,"language":"Java (OpenJDK 1.7.0)","length":531,"point":100,"problem_id":"abc008_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc045","epoch_second":1449685141,"execution_time":55,"id":590645,"language":"Ruby (2.1.5p273)","length":157,"point":100,"problem_id":"arc045_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc044","epoch_second":1449686293,"execution_time":62,"id":590648,"language":"Ruby (2.1.5p273)","length":298,"point":0,"problem_id":"arc044_a","result":"WA","user_id":"mala"}
-,{"contest_id":"arc044","epoch_second":1449686373,"execution_time":82,"id":590649,"language":"Ruby (2.1.5p273)","length":308,"point":100,"problem_id":"arc044_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc042","epoch_second":1449688082,"execution_time":"","id":590650,"language":"Java (OpenJDK 1.7.0)","length":567,"point":30,"problem_id":"arc042_a","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc040","epoch_second":1449689146,"execution_time":62,"id":590652,"language":"Ruby (2.1.5p273)","length":299,"point":100,"problem_id":"arc040_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc039","epoch_second":1449690465,"execution_time":404,"id":590653,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0,"problem_id":"arc039_a","result":"WA","user_id":"mala"}
-,{"contest_id":"arc039","epoch_second":1449691292,"execution_time":431,"id":590654,"language":"Java (OpenJDK 1.7.0)","length":733,"point":100,"problem_id":"arc039_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc037","epoch_second":1449691682,"execution_time":389,"id":590655,"language":"Java (OpenJDK 1.7.0)","length":304,"point":100,"problem_id":"arc037_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc036","epoch_second":1449692424,"execution_time":908,"id":590656,"language":"Java (OpenJDK 1.7.0)","length":462,"point":100,"problem_id":"arc036_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc035","epoch_second":1449693701,"execution_time":"","id":590662,"language":"Java (OpenJDK 1.7.0)","length":435,"point":0,"problem_id":"arc035_a","result":"CE","user_id":"mala"}
-,{"contest_id":"arc035","epoch_second":1449693742,"execution_time":"","id":590663,"language":"Java (OpenJDK 1.7.0)","length":436,"point":0,"problem_id":"arc035_a","result":"RE","user_id":"mala"}
-,{"contest_id":"arc035","epoch_second":1449694159,"execution_time":"","id":590664,"language":"Java (OpenJDK 1.7.0)","length":441,"point":0,"problem_id":"arc035_a","result":"CE","user_id":"mala"}
-,{"contest_id":"arc035","epoch_second":1449694207,"execution_time":594,"id":590665,"language":"Java (OpenJDK 1.7.0)","length":440,"point":0,"problem_id":"arc035_a","result":"WA","user_id":"mala"}
-,{"contest_id":"arc035","epoch_second":1449694339,"execution_time":535,"id":590666,"language":"Java (OpenJDK 1.7.0)","length":436,"point":100,"problem_id":"arc035_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1449726443,"execution_time":"","id":590720,"language":"Java (OpenJDK 1.7.0)","length":435,"point":0,"problem_id":"arc034_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1449726493,"execution_time":636,"id":590721,"language":"Java (OpenJDK 1.7.0)","length":438,"point":0,"problem_id":"arc034_1","result":"WA","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1449726877,"execution_time":"","id":590722,"language":"Java (OpenJDK 1.7.0)","length":468,"point":0,"problem_id":"arc034_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1449726918,"execution_time":932,"id":590723,"language":"Java (OpenJDK 1.7.0)","length":467,"point":0,"problem_id":"arc034_1","result":"WA","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1449726982,"execution_time":658,"id":590724,"language":"Java (OpenJDK 1.7.0)","length":438,"point":100,"problem_id":"arc034_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc033","epoch_second":1449727398,"execution_time":557,"id":590727,"language":"Java (OpenJDK 1.7.0)","length":189,"point":100,"problem_id":"arc033_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc032","epoch_second":1449727720,"execution_time":384,"id":590730,"language":"Java (OpenJDK 1.7.0)","length":231,"point":100,"problem_id":"arc032_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc045","epoch_second":1449730109,"execution_time":"","id":590742,"language":"Ruby (2.1.5p273)","length":757,"point":0,"problem_id":"arc045_b","result":"RE","user_id":"mala"}
-,{"contest_id":"arc045","epoch_second":1449730289,"execution_time":"","id":590743,"language":"Java (OpenJDK 1.7.0)","length":762,"point":0,"problem_id":"arc045_b","result":"CE","user_id":"mala"}
-,{"contest_id":"arc045","epoch_second":1449730316,"execution_time":"","id":590744,"language":"Java (OpenJDK 1.7.0)","length":761,"point":30,"problem_id":"arc045_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc031","epoch_second":1449730736,"execution_time":"","id":590746,"language":"Java (OpenJDK 1.7.0)","length":413,"point":0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc031","epoch_second":1449730784,"execution_time":"","id":590747,"language":"Java (OpenJDK 1.7.0)","length":419,"point":0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc031","epoch_second":1449730846,"execution_time":414,"id":590748,"language":"Java (OpenJDK 1.7.0)","length":424,"point":0,"problem_id":"arc031_1","result":"WA","user_id":"mala"}
-,{"contest_id":"arc031","epoch_second":1449730974,"execution_time":"","id":590749,"language":"Java (OpenJDK 1.7.0)","length":425,"point":0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc031","epoch_second":1449730990,"execution_time":528,"id":590750,"language":"Java (OpenJDK 1.7.0)","length":424,"point":100,"problem_id":"arc031_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc030","epoch_second":1449733088,"execution_time":385,"id":590757,"language":"Java (OpenJDK 1.7.0)","length":265,"point":100,"problem_id":"arc030_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc028","epoch_second":1449805536,"execution_time":375,"id":590973,"language":"Java (OpenJDK 1.7.0)","length":310,"point":100,"problem_id":"arc028_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc027","epoch_second":1449806405,"execution_time":548,"id":590976,"language":"Java (OpenJDK 1.7.0)","length":228,"point":100,"problem_id":"arc027_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc026","epoch_second":1449820816,"execution_time":418,"id":591052,"language":"Java (OpenJDK 1.7.0)","length":278,"point":100,"problem_id":"arc026_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc045","epoch_second":1451349239,"execution_time":"","id":601594,"language":"Java (OpenJDK 1.7.0)","length":788,"point":30,"problem_id":"arc045_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc042","epoch_second":1451351836,"execution_time":1981,"id":601598,"language":"Java (OpenJDK 1.7.0)","length":518,"point":100,"problem_id":"arc042_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc040","epoch_second":1451368276,"execution_time":74,"id":601690,"language":"Ruby (2.1.5p273)","length":386,"point":0,"problem_id":"arc040_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc040","epoch_second":1451368398,"execution_time":75,"id":601692,"language":"Ruby (2.1.5p273)","length":388,"point":0,"problem_id":"arc040_b","result":"WA","user_id":"mala"}
-,{"contest_id":"arc039","epoch_second":1451373972,"execution_time":55,"id":601729,"language":"Ruby (2.1.5p273)","length":546,"point":100,"problem_id":"arc039_b","result":"AC","user_id":"mala"}
-,{"contest_id":"arc039","epoch_second":1451390350,"execution_time":"","id":601816,"language":"Java (OpenJDK 1.7.0)","length":1092,"point":0,"problem_id":"arc039_c","result":"MLE","user_id":"mala"}
-,{"contest_id":"arc039","epoch_second":1451390692,"execution_time":"","id":601818,"language":"Java (OpenJDK 1.7.0)","length":1120,"point":0,"problem_id":"arc039_c","result":"MLE","user_id":"mala"}
-,{"contest_id":"arc040","epoch_second":1451433163,"execution_time":543,"id":601975,"language":"Java (OpenJDK 1.7.0)","length":677,"point":100,"problem_id":"arc040_c","result":"AC","user_id":"mala"}
-,{"contest_id":"arc038","epoch_second":1451433873,"execution_time":429,"id":601981,"language":"Java (OpenJDK 1.7.0)","length":515,"point":100,"problem_id":"arc038_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc036","epoch_second":1451435162,"execution_time":"","id":601989,"language":"Java (OpenJDK 1.7.0)","length":617,"point":30,"problem_id":"arc036_b","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc034","epoch_second":1451437780,"execution_time":"","id":602022,"language":"Ruby (1.9.3)","length":203,"point":20,"problem_id":"arc034_2","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc033","epoch_second":1451439073,"execution_time":316,"id":602025,"language":"Ruby (1.9.3)","length":196,"point":100,"problem_id":"arc033_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc029","epoch_second":1451472998,"execution_time":520,"id":602150,"language":"Java (OpenJDK 1.7.0)","length":930,"point":100,"problem_id":"arc029_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc025","epoch_second":1451525957,"execution_time":"","id":602352,"language":"Java (OpenJDK 1.7.0)","length":369,"point":0,"problem_id":"arc025_1","result":"CE","user_id":"mala"}
-,{"contest_id":"arc025","epoch_second":1451525998,"execution_time":544,"id":602353,"language":"Java (OpenJDK 1.7.0)","length":353,"point":100,"problem_id":"arc025_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc025","epoch_second":1451533873,"execution_time":"","id":602385,"language":"Java (OpenJDK 1.7.0)","length":744,"point":0,"problem_id":"arc025_2","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc024","epoch_second":1451534735,"execution_time":511,"id":602388,"language":"Java (OpenJDK 1.7.0)","length":554,"point":100,"problem_id":"arc024_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc024","epoch_second":1451537843,"execution_time":"","id":602398,"language":"Ruby (1.9.3)","length":536,"point":0,"problem_id":"arc024_2","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc024","epoch_second":1451539733,"execution_time":"","id":602408,"language":"Ruby (1.9.3)","length":512,"point":30,"problem_id":"arc024_3","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc023","epoch_second":1451541574,"execution_time":396,"id":602417,"language":"Java (OpenJDK 1.7.0)","length":488,"point":100,"problem_id":"arc023_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc023","epoch_second":1451544956,"execution_time":1746,"id":602430,"language":"Java (OpenJDK 1.7.0)","length":756,"point":100,"problem_id":"arc023_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc023","epoch_second":1451548054,"execution_time":"","id":602439,"language":"Java (OpenJDK 1.7.0)","length":369,"point":0,"problem_id":"arc023_3","result":"CE","user_id":"mala"}
-,{"contest_id":"arc023","epoch_second":1451548654,"execution_time":509,"id":602443,"language":"Java (OpenJDK 1.7.0)","length":693,"point":0,"problem_id":"arc023_3","result":"WA","user_id":"mala"}
-,{"contest_id":"arc022","epoch_second":1451550327,"execution_time":410,"id":602450,"language":"Java (OpenJDK 1.7.0)","length":565,"point":100,"problem_id":"arc022_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc019","epoch_second":1451566019,"execution_time":443,"id":602515,"language":"Java (OpenJDK 1.7.0)","length":489,"point":100,"problem_id":"arc019_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc019","epoch_second":1451610888,"execution_time":729,"id":602690,"language":"Java (OpenJDK 1.7.0)","length":516,"point":100,"problem_id":"arc019_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc017","epoch_second":1451611414,"execution_time":413,"id":602695,"language":"Java (OpenJDK 1.7.0)","length":324,"point":100,"problem_id":"arc017_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc017","epoch_second":1451612804,"execution_time":1133,"id":602710,"language":"Java (OpenJDK 1.7.0)","length":469,"point":100,"problem_id":"arc017_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc016","epoch_second":1451622501,"execution_time":392,"id":602749,"language":"Java (OpenJDK 1.7.0)","length":218,"point":100,"problem_id":"arc016_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc016","epoch_second":1451623758,"execution_time":419,"id":602757,"language":"Java (OpenJDK 1.7.0)","length":600,"point":100,"problem_id":"arc016_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc015","epoch_second":1451624074,"execution_time":535,"id":602760,"language":"Java (OpenJDK 1.7.0)","length":219,"point":100,"problem_id":"arc015_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc015","epoch_second":1451625338,"execution_time":645,"id":602763,"language":"Java (OpenJDK 1.7.0)","length":743,"point":100,"problem_id":"arc015_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc014","epoch_second":1451632639,"execution_time":384,"id":602782,"language":"Java (OpenJDK 1.7.0)","length":207,"point":100,"problem_id":"arc014_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc014","epoch_second":1451634020,"execution_time":549,"id":602784,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
-,{"contest_id":"arc014","epoch_second":1451635070,"execution_time":53,"id":602787,"language":"Ruby (1.9.3)","length":455,"point":0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
-,{"contest_id":"arc014","epoch_second":1451635291,"execution_time":462,"id":602788,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
-,{"contest_id":"arc013","epoch_second":1451645237,"execution_time":430,"id":602807,"language":"Java (OpenJDK 1.7.0)","length":684,"point":100,"problem_id":"arc013_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc013","epoch_second":1451691041,"execution_time":56,"id":603040,"language":"Ruby (1.9.3)","length":223,"point":100,"problem_id":"arc013_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451691848,"execution_time":392,"id":603042,"language":"Java (OpenJDK 1.7.0)","length":425,"point":100,"problem_id":"arc012_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451692586,"execution_time":375,"id":603045,"language":"Java (OpenJDK 1.7.0)","length":352,"point":100,"problem_id":"arc012_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451728791,"execution_time":53,"id":603171,"language":"Ruby (1.9.3)","length":1443,"point":0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451729124,"execution_time":"","id":603174,"language":"Ruby (1.9.3)","length":1455,"point":0,"problem_id":"arc012_3","result":"RE","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451729205,"execution_time":50,"id":603175,"language":"Ruby (1.9.3)","length":1449,"point":0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
-,{"contest_id":"arc012","epoch_second":1451729337,"execution_time":61,"id":603177,"language":"Ruby (1.9.3)","length":1467,"point":0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
-,{"contest_id":"arc011","epoch_second":1451887446,"execution_time":451,"id":603875,"language":"Java (OpenJDK 1.7.0)","length":330,"point":100,"problem_id":"arc011_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc011","epoch_second":1451890883,"execution_time":574,"id":603893,"language":"Java (OpenJDK 1.7.0)","length":786,"point":100,"problem_id":"arc011_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc010","epoch_second":1451892787,"execution_time":426,"id":603906,"language":"Java (OpenJDK 1.7.0)","length":444,"point":100,"problem_id":"arc010_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc009","epoch_second":1451893634,"execution_time":389,"id":603909,"language":"Java (OpenJDK 1.7.0)","length":374,"point":100,"problem_id":"arc009_1","result":"AC","user_id":"mala"}
-,{"contest_id":"arc009","epoch_second":1451908214,"execution_time":"","id":603971,"language":"Ruby (1.9.3)","length":369,"point":40,"problem_id":"arc009_3","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc009","epoch_second":1451909857,"execution_time":"","id":603982,"language":"Ruby (1.9.3)","length":251,"point":40,"problem_id":"arc009_3","result":"TLE","user_id":"mala"}
-,{"contest_id":"arc008","epoch_second":1452344593,"execution_time":87,"id":607496,"language":"Ruby (1.9.3)","length":611,"point":100,"problem_id":"arc008_2","result":"AC","user_id":"mala"}
-,{"contest_id":"arc008","epoch_second":1452345198,"execution_time":"","id":607658,"language":"Ruby (1.9.3)","length":204,"point":0,"problem_id":"arc008_1","result":"RE","user_id":"mala"}
-,{"contest_id":"arc008","epoch_second":1452345208,"execution_time":402,"id":607666,"language":"Java (OpenJDK 1.7.0)","length":204,"point":0,"problem_id":"arc008_1","result":"WA","user_id":"mala"}
-,{"contest_id":"arc008","epoch_second":1452345722,"execution_time":509,"id":607843,"language":"Java (OpenJDK 1.7.0)","length":269,"point":100,"problem_id":"arc008_1","result":"AC","user_id":"mala"}
-,{"contest_id":"abc034","epoch_second":1460008869,"execution_time":403,"id":686931,"language":"Java (OpenJDK 1.7.0)","length":270,"point":100,"problem_id":"abc034_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc034","epoch_second":1460009156,"execution_time":375,"id":686934,"language":"Java (OpenJDK 1.7.0)","length":257,"point":100,"problem_id":"abc034_b","result":"AC","user_id":"mala"}
-,{"contest_id":"abc035","epoch_second":1460019329,"execution_time":225,"id":687057,"language":"Java7 (OpenJDK 1.7.0)","length":271,"point":100,"problem_id":"abc035_a","result":"AC","user_id":"mala"}
-,{"contest_id":"abc035","epoch_second":1460202209,"execution_time":374,"id":688002,"language":"Java7 (OpenJDK 1.7.0)","length":880,"point":101,"problem_id":"abc035_b","result":"AC","user_id":"mala"}
-,{"contest_id":"arc053","epoch_second":1463467809,"execution_time":207,"id":732605,"language":"Java8 (OpenJDK 1.8.0)","length":220,"point":100,"problem_id":"arc053_a","result":"AC","user_id":"mala"}
-,{"contest_id":"arc053","epoch_second":1463470328,"execution_time":287,"id":732619,"language":"Java8 (OpenJDK 1.8.0)","length":993,"point":100,"problem_id":"arc053_b","result":"AC","user_id":"mala"}
+[{"contest_id":"abc005","epoch_second":1447382293,"execution_time":53,"id":560977,"language":"Ruby (1.9.3)","length":190,"point":0.0,"problem_id":"abc005_2","result":"WA","user_id":"mala"}
+,{"contest_id":"abc005","epoch_second":1447382399,"execution_time":73,"id":560981,"language":"Ruby (1.9.3)","length":192,"point":100.0,"problem_id":"abc005_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1447382992,"execution_time":2337,"id":561016,"language":"Ruby (1.9.3)","length":183,"point":0.0,"problem_id":"abc006_2","result":"WA","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1447383221,"execution_time":"","id":561030,"language":"Ruby (1.9.3)","length":221,"point":0.0,"problem_id":"abc006_2","result":"MLE","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1447383646,"execution_time":"","id":561049,"language":"Ruby (1.9.3)","length":219,"point":0.0,"problem_id":"abc006_2","result":"MLE","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1447384070,"execution_time":885,"id":561076,"language":"Ruby (1.9.3)","length":202,"point":100.0,"problem_id":"abc006_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc004","epoch_second":1448441783,"execution_time":49,"id":580575,"language":"Ruby (1.9.3)","length":271,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1448445692,"execution_time":"","id":580628,"language":"Ruby (1.9.3p550)","length":430,"point":0.0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1448447489,"execution_time":2043,"id":580661,"language":"Ruby (1.9.3p550)","length":383,"point":0.0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1448448692,"execution_time":"","id":580693,"language":"Ruby (1.9.3p550)","length":417,"point":0.0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448479059,"execution_time":2064,"id":581156,"language":"Ruby (1.9.3)","length":192,"point":0.0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448479405,"execution_time":2041,"id":581157,"language":"Ruby (1.9.3)","length":198,"point":0.0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448485719,"execution_time":82,"id":581176,"language":"Ruby (1.9.3)","length":242,"point":0.0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448487975,"execution_time":"","id":581181,"language":"Ruby (1.9.3)","length":351,"point":50.0,"problem_id":"abc006_4","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc004","epoch_second":1448534228,"execution_time":"","id":581599,"language":"Ruby (1.9.3)","length":273,"point":0.0,"problem_id":"abc004_3","result":"RE","user_id":"mala"}
+,{"contest_id":"abc004","epoch_second":1448534395,"execution_time":66,"id":581601,"language":"Ruby (1.9.3)","length":273,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448534799,"execution_time":93,"id":581605,"language":"Ruby (1.9.3)","length":246,"point":0.0,"problem_id":"abc006_4","result":"WA","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448535198,"execution_time":"","id":581611,"language":"Ruby (1.9.3)","length":345,"point":0.0,"problem_id":"abc006_4","result":"RE","user_id":"mala"}
+,{"contest_id":"abc006","epoch_second":1448535482,"execution_time":"","id":581614,"language":"Ruby (1.9.3)","length":351,"point":50.0,"problem_id":"abc006_4","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc031","epoch_second":1448619827,"execution_time":86,"id":582255,"language":"Ruby (2.1.5p273)","length":508,"point":100.0,"problem_id":"abc031_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc003","epoch_second":1448621194,"execution_time":54,"id":582284,"language":"Ruby (1.9.3)","length":203,"point":100.0,"problem_id":"abc003_3","result":"AC","user_id":"mala"}
+,{"contest_id":"abc029","epoch_second":1448625941,"execution_time":92,"id":582331,"language":"Ruby (1.9.3p550)","length":315,"point":100.0,"problem_id":"abc029_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1448708678,"execution_time":55,"id":583212,"language":"Ruby (1.9.3p550)","length":319,"point":100.0,"problem_id":"abc027_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1449164594,"execution_time":"","id":585319,"language":"Java (OpenJDK 1.7.0)","length":441,"point":0.0,"problem_id":"abc027_c","result":"CE","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1449164710,"execution_time":397,"id":585321,"language":"Java (OpenJDK 1.7.0)","length":441,"point":100.0,"problem_id":"abc027_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc031","epoch_second":1449240119,"execution_time":67,"id":585797,"language":"Ruby (2.1.5p273)","length":98,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc031","epoch_second":1449240689,"execution_time":65,"id":585800,"language":"Ruby (2.1.5p273)","length":204,"point":100.0,"problem_id":"abc031_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc030","epoch_second":1449281485,"execution_time":68,"id":585932,"language":"Ruby (2.1.5p273)","length":195,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc030","epoch_second":1449282435,"execution_time":64,"id":585939,"language":"Ruby (2.1.5p273)","length":204,"point":0.0,"problem_id":"abc030_b","result":"WA","user_id":"mala"}
+,{"contest_id":"abc030","epoch_second":1449282601,"execution_time":77,"id":585941,"language":"Ruby (2.1.5p273)","length":209,"point":100.0,"problem_id":"abc030_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc030","epoch_second":1449305305,"execution_time":223,"id":588103,"language":"Ruby (2.1.5p273)","length":576,"point":100.0,"problem_id":"abc030_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc030","epoch_second":1449308013,"execution_time":298,"id":588137,"language":"Ruby (2.1.5p273)","length":344,"point":100.0,"problem_id":"abc030_d","result":"AC","user_id":"mala"}
+,{"contest_id":"abc029","epoch_second":1449308178,"execution_time":84,"id":588143,"language":"Ruby (2.1.5p273)","length":35,"point":100.0,"problem_id":"abc029_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc029","epoch_second":1449308379,"execution_time":77,"id":588145,"language":"Ruby (2.1.5p273)","length":100,"point":100.0,"problem_id":"abc029_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc029","epoch_second":1449313748,"execution_time":57,"id":588189,"language":"Ruby (2.1.5p273)","length":303,"point":100.0,"problem_id":"abc029_d","result":"AC","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449314026,"execution_time":62,"id":588191,"language":"Ruby (2.1.5p273)","length":201,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449314063,"execution_time":76,"id":588192,"language":"Ruby (2.1.5p273)","length":201,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449314430,"execution_time":71,"id":588196,"language":"Ruby (2.1.5p273)","length":211,"point":0.0,"problem_id":"abc028_b","result":"WA","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449314491,"execution_time":56,"id":588197,"language":"Ruby (2.1.5p273)","length":224,"point":0.0,"problem_id":"abc028_b","result":"WA","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449314611,"execution_time":78,"id":588198,"language":"Ruby (2.1.5p273)","length":241,"point":100.0,"problem_id":"abc028_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449315138,"execution_time":78,"id":588199,"language":"Ruby (2.1.5p273)","length":228,"point":100.0,"problem_id":"abc028_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc028","epoch_second":1449315712,"execution_time":68,"id":588206,"language":"Ruby (2.1.5p273)","length":116,"point":100.0,"problem_id":"abc028_d","result":"AC","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449317083,"execution_time":249,"id":588216,"language":"Ruby (2.1.5p273)","length":274,"point":100.0,"problem_id":"arc043_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449318170,"execution_time":2047,"id":588228,"language":"Ruby (2.1.5p273)","length":595,"point":0.0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449318510,"execution_time":2043,"id":588233,"language":"Ruby (2.1.5p273)","length":595,"point":0.0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449318864,"execution_time":2050,"id":588238,"language":"Ruby (2.1.5p273)","length":586,"point":0.0,"problem_id":"arc043_a","result":"WA","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449319331,"execution_time":"","id":588248,"language":"Ruby (2.1.5p273)","length":600,"point":0.0,"problem_id":"arc043_a","result":"RE","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449319542,"execution_time":"","id":588251,"language":"Ruby (2.1.5p273)","length":596,"point":0.0,"problem_id":"arc043_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449321176,"execution_time":"","id":588271,"language":"Java (OpenJDK 1.7.0)","length":789,"point":0.0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449321227,"execution_time":"","id":588275,"language":"Java (OpenJDK 1.7.0)","length":790,"point":0.0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449321578,"execution_time":16087,"id":588284,"language":"Java (OpenJDK 1.7.0)","length":812,"point":0.0,"problem_id":"arc043_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc043","epoch_second":1449322251,"execution_time":"","id":588301,"language":"Java (OpenJDK 1.7.0)","length":878,"point":0.0,"problem_id":"arc043_b","result":"CE","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1449322984,"execution_time":464,"id":588320,"language":"Java (OpenJDK 1.7.0)","length":378,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1449323175,"execution_time":57,"id":588327,"language":"Ruby (2.1.5p273)","length":147,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc027","epoch_second":1449324915,"execution_time":60,"id":588364,"language":"Ruby (2.1.5p273)","length":369,"point":100.0,"problem_id":"abc027_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449365298,"execution_time":418,"id":588595,"language":"Java (OpenJDK 1.7.0)","length":207,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449367878,"execution_time":466,"id":588615,"language":"Java (OpenJDK 1.7.0)","length":803,"point":100.0,"problem_id":"abc026_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449372173,"execution_time":65,"id":588661,"language":"Ruby (2.1.5p273)","length":567,"point":0.0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449372404,"execution_time":74,"id":588664,"language":"Ruby (2.1.5p273)","length":568,"point":0.0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449372608,"execution_time":56,"id":588670,"language":"Ruby (2.1.5p273)","length":571,"point":0.0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449372823,"execution_time":56,"id":588675,"language":"Ruby (2.1.5p273)","length":596,"point":0.0,"problem_id":"abc026_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449373236,"execution_time":61,"id":588682,"language":"Ruby (2.1.5p273)","length":600,"point":100.0,"problem_id":"abc026_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449375477,"execution_time":"","id":588721,"language":"Ruby (2.1.5p273)","length":337,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449375581,"execution_time":"","id":588722,"language":"Ruby (2.1.5p273)","length":324,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449375736,"execution_time":2035,"id":588724,"language":"Ruby (2.1.5p273)","length":303,"point":0.0,"problem_id":"abc026_d","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449375807,"execution_time":"","id":588727,"language":"Ruby (2.1.5p273)","length":324,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449376955,"execution_time":"","id":588731,"language":"Java (OpenJDK 1.7.0)","length":550,"point":0.0,"problem_id":"abc026_d","result":"CE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377006,"execution_time":"","id":588732,"language":"Java (OpenJDK 1.7.0)","length":550,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377062,"execution_time":"","id":588734,"language":"Java (OpenJDK 1.7.0)","length":531,"point":0.0,"problem_id":"abc026_d","result":"CE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377225,"execution_time":"","id":588735,"language":"Ruby (2.1.5p273)","length":301,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377504,"execution_time":"","id":588736,"language":"Ruby (2.1.5p273)","length":334,"point":0.0,"problem_id":"abc026_d","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377602,"execution_time":2034,"id":588737,"language":"Ruby (2.1.5p273)","length":336,"point":0.0,"problem_id":"abc026_d","result":"WA","user_id":"mala"}
+,{"contest_id":"abc026","epoch_second":1449377717,"execution_time":72,"id":588739,"language":"Ruby (2.1.5p273)","length":330,"point":100.0,"problem_id":"abc026_d","result":"AC","user_id":"mala"}
+,{"contest_id":"abc025","epoch_second":1449378753,"execution_time":388,"id":588744,"language":"Java (OpenJDK 1.7.0)","length":354,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc024","epoch_second":1449402412,"execution_time":408,"id":588974,"language":"Java (OpenJDK 1.7.0)","length":400,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc024","epoch_second":1449402936,"execution_time":979,"id":588979,"language":"Java (OpenJDK 1.7.0)","length":453,"point":100.0,"problem_id":"abc024_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc025","epoch_second":1449404755,"execution_time":468,"id":588991,"language":"Java (OpenJDK 1.7.0)","length":818,"point":0.0,"problem_id":"abc025_b","result":"WA","user_id":"mala"}
+,{"contest_id":"abc025","epoch_second":1449405497,"execution_time":534,"id":589004,"language":"Java (OpenJDK 1.7.0)","length":831,"point":100.0,"problem_id":"abc025_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449405825,"execution_time":384,"id":589011,"language":"Java (OpenJDK 1.7.0)","length":191,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc024","epoch_second":1449408387,"execution_time":792,"id":589033,"language":"Java (OpenJDK 1.7.0)","length":1021,"point":100.0,"problem_id":"abc024_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc024","epoch_second":1449408557,"execution_time":826,"id":589036,"language":"Java (OpenJDK 1.7.0)","length":1039,"point":100.0,"problem_id":"abc024_c","result":"WA","user_id":"mala"}
+,{"contest_id":"abc024","epoch_second":1449409181,"execution_time":942,"id":589044,"language":"Java (OpenJDK 1.7.0)","length":1023,"point":100.0,"problem_id":"abc024_c","result":"AC","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449482514,"execution_time":564,"id":589342,"language":"Java (OpenJDK 1.7.0)","length":573,"point":100.0,"problem_id":"abc023_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449484352,"execution_time":"","id":589363,"language":"Java (OpenJDK 1.7.0)","length":877,"point":30.0,"problem_id":"abc023_c","result":"MLE","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449485462,"execution_time":"","id":589373,"language":"Java (OpenJDK 1.7.0)","length":518,"point":0.0,"problem_id":"abc023_c","result":"CE","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449485485,"execution_time":"","id":589374,"language":"Ruby (2.1.5p273)","length":518,"point":0.0,"problem_id":"abc023_a","result":"RE","user_id":"mala"}
+,{"contest_id":"abc023","epoch_second":1449485504,"execution_time":"","id":589375,"language":"Ruby (2.1.5p273)","length":518,"point":30.0,"problem_id":"abc023_c","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449486124,"execution_time":425,"id":589381,"language":"Java (OpenJDK 1.7.0)","length":439,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449486353,"execution_time":"","id":589385,"language":"Java (OpenJDK 1.7.0)","length":497,"point":0.0,"problem_id":"abc022_a","result":"RE","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449486471,"execution_time":488,"id":589387,"language":"Java (OpenJDK 1.7.0)","length":499,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449487210,"execution_time":"","id":589401,"language":"Java (OpenJDK 1.7.0)","length":442,"point":0.0,"problem_id":"abc022_b","result":"CE","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449487249,"execution_time":"","id":589402,"language":"Java (OpenJDK 1.7.0)","length":444,"point":0.0,"problem_id":"abc022_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc022","epoch_second":1449487597,"execution_time":248,"id":589406,"language":"Ruby (2.1.5p273)","length":126,"point":100.0,"problem_id":"abc022_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc021","epoch_second":1449487942,"execution_time":"","id":589412,"language":"Java (OpenJDK 1.7.0)","length":226,"point":0.0,"problem_id":"abc021_a","result":"CE","user_id":"mala"}
+,{"contest_id":"abc021","epoch_second":1449487985,"execution_time":553,"id":589415,"language":"Java (OpenJDK 1.7.0)","length":227,"point":0.0,"problem_id":"abc021_a","result":"WA","user_id":"mala"}
+,{"contest_id":"abc021","epoch_second":1449488407,"execution_time":556,"id":589421,"language":"Java (OpenJDK 1.7.0)","length":429,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc021","epoch_second":1449492073,"execution_time":"","id":589474,"language":"Ruby (2.1.5p273)","length":218,"point":0.0,"problem_id":"abc021_b","result":"RE","user_id":"mala"}
+,{"contest_id":"abc021","epoch_second":1449492183,"execution_time":61,"id":589476,"language":"Ruby (2.1.5p273)","length":218,"point":100.0,"problem_id":"abc021_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc020","epoch_second":1449492615,"execution_time":380,"id":589485,"language":"Java (OpenJDK 1.7.0)","length":236,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc020","epoch_second":1449493368,"execution_time":"","id":589495,"language":"Java (OpenJDK 1.7.0)","length":252,"point":0.0,"problem_id":"abc020_b","result":"CE","user_id":"mala"}
+,{"contest_id":"abc020","epoch_second":1449493494,"execution_time":537,"id":589498,"language":"Java (OpenJDK 1.7.0)","length":256,"point":100.0,"problem_id":"abc020_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc019","epoch_second":1449495175,"execution_time":460,"id":589521,"language":"Java (OpenJDK 1.7.0)","length":501,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc019","epoch_second":1449503640,"execution_time":61,"id":589644,"language":"Ruby (1.9.3)","length":207,"point":100.0,"problem_id":"abc019_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc019","epoch_second":1449503993,"execution_time":"","id":589646,"language":"Ruby (1.9.3)","length":157,"point":0.0,"problem_id":"abc019_3","result":"RE","user_id":"mala"}
+,{"contest_id":"abc019","epoch_second":1449504066,"execution_time":219,"id":589648,"language":"Ruby (1.9.3)","length":158,"point":100.0,"problem_id":"abc019_3","result":"AC","user_id":"mala"}
+,{"contest_id":"abc018","epoch_second":1449505039,"execution_time":"","id":589658,"language":"Ruby (1.9.3)","length":983,"point":0.0,"problem_id":"abc018_1","result":"RE","user_id":"mala"}
+,{"contest_id":"abc018","epoch_second":1449505075,"execution_time":397,"id":589660,"language":"Java (OpenJDK 1.7.0)","length":983,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc018","epoch_second":1449506036,"execution_time":413,"id":589665,"language":"Java (OpenJDK 1.7.0)","length":475,"point":100.0,"problem_id":"abc018_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc017","epoch_second":1449509334,"execution_time":380,"id":589687,"language":"Java (OpenJDK 1.7.0)","length":294,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc017","epoch_second":1449511018,"execution_time":539,"id":589695,"language":"Java (OpenJDK 1.7.0)","length":596,"point":100.0,"problem_id":"abc017_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc017","epoch_second":1449546604,"execution_time":"","id":589783,"language":"Java (OpenJDK 1.7.0)","length":637,"point":100.0,"problem_id":"abc017_3","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc017","epoch_second":1449550030,"execution_time":"","id":589804,"language":"Ruby (1.9.3)","length":313,"point":0.0,"problem_id":"abc017_3","result":"RE","user_id":"mala"}
+,{"contest_id":"abc017","epoch_second":1449550224,"execution_time":"","id":589806,"language":"Ruby (1.9.3)","length":325,"point":30.0,"problem_id":"abc017_3","result":"TLE","user_id":"mala"}
+,{"contest_id":"abc016","epoch_second":1449561651,"execution_time":567,"id":589930,"language":"Java (OpenJDK 1.7.0)","length":671,"point":100.0,"problem_id":"abc016_3","result":"AC","user_id":"mala"}
+,{"contest_id":"abc016","epoch_second":1449566540,"execution_time":501,"id":589998,"language":"Java (OpenJDK 1.7.0)","length":496,"point":0.0,"problem_id":"abc016_2","result":"WA","user_id":"mala"}
+,{"contest_id":"abc016","epoch_second":1449566658,"execution_time":462,"id":590000,"language":"Java (OpenJDK 1.7.0)","length":492,"point":100.0,"problem_id":"abc016_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc016","epoch_second":1449566858,"execution_time":400,"id":590002,"language":"Java (OpenJDK 1.7.0)","length":274,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc015","epoch_second":1449567324,"execution_time":"","id":590010,"language":"Java (OpenJDK 1.7.0)","length":271,"point":0.0,"problem_id":"abc015_1","result":"CE","user_id":"mala"}
+,{"contest_id":"abc015","epoch_second":1449567358,"execution_time":442,"id":590012,"language":"Java (OpenJDK 1.7.0)","length":265,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc015","epoch_second":1449568137,"execution_time":393,"id":590022,"language":"Java (OpenJDK 1.7.0)","length":409,"point":100.0,"problem_id":"abc015_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc014","epoch_second":1449606811,"execution_time":395,"id":590275,"language":"Java (OpenJDK 1.7.0)","length":283,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc013","epoch_second":1449607191,"execution_time":"","id":590276,"language":"Java (OpenJDK 1.7.0)","length":330,"point":0.0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
+,{"contest_id":"abc013","epoch_second":1449607227,"execution_time":"","id":590277,"language":"Java (OpenJDK 1.7.0)","length":331,"point":0.0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
+,{"contest_id":"abc013","epoch_second":1449607273,"execution_time":"","id":590278,"language":"Java (OpenJDK 1.7.0)","length":333,"point":0.0,"problem_id":"abc013_1","result":"CE","user_id":"mala"}
+,{"contest_id":"abc013","epoch_second":1449607316,"execution_time":529,"id":590279,"language":"Java (OpenJDK 1.7.0)","length":338,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc013","epoch_second":1449607660,"execution_time":543,"id":590281,"language":"Java (OpenJDK 1.7.0)","length":255,"point":100.0,"problem_id":"abc013_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc012","epoch_second":1449608418,"execution_time":518,"id":590282,"language":"Java (OpenJDK 1.7.0)","length":216,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc012","epoch_second":1449609096,"execution_time":547,"id":590285,"language":"Java (OpenJDK 1.7.0)","length":445,"point":100.0,"problem_id":"abc012_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc012","epoch_second":1449609604,"execution_time":532,"id":590286,"language":"Java (OpenJDK 1.7.0)","length":317,"point":100.0,"problem_id":"abc012_3","result":"AC","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449609892,"execution_time":"","id":590287,"language":"Java (OpenJDK 1.7.0)","length":187,"point":0.0,"problem_id":"abc011_1","result":"CE","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449609922,"execution_time":540,"id":590288,"language":"Java (OpenJDK 1.7.0)","length":188,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449610590,"execution_time":"","id":590289,"language":"Java (OpenJDK 1.7.0)","length":364,"point":0.0,"problem_id":"abc011_2","result":"CE","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449611038,"execution_time":"","id":590290,"language":"Java (OpenJDK 1.7.0)","length":319,"point":0.0,"problem_id":"abc011_2","result":"CE","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449611096,"execution_time":"","id":590291,"language":"Java (OpenJDK 1.7.0)","length":319,"point":0.0,"problem_id":"abc011_2","result":"CE","user_id":"mala"}
+,{"contest_id":"abc011","epoch_second":1449611151,"execution_time":528,"id":590292,"language":"Java (OpenJDK 1.7.0)","length":322,"point":100.0,"problem_id":"abc011_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc010","epoch_second":1449612590,"execution_time":512,"id":590293,"language":"Java (OpenJDK 1.7.0)","length":188,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc010","epoch_second":1449613206,"execution_time":532,"id":590294,"language":"Java (OpenJDK 1.7.0)","length":342,"point":0.0,"problem_id":"abc010_2","result":"WA","user_id":"mala"}
+,{"contest_id":"abc010","epoch_second":1449613292,"execution_time":533,"id":590295,"language":"Java (OpenJDK 1.7.0)","length":345,"point":100.0,"problem_id":"abc010_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc009","epoch_second":1449613559,"execution_time":522,"id":590296,"language":"Java (OpenJDK 1.7.0)","length":187,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc009","epoch_second":1449614011,"execution_time":384,"id":590300,"language":"Java (OpenJDK 1.7.0)","length":444,"point":100.0,"problem_id":"abc009_2","result":"AC","user_id":"mala"}
+,{"contest_id":"abc008","epoch_second":1449614285,"execution_time":542,"id":590301,"language":"Java (OpenJDK 1.7.0)","length":211,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc008","epoch_second":1449615312,"execution_time":537,"id":590302,"language":"Java (OpenJDK 1.7.0)","length":531,"point":100.0,"problem_id":"abc008_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc045","epoch_second":1449685141,"execution_time":55,"id":590645,"language":"Ruby (2.1.5p273)","length":157,"point":100.0,"problem_id":"arc045_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc044","epoch_second":1449686293,"execution_time":62,"id":590648,"language":"Ruby (2.1.5p273)","length":298,"point":0.0,"problem_id":"arc044_a","result":"WA","user_id":"mala"}
+,{"contest_id":"arc044","epoch_second":1449686373,"execution_time":82,"id":590649,"language":"Ruby (2.1.5p273)","length":308,"point":100.0,"problem_id":"arc044_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc042","epoch_second":1449688082,"execution_time":"","id":590650,"language":"Java (OpenJDK 1.7.0)","length":567,"point":30.0,"problem_id":"arc042_a","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc041","epoch_second":1449688509,"execution_time":539,"id":590651,"language":"Java (OpenJDK 1.7.0)","length":305,"point":100.0,"problem_id":"arc041_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc040","epoch_second":1449689146,"execution_time":62,"id":590652,"language":"Ruby (2.1.5p273)","length":299,"point":100.0,"problem_id":"arc040_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc039","epoch_second":1449690465,"execution_time":404,"id":590653,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0.0,"problem_id":"arc039_a","result":"WA","user_id":"mala"}
+,{"contest_id":"arc039","epoch_second":1449691292,"execution_time":431,"id":590654,"language":"Java (OpenJDK 1.7.0)","length":733,"point":100.0,"problem_id":"arc039_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc037","epoch_second":1449691682,"execution_time":389,"id":590655,"language":"Java (OpenJDK 1.7.0)","length":304,"point":100.0,"problem_id":"arc037_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc036","epoch_second":1449692424,"execution_time":908,"id":590656,"language":"Java (OpenJDK 1.7.0)","length":462,"point":100.0,"problem_id":"arc036_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc035","epoch_second":1449693701,"execution_time":"","id":590662,"language":"Java (OpenJDK 1.7.0)","length":435,"point":0.0,"problem_id":"arc035_a","result":"CE","user_id":"mala"}
+,{"contest_id":"arc035","epoch_second":1449693742,"execution_time":"","id":590663,"language":"Java (OpenJDK 1.7.0)","length":436,"point":0.0,"problem_id":"arc035_a","result":"RE","user_id":"mala"}
+,{"contest_id":"arc035","epoch_second":1449694159,"execution_time":"","id":590664,"language":"Java (OpenJDK 1.7.0)","length":441,"point":0.0,"problem_id":"arc035_a","result":"CE","user_id":"mala"}
+,{"contest_id":"arc035","epoch_second":1449694207,"execution_time":594,"id":590665,"language":"Java (OpenJDK 1.7.0)","length":440,"point":0.0,"problem_id":"arc035_a","result":"WA","user_id":"mala"}
+,{"contest_id":"arc035","epoch_second":1449694339,"execution_time":535,"id":590666,"language":"Java (OpenJDK 1.7.0)","length":436,"point":100.0,"problem_id":"arc035_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1449726443,"execution_time":"","id":590720,"language":"Java (OpenJDK 1.7.0)","length":435,"point":0.0,"problem_id":"arc034_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1449726493,"execution_time":636,"id":590721,"language":"Java (OpenJDK 1.7.0)","length":438,"point":0.0,"problem_id":"arc034_1","result":"WA","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1449726877,"execution_time":"","id":590722,"language":"Java (OpenJDK 1.7.0)","length":468,"point":0.0,"problem_id":"arc034_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1449726918,"execution_time":932,"id":590723,"language":"Java (OpenJDK 1.7.0)","length":467,"point":0.0,"problem_id":"arc034_1","result":"WA","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1449726982,"execution_time":658,"id":590724,"language":"Java (OpenJDK 1.7.0)","length":438,"point":100.0,"problem_id":"arc034_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc033","epoch_second":1449727398,"execution_time":557,"id":590727,"language":"Java (OpenJDK 1.7.0)","length":189,"point":100.0,"problem_id":"arc033_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc032","epoch_second":1449727720,"execution_time":384,"id":590730,"language":"Java (OpenJDK 1.7.0)","length":231,"point":100.0,"problem_id":"arc032_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc045","epoch_second":1449730109,"execution_time":"","id":590742,"language":"Ruby (2.1.5p273)","length":757,"point":0.0,"problem_id":"arc045_b","result":"RE","user_id":"mala"}
+,{"contest_id":"arc045","epoch_second":1449730289,"execution_time":"","id":590743,"language":"Java (OpenJDK 1.7.0)","length":762,"point":0.0,"problem_id":"arc045_b","result":"CE","user_id":"mala"}
+,{"contest_id":"arc045","epoch_second":1449730316,"execution_time":"","id":590744,"language":"Java (OpenJDK 1.7.0)","length":761,"point":30.0,"problem_id":"arc045_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc031","epoch_second":1449730736,"execution_time":"","id":590746,"language":"Java (OpenJDK 1.7.0)","length":413,"point":0.0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc031","epoch_second":1449730784,"execution_time":"","id":590747,"language":"Java (OpenJDK 1.7.0)","length":419,"point":0.0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc031","epoch_second":1449730846,"execution_time":414,"id":590748,"language":"Java (OpenJDK 1.7.0)","length":424,"point":0.0,"problem_id":"arc031_1","result":"WA","user_id":"mala"}
+,{"contest_id":"arc031","epoch_second":1449730974,"execution_time":"","id":590749,"language":"Java (OpenJDK 1.7.0)","length":425,"point":0.0,"problem_id":"arc031_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc031","epoch_second":1449730990,"execution_time":528,"id":590750,"language":"Java (OpenJDK 1.7.0)","length":424,"point":100.0,"problem_id":"arc031_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc030","epoch_second":1449733088,"execution_time":385,"id":590757,"language":"Java (OpenJDK 1.7.0)","length":265,"point":100.0,"problem_id":"arc030_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc028","epoch_second":1449805536,"execution_time":375,"id":590973,"language":"Java (OpenJDK 1.7.0)","length":310,"point":100.0,"problem_id":"arc028_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc027","epoch_second":1449806405,"execution_time":548,"id":590976,"language":"Java (OpenJDK 1.7.0)","length":228,"point":100.0,"problem_id":"arc027_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc026","epoch_second":1449820816,"execution_time":418,"id":591052,"language":"Java (OpenJDK 1.7.0)","length":278,"point":100.0,"problem_id":"arc026_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc045","epoch_second":1451349239,"execution_time":"","id":601594,"language":"Java (OpenJDK 1.7.0)","length":788,"point":30.0,"problem_id":"arc045_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc042","epoch_second":1451351836,"execution_time":1981,"id":601598,"language":"Java (OpenJDK 1.7.0)","length":518,"point":100.0,"problem_id":"arc042_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc042","epoch_second":1451353981,"execution_time":455,"id":601603,"language":"Java (OpenJDK 1.7.0)","length":764,"point":100.0,"problem_id":"arc042_b","result":"AC","user_id":"mala"}
+,{"contest_id":"arc042","epoch_second":1451364878,"execution_time":2043,"id":601660,"language":"Java (OpenJDK 1.7.0)","length":735,"point":0.0,"problem_id":"arc042_c","result":"WA","user_id":"mala"}
+,{"contest_id":"arc040","epoch_second":1451368276,"execution_time":74,"id":601690,"language":"Ruby (2.1.5p273)","length":386,"point":0.0,"problem_id":"arc040_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc040","epoch_second":1451368398,"execution_time":75,"id":601692,"language":"Ruby (2.1.5p273)","length":388,"point":0.0,"problem_id":"arc040_b","result":"WA","user_id":"mala"}
+,{"contest_id":"arc039","epoch_second":1451373972,"execution_time":55,"id":601729,"language":"Ruby (2.1.5p273)","length":546,"point":100.0,"problem_id":"arc039_b","result":"AC","user_id":"mala"}
+,{"contest_id":"arc039","epoch_second":1451390350,"execution_time":"","id":601816,"language":"Java (OpenJDK 1.7.0)","length":1092,"point":0.0,"problem_id":"arc039_c","result":"MLE","user_id":"mala"}
+,{"contest_id":"arc039","epoch_second":1451390692,"execution_time":"","id":601818,"language":"Java (OpenJDK 1.7.0)","length":1120,"point":0.0,"problem_id":"arc039_c","result":"MLE","user_id":"mala"}
+,{"contest_id":"arc040","epoch_second":1451433163,"execution_time":543,"id":601975,"language":"Java (OpenJDK 1.7.0)","length":677,"point":100.0,"problem_id":"arc040_c","result":"AC","user_id":"mala"}
+,{"contest_id":"arc038","epoch_second":1451433873,"execution_time":429,"id":601981,"language":"Java (OpenJDK 1.7.0)","length":515,"point":100.0,"problem_id":"arc038_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc036","epoch_second":1451435162,"execution_time":"","id":601989,"language":"Java (OpenJDK 1.7.0)","length":617,"point":30.0,"problem_id":"arc036_b","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc034","epoch_second":1451437780,"execution_time":"","id":602022,"language":"Ruby (1.9.3)","length":203,"point":20.0,"problem_id":"arc034_2","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc033","epoch_second":1451439073,"execution_time":316,"id":602025,"language":"Ruby (1.9.3)","length":196,"point":100.0,"problem_id":"arc033_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc029","epoch_second":1451472998,"execution_time":520,"id":602150,"language":"Java (OpenJDK 1.7.0)","length":930,"point":100.0,"problem_id":"arc029_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc026","epoch_second":1451524117,"execution_time":"","id":602349,"language":"Java (OpenJDK 1.7.0)","length":406,"point":50.0,"problem_id":"arc026_2","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc025","epoch_second":1451525957,"execution_time":"","id":602352,"language":"Java (OpenJDK 1.7.0)","length":369,"point":0.0,"problem_id":"arc025_1","result":"CE","user_id":"mala"}
+,{"contest_id":"arc025","epoch_second":1451525998,"execution_time":544,"id":602353,"language":"Java (OpenJDK 1.7.0)","length":353,"point":100.0,"problem_id":"arc025_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc025","epoch_second":1451533873,"execution_time":"","id":602385,"language":"Java (OpenJDK 1.7.0)","length":744,"point":0.0,"problem_id":"arc025_2","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc024","epoch_second":1451534735,"execution_time":511,"id":602388,"language":"Java (OpenJDK 1.7.0)","length":554,"point":100.0,"problem_id":"arc024_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc024","epoch_second":1451537843,"execution_time":"","id":602398,"language":"Ruby (1.9.3)","length":536,"point":0.0,"problem_id":"arc024_2","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc024","epoch_second":1451539733,"execution_time":"","id":602408,"language":"Ruby (1.9.3)","length":512,"point":30.0,"problem_id":"arc024_3","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc023","epoch_second":1451541574,"execution_time":396,"id":602417,"language":"Java (OpenJDK 1.7.0)","length":488,"point":100.0,"problem_id":"arc023_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc023","epoch_second":1451544956,"execution_time":1746,"id":602430,"language":"Java (OpenJDK 1.7.0)","length":756,"point":100.0,"problem_id":"arc023_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc023","epoch_second":1451548054,"execution_time":"","id":602439,"language":"Java (OpenJDK 1.7.0)","length":369,"point":0.0,"problem_id":"arc023_3","result":"CE","user_id":"mala"}
+,{"contest_id":"arc023","epoch_second":1451548072,"execution_time":71,"id":602440,"language":"Ruby (1.9.3)","length":369,"point":100.0,"problem_id":"arc023_3","result":"AC","user_id":"mala"}
+,{"contest_id":"arc023","epoch_second":1451548654,"execution_time":509,"id":602443,"language":"Java (OpenJDK 1.7.0)","length":693,"point":0.0,"problem_id":"arc023_3","result":"WA","user_id":"mala"}
+,{"contest_id":"arc022","epoch_second":1451550327,"execution_time":410,"id":602450,"language":"Java (OpenJDK 1.7.0)","length":565,"point":100.0,"problem_id":"arc022_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc021","epoch_second":1451558719,"execution_time":399,"id":602476,"language":"Java (OpenJDK 1.7.0)","length":519,"point":100.0,"problem_id":"arc021_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc019","epoch_second":1451566019,"execution_time":443,"id":602515,"language":"Java (OpenJDK 1.7.0)","length":489,"point":100.0,"problem_id":"arc019_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc018","epoch_second":1451607611,"execution_time":514,"id":602676,"language":"Java (OpenJDK 1.7.0)","length":589,"point":0.0,"problem_id":"arc018_2","result":"WA","user_id":"mala"}
+,{"contest_id":"arc018","epoch_second":1451608930,"execution_time":360,"id":602680,"language":"Java (OpenJDK 1.7.0)","length":312,"point":100.0,"problem_id":"arc018_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc018","epoch_second":1451609306,"execution_time":166,"id":602682,"language":"Ruby (1.9.3)","length":350,"point":100.0,"problem_id":"arc018_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc019","epoch_second":1451610888,"execution_time":729,"id":602690,"language":"Java (OpenJDK 1.7.0)","length":516,"point":100.0,"problem_id":"arc019_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc017","epoch_second":1451611414,"execution_time":413,"id":602695,"language":"Java (OpenJDK 1.7.0)","length":324,"point":100.0,"problem_id":"arc017_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc017","epoch_second":1451612804,"execution_time":1133,"id":602710,"language":"Java (OpenJDK 1.7.0)","length":469,"point":100.0,"problem_id":"arc017_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc016","epoch_second":1451622501,"execution_time":392,"id":602749,"language":"Java (OpenJDK 1.7.0)","length":218,"point":100.0,"problem_id":"arc016_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc016","epoch_second":1451623758,"execution_time":419,"id":602757,"language":"Java (OpenJDK 1.7.0)","length":600,"point":100.0,"problem_id":"arc016_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc015","epoch_second":1451624074,"execution_time":535,"id":602760,"language":"Java (OpenJDK 1.7.0)","length":219,"point":100.0,"problem_id":"arc015_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc015","epoch_second":1451625338,"execution_time":645,"id":602763,"language":"Java (OpenJDK 1.7.0)","length":743,"point":100.0,"problem_id":"arc015_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc014","epoch_second":1451632639,"execution_time":384,"id":602782,"language":"Java (OpenJDK 1.7.0)","length":207,"point":100.0,"problem_id":"arc014_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc014","epoch_second":1451634020,"execution_time":549,"id":602784,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0.0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
+,{"contest_id":"arc014","epoch_second":1451634795,"execution_time":66,"id":602785,"language":"Ruby (1.9.3)","length":455,"point":0.0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
+,{"contest_id":"arc014","epoch_second":1451635070,"execution_time":53,"id":602787,"language":"Ruby (1.9.3)","length":455,"point":0.0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
+,{"contest_id":"arc014","epoch_second":1451635291,"execution_time":462,"id":602788,"language":"Java (OpenJDK 1.7.0)","length":739,"point":0.0,"problem_id":"arc014_2","result":"WA","user_id":"mala"}
+,{"contest_id":"arc013","epoch_second":1451645237,"execution_time":430,"id":602807,"language":"Java (OpenJDK 1.7.0)","length":684,"point":100.0,"problem_id":"arc013_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc013","epoch_second":1451691041,"execution_time":56,"id":603040,"language":"Ruby (1.9.3)","length":223,"point":100.0,"problem_id":"arc013_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451691848,"execution_time":392,"id":603042,"language":"Java (OpenJDK 1.7.0)","length":425,"point":100.0,"problem_id":"arc012_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451692586,"execution_time":375,"id":603045,"language":"Java (OpenJDK 1.7.0)","length":352,"point":100.0,"problem_id":"arc012_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451728791,"execution_time":53,"id":603171,"language":"Ruby (1.9.3)","length":1443,"point":0.0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451729124,"execution_time":"","id":603174,"language":"Ruby (1.9.3)","length":1455,"point":0.0,"problem_id":"arc012_3","result":"RE","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451729205,"execution_time":50,"id":603175,"language":"Ruby (1.9.3)","length":1449,"point":0.0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
+,{"contest_id":"arc012","epoch_second":1451729337,"execution_time":61,"id":603177,"language":"Ruby (1.9.3)","length":1467,"point":0.0,"problem_id":"arc012_3","result":"WA","user_id":"mala"}
+,{"contest_id":"arc011","epoch_second":1451887446,"execution_time":451,"id":603875,"language":"Java (OpenJDK 1.7.0)","length":330,"point":100.0,"problem_id":"arc011_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc011","epoch_second":1451890883,"execution_time":574,"id":603893,"language":"Java (OpenJDK 1.7.0)","length":786,"point":100.0,"problem_id":"arc011_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc010","epoch_second":1451892787,"execution_time":426,"id":603906,"language":"Java (OpenJDK 1.7.0)","length":444,"point":100.0,"problem_id":"arc010_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc009","epoch_second":1451893634,"execution_time":389,"id":603909,"language":"Java (OpenJDK 1.7.0)","length":374,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"mala"}
+,{"contest_id":"arc009","epoch_second":1451896438,"execution_time":550,"id":603927,"language":"Java (OpenJDK 1.7.0)","length":912,"point":100.0,"problem_id":"arc009_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc009","epoch_second":1451898755,"execution_time":"","id":603939,"language":"Java (OpenJDK 1.7.0)","length":633,"point":40.0,"problem_id":"arc009_3","result":"RE","user_id":"mala"}
+,{"contest_id":"arc009","epoch_second":1451908214,"execution_time":"","id":603971,"language":"Ruby (1.9.3)","length":369,"point":40.0,"problem_id":"arc009_3","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc009","epoch_second":1451909857,"execution_time":"","id":603982,"language":"Ruby (1.9.3)","length":251,"point":40.0,"problem_id":"arc009_3","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc008","epoch_second":1452344593,"execution_time":87,"id":607496,"language":"Ruby (1.9.3)","length":611,"point":100.0,"problem_id":"arc008_2","result":"AC","user_id":"mala"}
+,{"contest_id":"arc008","epoch_second":1452345198,"execution_time":"","id":607658,"language":"Ruby (1.9.3)","length":204,"point":0.0,"problem_id":"arc008_1","result":"RE","user_id":"mala"}
+,{"contest_id":"arc008","epoch_second":1452345208,"execution_time":402,"id":607666,"language":"Java (OpenJDK 1.7.0)","length":204,"point":0.0,"problem_id":"arc008_1","result":"WA","user_id":"mala"}
+,{"contest_id":"arc008","epoch_second":1452345722,"execution_time":509,"id":607843,"language":"Java (OpenJDK 1.7.0)","length":269,"point":100.0,"problem_id":"arc008_1","result":"AC","user_id":"mala"}
+,{"contest_id":"abc034","epoch_second":1460008869,"execution_time":403,"id":686931,"language":"Java (OpenJDK 1.7.0)","length":270,"point":100.0,"problem_id":"abc034_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc034","epoch_second":1460009156,"execution_time":375,"id":686934,"language":"Java (OpenJDK 1.7.0)","length":257,"point":100.0,"problem_id":"abc034_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc035","epoch_second":1460019329,"execution_time":225,"id":687057,"language":"Java7 (OpenJDK 1.7.0)","length":271,"point":100.0,"problem_id":"abc035_a","result":"AC","user_id":"mala"}
+,{"contest_id":"abc035","epoch_second":1460202209,"execution_time":374,"id":688002,"language":"Java7 (OpenJDK 1.7.0)","length":880,"point":101.0,"problem_id":"abc035_b","result":"AC","user_id":"mala"}
+,{"contest_id":"abc035","epoch_second":1460203489,"execution_time":"","id":688311,"language":"Java7 (OpenJDK 1.7.0)","length":449,"point":60.0,"problem_id":"abc035_c","result":"TLE","user_id":"mala"}
+,{"contest_id":"arc053","epoch_second":1463467809,"execution_time":207,"id":732605,"language":"Java8 (OpenJDK 1.8.0)","length":220,"point":100.0,"problem_id":"arc053_a","result":"AC","user_id":"mala"}
+,{"contest_id":"arc053","epoch_second":1463470328,"execution_time":287,"id":732619,"language":"Java8 (OpenJDK 1.8.0)","length":993,"point":100.0,"problem_id":"arc053_b","result":"AC","user_id":"mala"}
 ]

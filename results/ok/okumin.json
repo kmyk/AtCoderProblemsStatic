@@ -1,169 +1,194 @@
-[{"contest_id":"arc001","epoch_second":1335887631,"execution_time":29,"id":6632,"language":"PHP (PHP 5.3.10)","length":419,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335888156,"execution_time":32,"id":6639,"language":"PHP (PHP 5.3.10)","length":418,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335888387,"execution_time":29,"id":6647,"language":"PHP (PHP 5.3.10)","length":425,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335889962,"execution_time":29,"id":6655,"language":"PHP (PHP 5.3.10)","length":429,"point":100,"problem_id":"arc001_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335892511,"execution_time":31,"id":6673,"language":"PHP (PHP 5.3.10)","length":1457,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335892708,"execution_time":33,"id":6674,"language":"PHP (PHP 5.3.10)","length":1547,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335929297,"execution_time":32,"id":6718,"language":"PHP (PHP 5.3.10)","length":1740,"point":100,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335933054,"execution_time":1150,"id":6720,"language":"PHP (PHP 5.3.10)","length":1228,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1335934217,"execution_time":1136,"id":6721,"language":"PHP (PHP 5.3.10)","length":1244,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335960217,"execution_time":46,"id":6955,"language":"PHP (PHP 5.3.10)","length":272,"point":100,"problem_id":"arc002_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335961399,"execution_time":218,"id":7605,"language":"PHP (PHP 5.3.10)","length":366,"point":100,"problem_id":"arc002_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335963361,"execution_time":59,"id":8358,"language":"PHP (PHP 5.3.10)","length":1171,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964210,"execution_time":47,"id":8658,"language":"PHP (PHP 5.3.10)","length":946,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964284,"execution_time":45,"id":8678,"language":"PHP (PHP 5.3.10)","length":949,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964407,"execution_time":63,"id":8720,"language":"PHP (PHP 5.3.10)","length":943,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964721,"execution_time":48,"id":8824,"language":"PHP (PHP 5.3.10)","length":865,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964866,"execution_time":51,"id":8878,"language":"PHP (PHP 5.3.10)","length":864,"point":0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc002","epoch_second":1335964970,"execution_time":49,"id":8922,"language":"PHP (PHP 5.3.10)","length":911,"point":100,"problem_id":"arc002_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1337408798,"execution_time":9,"id":16439,"language":"C (GCC 4.4.7)","length":946,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1337409694,"execution_time":"","id":16441,"language":"C (GCC 4.4.7)","length":1046,"point":0,"problem_id":"arc001_1","result":"RE","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1337409822,"execution_time":9,"id":16442,"language":"C (GCC 4.4.7)","length":993,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338124514,"execution_time":"","id":19587,"language":"PHP (PHP 5.3.10)","length":1792,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338124637,"execution_time":"","id":19594,"language":"PHP (PHP 5.3.10)","length":1792,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338125596,"execution_time":"","id":19637,"language":"PHP (PHP 5.3.10)","length":1956,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338197266,"execution_time":"","id":19925,"language":"PHP (PHP 5.3.10)","length":1978,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338198619,"execution_time":"","id":19931,"language":"PHP (PHP 5.3.10)","length":2022,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338198873,"execution_time":"","id":19932,"language":"PHP (PHP 5.3.10)","length":2083,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338198954,"execution_time":"","id":19933,"language":"PHP (PHP 5.3.10)","length":2105,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338202343,"execution_time":"","id":19939,"language":"PHP (PHP 5.3.10)","length":2041,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338213909,"execution_time":"","id":19969,"language":"PHP (PHP 5.3.10)","length":1946,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338214688,"execution_time":"","id":19974,"language":"PHP (PHP 5.3.10)","length":1945,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338215833,"execution_time":"","id":19979,"language":"PHP (PHP 5.3.10)","length":2132,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338218901,"execution_time":"","id":19992,"language":"PHP (PHP 5.3.10)","length":2163,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338253135,"execution_time":"","id":20031,"language":"PHP (PHP 5.3.10)","length":2735,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338281686,"execution_time":45,"id":20071,"language":"PHP (PHP 5.3.10)","length":2740,"point":0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338281772,"execution_time":"","id":20072,"language":"Java (OpenJDK 1.7.0)","length":2740,"point":0,"problem_id":"arc003_3","result":"CE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338281831,"execution_time":"","id":20073,"language":"Java (OpenJDK 1.7.0)","length":2742,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338284670,"execution_time":"","id":20089,"language":"Java (OpenJDK 1.7.0)","length":3574,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338613442,"execution_time":197,"id":20297,"language":"PHP (PHP 5.3.10)","length":229,"point":100,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338613561,"execution_time":"","id":20342,"language":"PHP (PHP 5.3.10)","length":198,"point":0,"problem_id":"wupc2012_1","result":"RE","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338613933,"execution_time":48,"id":20473,"language":"PHP (PHP 5.3.10)","length":442,"point":100,"problem_id":"wupc2012_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338615017,"execution_time":"","id":20708,"language":"PHP (PHP 5.3.10)","length":258,"point":0,"problem_id":"wupc2012_1","result":"RE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1338615507,"execution_time":59,"id":20788,"language":"PHP (PHP 5.3.10)","length":388,"point":100,"problem_id":"arc003_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1338619462,"execution_time":44,"id":21315,"language":"PHP (PHP 5.3.10)","length":442,"point":100,"problem_id":"wupc2012_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338637168,"execution_time":2052,"id":21687,"language":"PHP (PHP 5.3.10)","length":1718,"point":0,"problem_id":"wupc2012_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012-closed","epoch_second":1338637737,"execution_time":85,"id":21691,"language":"PHP (PHP 5.3.10)","length":232,"point":100,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1338639915,"execution_time":"","id":21697,"language":"PHP (PHP 5.3.10)","length":1665,"point":0,"problem_id":"wupc2012_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1339714370,"execution_time":5046,"id":22772,"language":"PHP (PHP 5.3.10)","length":1523,"point":0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1339715621,"execution_time":5049,"id":22773,"language":"PHP (PHP 5.3.10)","length":1825,"point":0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1339716087,"execution_time":5040,"id":22774,"language":"PHP (PHP 5.3.10)","length":1864,"point":0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1339716913,"execution_time":"","id":22775,"language":"PHP (PHP 5.3.10)","length":1886,"point":0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1339994945,"execution_time":"","id":24908,"language":"PHP (PHP 5.3.10)","length":2369,"point":0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1340061718,"execution_time":56,"id":25003,"language":"Python (2.7.3)","length":192,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1340061855,"execution_time":58,"id":25004,"language":"Python (2.7.3)","length":163,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342870214,"execution_time":47,"id":33639,"language":"PHP (PHP 5.3.10)","length":682,"point":100,"problem_id":"arc006_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342871683,"execution_time":46,"id":33944,"language":"PHP (PHP 5.3.10)","length":672,"point":100,"problem_id":"arc006_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342873579,"execution_time":55,"id":34255,"language":"PHP (PHP 5.3.10)","length":497,"point":0,"problem_id":"arc006_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342873641,"execution_time":48,"id":34270,"language":"PHP (PHP 5.3.10)","length":501,"point":100,"problem_id":"arc006_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342874115,"execution_time":61,"id":34326,"language":"PHP (PHP 5.3.10)","length":499,"point":100,"problem_id":"arc006_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc006","epoch_second":1342874421,"execution_time":45,"id":34343,"language":"PHP (PHP 5.3.10)","length":578,"point":0,"problem_id":"arc006_1","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1343455356,"execution_time":"","id":35474,"language":"PHP (PHP 5.3.10)","length":1528,"point":0,"problem_id":"wupc2012_3","result":"MLE","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1343457063,"execution_time":2045,"id":35475,"language":"PHP (PHP 5.3.10)","length":1772,"point":0,"problem_id":"wupc2012_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualA","epoch_second":1343996546,"execution_time":46,"id":36337,"language":"PHP (PHP 5.3.10)","length":167,"point":100,"problem_id":"tenka1_2012_qualA_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualA","epoch_second":1344002358,"execution_time":2035,"id":37087,"language":"PHP (PHP 5.3.10)","length":1330,"point":0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualA","epoch_second":1344002364,"execution_time":2036,"id":37090,"language":"PHP (PHP 5.3.10)","length":1330,"point":0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345112904,"execution_time":63,"id":38035,"language":"PHP (PHP 5.3.10)","length":229,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345113030,"execution_time":56,"id":38036,"language":"PHP (PHP 5.3.10)","length":235,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345115098,"execution_time":82,"id":38044,"language":"PHP (PHP 5.3.10)","length":194,"point":100,"problem_id":"arc001_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345118834,"execution_time":92,"id":38046,"language":"PHP (PHP 5.3.10)","length":1090,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345118918,"execution_time":58,"id":38047,"language":"PHP (PHP 5.3.10)","length":1128,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345119177,"execution_time":48,"id":38048,"language":"PHP (PHP 5.3.10)","length":1128,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345119634,"execution_time":48,"id":38049,"language":"PHP (PHP 5.3.10)","length":1166,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345120017,"execution_time":60,"id":38050,"language":"PHP (PHP 5.3.10)","length":1175,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345120749,"execution_time":53,"id":38051,"language":"PHP (PHP 5.3.10)","length":1745,"point":100,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345120926,"execution_time":47,"id":38052,"language":"PHP (PHP 5.3.10)","length":1229,"point":100,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345212301,"execution_time":1407,"id":38959,"language":"PHP (PHP 5.3.10)","length":994,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345212664,"execution_time":1497,"id":38962,"language":"PHP (PHP 5.3.10)","length":1037,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1345220230,"execution_time":2049,"id":39014,"language":"PHP (PHP 5.3.10)","length":2739,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1345238865,"execution_time":70,"id":39061,"language":"PHP (PHP 5.3.10)","length":499,"point":100,"problem_id":"arc004_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1345240290,"execution_time":63,"id":39062,"language":"PHP (PHP 5.3.10)","length":313,"point":100,"problem_id":"arc004_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345251877,"execution_time":59,"id":39176,"language":"PHP (PHP 5.3.10)","length":166,"point":100,"problem_id":"tenka1_2012_5","result":"AC","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345254248,"execution_time":44,"id":39424,"language":"PHP (PHP 5.3.10)","length":1207,"point":0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345254757,"execution_time":51,"id":39476,"language":"PHP (PHP 5.3.10)","length":1254,"point":0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345255087,"execution_time":49,"id":39515,"language":"PHP (PHP 5.3.10)","length":1258,"point":0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345256868,"execution_time":47,"id":39713,"language":"PHP (PHP 5.3.10)","length":1267,"point":0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345258675,"execution_time":44,"id":39917,"language":"PHP (PHP 5.3.10)","length":1036,"point":0,"problem_id":"tenka1_2012_7","result":"WA","user_id":"okumin"}
-,{"contest_id":"tenka1-2012-qualB","epoch_second":1345258849,"execution_time":57,"id":39940,"language":"PHP (PHP 5.3.10)","length":1184,"point":0,"problem_id":"tenka1_2012_7","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346075145,"execution_time":100,"id":40856,"language":"PHP (PHP 5.3.10)","length":553,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346075494,"execution_time":47,"id":40857,"language":"PHP (PHP 5.3.10)","length":554,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346075551,"execution_time":46,"id":40858,"language":"PHP (PHP 5.3.10)","length":554,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346075618,"execution_time":46,"id":40860,"language":"PHP (PHP 5.3.10)","length":554,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346076762,"execution_time":47,"id":40863,"language":"PHP (PHP 5.3.10)","length":564,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346077437,"execution_time":49,"id":40864,"language":"PHP (PHP 5.3.10)","length":574,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346077518,"execution_time":44,"id":40865,"language":"PHP (PHP 5.3.10)","length":573,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346077812,"execution_time":101,"id":40866,"language":"PHP (PHP 5.3.10)","length":573,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346077914,"execution_time":49,"id":40867,"language":"PHP (PHP 5.3.10)","length":574,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346078244,"execution_time":47,"id":40868,"language":"PHP (PHP 5.3.10)","length":579,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346078296,"execution_time":57,"id":40869,"language":"PHP (PHP 5.3.10)","length":579,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346078384,"execution_time":99,"id":40870,"language":"PHP (PHP 5.3.10)","length":578,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc004","epoch_second":1346078460,"execution_time":75,"id":40871,"language":"PHP (PHP 5.3.10)","length":579,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc007","epoch_second":1347102155,"execution_time":44,"id":42405,"language":"PHP (PHP 5.3.10)","length":102,"point":100,"problem_id":"arc007_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc007","epoch_second":1347103127,"execution_time":47,"id":42681,"language":"PHP (PHP 5.3.10)","length":444,"point":100,"problem_id":"arc007_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc007","epoch_second":1347105702,"execution_time":53,"id":43046,"language":"PHP (PHP 5.3.10)","length":1185,"point":0,"problem_id":"arc007_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc007","epoch_second":1347105933,"execution_time":51,"id":43068,"language":"PHP (PHP 5.3.10)","length":1281,"point":100,"problem_id":"arc007_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1349216391,"execution_time":1124,"id":47730,"language":"Java (OpenJDK 1.7.0)","length":3757,"point":100,"problem_id":"arc003_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc001","epoch_second":1350193165,"execution_time":47,"id":47993,"language":"PHP (PHP 5.3.10)","length":1519,"point":100,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc009","epoch_second":1350734674,"execution_time":46,"id":48466,"language":"PHP (PHP 5.3.10)","length":311,"point":100,"problem_id":"arc009_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc009","epoch_second":1350737151,"execution_time":77,"id":48995,"language":"PHP (PHP 5.3.10)","length":925,"point":0,"problem_id":"arc009_2","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc009","epoch_second":1350738068,"execution_time":2137,"id":49126,"language":"PHP (PHP 5.3.10)","length":384,"point":0,"problem_id":"arc009_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc009","epoch_second":1350738796,"execution_time":66,"id":49208,"language":"PHP (PHP 5.3.10)","length":859,"point":100,"problem_id":"arc009_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"digitalarts2012","epoch_second":1353755700,"execution_time":63,"id":53019,"language":"PHP (PHP 5.3.10)","length":496,"point":100,"problem_id":"digitalarts_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"digitalarts2012","epoch_second":1353757304,"execution_time":44,"id":53323,"language":"PHP (PHP 5.3.10)","length":1176,"point":0,"problem_id":"digitalarts_2","result":"WA","user_id":"okumin"}
-,{"contest_id":"digitalarts2012","epoch_second":1353757392,"execution_time":45,"id":53349,"language":"PHP (PHP 5.3.10)","length":1176,"point":100,"problem_id":"digitalarts_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"digitalarts2012","epoch_second":1353759095,"execution_time":"","id":53717,"language":"PHP (PHP 5.3.10)","length":1022,"point":0,"problem_id":"digitalarts_3","result":"TLE","user_id":"okumin"}
-,{"contest_id":"digitalarts2012","epoch_second":1353770442,"execution_time":2069,"id":53965,"language":"Java (OpenJDK 1.7.0)","length":2454,"point":0,"problem_id":"digitalarts_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"arc003","epoch_second":1353791762,"execution_time":273,"id":54020,"language":"Java (OpenJDK 1.7.0)","length":480,"point":100,"problem_id":"arc003_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354373701,"execution_time":337,"id":56639,"language":"Java (OpenJDK 1.7.0)","length":621,"point":100,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354378034,"execution_time":423,"id":56781,"language":"Java (OpenJDK 1.7.0)","length":2495,"point":100,"problem_id":"wupc2012_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354379131,"execution_time":555,"id":56821,"language":"Java (OpenJDK 1.7.0)","length":598,"point":100,"problem_id":"wupc2012_4","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354530183,"execution_time":642,"id":59354,"language":"Java (OpenJDK 1.7.0)","length":2316,"point":100,"problem_id":"wupc2012_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc009","epoch_second":1354801448,"execution_time":300,"id":59740,"language":"PHP (PHP 5.3.10)","length":657,"point":40,"problem_id":"arc009_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354815515,"execution_time":2054,"id":59755,"language":"PHP (PHP 5.3.10)","length":2952,"point":0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354820801,"execution_time":2262,"id":59769,"language":"Java (OpenJDK 1.7.0)","length":3774,"point":0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354821825,"execution_time":1054,"id":59773,"language":"Java (OpenJDK 1.7.0)","length":4201,"point":0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354822150,"execution_time":1034,"id":59774,"language":"Java (OpenJDK 1.7.0)","length":4171,"point":0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354822351,"execution_time":1057,"id":59776,"language":"Java (OpenJDK 1.7.0)","length":4165,"point":100,"problem_id":"wupc2012_5","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2012","epoch_second":1354822566,"execution_time":"","id":59777,"language":"PHP (PHP 5.3.10)","length":3086,"point":30,"problem_id":"wupc2012_5","result":"TLE","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354942923,"execution_time":42,"id":59889,"language":"PHP (PHP 5.3.10)","length":146,"point":50,"problem_id":"wupc_01","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354943703,"execution_time":68,"id":60140,"language":"PHP (PHP 5.3.10)","length":450,"point":50,"problem_id":"wupc_02","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354945806,"execution_time":522,"id":60474,"language":"Java (OpenJDK 1.7.0)","length":1024,"point":0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354946279,"execution_time":492,"id":60557,"language":"Java (OpenJDK 1.7.0)","length":1086,"point":0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354946963,"execution_time":464,"id":60681,"language":"Java (OpenJDK 1.7.0)","length":1085,"point":75,"problem_id":"wupc_04","result":"AC","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354949644,"execution_time":3060,"id":61037,"language":"Java (OpenJDK 1.7.0)","length":3183,"point":0,"problem_id":"wupc_06","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354951039,"execution_time":526,"id":61206,"language":"Java (OpenJDK 1.7.0)","length":3391,"point":0,"problem_id":"wupc_06","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354951463,"execution_time":"","id":61248,"language":"Java (OpenJDK 1.7.0)","length":3372,"point":0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354952360,"execution_time":"","id":61347,"language":"Java (OpenJDK 1.7.0)","length":4389,"point":0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354952892,"execution_time":"","id":61407,"language":"Java (OpenJDK 1.7.0)","length":4330,"point":0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354955186,"execution_time":528,"id":61655,"language":"Java (OpenJDK 1.7.0)","length":2004,"point":0,"problem_id":"wupc_03","result":"WA","user_id":"okumin"}
-,{"contest_id":"wupc2nd","epoch_second":1354957121,"execution_time":"","id":61940,"language":"Java (OpenJDK 1.7.0)","length":4330,"point":0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
-,{"contest_id":"arc010","epoch_second":1355659501,"execution_time":46,"id":62999,"language":"PHP (PHP 5.3.10)","length":300,"point":100,"problem_id":"arc010_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc010","epoch_second":1355660104,"execution_time":144,"id":63217,"language":"PHP (PHP 5.3.10)","length":619,"point":100,"problem_id":"arc010_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"arc010","epoch_second":1355711839,"execution_time":157,"id":64724,"language":"PHP (PHP 5.3.10)","length":620,"point":100,"problem_id":"arc010_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1433593513,"execution_time":"","id":420468,"language":"Scala (2.11.5)","length":1187,"point":0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1433594390,"execution_time":4409,"id":420651,"language":"Scala (2.11.5)","length":994,"point":100,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1433596231,"execution_time":"","id":420971,"language":"Scala (2.11.5)","length":1268,"point":0,"problem_id":"dfs_a","result":"RE","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1433596965,"execution_time":"","id":421093,"language":"Scala (2.11.5)","length":1491,"point":0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1433597787,"execution_time":"","id":421204,"language":"Scala (2.11.5)","length":1491,"point":0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1434382765,"execution_time":3369,"id":427790,"language":"Java (OpenJDK 1.7.0)","length":2202,"point":100,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1434383327,"execution_time":3427,"id":427791,"language":"Java (OpenJDK 1.7.0)","length":2414,"point":100,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
-,{"contest_id":"atc001","epoch_second":1434469349,"execution_time":4413,"id":428206,"language":"Scala (2.11.5)","length":1262,"point":100,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441019863,"execution_time":1351,"id":483147,"language":"Scala (2.9.1)","length":206,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441117020,"execution_time":1128,"id":483914,"language":"Scala (2.9.1)","length":419,"point":100,"problem_id":"abc001_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441207595,"execution_time":998,"id":484398,"language":"Scala (2.9.1)","length":1388,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441208185,"execution_time":1058,"id":484399,"language":"Scala (2.9.1)","length":1427,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441209033,"execution_time":1339,"id":484410,"language":"Scala (2.9.1)","length":1417,"point":0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441212501,"execution_time":1154,"id":484449,"language":"Scala (2.9.1)","length":1421,"point":100,"problem_id":"abc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441522354,"execution_time":"","id":487228,"language":"Scala (2.9.1)","length":870,"point":0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441523230,"execution_time":"","id":487239,"language":"Scala (2.9.1)","length":874,"point":0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441526039,"execution_time":1108,"id":487269,"language":"Java (OpenJDK 1.7.0)","length":1984,"point":100,"problem_id":"abc001_4","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441533101,"execution_time":1357,"id":487318,"language":"Scala (2.9.1)","length":1039,"point":100,"problem_id":"abc001_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc001","epoch_second":1441534963,"execution_time":"","id":487330,"language":"Scala (2.9.1)","length":1365,"point":0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
-,{"contest_id":"abc002","epoch_second":1441561258,"execution_time":1362,"id":487584,"language":"Scala (2.9.1)","length":178,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc002","epoch_second":1441637894,"execution_time":1135,"id":488082,"language":"Scala (2.9.1)","length":251,"point":100,"problem_id":"abc002_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc002","epoch_second":1441727227,"execution_time":1114,"id":488819,"language":"Scala (2.9.1)","length":429,"point":100,"problem_id":"abc002_3","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc002","epoch_second":1441812190,"execution_time":1114,"id":489274,"language":"Scala (2.9.1)","length":653,"point":100,"problem_id":"abc002_4","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc003","epoch_second":1442078551,"execution_time":1535,"id":492682,"language":"Scala (2.9.1)","length":180,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc003","epoch_second":1442083689,"execution_time":1019,"id":492755,"language":"Scala (2.9.1)","length":443,"point":100,"problem_id":"abc003_2","result":"AC","user_id":"okumin"}
-,{"contest_id":"abc003","epoch_second":1442247410,"execution_time":1143,"id":494907,"language":"Scala (2.9.1)","length":439,"point":100,"problem_id":"abc003_3","result":"AC","user_id":"okumin"}
+[{"contest_id":"arc001","epoch_second":1335887631,"execution_time":29,"id":6632,"language":"PHP (PHP 5.3.10)","length":419,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335888156,"execution_time":32,"id":6639,"language":"PHP (PHP 5.3.10)","length":418,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335888387,"execution_time":29,"id":6647,"language":"PHP (PHP 5.3.10)","length":425,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335889962,"execution_time":29,"id":6655,"language":"PHP (PHP 5.3.10)","length":429,"point":100.0,"problem_id":"arc001_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335892511,"execution_time":31,"id":6673,"language":"PHP (PHP 5.3.10)","length":1457,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335892708,"execution_time":33,"id":6674,"language":"PHP (PHP 5.3.10)","length":1547,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335929297,"execution_time":32,"id":6718,"language":"PHP (PHP 5.3.10)","length":1740,"point":100.0,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335933054,"execution_time":1150,"id":6720,"language":"PHP (PHP 5.3.10)","length":1228,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1335934217,"execution_time":1136,"id":6721,"language":"PHP (PHP 5.3.10)","length":1244,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335960217,"execution_time":46,"id":6955,"language":"PHP (PHP 5.3.10)","length":272,"point":100.0,"problem_id":"arc002_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335961399,"execution_time":218,"id":7605,"language":"PHP (PHP 5.3.10)","length":366,"point":100.0,"problem_id":"arc002_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335963361,"execution_time":59,"id":8358,"language":"PHP (PHP 5.3.10)","length":1171,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964210,"execution_time":47,"id":8658,"language":"PHP (PHP 5.3.10)","length":946,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964284,"execution_time":45,"id":8678,"language":"PHP (PHP 5.3.10)","length":949,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964407,"execution_time":63,"id":8720,"language":"PHP (PHP 5.3.10)","length":943,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964721,"execution_time":48,"id":8824,"language":"PHP (PHP 5.3.10)","length":865,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964866,"execution_time":51,"id":8878,"language":"PHP (PHP 5.3.10)","length":864,"point":0.0,"problem_id":"arc002_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc002","epoch_second":1335964970,"execution_time":49,"id":8922,"language":"PHP (PHP 5.3.10)","length":911,"point":100.0,"problem_id":"arc002_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1337408798,"execution_time":9,"id":16439,"language":"C (GCC 4.4.7)","length":946,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1337409694,"execution_time":"","id":16441,"language":"C (GCC 4.4.7)","length":1046,"point":0.0,"problem_id":"arc001_1","result":"RE","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1337409822,"execution_time":9,"id":16442,"language":"C (GCC 4.4.7)","length":993,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338116693,"execution_time":47,"id":18041,"language":"PHP (PHP 5.3.10)","length":386,"point":100.0,"problem_id":"arc003_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338120278,"execution_time":62,"id":19196,"language":"PHP (PHP 5.3.10)","length":1439,"point":0.0,"problem_id":"arc003_2","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338120560,"execution_time":224,"id":19237,"language":"PHP (PHP 5.3.10)","length":1443,"point":0.0,"problem_id":"arc003_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338121014,"execution_time":62,"id":19304,"language":"PHP (PHP 5.3.10)","length":1472,"point":100.0,"problem_id":"arc003_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338124514,"execution_time":"","id":19587,"language":"PHP (PHP 5.3.10)","length":1792,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338124637,"execution_time":"","id":19594,"language":"PHP (PHP 5.3.10)","length":1792,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338125596,"execution_time":"","id":19637,"language":"PHP (PHP 5.3.10)","length":1956,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338197266,"execution_time":"","id":19925,"language":"PHP (PHP 5.3.10)","length":1978,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338198619,"execution_time":"","id":19931,"language":"PHP (PHP 5.3.10)","length":2022,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338198873,"execution_time":"","id":19932,"language":"PHP (PHP 5.3.10)","length":2083,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338198954,"execution_time":"","id":19933,"language":"PHP (PHP 5.3.10)","length":2105,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338202343,"execution_time":"","id":19939,"language":"PHP (PHP 5.3.10)","length":2041,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338213909,"execution_time":"","id":19969,"language":"PHP (PHP 5.3.10)","length":1946,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338214688,"execution_time":"","id":19974,"language":"PHP (PHP 5.3.10)","length":1945,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338215833,"execution_time":"","id":19979,"language":"PHP (PHP 5.3.10)","length":2132,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338217086,"execution_time":"","id":19982,"language":"PHP (PHP 5.3.10)","length":2155,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338218901,"execution_time":"","id":19992,"language":"PHP (PHP 5.3.10)","length":2163,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338253135,"execution_time":"","id":20031,"language":"PHP (PHP 5.3.10)","length":2735,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338281686,"execution_time":45,"id":20071,"language":"PHP (PHP 5.3.10)","length":2740,"point":0.0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338281772,"execution_time":"","id":20072,"language":"Java (OpenJDK 1.7.0)","length":2740,"point":0.0,"problem_id":"arc003_3","result":"CE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338281831,"execution_time":"","id":20073,"language":"Java (OpenJDK 1.7.0)","length":2742,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338284670,"execution_time":"","id":20089,"language":"Java (OpenJDK 1.7.0)","length":3574,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338613442,"execution_time":197,"id":20297,"language":"PHP (PHP 5.3.10)","length":229,"point":100.0,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338613561,"execution_time":"","id":20342,"language":"PHP (PHP 5.3.10)","length":198,"point":0.0,"problem_id":"wupc2012_1","result":"RE","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338613933,"execution_time":48,"id":20473,"language":"PHP (PHP 5.3.10)","length":442,"point":100.0,"problem_id":"wupc2012_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338615017,"execution_time":"","id":20708,"language":"PHP (PHP 5.3.10)","length":258,"point":0.0,"problem_id":"wupc2012_1","result":"RE","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338615283,"execution_time":"","id":20762,"language":"PHP (PHP 5.3.10)","length":260,"point":0.0,"problem_id":"wupc2012_1","result":"RE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1338615507,"execution_time":59,"id":20788,"language":"PHP (PHP 5.3.10)","length":388,"point":100.0,"problem_id":"arc003_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338619308,"execution_time":"","id":21299,"language":"PHP (PHP 5.3.10)","length":1936,"point":0.0,"problem_id":"wupc2012_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1338619462,"execution_time":44,"id":21315,"language":"PHP (PHP 5.3.10)","length":442,"point":100.0,"problem_id":"wupc2012_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338637168,"execution_time":2052,"id":21687,"language":"PHP (PHP 5.3.10)","length":1718,"point":0.0,"problem_id":"wupc2012_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012-closed","epoch_second":1338637737,"execution_time":85,"id":21691,"language":"PHP (PHP 5.3.10)","length":232,"point":100.0,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1338639915,"execution_time":"","id":21697,"language":"PHP (PHP 5.3.10)","length":1665,"point":0.0,"problem_id":"wupc2012_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339714370,"execution_time":5046,"id":22772,"language":"PHP (PHP 5.3.10)","length":1523,"point":0.0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339715621,"execution_time":5049,"id":22773,"language":"PHP (PHP 5.3.10)","length":1825,"point":0.0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339716087,"execution_time":5040,"id":22774,"language":"PHP (PHP 5.3.10)","length":1864,"point":0.0,"problem_id":"arc003_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339716913,"execution_time":"","id":22775,"language":"PHP (PHP 5.3.10)","length":1886,"point":0.0,"problem_id":"arc003_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339994401,"execution_time":"","id":24906,"language":"PHP (PHP 5.3.10)","length":2369,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339994945,"execution_time":"","id":24908,"language":"PHP (PHP 5.3.10)","length":2369,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1339995263,"execution_time":"","id":24909,"language":"PHP (PHP 5.3.10)","length":2371,"point":0.0,"problem_id":"arc003_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1340061718,"execution_time":56,"id":25003,"language":"Python (2.7.3)","length":192,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1340061855,"execution_time":58,"id":25004,"language":"Python (2.7.3)","length":163,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342869792,"execution_time":48,"id":33533,"language":"PHP (PHP 5.3.10)","length":570,"point":0.0,"problem_id":"arc006_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342870214,"execution_time":47,"id":33639,"language":"PHP (PHP 5.3.10)","length":682,"point":100.0,"problem_id":"arc006_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342871683,"execution_time":46,"id":33944,"language":"PHP (PHP 5.3.10)","length":672,"point":100.0,"problem_id":"arc006_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342873579,"execution_time":55,"id":34255,"language":"PHP (PHP 5.3.10)","length":497,"point":0.0,"problem_id":"arc006_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342873641,"execution_time":48,"id":34270,"language":"PHP (PHP 5.3.10)","length":501,"point":100.0,"problem_id":"arc006_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342874115,"execution_time":61,"id":34326,"language":"PHP (PHP 5.3.10)","length":499,"point":100.0,"problem_id":"arc006_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc006","epoch_second":1342874421,"execution_time":45,"id":34343,"language":"PHP (PHP 5.3.10)","length":578,"point":0.0,"problem_id":"arc006_1","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1343455356,"execution_time":"","id":35474,"language":"PHP (PHP 5.3.10)","length":1528,"point":0.0,"problem_id":"wupc2012_3","result":"MLE","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1343457063,"execution_time":2045,"id":35475,"language":"PHP (PHP 5.3.10)","length":1772,"point":0.0,"problem_id":"wupc2012_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1343996135,"execution_time":43,"id":36255,"language":"PHP (PHP 5.3.10)","length":311,"point":100.0,"problem_id":"tenka1_2012_qualA_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1343996546,"execution_time":46,"id":36337,"language":"PHP (PHP 5.3.10)","length":167,"point":100.0,"problem_id":"tenka1_2012_qualA_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1344001444,"execution_time":2034,"id":36982,"language":"PHP (PHP 5.3.10)","length":1319,"point":0.0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1344002303,"execution_time":2034,"id":37081,"language":"PHP (PHP 5.3.10)","length":1330,"point":0.0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1344002358,"execution_time":2035,"id":37087,"language":"PHP (PHP 5.3.10)","length":1330,"point":0.0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1344002364,"execution_time":2036,"id":37090,"language":"PHP (PHP 5.3.10)","length":1330,"point":0.0,"problem_id":"tenka1_2012_qualA_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345112904,"execution_time":63,"id":38035,"language":"PHP (PHP 5.3.10)","length":229,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345113030,"execution_time":56,"id":38036,"language":"PHP (PHP 5.3.10)","length":235,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345115098,"execution_time":82,"id":38044,"language":"PHP (PHP 5.3.10)","length":194,"point":100.0,"problem_id":"arc001_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345118834,"execution_time":92,"id":38046,"language":"PHP (PHP 5.3.10)","length":1090,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345118918,"execution_time":58,"id":38047,"language":"PHP (PHP 5.3.10)","length":1128,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345119177,"execution_time":48,"id":38048,"language":"PHP (PHP 5.3.10)","length":1128,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345119634,"execution_time":48,"id":38049,"language":"PHP (PHP 5.3.10)","length":1166,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345120017,"execution_time":60,"id":38050,"language":"PHP (PHP 5.3.10)","length":1175,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345120749,"execution_time":53,"id":38051,"language":"PHP (PHP 5.3.10)","length":1745,"point":100.0,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345120926,"execution_time":47,"id":38052,"language":"PHP (PHP 5.3.10)","length":1229,"point":100.0,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345212301,"execution_time":1407,"id":38959,"language":"PHP (PHP 5.3.10)","length":994,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345212664,"execution_time":1497,"id":38962,"language":"PHP (PHP 5.3.10)","length":1037,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1345220230,"execution_time":2049,"id":39014,"language":"PHP (PHP 5.3.10)","length":2739,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1345238865,"execution_time":70,"id":39061,"language":"PHP (PHP 5.3.10)","length":499,"point":100.0,"problem_id":"arc004_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1345240290,"execution_time":63,"id":39062,"language":"PHP (PHP 5.3.10)","length":313,"point":100.0,"problem_id":"arc004_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345251877,"execution_time":59,"id":39176,"language":"PHP (PHP 5.3.10)","length":166,"point":100.0,"problem_id":"tenka1_2012_5","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345254248,"execution_time":44,"id":39424,"language":"PHP (PHP 5.3.10)","length":1207,"point":0.0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345254757,"execution_time":51,"id":39476,"language":"PHP (PHP 5.3.10)","length":1254,"point":0.0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345255087,"execution_time":49,"id":39515,"language":"PHP (PHP 5.3.10)","length":1258,"point":0.0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345256868,"execution_time":47,"id":39713,"language":"PHP (PHP 5.3.10)","length":1267,"point":0.0,"problem_id":"tenka1_2012_6","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345256945,"execution_time":45,"id":39720,"language":"PHP (PHP 5.3.10)","length":1268,"point":100.0,"problem_id":"tenka1_2012_6","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345258675,"execution_time":44,"id":39917,"language":"PHP (PHP 5.3.10)","length":1036,"point":0.0,"problem_id":"tenka1_2012_7","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualB","epoch_second":1345258849,"execution_time":57,"id":39940,"language":"PHP (PHP 5.3.10)","length":1184,"point":0.0,"problem_id":"tenka1_2012_7","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346075145,"execution_time":100,"id":40856,"language":"PHP (PHP 5.3.10)","length":553,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346075494,"execution_time":47,"id":40857,"language":"PHP (PHP 5.3.10)","length":554,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346075551,"execution_time":46,"id":40858,"language":"PHP (PHP 5.3.10)","length":554,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346075618,"execution_time":46,"id":40860,"language":"PHP (PHP 5.3.10)","length":554,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346076762,"execution_time":47,"id":40863,"language":"PHP (PHP 5.3.10)","length":564,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346077437,"execution_time":49,"id":40864,"language":"PHP (PHP 5.3.10)","length":574,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346077518,"execution_time":44,"id":40865,"language":"PHP (PHP 5.3.10)","length":573,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346077812,"execution_time":101,"id":40866,"language":"PHP (PHP 5.3.10)","length":573,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346077914,"execution_time":49,"id":40867,"language":"PHP (PHP 5.3.10)","length":574,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346078244,"execution_time":47,"id":40868,"language":"PHP (PHP 5.3.10)","length":579,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346078296,"execution_time":57,"id":40869,"language":"PHP (PHP 5.3.10)","length":579,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346078384,"execution_time":99,"id":40870,"language":"PHP (PHP 5.3.10)","length":578,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc004","epoch_second":1346078460,"execution_time":75,"id":40871,"language":"PHP (PHP 5.3.10)","length":579,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualC","epoch_second":1346704644,"execution_time":59,"id":42111,"language":"PHP (PHP 5.3.10)","length":270,"point":100.0,"problem_id":"tenka1_2012_9","result":"AC","user_id":"okumin"}
+,{"contest_id":"tenka1-2012-qualC","epoch_second":1346705956,"execution_time":44,"id":42112,"language":"PHP (PHP 5.3.10)","length":728,"point":100.0,"problem_id":"tenka1_2012_10","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc007","epoch_second":1347102155,"execution_time":44,"id":42405,"language":"PHP (PHP 5.3.10)","length":102,"point":100.0,"problem_id":"arc007_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc007","epoch_second":1347103127,"execution_time":47,"id":42681,"language":"PHP (PHP 5.3.10)","length":444,"point":100.0,"problem_id":"arc007_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc007","epoch_second":1347105702,"execution_time":53,"id":43046,"language":"PHP (PHP 5.3.10)","length":1185,"point":0.0,"problem_id":"arc007_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc007","epoch_second":1347105933,"execution_time":51,"id":43068,"language":"PHP (PHP 5.3.10)","length":1281,"point":100.0,"problem_id":"arc007_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1349216391,"execution_time":1124,"id":47730,"language":"Java (OpenJDK 1.7.0)","length":3757,"point":100.0,"problem_id":"arc003_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc001","epoch_second":1350193165,"execution_time":47,"id":47993,"language":"PHP (PHP 5.3.10)","length":1519,"point":100.0,"problem_id":"arc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1350734674,"execution_time":46,"id":48466,"language":"PHP (PHP 5.3.10)","length":311,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1350737151,"execution_time":77,"id":48995,"language":"PHP (PHP 5.3.10)","length":925,"point":0.0,"problem_id":"arc009_2","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1350738068,"execution_time":2137,"id":49126,"language":"PHP (PHP 5.3.10)","length":384,"point":0.0,"problem_id":"arc009_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1350738796,"execution_time":66,"id":49208,"language":"PHP (PHP 5.3.10)","length":859,"point":100.0,"problem_id":"arc009_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"digitalarts2012","epoch_second":1353755700,"execution_time":63,"id":53019,"language":"PHP (PHP 5.3.10)","length":496,"point":100.0,"problem_id":"digitalarts_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"digitalarts2012","epoch_second":1353757304,"execution_time":44,"id":53323,"language":"PHP (PHP 5.3.10)","length":1176,"point":0.0,"problem_id":"digitalarts_2","result":"WA","user_id":"okumin"}
+,{"contest_id":"digitalarts2012","epoch_second":1353757392,"execution_time":45,"id":53349,"language":"PHP (PHP 5.3.10)","length":1176,"point":100.0,"problem_id":"digitalarts_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"digitalarts2012","epoch_second":1353759095,"execution_time":"","id":53717,"language":"PHP (PHP 5.3.10)","length":1022,"point":0.0,"problem_id":"digitalarts_3","result":"TLE","user_id":"okumin"}
+,{"contest_id":"digitalarts2012","epoch_second":1353770442,"execution_time":2069,"id":53965,"language":"Java (OpenJDK 1.7.0)","length":2454,"point":0.0,"problem_id":"digitalarts_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"arc003","epoch_second":1353791762,"execution_time":273,"id":54020,"language":"Java (OpenJDK 1.7.0)","length":480,"point":100.0,"problem_id":"arc003_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354373701,"execution_time":337,"id":56639,"language":"Java (OpenJDK 1.7.0)","length":621,"point":100.0,"problem_id":"wupc2012_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354375607,"execution_time":578,"id":56709,"language":"Java (OpenJDK 1.7.0)","length":887,"point":100.0,"problem_id":"wupc2012_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354378034,"execution_time":423,"id":56781,"language":"Java (OpenJDK 1.7.0)","length":2495,"point":100.0,"problem_id":"wupc2012_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354379131,"execution_time":555,"id":56821,"language":"Java (OpenJDK 1.7.0)","length":598,"point":100.0,"problem_id":"wupc2012_4","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354530183,"execution_time":642,"id":59354,"language":"Java (OpenJDK 1.7.0)","length":2316,"point":100.0,"problem_id":"wupc2012_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1354801448,"execution_time":300,"id":59740,"language":"PHP (PHP 5.3.10)","length":657,"point":40.0,"problem_id":"arc009_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354815515,"execution_time":2054,"id":59755,"language":"PHP (PHP 5.3.10)","length":2952,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354820801,"execution_time":2262,"id":59769,"language":"Java (OpenJDK 1.7.0)","length":3774,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354821224,"execution_time":1033,"id":59770,"language":"Java (OpenJDK 1.7.0)","length":4055,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354821501,"execution_time":2048,"id":59771,"language":"PHP (PHP 5.3.10)","length":2958,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354821825,"execution_time":1054,"id":59773,"language":"Java (OpenJDK 1.7.0)","length":4201,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354822150,"execution_time":1034,"id":59774,"language":"Java (OpenJDK 1.7.0)","length":4171,"point":0.0,"problem_id":"wupc2012_5","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354822351,"execution_time":1057,"id":59776,"language":"Java (OpenJDK 1.7.0)","length":4165,"point":100.0,"problem_id":"wupc2012_5","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2012","epoch_second":1354822566,"execution_time":"","id":59777,"language":"PHP (PHP 5.3.10)","length":3086,"point":30.0,"problem_id":"wupc2012_5","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc009","epoch_second":1354941371,"execution_time":56,"id":59831,"language":"PHP (PHP 5.3.10)","length":182,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354942923,"execution_time":42,"id":59889,"language":"PHP (PHP 5.3.10)","length":146,"point":50.0,"problem_id":"wupc_01","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354943703,"execution_time":68,"id":60140,"language":"PHP (PHP 5.3.10)","length":450,"point":50.0,"problem_id":"wupc_02","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354945438,"execution_time":468,"id":60421,"language":"Java (OpenJDK 1.7.0)","length":1024,"point":0.0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354945638,"execution_time":536,"id":60451,"language":"Java (OpenJDK 1.7.0)","length":1023,"point":0.0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354945806,"execution_time":522,"id":60474,"language":"Java (OpenJDK 1.7.0)","length":1024,"point":0.0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354946279,"execution_time":492,"id":60557,"language":"Java (OpenJDK 1.7.0)","length":1086,"point":0.0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354946829,"execution_time":476,"id":60664,"language":"Java (OpenJDK 1.7.0)","length":1085,"point":0.0,"problem_id":"wupc_04","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354946963,"execution_time":464,"id":60681,"language":"Java (OpenJDK 1.7.0)","length":1085,"point":75.0,"problem_id":"wupc_04","result":"AC","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354949644,"execution_time":3060,"id":61037,"language":"Java (OpenJDK 1.7.0)","length":3183,"point":0.0,"problem_id":"wupc_06","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354951039,"execution_time":526,"id":61206,"language":"Java (OpenJDK 1.7.0)","length":3391,"point":0.0,"problem_id":"wupc_06","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354951463,"execution_time":"","id":61248,"language":"Java (OpenJDK 1.7.0)","length":3372,"point":0.0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354951940,"execution_time":"","id":61293,"language":"Java (OpenJDK 1.7.0)","length":3709,"point":0.0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354952360,"execution_time":"","id":61347,"language":"Java (OpenJDK 1.7.0)","length":4389,"point":0.0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354952892,"execution_time":"","id":61407,"language":"Java (OpenJDK 1.7.0)","length":4330,"point":0.0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354954717,"execution_time":527,"id":61601,"language":"Java (OpenJDK 1.7.0)","length":1734,"point":0.0,"problem_id":"wupc_03","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354955186,"execution_time":528,"id":61655,"language":"Java (OpenJDK 1.7.0)","length":2004,"point":0.0,"problem_id":"wupc_03","result":"WA","user_id":"okumin"}
+,{"contest_id":"wupc2nd","epoch_second":1354957121,"execution_time":"","id":61940,"language":"Java (OpenJDK 1.7.0)","length":4330,"point":0.0,"problem_id":"wupc_06","result":"TLE","user_id":"okumin"}
+,{"contest_id":"arc010","epoch_second":1355659501,"execution_time":46,"id":62999,"language":"PHP (PHP 5.3.10)","length":300,"point":100.0,"problem_id":"arc010_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc010","epoch_second":1355660104,"execution_time":144,"id":63217,"language":"PHP (PHP 5.3.10)","length":619,"point":100.0,"problem_id":"arc010_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"arc010","epoch_second":1355711839,"execution_time":157,"id":64724,"language":"PHP (PHP 5.3.10)","length":620,"point":100.0,"problem_id":"arc010_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1433593513,"execution_time":"","id":420468,"language":"Scala (2.11.5)","length":1187,"point":0.0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1433594390,"execution_time":4409,"id":420651,"language":"Scala (2.11.5)","length":994,"point":100.0,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1433596231,"execution_time":"","id":420971,"language":"Scala (2.11.5)","length":1268,"point":0.0,"problem_id":"dfs_a","result":"RE","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1433596965,"execution_time":"","id":421093,"language":"Scala (2.11.5)","length":1491,"point":0.0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1433597787,"execution_time":"","id":421204,"language":"Scala (2.11.5)","length":1491,"point":0.0,"problem_id":"dfs_a","result":"TLE","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1434382765,"execution_time":3369,"id":427790,"language":"Java (OpenJDK 1.7.0)","length":2202,"point":100.0,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1434383327,"execution_time":3427,"id":427791,"language":"Java (OpenJDK 1.7.0)","length":2414,"point":100.0,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
+,{"contest_id":"atc001","epoch_second":1434469349,"execution_time":4413,"id":428206,"language":"Scala (2.11.5)","length":1262,"point":100.0,"problem_id":"unionfind_a","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441019863,"execution_time":1351,"id":483147,"language":"Scala (2.9.1)","length":206,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441117020,"execution_time":1128,"id":483914,"language":"Scala (2.9.1)","length":419,"point":100.0,"problem_id":"abc001_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441207595,"execution_time":998,"id":484398,"language":"Scala (2.9.1)","length":1388,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441208185,"execution_time":1058,"id":484399,"language":"Scala (2.9.1)","length":1427,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441209033,"execution_time":1339,"id":484410,"language":"Scala (2.9.1)","length":1417,"point":0.0,"problem_id":"abc001_3","result":"WA","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441212501,"execution_time":1154,"id":484449,"language":"Scala (2.9.1)","length":1421,"point":100.0,"problem_id":"abc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441522354,"execution_time":"","id":487228,"language":"Scala (2.9.1)","length":870,"point":0.0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441523230,"execution_time":"","id":487239,"language":"Scala (2.9.1)","length":874,"point":0.0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441526039,"execution_time":1108,"id":487269,"language":"Java (OpenJDK 1.7.0)","length":1984,"point":100.0,"problem_id":"abc001_4","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441533101,"execution_time":1357,"id":487318,"language":"Scala (2.9.1)","length":1039,"point":100.0,"problem_id":"abc001_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc001","epoch_second":1441534963,"execution_time":"","id":487330,"language":"Scala (2.9.1)","length":1365,"point":0.0,"problem_id":"abc001_4","result":"TLE","user_id":"okumin"}
+,{"contest_id":"abc002","epoch_second":1441561258,"execution_time":1362,"id":487584,"language":"Scala (2.9.1)","length":178,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc002","epoch_second":1441637894,"execution_time":1135,"id":488082,"language":"Scala (2.9.1)","length":251,"point":100.0,"problem_id":"abc002_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc002","epoch_second":1441727227,"execution_time":1114,"id":488819,"language":"Scala (2.9.1)","length":429,"point":100.0,"problem_id":"abc002_3","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc002","epoch_second":1441812190,"execution_time":1114,"id":489274,"language":"Scala (2.9.1)","length":653,"point":100.0,"problem_id":"abc002_4","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc003","epoch_second":1442078551,"execution_time":1535,"id":492682,"language":"Scala (2.9.1)","length":180,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc003","epoch_second":1442083689,"execution_time":1019,"id":492755,"language":"Scala (2.9.1)","length":443,"point":100.0,"problem_id":"abc003_2","result":"AC","user_id":"okumin"}
+,{"contest_id":"abc003","epoch_second":1442247410,"execution_time":1143,"id":494907,"language":"Scala (2.9.1)","length":439,"point":100.0,"problem_id":"abc003_3","result":"AC","user_id":"okumin"}
 ]

@@ -1,310 +1,325 @@
-[{"contest_id":"arc050","epoch_second":1459600908,"execution_time":31,"id":682966,"language":"Python2 (2.7.6)","length":112,"point":100,"problem_id":"arc050_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc036","epoch_second":1461195482,"execution_time":5,"id":700245,"language":"C++14 (Clang 3.8.0)","length":182,"point":100,"problem_id":"abc036_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc036","epoch_second":1461196969,"execution_time":5,"id":700254,"language":"C++14 (Clang 3.8.0)","length":351,"point":0,"problem_id":"abc036_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc036","epoch_second":1461197254,"execution_time":7,"id":700259,"language":"C++14 (Clang 3.8.0)","length":353,"point":100,"problem_id":"abc036_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc037","epoch_second":1462625057,"execution_time":6,"id":720382,"language":"C++14 (GCC 5.4.1)","length":389,"point":0,"problem_id":"abc037_a","result":"WA","user_id":"poche"}
-,{"contest_id":"arc053","epoch_second":1463228218,"execution_time":13,"id":728494,"language":"C++14 (Clang 3.8.0)","length":165,"point":100,"problem_id":"arc053_a","result":"AC","user_id":"poche"}
-,{"contest_id":"arc054","epoch_second":1463833736,"execution_time":6,"id":736304,"language":"C++14 (GCC 5.4.1)","length":569,"point":0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
-,{"contest_id":"arc054","epoch_second":1463833958,"execution_time":4,"id":736392,"language":"C++14 (GCC 5.4.1)","length":577,"point":0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
-,{"contest_id":"arc054","epoch_second":1463834238,"execution_time":6,"id":736475,"language":"C++14 (GCC 5.4.1)","length":618,"point":0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc038","epoch_second":1464438380,"execution_time":7,"id":744233,"language":"C++14 (Clang 3.8.0)","length":283,"point":100,"problem_id":"abc038_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc039","epoch_second":1465646769,"execution_time":"","id":761980,"language":"C (Clang 3.8.0)","length":166,"point":0,"problem_id":"abc039_a","result":"CE","user_id":"poche"}
-,{"contest_id":"abc039","epoch_second":1465647410,"execution_time":"","id":762568,"language":"C (Clang 3.8.0)","length":9,"point":0,"problem_id":"abc039_b","result":"CE","user_id":"poche"}
-,{"contest_id":"abc039","epoch_second":1465647495,"execution_time":4,"id":762633,"language":"C++14 (Clang 3.8.0)","length":166,"point":100,"problem_id":"abc039_a","result":"AC","user_id":"poche"}
-,{"contest_id":"arc057","epoch_second":1468070368,"execution_time":2105,"id":800310,"language":"C++14 (Clang 3.8.0)","length":303,"point":0,"problem_id":"arc057_a","result":"WA","user_id":"poche"}
-,{"contest_id":"agc001","epoch_second":1468672314,"execution_time":"","id":807398,"language":"C (Clang 3.8.0)","length":527,"point":0,"problem_id":"agc001_a","result":"CE","user_id":"poche"}
-,{"contest_id":"agc001","epoch_second":1468672390,"execution_time":7,"id":807431,"language":"C++14 (Clang 3.8.0)","length":527,"point":200,"problem_id":"agc001_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc044","epoch_second":1472386250,"execution_time":4,"id":855184,"language":"C++14 (GCC 5.4.1)","length":957,"point":100,"problem_id":"abc044_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc044","epoch_second":1472388020,"execution_time":5,"id":855951,"language":"C++14 (GCC 5.4.1)","length":1038,"point":200,"problem_id":"abc044_b","result":"AC","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472694221,"execution_time":301,"id":861065,"language":"C++ (G++ 4.6.4)","length":1194,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472694365,"execution_time":292,"id":861069,"language":"C++ (G++ 4.6.4)","length":1207,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472717192,"execution_time":279,"id":861343,"language":"C++ (G++ 4.6.4)","length":1194,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472718665,"execution_time":293,"id":861368,"language":"C++ (G++ 4.6.4)","length":1204,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472719259,"execution_time":40,"id":861385,"language":"C++ (G++ 4.6.4)","length":1206,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472719512,"execution_time":39,"id":861391,"language":"C++11 (GCC 4.8.1)","length":1206,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472719912,"execution_time":39,"id":861398,"language":"C++11 (GCC 4.8.1)","length":1207,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472719990,"execution_time":39,"id":861401,"language":"C++11 (GCC 4.8.1)","length":1205,"point":0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
-,{"contest_id":"tdpc","epoch_second":1472720244,"execution_time":43,"id":861406,"language":"C++11 (GCC 4.8.1)","length":1173,"point":2,"problem_id":"tdpc_contest","result":"AC","user_id":"poche"}
-,{"contest_id":"code-festival-2016-quala","epoch_second":1474720090,"execution_time":3,"id":893723,"language":"C++14 (GCC 5.4.1)","length":766,"point":100,"problem_id":"codefestival_2016_qualA_a","result":"AC","user_id":"poche"}
-,{"contest_id":"code-festival-2016-quala","epoch_second":1474723983,"execution_time":"","id":896940,"language":"C++14 (GCC 5.4.1)","length":938,"point":0,"problem_id":"codefestival_2016_qualA_b","result":"TLE","user_id":"poche"}
-,{"contest_id":"code-festival-2016-qualb","epoch_second":1476075124,"execution_time":11,"id":918617,"language":"C++14 (GCC 5.4.1)","length":1068,"point":200,"problem_id":"codefestival_2016_qualB_b","result":"AC","user_id":"poche"}
-,{"contest_id":"agc007","epoch_second":1478953094,"execution_time":2,"id":979034,"language":"C++14 (GCC 5.4.1)","length":1050,"point":0,"problem_id":"agc007_a","result":"WA","user_id":"poche"}
-,{"contest_id":"agc007","epoch_second":1478953723,"execution_time":3,"id":979326,"language":"C++14 (GCC 5.4.1)","length":1056,"point":0,"problem_id":"agc007_a","result":"WA","user_id":"poche"}
-,{"contest_id":"agc007","epoch_second":1479021613,"execution_time":3,"id":981866,"language":"C++14 (GCC 5.4.1)","length":894,"point":200,"problem_id":"agc007_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479099728,"execution_time":"","id":982511,"language":"C (Clang 3.8.0)","length":811,"point":0,"problem_id":"abc047_a","result":"CE","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479102137,"execution_time":3,"id":982530,"language":"C++14 (Clang 3.8.0)","length":1420,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479102768,"execution_time":8,"id":982536,"language":"C++14 (Clang 3.8.0)","length":1636,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479105855,"execution_time":3,"id":982568,"language":"C++14 (Clang 3.8.0)","length":1708,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479105896,"execution_time":3,"id":982569,"language":"C++14 (Clang 3.8.0)","length":1642,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479107366,"execution_time":3,"id":982582,"language":"C++14 (Clang 3.8.0)","length":1416,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479108400,"execution_time":3,"id":982594,"language":"C++14 (Clang 3.8.0)","length":655,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479108530,"execution_time":8,"id":982595,"language":"C++14 (Clang 3.8.0)","length":623,"point":0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479108802,"execution_time":3,"id":982599,"language":"C++14 (Clang 3.8.0)","length":547,"point":200,"problem_id":"abc047_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc047","epoch_second":1479179794,"execution_time":16,"id":983246,"language":"C++14 (Clang 3.8.0)","length":261,"point":300,"problem_id":"arc063_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc046","epoch_second":1479877398,"execution_time":3,"id":989752,"language":"C++14 (Clang 3.8.0)","length":219,"point":0,"problem_id":"abc046_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc046","epoch_second":1479878576,"execution_time":3,"id":989759,"language":"C++14 (Clang 3.8.0)","length":195,"point":200,"problem_id":"abc046_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc046","epoch_second":1479878804,"execution_time":3,"id":989761,"language":"C++14 (Clang 3.8.0)","length":247,"point":100,"problem_id":"abc046_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc048","epoch_second":1480853344,"execution_time":3,"id":1008328,"language":"C++14 (GCC 5.4.1)","length":197,"point":100,"problem_id":"abc048_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc048","epoch_second":1480855107,"execution_time":"","id":1009590,"language":"C++14 (GCC 5.4.1)","length":1027,"point":0,"problem_id":"abc048_b","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc048","epoch_second":1480856161,"execution_time":2102,"id":1010175,"language":"C++14 (GCC 5.4.1)","length":1106,"point":0,"problem_id":"abc048_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482062604,"execution_time":44,"id":1031209,"language":"C++14 (GCC 5.4.1)","length":837,"point":100,"problem_id":"abc050_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482063511,"execution_time":3,"id":1031728,"language":"C++14 (GCC 5.4.1)","length":1083,"point":200,"problem_id":"abc050_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482065058,"execution_time":35,"id":1032116,"language":"C++14 (GCC 5.4.1)","length":1348,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482065148,"execution_time":35,"id":1032139,"language":"C++14 (GCC 5.4.1)","length":1349,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482459367,"execution_time":83,"id":1036390,"language":"C++14 (Clang 3.8.0)","length":1231,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482460444,"execution_time":82,"id":1036398,"language":"C++14 (Clang 3.8.0)","length":1350,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482460945,"execution_time":82,"id":1036400,"language":"C++14 (Clang 3.8.0)","length":1360,"point":0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc050","epoch_second":1482465708,"execution_time":82,"id":1036451,"language":"C++14 (Clang 3.8.0)","length":1555,"point":300,"problem_id":"arc066_a","result":"AC","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563092,"execution_time":2102,"id":1037996,"language":"C++14 (Clang 3.8.0)","length":1401,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563191,"execution_time":"","id":1038006,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563367,"execution_time":2102,"id":1038032,"language":"C++14 (Clang 3.8.0)","length":1419,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563423,"execution_time":"","id":1038037,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563790,"execution_time":2102,"id":1038085,"language":"C++14 (Clang 3.8.0)","length":1320,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482563944,"execution_time":"","id":1038103,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564122,"execution_time":8,"id":1038126,"language":"C++14 (Clang 3.8.0)","length":1443,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564336,"execution_time":8,"id":1038143,"language":"C++14 (Clang 3.8.0)","length":1395,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564405,"execution_time":"","id":1038155,"language":"C++14 (Clang 3.8.0)","length":1385,"point":0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564493,"execution_time":8,"id":1038165,"language":"C++14 (Clang 3.8.0)","length":1394,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564598,"execution_time":8,"id":1038178,"language":"C++14 (Clang 3.8.0)","length":1457,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564667,"execution_time":8,"id":1038186,"language":"C++14 (Clang 3.8.0)","length":1424,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564843,"execution_time":8,"id":1038205,"language":"C++14 (Clang 3.8.0)","length":1521,"point":0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
-,{"contest_id":"xmascon16noon","epoch_second":1482564907,"execution_time":8,"id":1038211,"language":"C++14 (Clang 3.8.0)","length":1531,"point":56,"problem_id":"xmascon16_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc049","epoch_second":1482567905,"execution_time":3,"id":1038485,"language":"C++14 (Clang 3.8.0)","length":387,"point":100,"problem_id":"abc049_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc049","epoch_second":1482616668,"execution_time":5,"id":1040632,"language":"C++14 (Clang 3.8.0)","length":634,"point":200,"problem_id":"abc049_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc049","epoch_second":1482907145,"execution_time":25,"id":1047292,"language":"Python3 (3.4.3)","length":159,"point":0,"problem_id":"arc065_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc049","epoch_second":1482907262,"execution_time":25,"id":1047295,"language":"Python3 (3.4.3)","length":159,"point":300,"problem_id":"arc065_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc051","epoch_second":1483790600,"execution_time":22,"id":1054915,"language":"Python3 (3.4.3)","length":41,"point":100,"problem_id":"abc051_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc051","epoch_second":1484014447,"execution_time":24,"id":1060105,"language":"Python3 (3.4.3)","length":32,"point":100,"problem_id":"abc051_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc051","epoch_second":1484016100,"execution_time":5,"id":1060110,"language":"C++14 (Clang 3.8.0)","length":482,"point":200,"problem_id":"abc051_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc001","epoch_second":1484234708,"execution_time":25,"id":1062193,"language":"C++11 (GCC 4.8.1)","length":609,"point":0,"problem_id":"abc001_2","result":"WA","user_id":"poche"}
-,{"contest_id":"abc001","epoch_second":1484234898,"execution_time":"","id":1062198,"language":"C++11 (GCC 4.8.1)","length":665,"point":0,"problem_id":"abc001_2","result":"CE","user_id":"poche"}
-,{"contest_id":"abc001","epoch_second":1484234959,"execution_time":19,"id":1062199,"language":"C++11 (GCC 4.8.1)","length":665,"point":100,"problem_id":"abc001_2","result":"AC","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1484540534,"execution_time":13,"id":1068394,"language":"C++14 (Clang 3.8.0)","length":417,"point":100,"problem_id":"abc052_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1484541342,"execution_time":8,"id":1068406,"language":"C++14 (Clang 3.8.0)","length":467,"point":200,"problem_id":"abc052_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1485397277,"execution_time":3,"id":1078986,"language":"C++14 (Clang 3.8.0)","length":1094,"point":0,"problem_id":"arc067_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1485398031,"execution_time":3,"id":1078987,"language":"C++14 (Clang 3.8.0)","length":1101,"point":300,"problem_id":"arc067_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1485439030,"execution_time":110,"id":1079456,"language":"C++14 (Clang 3.8.0)","length":534,"point":0,"problem_id":"arc067_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc052","epoch_second":1485439755,"execution_time":110,"id":1079467,"language":"C++14 (Clang 3.8.0)","length":540,"point":500,"problem_id":"arc067_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1486814851,"execution_time":1,"id":1103456,"language":"C++14 (GCC 5.4.1)","length":502,"point":100,"problem_id":"abc054_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1486816281,"execution_time":10,"id":1104674,"language":"Python2 (2.7.6)","length":392,"point":0,"problem_id":"abc054_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1486816434,"execution_time":10,"id":1104770,"language":"Python2 (2.7.6)","length":396,"point":0,"problem_id":"abc054_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487419517,"execution_time":7,"id":1114801,"language":"C++14 (Clang 3.8.0)","length":360,"point":100,"problem_id":"abc055_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487420310,"execution_time":6,"id":1115868,"language":"C++14 (Clang 3.8.0)","length":439,"point":200,"problem_id":"abc055_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487421280,"execution_time":2,"id":1116748,"language":"C++14 (Clang 3.8.0)","length":417,"point":0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487422039,"execution_time":1,"id":1117261,"language":"C++14 (Clang 3.8.0)","length":475,"point":0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487422250,"execution_time":7,"id":1117394,"language":"C++14 (Clang 3.8.0)","length":480,"point":0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc055","epoch_second":1487423100,"execution_time":2,"id":1117912,"language":"C++14 (Clang 3.8.0)","length":479,"point":300,"problem_id":"arc069_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc053","epoch_second":1489100825,"execution_time":1,"id":1153188,"language":"C++14 (GCC 5.4.1)","length":372,"point":100,"problem_id":"abc053_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc053","epoch_second":1489102546,"execution_time":17,"id":1153200,"language":"Python3 (3.4.3)","length":52,"point":200,"problem_id":"abc053_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1489624331,"execution_time":2,"id":1163344,"language":"C++ (Clang 3.8.0)","length":946,"point":200,"problem_id":"abc054_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1489718108,"execution_time":3,"id":1164460,"language":"C++ (Clang 3.8.0)","length":1119,"point":300,"problem_id":"abc054_c","result":"AC","user_id":"poche"}
-,{"contest_id":"arc060","epoch_second":1490181156,"execution_time":19,"id":1176504,"language":"C++14 (Clang 3.8.0)","length":859,"point":300,"problem_id":"arc060_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490932816,"execution_time":"","id":1192479,"language":"C++ (Clang 3.8.0)","length":1115,"point":0,"problem_id":"abc054_d","result":"RE","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490933427,"execution_time":14,"id":1192482,"language":"C++ (Clang 3.8.0)","length":1121,"point":0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490934137,"execution_time":14,"id":1192489,"language":"C++ (Clang 3.8.0)","length":1121,"point":0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490934251,"execution_time":14,"id":1192490,"language":"C++ (Clang 3.8.0)","length":1117,"point":0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490934751,"execution_time":14,"id":1192499,"language":"C++ (Clang 3.8.0)","length":1121,"point":0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490935150,"execution_time":14,"id":1192505,"language":"C++ (Clang 3.8.0)","length":1121,"point":0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc054","epoch_second":1490935300,"execution_time":15,"id":1192507,"language":"C++ (Clang 3.8.0)","length":1117,"point":400,"problem_id":"abc054_d","result":"AC","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495282091,"execution_time":17,"id":1295750,"language":"Python3 (3.4.3)","length":228,"point":100,"problem_id":"abc062_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495282654,"execution_time":17,"id":1296384,"language":"C++14 (Clang 3.8.0)","length":623,"point":200,"problem_id":"abc062_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495422548,"execution_time":2,"id":1302317,"language":"C++14 (Clang 3.8.0)","length":1457,"point":0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495422976,"execution_time":2,"id":1302320,"language":"C++14 (Clang 3.8.0)","length":1461,"point":0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495423353,"execution_time":2,"id":1302326,"language":"C++14 (Clang 3.8.0)","length":1452,"point":0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc062","epoch_second":1495424758,"execution_time":2,"id":1302338,"language":"C++14 (Clang 3.8.0)","length":1436,"point":0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc064","epoch_second":1497096161,"execution_time":4,"id":1339695,"language":"C++14 (Clang 3.8.0)","length":446,"point":100,"problem_id":"abc064_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc064","epoch_second":1497096438,"execution_time":2,"id":1340632,"language":"C++14 (Clang 3.8.0)","length":469,"point":200,"problem_id":"abc064_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc064","epoch_second":1497097742,"execution_time":1,"id":1343258,"language":"C++14 (Clang 3.8.0)","length":1046,"point":0,"problem_id":"abc064_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc064","epoch_second":1497098008,"execution_time":2,"id":1343646,"language":"C++14 (Clang 3.8.0)","length":1060,"point":300,"problem_id":"abc064_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc065","epoch_second":1498856977,"execution_time":1,"id":1390020,"language":"C++14 (GCC 5.4.1)","length":456,"point":100,"problem_id":"abc065_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc065","epoch_second":1499065331,"execution_time":80,"id":1400631,"language":"C++14 (Clang 3.8.0)","length":581,"point":200,"problem_id":"abc065_b","result":"AC","user_id":"poche"}
-,{"contest_id":"agc018","epoch_second":1500817374,"execution_time":54,"id":1448716,"language":"C++14 (GCC 5.4.1)","length":797,"point":0,"problem_id":"agc018_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc069","epoch_second":1502021080,"execution_time":1,"id":1485203,"language":"C++14 (GCC 5.4.1)","length":361,"point":100,"problem_id":"abc069_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc069","epoch_second":1502021284,"execution_time":18,"id":1485773,"language":"Python3 (3.4.3)","length":62,"point":200,"problem_id":"abc069_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc069","epoch_second":1502023296,"execution_time":56,"id":1488781,"language":"C++14 (GCC 5.4.1)","length":793,"point":0,"problem_id":"arc080_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc069","epoch_second":1502024164,"execution_time":55,"id":1489487,"language":"C++14 (GCC 5.4.1)","length":1078,"point":400,"problem_id":"arc080_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503230779,"execution_time":1,"id":1522648,"language":"C++14 (GCC 5.4.1)","length":420,"point":100,"problem_id":"abc071_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503231202,"execution_time":"","id":1523683,"language":"Python3 (3.4.3)","length":118,"point":0,"problem_id":"abc071_b","result":"RE","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503232040,"execution_time":102,"id":1525006,"language":"Python3 (3.4.3)","length":244,"point":0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503232141,"execution_time":28,"id":1525133,"language":"Python3 (3.4.3)","length":163,"point":200,"problem_id":"abc071_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503232646,"execution_time":103,"id":1525758,"language":"Python3 (3.4.3)","length":244,"point":0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503233066,"execution_time":"","id":1526200,"language":"Python3 (3.4.3)","length":370,"point":0,"problem_id":"arc081_a","result":"RE","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503233084,"execution_time":91,"id":1526224,"language":"Python3 (3.4.3)","length":248,"point":0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc071","epoch_second":1503234014,"execution_time":112,"id":1527117,"language":"Python3 (3.4.3)","length":322,"point":0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc070","epoch_second":1503799980,"execution_time":17,"id":1547530,"language":"Python3 (3.4.3)","length":141,"point":100,"problem_id":"abc070_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc070","epoch_second":1503803048,"execution_time":1,"id":1547635,"language":"C++14 (Clang 3.8.0)","length":480,"point":200,"problem_id":"abc070_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504353769,"execution_time":1,"id":1557504,"language":"C++14 (GCC 5.4.1)","length":344,"point":100,"problem_id":"abc072_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504353960,"execution_time":18,"id":1558323,"language":"Python3 (3.4.3)","length":31,"point":200,"problem_id":"abc072_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504355297,"execution_time":43,"id":1560936,"language":"C++14 (GCC 5.4.1)","length":824,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504355766,"execution_time":42,"id":1561400,"language":"C++14 (GCC 5.4.1)","length":846,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504355972,"execution_time":42,"id":1561587,"language":"C++14 (GCC 5.4.1)","length":812,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504356491,"execution_time":44,"id":1561987,"language":"C++14 (GCC 5.4.1)","length":871,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504356818,"execution_time":43,"id":1562226,"language":"C++14 (GCC 5.4.1)","length":919,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc072","epoch_second":1504358011,"execution_time":43,"id":1562871,"language":"C++14 (GCC 5.4.1)","length":1072,"point":0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc074","epoch_second":1505563563,"execution_time":1,"id":1596168,"language":"C++14 (GCC 5.4.1)","length":340,"point":100,"problem_id":"abc074_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc074","epoch_second":1505564520,"execution_time":1,"id":1597108,"language":"C++14 (GCC 5.4.1)","length":505,"point":200,"problem_id":"abc074_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc075","epoch_second":1508154999,"execution_time":4,"id":1688995,"language":"C++14 (Clang 3.8.0)","length":420,"point":100,"problem_id":"abc075_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc075","epoch_second":1508157337,"execution_time":8,"id":1689048,"language":"C++14 (Clang 3.8.0)","length":1253,"point":200,"problem_id":"abc075_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509192190,"execution_time":1,"id":1716836,"language":"C++14 (Clang 3.8.0)","length":340,"point":100,"problem_id":"abc076_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509192947,"execution_time":1,"id":1718267,"language":"C++14 (Clang 3.8.0)","length":424,"point":200,"problem_id":"abc076_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509194914,"execution_time":"","id":1719840,"language":"Python3 (3.4.3)","length":471,"point":0,"problem_id":"abc076_c","result":"RE","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509194958,"execution_time":17,"id":1719861,"language":"Python3 (3.4.3)","length":442,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509349865,"execution_time":"","id":1725799,"language":"Python3 (3.4.3)","length":502,"point":0,"problem_id":"abc076_c","result":"RE","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509350999,"execution_time":18,"id":1725826,"language":"Python3 (3.4.3)","length":492,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509351824,"execution_time":19,"id":1725862,"language":"Python3 (3.4.3)","length":474,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509354283,"execution_time":17,"id":1725986,"language":"Python3 (3.4.3)","length":616,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509354586,"execution_time":18,"id":1725999,"language":"Python3 (3.4.3)","length":552,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509360806,"execution_time":19,"id":1726287,"language":"Python3 (3.4.3)","length":563,"point":0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc076","epoch_second":1509360955,"execution_time":20,"id":1726293,"language":"Python3 (3.4.3)","length":575,"point":300,"problem_id":"abc076_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc077","epoch_second":1509797052,"execution_time":6,"id":1737248,"language":"C++14 (Clang 3.8.0)","length":554,"point":100,"problem_id":"abc077_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc077","epoch_second":1509797800,"execution_time":6,"id":1738506,"language":"C++14 (Clang 3.8.0)","length":348,"point":200,"problem_id":"abc077_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513425827,"execution_time":1,"id":1874348,"language":"C++ (GCC 5.4.1)","length":355,"point":100,"problem_id":"abc082_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513426520,"execution_time":17,"id":1875333,"language":"Python3 (3.4.3)","length":175,"point":0,"problem_id":"abc082_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513427853,"execution_time":"","id":1876690,"language":"C++ (GCC 5.4.1)","length":669,"point":0,"problem_id":"arc087_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513428393,"execution_time":17,"id":1877152,"language":"Python3 (3.4.3)","length":162,"point":200,"problem_id":"abc082_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513428551,"execution_time":"","id":1877282,"language":"C++14 (GCC 5.4.1)","length":673,"point":0,"problem_id":"arc087_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc082","epoch_second":1513428779,"execution_time":58,"id":1877460,"language":"C++14 (GCC 5.4.1)","length":772,"point":300,"problem_id":"arc087_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc083","epoch_second":1514968812,"execution_time":4,"id":1937286,"language":"C++14 (Clang 3.8.0)","length":527,"point":100,"problem_id":"abc083_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc085","epoch_second":1515326570,"execution_time":18,"id":1946923,"language":"Python3 (3.4.3)","length":40,"point":100,"problem_id":"abc085_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc085","epoch_second":1515326855,"execution_time":17,"id":1947740,"language":"Python3 (3.4.3)","length":98,"point":200,"problem_id":"abc085_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc087","epoch_second":1518409192,"execution_time":7,"id":2089980,"language":"C++14 (Clang 3.8.0)","length":383,"point":100,"problem_id":"abc087_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc087","epoch_second":1519523035,"execution_time":1,"id":2134160,"language":"C++14 (Clang 3.8.0)","length":634,"point":200,"problem_id":"abc087_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc087","epoch_second":1519524993,"execution_time":1,"id":2134221,"language":"C++14 (Clang 3.8.0)","length":718,"point":300,"problem_id":"arc090_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc088","epoch_second":1520086033,"execution_time":7,"id":2150837,"language":"C++14 (Clang 3.8.0)","length":406,"point":100,"problem_id":"abc088_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc088","epoch_second":1520087035,"execution_time":1,"id":2150868,"language":"C++14 (Clang 3.8.0)","length":590,"point":200,"problem_id":"abc088_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc088","epoch_second":1520473667,"execution_time":1,"id":2171167,"language":"C++14 (Clang 3.8.0)","length":756,"point":300,"problem_id":"abc088_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526126835,"execution_time":4,"id":2495858,"language":"C++14 (Clang 3.8.0)","length":814,"point":100,"problem_id":"abc097_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526127452,"execution_time":5,"id":2497569,"language":"C++14 (Clang 3.8.0)","length":714,"point":0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526128936,"execution_time":138,"id":2500280,"language":"Python3 (3.4.3)","length":187,"point":0,"problem_id":"arc097_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526129099,"execution_time":"","id":2500531,"language":"Python3 (3.4.3)","length":228,"point":0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526129176,"execution_time":"","id":2500658,"language":"Python3 (3.4.3)","length":191,"point":0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526129251,"execution_time":"","id":2500756,"language":"Python3 (3.4.3)","length":191,"point":0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526130894,"execution_time":8,"id":2502651,"language":"C++14 (Clang 3.8.0)","length":853,"point":0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526131129,"execution_time":2,"id":2502895,"language":"C++14 (Clang 3.8.0)","length":856,"point":0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526131208,"execution_time":6,"id":2502987,"language":"C++14 (Clang 3.8.0)","length":859,"point":200,"problem_id":"abc097_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526131720,"execution_time":"","id":2503459,"language":"Python3 (3.4.3)","length":186,"point":200,"problem_id":"arc097_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc097","epoch_second":1526651149,"execution_time":35,"id":2526645,"language":"Python3 (3.4.3)","length":181,"point":300,"problem_id":"arc097_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc096","epoch_second":1526732698,"execution_time":1,"id":2529421,"language":"C++14 (Clang 3.8.0)","length":746,"point":100,"problem_id":"abc096_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc096","epoch_second":1526733346,"execution_time":6,"id":2529487,"language":"C++14 (Clang 3.8.0)","length":909,"point":200,"problem_id":"abc096_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc096","epoch_second":1526859334,"execution_time":1,"id":2542424,"language":"C++14 (Clang 3.8.0)","length":1090,"point":300,"problem_id":"abc096_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527336344,"execution_time":5,"id":2562775,"language":"C++14 (Clang 3.8.0)","length":900,"point":0,"problem_id":"abc098_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527336402,"execution_time":1,"id":2562957,"language":"C++14 (Clang 3.8.0)","length":903,"point":0,"problem_id":"abc098_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527336616,"execution_time":4,"id":2563499,"language":"C++14 (Clang 3.8.0)","length":989,"point":100,"problem_id":"abc098_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527339695,"execution_time":17,"id":2567933,"language":"Python3 (3.4.3)","length":243,"point":200,"problem_id":"abc098_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527340600,"execution_time":"","id":2568985,"language":"C (Clang 3.8.0)","length":986,"point":0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527340680,"execution_time":"","id":2569080,"language":"C (Clang 3.8.0)","length":965,"point":0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527340712,"execution_time":"","id":2569122,"language":"C++14 (Clang 3.8.0)","length":965,"point":0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1527340744,"execution_time":"","id":2569151,"language":"C++14 (Clang 3.8.0)","length":986,"point":0,"problem_id":"arc098_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1529883739,"execution_time":"","id":2740771,"language":"C++14 (Clang 3.8.0)","length":1205,"point":0,"problem_id":"arc098_a","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc098","epoch_second":1530148637,"execution_time":19,"id":2751420,"language":"C++14 (Clang 3.8.0)","length":1074,"point":300,"problem_id":"arc098_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc099","epoch_second":1530217955,"execution_time":1,"id":2754301,"language":"C++14 (Clang 3.8.0)","length":743,"point":100,"problem_id":"abc099_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc099","epoch_second":1530219249,"execution_time":7,"id":2754302,"language":"C++14 (Clang 3.8.0)","length":774,"point":200,"problem_id":"abc099_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530444726,"execution_time":4,"id":2765643,"language":"C++14 (Clang 3.8.0)","length":742,"point":100,"problem_id":"abc102_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530445275,"execution_time":5,"id":2767620,"language":"C++14 (Clang 3.8.0)","length":772,"point":200,"problem_id":"abc102_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530448521,"execution_time":221,"id":2773605,"language":"C++14 (Clang 3.8.0)","length":988,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530488233,"execution_time":"","id":2780315,"language":"C++14 (Clang 3.8.0)","length":956,"point":0,"problem_id":"arc100_a","result":"RE","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530488818,"execution_time":233,"id":2780339,"language":"C++14 (Clang 3.8.0)","length":956,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530488942,"execution_time":233,"id":2780346,"language":"C++14 (Clang 3.8.0)","length":957,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530489951,"execution_time":234,"id":2780361,"language":"C++14 (Clang 3.8.0)","length":986,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530538743,"execution_time":234,"id":2783522,"language":"C++14 (Clang 3.8.0)","length":1000,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530566618,"execution_time":232,"id":2784403,"language":"C++14 (Clang 3.8.0)","length":924,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530566696,"execution_time":234,"id":2784405,"language":"C++14 (Clang 3.8.0)","length":920,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530566872,"execution_time":233,"id":2784406,"language":"C++14 (Clang 3.8.0)","length":1018,"point":0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530567011,"execution_time":234,"id":2784407,"language":"C++14 (Clang 3.8.0)","length":1016,"point":300,"problem_id":"arc100_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc102","epoch_second":1530567224,"execution_time":234,"id":2784412,"language":"C++14 (Clang 3.8.0)","length":982,"point":300,"problem_id":"arc100_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc032","epoch_second":1531553767,"execution_time":45,"id":2839872,"language":"C++14 (GCC 5.4.1)","length":1166,"point":100,"problem_id":"abc032_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc038","epoch_second":1531558552,"execution_time":78,"id":2840387,"language":"C++14 (Clang 3.8.0)","length":1034,"point":40,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc038","epoch_second":1531560695,"execution_time":78,"id":2840529,"language":"C++14 (Clang 3.8.0)","length":969,"point":40,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc038","epoch_second":1531563155,"execution_time":77,"id":2840656,"language":"C++14 (Clang 3.8.0)","length":961,"point":40,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc100","epoch_second":1545470086,"execution_time":1,"id":3836324,"language":"C++14 (Clang 3.8.0)","length":760,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc100","epoch_second":1545565991,"execution_time":7,"id":3857829,"language":"C++14 (Clang 3.8.0)","length":807,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc100","epoch_second":1545596319,"execution_time":2,"id":3859638,"language":"C++14 (Clang 3.8.0)","length":740,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc100","epoch_second":1545609564,"execution_time":4,"id":3859828,"language":"C++14 (Clang 3.8.0)","length":829,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc101","epoch_second":1545646752,"execution_time":3,"id":3864370,"language":"C++14 (Clang 3.8.0)","length":791,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc101","epoch_second":1545647786,"execution_time":7,"id":3864521,"language":"C++14 (Clang 3.8.0)","length":838,"point":200,"problem_id":"abc101_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc103","epoch_second":1549776274,"execution_time":2,"id":4222235,"language":"C++14 (Clang 3.8.0)","length":796,"point":100,"problem_id":"abc103_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc103","epoch_second":1549777247,"execution_time":18,"id":4222373,"language":"Python3 (3.4.3)","length":210,"point":200,"problem_id":"abc103_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc103","epoch_second":1551361301,"execution_time":4,"id":4414118,"language":"C++14 (Clang 3.8.0)","length":770,"point":300,"problem_id":"abc103_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc095","epoch_second":1553980443,"execution_time":1,"id":4779913,"language":"C++14 (Clang 3.8.0)","length":780,"point":100,"problem_id":"abc095_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc095","epoch_second":1553986377,"execution_time":4,"id":4780073,"language":"C++14 (Clang 3.8.0)","length":887,"point":200,"problem_id":"abc095_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc095","epoch_second":1554028917,"execution_time":1,"id":4786555,"language":"C++14 (Clang 3.8.0)","length":1145,"point":300,"problem_id":"arc096_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1554378514,"execution_time":1,"id":4823580,"language":"C++14 (Clang 3.8.0)","length":881,"point":100,"problem_id":"abc122_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1554412218,"execution_time":1,"id":4827060,"language":"C++14 (Clang 3.8.0)","length":913,"point":0,"problem_id":"abc122_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1554412528,"execution_time":7,"id":4827071,"language":"C++14 (Clang 3.8.0)","length":925,"point":200,"problem_id":"abc122_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1554532660,"execution_time":"","id":4839172,"language":"Python3 (3.4.3)","length":179,"point":0,"problem_id":"abc122_c","result":"TLE","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1554545466,"execution_time":949,"id":4841444,"language":"Python3 (3.4.3)","length":272,"point":300,"problem_id":"abc122_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc121","epoch_second":1554578002,"execution_time":1,"id":4869366,"language":"C++14 (Clang 3.8.0)","length":755,"point":100,"problem_id":"abc121_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc121","epoch_second":1554579653,"execution_time":2,"id":4869461,"language":"C++14 (Clang 3.8.0)","length":1001,"point":200,"problem_id":"abc121_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc121","epoch_second":1554640103,"execution_time":196,"id":4878167,"language":"C++14 (Clang 3.8.0)","length":1140,"point":300,"problem_id":"abc121_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc120","epoch_second":1554670061,"execution_time":1,"id":4881700,"language":"C++14 (Clang 3.8.0)","length":757,"point":100,"problem_id":"abc120_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc120","epoch_second":1554673782,"execution_time":1,"id":4881803,"language":"C++14 (Clang 3.8.0)","length":872,"point":0,"problem_id":"abc120_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc120","epoch_second":1554755333,"execution_time":1,"id":4891796,"language":"C++14 (Clang 3.8.0)","length":859,"point":0,"problem_id":"abc120_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc120","epoch_second":1554757402,"execution_time":1,"id":4891844,"language":"C++14 (Clang 3.8.0)","length":859,"point":200,"problem_id":"abc120_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc120","epoch_second":1554758347,"execution_time":18,"id":4891881,"language":"Python3 (3.4.3)","length":85,"point":300,"problem_id":"abc120_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc119","epoch_second":1554842594,"execution_time":17,"id":4901704,"language":"Python3 (3.4.3)","length":184,"point":100,"problem_id":"abc119_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc119","epoch_second":1554843033,"execution_time":7,"id":4901718,"language":"C++14 (Clang 3.8.0)","length":840,"point":200,"problem_id":"abc119_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc119","epoch_second":1554986071,"execution_time":21,"id":4918390,"language":"C++14 (Clang 3.8.0)","length":1223,"point":300,"problem_id":"abc119_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc118","epoch_second":1555066250,"execution_time":1,"id":4927187,"language":"C++14 (Clang 3.8.0)","length":754,"point":100,"problem_id":"abc118_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc118","epoch_second":1555067282,"execution_time":2,"id":4927329,"language":"C++14 (Clang 3.8.0)","length":896,"point":200,"problem_id":"abc118_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc118","epoch_second":1555111574,"execution_time":124,"id":4931333,"language":"C++14 (Clang 3.8.0)","length":949,"point":0,"problem_id":"abc118_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc118","epoch_second":1555112262,"execution_time":112,"id":4931352,"language":"C++14 (Clang 3.8.0)","length":945,"point":300,"problem_id":"abc118_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc117","epoch_second":1555328320,"execution_time":8,"id":4989132,"language":"C++14 (Clang 3.8.0)","length":709,"point":100,"problem_id":"abc117_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc117","epoch_second":1555329347,"execution_time":1,"id":4989358,"language":"C++14 (Clang 3.8.0)","length":849,"point":200,"problem_id":"abc117_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc117","epoch_second":1555360488,"execution_time":90,"id":4993001,"language":"C++14 (Clang 3.8.0)","length":974,"point":300,"problem_id":"abc117_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555412871,"execution_time":1,"id":4998943,"language":"C++14 (Clang 3.8.0)","length":719,"point":100,"problem_id":"abc116_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555676955,"execution_time":1,"id":5026852,"language":"C++14 (Clang 3.8.0)","length":916,"point":0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555677901,"execution_time":1,"id":5026982,"language":"C++14 (Clang 3.8.0)","length":871,"point":0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555678602,"execution_time":1,"id":5027077,"language":"C++14 (Clang 3.8.0)","length":871,"point":0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555732686,"execution_time":18,"id":5031167,"language":"Python3 (3.4.3)","length":263,"point":200,"problem_id":"abc116_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc116","epoch_second":1555747507,"execution_time":19,"id":5033562,"language":"Python3 (3.4.3)","length":393,"point":300,"problem_id":"abc116_c","result":"AC","user_id":"poche"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762340,"execution_time":1,"id":5042282,"language":"C++14 (Clang 3.8.0)","length":807,"point":100,"problem_id":"tenka1_2019_a","result":"AC","user_id":"poche"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762742,"execution_time":17,"id":5044520,"language":"Python3 (3.4.3)","length":163,"point":200,"problem_id":"tenka1_2019_b","result":"AC","user_id":"poche"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555764210,"execution_time":28,"id":5051271,"language":"Python3 (3.4.3)","length":286,"point":0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc124","epoch_second":1556051733,"execution_time":1,"id":5103039,"language":"C++ (Clang 3.8.0)","length":838,"point":100,"problem_id":"abc124_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc124","epoch_second":1556052506,"execution_time":1,"id":5103060,"language":"C++ (Clang 3.8.0)","length":857,"point":200,"problem_id":"abc124_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc124","epoch_second":1556055193,"execution_time":88,"id":5103130,"language":"Python3 (3.4.3)","length":341,"point":300,"problem_id":"abc124_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc123","epoch_second":1556104574,"execution_time":1,"id":5109054,"language":"C++14 (Clang 3.8.0)","length":810,"point":0,"problem_id":"abc123_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc123","epoch_second":1556107232,"execution_time":1,"id":5109546,"language":"C++14 (Clang 3.8.0)","length":799,"point":0,"problem_id":"abc123_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc123","epoch_second":1556107306,"execution_time":1,"id":5109560,"language":"C++14 (Clang 3.8.0)","length":799,"point":100,"problem_id":"abc123_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc123","epoch_second":1556224427,"execution_time":17,"id":5122908,"language":"Python3 (3.4.3)","length":192,"point":200,"problem_id":"abc123_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc125","epoch_second":1556917057,"execution_time":1,"id":5248409,"language":"C++14 (Clang 3.8.0)","length":721,"point":100,"problem_id":"abc125_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc125","epoch_second":1556952662,"execution_time":1,"id":5253368,"language":"C++14 (Clang 3.8.0)","length":873,"point":200,"problem_id":"abc125_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc115","epoch_second":1557263428,"execution_time":8,"id":5304836,"language":"C++14 (Clang 3.8.0)","length":877,"point":100,"problem_id":"abc115_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc115","epoch_second":1557263627,"execution_time":8,"id":5304843,"language":"C++14 (Clang 3.8.0)","length":808,"point":200,"problem_id":"abc115_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc115","epoch_second":1557349281,"execution_time":117,"id":5314792,"language":"C++14 (Clang 3.8.0)","length":874,"point":0,"problem_id":"abc115_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc115","epoch_second":1557349604,"execution_time":117,"id":5314798,"language":"C++14 (Clang 3.8.0)","length":878,"point":300,"problem_id":"abc115_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc114","epoch_second":1557349840,"execution_time":8,"id":5314801,"language":"C++14 (Clang 3.8.0)","length":761,"point":100,"problem_id":"abc114_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc114","epoch_second":1557350115,"execution_time":17,"id":5314805,"language":"Python3 (3.4.3)","length":113,"point":200,"problem_id":"abc114_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc114","epoch_second":1557562326,"execution_time":80,"id":5338537,"language":"Python3 (3.4.3)","length":233,"point":300,"problem_id":"abc114_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc113","epoch_second":1557565402,"execution_time":1,"id":5339191,"language":"C++14 (Clang 3.8.0)","length":761,"point":0,"problem_id":"abc113_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc113","epoch_second":1557565435,"execution_time":1,"id":5339199,"language":"C++14 (Clang 3.8.0)","length":711,"point":100,"problem_id":"abc113_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc113","epoch_second":1557566052,"execution_time":2,"id":5339303,"language":"C++14 (Clang 3.8.0)","length":904,"point":200,"problem_id":"abc113_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc113","epoch_second":1557572475,"execution_time":"","id":5340393,"language":"Python3 (3.4.3)","length":342,"point":0,"problem_id":"abc113_c","result":"TLE","user_id":"poche"}
-,{"contest_id":"diverta2019","epoch_second":1557577336,"execution_time":10,"id":5345366,"language":"C++14 (Clang 3.8.0)","length":713,"point":100,"problem_id":"diverta2019_a","result":"AC","user_id":"poche"}
-,{"contest_id":"diverta2019","epoch_second":1557578667,"execution_time":41,"id":5351770,"language":"Python3 (3.4.3)","length":237,"point":0,"problem_id":"diverta2019_c","result":"WA","user_id":"poche"}
-,{"contest_id":"diverta2019","epoch_second":1557579553,"execution_time":"","id":5355341,"language":"C++14 (Clang 3.8.0)","length":1011,"point":0,"problem_id":"diverta2019_b","result":"RE","user_id":"poche"}
-,{"contest_id":"diverta2019","epoch_second":1557610999,"execution_time":44,"id":5371871,"language":"C++14 (Clang 3.8.0)","length":1015,"point":200,"problem_id":"diverta2019_b","result":"AC","user_id":"poche"}
-,{"contest_id":"diverta2019","epoch_second":1557648565,"execution_time":43,"id":5376922,"language":"Python3 (3.4.3)","length":453,"point":400,"problem_id":"diverta2019_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc122","epoch_second":1557793500,"execution_time":947,"id":5393568,"language":"Python3 (3.4.3)","length":314,"point":300,"problem_id":"abc122_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc112","epoch_second":1558155118,"execution_time":17,"id":5433467,"language":"Python3 (3.4.3)","length":132,"point":100,"problem_id":"abc112_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc112","epoch_second":1558155533,"execution_time":9,"id":5433517,"language":"C++14 (Clang 3.8.0)","length":887,"point":200,"problem_id":"abc112_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558763218,"execution_time":17,"id":5578519,"language":"Python3 (3.4.3)","length":118,"point":100,"problem_id":"abc111_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558780049,"execution_time":2,"id":5583851,"language":"C++14 (Clang 3.8.0)","length":813,"point":0,"problem_id":"abc111_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558780973,"execution_time":8,"id":5584040,"language":"C++14 (Clang 3.8.0)","length":816,"point":200,"problem_id":"abc111_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558837437,"execution_time":127,"id":5625342,"language":"Python3 (3.4.3)","length":454,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558852256,"execution_time":114,"id":5627928,"language":"Python3 (3.4.3)","length":362,"point":0,"problem_id":"arc103_a","result":"WA","user_id":"poche"}
-,{"contest_id":"abc111","epoch_second":1558852588,"execution_time":172,"id":5627997,"language":"Python3 (3.4.3)","length":642,"point":300,"problem_id":"arc103_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc110","epoch_second":1558854673,"execution_time":17,"id":5628414,"language":"Python3 (3.4.3)","length":108,"point":100,"problem_id":"abc110_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc110","epoch_second":1558906143,"execution_time":3,"id":5657034,"language":"C++14 (Clang 3.8.0)","length":920,"point":0,"problem_id":"abc110_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc110","epoch_second":1560063739,"execution_time":2,"id":5831421,"language":"C++14 (Clang 3.8.0)","length":932,"point":0,"problem_id":"abc110_b","result":"WA","user_id":"poche"}
-,{"contest_id":"abc110","epoch_second":1560064313,"execution_time":1,"id":5831502,"language":"C++14 (Clang 3.8.0)","length":929,"point":200,"problem_id":"abc110_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560081773,"execution_time":7,"id":5836041,"language":"C++14 (Clang 3.8.0)","length":751,"point":100,"problem_id":"abc129_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560082281,"execution_time":5,"id":5840962,"language":"C++14 (Clang 3.8.0)","length":974,"point":200,"problem_id":"abc129_b","result":"AC","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560201130,"execution_time":79,"id":5873711,"language":"C++14 (Clang 3.8.0)","length":1032,"point":0,"problem_id":"abc129_c","result":"WA","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560201387,"execution_time":79,"id":5873718,"language":"C++14 (Clang 3.8.0)","length":1032,"point":300,"problem_id":"abc129_c","result":"AC","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560461067,"execution_time":562,"id":5901505,"language":"C++14 (Clang 3.8.0)","length":1801,"point":0,"problem_id":"abc129_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560461128,"execution_time":563,"id":5901510,"language":"C++14 (Clang 3.8.0)","length":1800,"point":0,"problem_id":"abc129_d","result":"WA","user_id":"poche"}
-,{"contest_id":"abc129","epoch_second":1560546643,"execution_time":563,"id":5910740,"language":"C++14 (Clang 3.8.0)","length":1804,"point":400,"problem_id":"abc129_d","result":"AC","user_id":"poche"}
-,{"contest_id":"abc128","epoch_second":1560546917,"execution_time":3,"id":5910744,"language":"C++14 (Clang 3.8.0)","length":721,"point":100,"problem_id":"abc128_a","result":"AC","user_id":"poche"}
-,{"contest_id":"abc128","epoch_second":1560548114,"execution_time":18,"id":5910766,"language":"Python3 (3.4.3)","length":388,"point":200,"problem_id":"abc128_b","result":"AC","user_id":"poche"}
+[{"contest_id":"arc050","epoch_second":1459600908,"execution_time":31,"id":682966,"language":"Python2 (2.7.6)","length":112,"point":100.0,"problem_id":"arc050_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc036","epoch_second":1461195482,"execution_time":5,"id":700245,"language":"C++14 (Clang 3.8.0)","length":182,"point":100.0,"problem_id":"abc036_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc036","epoch_second":1461196969,"execution_time":5,"id":700254,"language":"C++14 (Clang 3.8.0)","length":351,"point":0.0,"problem_id":"abc036_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc036","epoch_second":1461197254,"execution_time":7,"id":700259,"language":"C++14 (Clang 3.8.0)","length":353,"point":100.0,"problem_id":"abc036_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc037","epoch_second":1462624791,"execution_time":4,"id":720249,"language":"C++14 (GCC 5.4.1)","length":327,"point":0.0,"problem_id":"abc037_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc037","epoch_second":1462625057,"execution_time":6,"id":720382,"language":"C++14 (GCC 5.4.1)","length":389,"point":0.0,"problem_id":"abc037_a","result":"WA","user_id":"poche"}
+,{"contest_id":"arc053","epoch_second":1463228218,"execution_time":13,"id":728494,"language":"C++14 (Clang 3.8.0)","length":165,"point":100.0,"problem_id":"arc053_a","result":"AC","user_id":"poche"}
+,{"contest_id":"arc054","epoch_second":1463833736,"execution_time":6,"id":736304,"language":"C++14 (GCC 5.4.1)","length":569,"point":0.0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
+,{"contest_id":"arc054","epoch_second":1463833958,"execution_time":4,"id":736392,"language":"C++14 (GCC 5.4.1)","length":577,"point":0.0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
+,{"contest_id":"arc054","epoch_second":1463834238,"execution_time":6,"id":736475,"language":"C++14 (GCC 5.4.1)","length":618,"point":0.0,"problem_id":"arc054_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc038","epoch_second":1464437810,"execution_time":7,"id":743879,"language":"C++14 (Clang 3.8.0)","length":203,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc038","epoch_second":1464438380,"execution_time":7,"id":744233,"language":"C++14 (Clang 3.8.0)","length":283,"point":100.0,"problem_id":"abc038_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc039","epoch_second":1465646769,"execution_time":"","id":761980,"language":"C (Clang 3.8.0)","length":166,"point":0.0,"problem_id":"abc039_a","result":"CE","user_id":"poche"}
+,{"contest_id":"abc039","epoch_second":1465647410,"execution_time":"","id":762568,"language":"C (Clang 3.8.0)","length":9,"point":0.0,"problem_id":"abc039_b","result":"CE","user_id":"poche"}
+,{"contest_id":"abc039","epoch_second":1465647495,"execution_time":4,"id":762633,"language":"C++14 (Clang 3.8.0)","length":166,"point":100.0,"problem_id":"abc039_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc039","epoch_second":1465647515,"execution_time":12,"id":762647,"language":"C++14 (Clang 3.8.0)","length":177,"point":100.0,"problem_id":"abc039_b","result":"AC","user_id":"poche"}
+,{"contest_id":"arc057","epoch_second":1468070368,"execution_time":2105,"id":800310,"language":"C++14 (Clang 3.8.0)","length":303,"point":0.0,"problem_id":"arc057_a","result":"WA","user_id":"poche"}
+,{"contest_id":"agc001","epoch_second":1468672314,"execution_time":"","id":807398,"language":"C (Clang 3.8.0)","length":527,"point":0.0,"problem_id":"agc001_a","result":"CE","user_id":"poche"}
+,{"contest_id":"agc001","epoch_second":1468672390,"execution_time":7,"id":807431,"language":"C++14 (Clang 3.8.0)","length":527,"point":200.0,"problem_id":"agc001_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc042","epoch_second":1469276068,"execution_time":6,"id":815566,"language":"C++14 (GCC 5.4.1)","length":371,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc044","epoch_second":1472386250,"execution_time":4,"id":855184,"language":"C++14 (GCC 5.4.1)","length":957,"point":100.0,"problem_id":"abc044_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc044","epoch_second":1472388020,"execution_time":5,"id":855951,"language":"C++14 (GCC 5.4.1)","length":1038,"point":200.0,"problem_id":"abc044_b","result":"AC","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472694221,"execution_time":301,"id":861065,"language":"C++ (G++ 4.6.4)","length":1194,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472694365,"execution_time":292,"id":861069,"language":"C++ (G++ 4.6.4)","length":1207,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472717192,"execution_time":279,"id":861343,"language":"C++ (G++ 4.6.4)","length":1194,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472718665,"execution_time":293,"id":861368,"language":"C++ (G++ 4.6.4)","length":1204,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472718925,"execution_time":41,"id":861376,"language":"C++ (G++ 4.6.4)","length":1206,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472719259,"execution_time":40,"id":861385,"language":"C++ (G++ 4.6.4)","length":1206,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472719512,"execution_time":39,"id":861391,"language":"C++11 (GCC 4.8.1)","length":1206,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472719912,"execution_time":39,"id":861398,"language":"C++11 (GCC 4.8.1)","length":1207,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472719990,"execution_time":39,"id":861401,"language":"C++11 (GCC 4.8.1)","length":1205,"point":0.0,"problem_id":"tdpc_contest","result":"WA","user_id":"poche"}
+,{"contest_id":"tdpc","epoch_second":1472720244,"execution_time":43,"id":861406,"language":"C++11 (GCC 4.8.1)","length":1173,"point":2.0,"problem_id":"tdpc_contest","result":"AC","user_id":"poche"}
+,{"contest_id":"code-festival-2016-quala","epoch_second":1474720090,"execution_time":3,"id":893723,"language":"C++14 (GCC 5.4.1)","length":766,"point":100.0,"problem_id":"codefestival_2016_qualA_a","result":"AC","user_id":"poche"}
+,{"contest_id":"code-festival-2016-quala","epoch_second":1474723983,"execution_time":"","id":896940,"language":"C++14 (GCC 5.4.1)","length":938,"point":0.0,"problem_id":"codefestival_2016_qualA_b","result":"TLE","user_id":"poche"}
+,{"contest_id":"code-festival-2016-qualb","epoch_second":1476072530,"execution_time":3,"id":917198,"language":"C++14 (GCC 5.4.1)","length":936,"point":100.0,"problem_id":"codefestival_2016_qualB_a","result":"AC","user_id":"poche"}
+,{"contest_id":"code-festival-2016-qualb","epoch_second":1476075124,"execution_time":11,"id":918617,"language":"C++14 (GCC 5.4.1)","length":1068,"point":200.0,"problem_id":"codefestival_2016_qualB_b","result":"AC","user_id":"poche"}
+,{"contest_id":"agc007","epoch_second":1478953094,"execution_time":2,"id":979034,"language":"C++14 (GCC 5.4.1)","length":1050,"point":0.0,"problem_id":"agc007_a","result":"WA","user_id":"poche"}
+,{"contest_id":"agc007","epoch_second":1478953723,"execution_time":3,"id":979326,"language":"C++14 (GCC 5.4.1)","length":1056,"point":0.0,"problem_id":"agc007_a","result":"WA","user_id":"poche"}
+,{"contest_id":"agc007","epoch_second":1479021613,"execution_time":3,"id":981866,"language":"C++14 (GCC 5.4.1)","length":894,"point":200.0,"problem_id":"agc007_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479099728,"execution_time":"","id":982511,"language":"C (Clang 3.8.0)","length":811,"point":0.0,"problem_id":"abc047_a","result":"CE","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479099751,"execution_time":10,"id":982512,"language":"C++14 (Clang 3.8.0)","length":811,"point":100.0,"problem_id":"abc047_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479102137,"execution_time":3,"id":982530,"language":"C++14 (Clang 3.8.0)","length":1420,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479102768,"execution_time":8,"id":982536,"language":"C++14 (Clang 3.8.0)","length":1636,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479105855,"execution_time":3,"id":982568,"language":"C++14 (Clang 3.8.0)","length":1708,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479105896,"execution_time":3,"id":982569,"language":"C++14 (Clang 3.8.0)","length":1642,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479107366,"execution_time":3,"id":982582,"language":"C++14 (Clang 3.8.0)","length":1416,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479108400,"execution_time":3,"id":982594,"language":"C++14 (Clang 3.8.0)","length":655,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479108530,"execution_time":8,"id":982595,"language":"C++14 (Clang 3.8.0)","length":623,"point":0.0,"problem_id":"abc047_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479108802,"execution_time":3,"id":982599,"language":"C++14 (Clang 3.8.0)","length":547,"point":200.0,"problem_id":"abc047_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479109035,"execution_time":3,"id":982604,"language":"C++14 (Clang 3.8.0)","length":1426,"point":200.0,"problem_id":"abc047_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc047","epoch_second":1479179794,"execution_time":16,"id":983246,"language":"C++14 (Clang 3.8.0)","length":261,"point":300.0,"problem_id":"arc063_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc046","epoch_second":1479877398,"execution_time":3,"id":989752,"language":"C++14 (Clang 3.8.0)","length":219,"point":0.0,"problem_id":"abc046_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc046","epoch_second":1479878576,"execution_time":3,"id":989759,"language":"C++14 (Clang 3.8.0)","length":195,"point":200.0,"problem_id":"abc046_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc046","epoch_second":1479878804,"execution_time":3,"id":989761,"language":"C++14 (Clang 3.8.0)","length":247,"point":100.0,"problem_id":"abc046_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc048","epoch_second":1480853344,"execution_time":3,"id":1008328,"language":"C++14 (GCC 5.4.1)","length":197,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc048","epoch_second":1480855107,"execution_time":"","id":1009590,"language":"C++14 (GCC 5.4.1)","length":1027,"point":0.0,"problem_id":"abc048_b","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc048","epoch_second":1480856161,"execution_time":2102,"id":1010175,"language":"C++14 (GCC 5.4.1)","length":1106,"point":0.0,"problem_id":"abc048_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc048","epoch_second":1480856517,"execution_time":2102,"id":1010397,"language":"C++14 (GCC 5.4.1)","length":1116,"point":0.0,"problem_id":"abc048_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc048","epoch_second":1480857348,"execution_time":3,"id":1010844,"language":"C++14 (GCC 5.4.1)","length":855,"point":0.0,"problem_id":"abc048_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482062604,"execution_time":44,"id":1031209,"language":"C++14 (GCC 5.4.1)","length":837,"point":100.0,"problem_id":"abc050_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482063511,"execution_time":3,"id":1031728,"language":"C++14 (GCC 5.4.1)","length":1083,"point":200.0,"problem_id":"abc050_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482065058,"execution_time":35,"id":1032116,"language":"C++14 (GCC 5.4.1)","length":1348,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482065148,"execution_time":35,"id":1032139,"language":"C++14 (GCC 5.4.1)","length":1349,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482459367,"execution_time":83,"id":1036390,"language":"C++14 (Clang 3.8.0)","length":1231,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482460444,"execution_time":82,"id":1036398,"language":"C++14 (Clang 3.8.0)","length":1350,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482460945,"execution_time":82,"id":1036400,"language":"C++14 (Clang 3.8.0)","length":1360,"point":0.0,"problem_id":"arc066_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc050","epoch_second":1482465708,"execution_time":82,"id":1036451,"language":"C++14 (Clang 3.8.0)","length":1555,"point":300.0,"problem_id":"arc066_a","result":"AC","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563092,"execution_time":2102,"id":1037996,"language":"C++14 (Clang 3.8.0)","length":1401,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563191,"execution_time":"","id":1038006,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0.0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563367,"execution_time":2102,"id":1038032,"language":"C++14 (Clang 3.8.0)","length":1419,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563423,"execution_time":"","id":1038037,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0.0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563790,"execution_time":2102,"id":1038085,"language":"C++14 (Clang 3.8.0)","length":1320,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482563944,"execution_time":"","id":1038103,"language":"C++14 (Clang 3.8.0)","length":1409,"point":0.0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564122,"execution_time":8,"id":1038126,"language":"C++14 (Clang 3.8.0)","length":1443,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564336,"execution_time":8,"id":1038143,"language":"C++14 (Clang 3.8.0)","length":1395,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564405,"execution_time":"","id":1038155,"language":"C++14 (Clang 3.8.0)","length":1385,"point":0.0,"problem_id":"xmascon16_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564493,"execution_time":8,"id":1038165,"language":"C++14 (Clang 3.8.0)","length":1394,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564598,"execution_time":8,"id":1038178,"language":"C++14 (Clang 3.8.0)","length":1457,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564667,"execution_time":8,"id":1038186,"language":"C++14 (Clang 3.8.0)","length":1424,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564843,"execution_time":8,"id":1038205,"language":"C++14 (Clang 3.8.0)","length":1521,"point":0.0,"problem_id":"xmascon16_a","result":"WA","user_id":"poche"}
+,{"contest_id":"xmascon16noon","epoch_second":1482564907,"execution_time":8,"id":1038211,"language":"C++14 (Clang 3.8.0)","length":1531,"point":56.0,"problem_id":"xmascon16_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc049","epoch_second":1482567905,"execution_time":3,"id":1038485,"language":"C++14 (Clang 3.8.0)","length":387,"point":100.0,"problem_id":"abc049_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc049","epoch_second":1482616668,"execution_time":5,"id":1040632,"language":"C++14 (Clang 3.8.0)","length":634,"point":200.0,"problem_id":"abc049_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc049","epoch_second":1482907145,"execution_time":25,"id":1047292,"language":"Python3 (3.4.3)","length":159,"point":0.0,"problem_id":"arc065_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc049","epoch_second":1482907262,"execution_time":25,"id":1047295,"language":"Python3 (3.4.3)","length":159,"point":300.0,"problem_id":"arc065_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc051","epoch_second":1483790600,"execution_time":22,"id":1054915,"language":"Python3 (3.4.3)","length":41,"point":100.0,"problem_id":"abc051_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc051","epoch_second":1484014447,"execution_time":24,"id":1060105,"language":"Python3 (3.4.3)","length":32,"point":100.0,"problem_id":"abc051_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc051","epoch_second":1484016100,"execution_time":5,"id":1060110,"language":"C++14 (Clang 3.8.0)","length":482,"point":200.0,"problem_id":"abc051_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc001","epoch_second":1484234708,"execution_time":25,"id":1062193,"language":"C++11 (GCC 4.8.1)","length":609,"point":0.0,"problem_id":"abc001_2","result":"WA","user_id":"poche"}
+,{"contest_id":"abc001","epoch_second":1484234898,"execution_time":"","id":1062198,"language":"C++11 (GCC 4.8.1)","length":665,"point":0.0,"problem_id":"abc001_2","result":"CE","user_id":"poche"}
+,{"contest_id":"abc001","epoch_second":1484234959,"execution_time":19,"id":1062199,"language":"C++11 (GCC 4.8.1)","length":665,"point":100.0,"problem_id":"abc001_2","result":"AC","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1484540534,"execution_time":13,"id":1068394,"language":"C++14 (Clang 3.8.0)","length":417,"point":100.0,"problem_id":"abc052_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1484541342,"execution_time":8,"id":1068406,"language":"C++14 (Clang 3.8.0)","length":467,"point":200.0,"problem_id":"abc052_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1485397277,"execution_time":3,"id":1078986,"language":"C++14 (Clang 3.8.0)","length":1094,"point":0.0,"problem_id":"arc067_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1485398031,"execution_time":3,"id":1078987,"language":"C++14 (Clang 3.8.0)","length":1101,"point":300.0,"problem_id":"arc067_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1485439030,"execution_time":110,"id":1079456,"language":"C++14 (Clang 3.8.0)","length":534,"point":0.0,"problem_id":"arc067_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc052","epoch_second":1485439755,"execution_time":110,"id":1079467,"language":"C++14 (Clang 3.8.0)","length":540,"point":500.0,"problem_id":"arc067_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1486814851,"execution_time":1,"id":1103456,"language":"C++14 (GCC 5.4.1)","length":502,"point":100.0,"problem_id":"abc054_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1486816281,"execution_time":10,"id":1104674,"language":"Python2 (2.7.6)","length":392,"point":0.0,"problem_id":"abc054_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1486816434,"execution_time":10,"id":1104770,"language":"Python2 (2.7.6)","length":396,"point":0.0,"problem_id":"abc054_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487419517,"execution_time":7,"id":1114801,"language":"C++14 (Clang 3.8.0)","length":360,"point":100.0,"problem_id":"abc055_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487420310,"execution_time":6,"id":1115868,"language":"C++14 (Clang 3.8.0)","length":439,"point":200.0,"problem_id":"abc055_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487421280,"execution_time":2,"id":1116748,"language":"C++14 (Clang 3.8.0)","length":417,"point":0.0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487422039,"execution_time":1,"id":1117261,"language":"C++14 (Clang 3.8.0)","length":475,"point":0.0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487422250,"execution_time":7,"id":1117394,"language":"C++14 (Clang 3.8.0)","length":480,"point":0.0,"problem_id":"arc069_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc055","epoch_second":1487423100,"execution_time":2,"id":1117912,"language":"C++14 (Clang 3.8.0)","length":479,"point":300.0,"problem_id":"arc069_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc053","epoch_second":1489100825,"execution_time":1,"id":1153188,"language":"C++14 (GCC 5.4.1)","length":372,"point":100.0,"problem_id":"abc053_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc053","epoch_second":1489102546,"execution_time":17,"id":1153200,"language":"Python3 (3.4.3)","length":52,"point":200.0,"problem_id":"abc053_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1489624331,"execution_time":2,"id":1163344,"language":"C++ (Clang 3.8.0)","length":946,"point":200.0,"problem_id":"abc054_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1489718108,"execution_time":3,"id":1164460,"language":"C++ (Clang 3.8.0)","length":1119,"point":300.0,"problem_id":"abc054_c","result":"AC","user_id":"poche"}
+,{"contest_id":"arc060","epoch_second":1490181156,"execution_time":19,"id":1176504,"language":"C++14 (Clang 3.8.0)","length":859,"point":300.0,"problem_id":"arc060_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490932816,"execution_time":"","id":1192479,"language":"C++ (Clang 3.8.0)","length":1115,"point":0.0,"problem_id":"abc054_d","result":"RE","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490933427,"execution_time":14,"id":1192482,"language":"C++ (Clang 3.8.0)","length":1121,"point":0.0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490934137,"execution_time":14,"id":1192489,"language":"C++ (Clang 3.8.0)","length":1121,"point":0.0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490934251,"execution_time":14,"id":1192490,"language":"C++ (Clang 3.8.0)","length":1117,"point":0.0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490934751,"execution_time":14,"id":1192499,"language":"C++ (Clang 3.8.0)","length":1121,"point":0.0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490935150,"execution_time":14,"id":1192505,"language":"C++ (Clang 3.8.0)","length":1121,"point":0.0,"problem_id":"abc054_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc054","epoch_second":1490935300,"execution_time":15,"id":1192507,"language":"C++ (Clang 3.8.0)","length":1117,"point":400.0,"problem_id":"abc054_d","result":"AC","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495282091,"execution_time":17,"id":1295750,"language":"Python3 (3.4.3)","length":228,"point":100.0,"problem_id":"abc062_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495282654,"execution_time":17,"id":1296384,"language":"C++14 (Clang 3.8.0)","length":623,"point":200.0,"problem_id":"abc062_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495422548,"execution_time":2,"id":1302317,"language":"C++14 (Clang 3.8.0)","length":1457,"point":0.0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495422976,"execution_time":2,"id":1302320,"language":"C++14 (Clang 3.8.0)","length":1461,"point":0.0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495423353,"execution_time":2,"id":1302326,"language":"C++14 (Clang 3.8.0)","length":1452,"point":0.0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc062","epoch_second":1495424758,"execution_time":2,"id":1302338,"language":"C++14 (Clang 3.8.0)","length":1436,"point":0.0,"problem_id":"arc074_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc064","epoch_second":1497096161,"execution_time":4,"id":1339695,"language":"C++14 (Clang 3.8.0)","length":446,"point":100.0,"problem_id":"abc064_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc064","epoch_second":1497096438,"execution_time":2,"id":1340632,"language":"C++14 (Clang 3.8.0)","length":469,"point":200.0,"problem_id":"abc064_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc064","epoch_second":1497097742,"execution_time":1,"id":1343258,"language":"C++14 (Clang 3.8.0)","length":1046,"point":0.0,"problem_id":"abc064_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc064","epoch_second":1497098008,"execution_time":2,"id":1343646,"language":"C++14 (Clang 3.8.0)","length":1060,"point":300.0,"problem_id":"abc064_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc065","epoch_second":1498856977,"execution_time":1,"id":1390020,"language":"C++14 (GCC 5.4.1)","length":456,"point":100.0,"problem_id":"abc065_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc065","epoch_second":1499065331,"execution_time":80,"id":1400631,"language":"C++14 (Clang 3.8.0)","length":581,"point":200.0,"problem_id":"abc065_b","result":"AC","user_id":"poche"}
+,{"contest_id":"agc018","epoch_second":1500817374,"execution_time":54,"id":1448716,"language":"C++14 (GCC 5.4.1)","length":797,"point":0.0,"problem_id":"agc018_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc069","epoch_second":1502021080,"execution_time":1,"id":1485203,"language":"C++14 (GCC 5.4.1)","length":361,"point":100.0,"problem_id":"abc069_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc069","epoch_second":1502021284,"execution_time":18,"id":1485773,"language":"Python3 (3.4.3)","length":62,"point":200.0,"problem_id":"abc069_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc069","epoch_second":1502023296,"execution_time":56,"id":1488781,"language":"C++14 (GCC 5.4.1)","length":793,"point":0.0,"problem_id":"arc080_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc069","epoch_second":1502024164,"execution_time":55,"id":1489487,"language":"C++14 (GCC 5.4.1)","length":1078,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503230779,"execution_time":1,"id":1522648,"language":"C++14 (GCC 5.4.1)","length":420,"point":100.0,"problem_id":"abc071_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503231202,"execution_time":"","id":1523683,"language":"Python3 (3.4.3)","length":118,"point":0.0,"problem_id":"abc071_b","result":"RE","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503232040,"execution_time":102,"id":1525006,"language":"Python3 (3.4.3)","length":244,"point":0.0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503232141,"execution_time":28,"id":1525133,"language":"Python3 (3.4.3)","length":163,"point":200.0,"problem_id":"abc071_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503232646,"execution_time":103,"id":1525758,"language":"Python3 (3.4.3)","length":244,"point":0.0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503233066,"execution_time":"","id":1526200,"language":"Python3 (3.4.3)","length":370,"point":0.0,"problem_id":"arc081_a","result":"RE","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503233084,"execution_time":91,"id":1526224,"language":"Python3 (3.4.3)","length":248,"point":0.0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc071","epoch_second":1503234014,"execution_time":112,"id":1527117,"language":"Python3 (3.4.3)","length":322,"point":0.0,"problem_id":"arc081_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc070","epoch_second":1503799980,"execution_time":17,"id":1547530,"language":"Python3 (3.4.3)","length":141,"point":100.0,"problem_id":"abc070_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc070","epoch_second":1503803048,"execution_time":1,"id":1547635,"language":"C++14 (Clang 3.8.0)","length":480,"point":200.0,"problem_id":"abc070_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504353769,"execution_time":1,"id":1557504,"language":"C++14 (GCC 5.4.1)","length":344,"point":100.0,"problem_id":"abc072_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504353960,"execution_time":18,"id":1558323,"language":"Python3 (3.4.3)","length":31,"point":200.0,"problem_id":"abc072_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504355297,"execution_time":43,"id":1560936,"language":"C++14 (GCC 5.4.1)","length":824,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504355766,"execution_time":42,"id":1561400,"language":"C++14 (GCC 5.4.1)","length":846,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504355972,"execution_time":42,"id":1561587,"language":"C++14 (GCC 5.4.1)","length":812,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504356491,"execution_time":44,"id":1561987,"language":"C++14 (GCC 5.4.1)","length":871,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504356818,"execution_time":43,"id":1562226,"language":"C++14 (GCC 5.4.1)","length":919,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc072","epoch_second":1504358011,"execution_time":43,"id":1562871,"language":"C++14 (GCC 5.4.1)","length":1072,"point":0.0,"problem_id":"arc082_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc074","epoch_second":1505563563,"execution_time":1,"id":1596168,"language":"C++14 (GCC 5.4.1)","length":340,"point":100.0,"problem_id":"abc074_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc074","epoch_second":1505564520,"execution_time":1,"id":1597108,"language":"C++14 (GCC 5.4.1)","length":505,"point":200.0,"problem_id":"abc074_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc075","epoch_second":1508154999,"execution_time":4,"id":1688995,"language":"C++14 (Clang 3.8.0)","length":420,"point":100.0,"problem_id":"abc075_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc075","epoch_second":1508157337,"execution_time":8,"id":1689048,"language":"C++14 (Clang 3.8.0)","length":1253,"point":200.0,"problem_id":"abc075_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509192190,"execution_time":1,"id":1716836,"language":"C++14 (Clang 3.8.0)","length":340,"point":100.0,"problem_id":"abc076_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509192947,"execution_time":1,"id":1718267,"language":"C++14 (Clang 3.8.0)","length":424,"point":200.0,"problem_id":"abc076_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509194914,"execution_time":"","id":1719840,"language":"Python3 (3.4.3)","length":471,"point":0.0,"problem_id":"abc076_c","result":"RE","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509194958,"execution_time":17,"id":1719861,"language":"Python3 (3.4.3)","length":442,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509349865,"execution_time":"","id":1725799,"language":"Python3 (3.4.3)","length":502,"point":0.0,"problem_id":"abc076_c","result":"RE","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509350999,"execution_time":18,"id":1725826,"language":"Python3 (3.4.3)","length":492,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509351824,"execution_time":19,"id":1725862,"language":"Python3 (3.4.3)","length":474,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509354283,"execution_time":17,"id":1725986,"language":"Python3 (3.4.3)","length":616,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509354586,"execution_time":18,"id":1725999,"language":"Python3 (3.4.3)","length":552,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509360806,"execution_time":19,"id":1726287,"language":"Python3 (3.4.3)","length":563,"point":0.0,"problem_id":"abc076_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc076","epoch_second":1509360955,"execution_time":20,"id":1726293,"language":"Python3 (3.4.3)","length":575,"point":300.0,"problem_id":"abc076_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc077","epoch_second":1509797052,"execution_time":6,"id":1737248,"language":"C++14 (Clang 3.8.0)","length":554,"point":100.0,"problem_id":"abc077_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc077","epoch_second":1509797800,"execution_time":6,"id":1738506,"language":"C++14 (Clang 3.8.0)","length":348,"point":200.0,"problem_id":"abc077_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513425827,"execution_time":1,"id":1874348,"language":"C++ (GCC 5.4.1)","length":355,"point":100.0,"problem_id":"abc082_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513426520,"execution_time":17,"id":1875333,"language":"Python3 (3.4.3)","length":175,"point":0.0,"problem_id":"abc082_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513427853,"execution_time":"","id":1876690,"language":"C++ (GCC 5.4.1)","length":669,"point":0.0,"problem_id":"arc087_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513428393,"execution_time":17,"id":1877152,"language":"Python3 (3.4.3)","length":162,"point":200.0,"problem_id":"abc082_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513428551,"execution_time":"","id":1877282,"language":"C++14 (GCC 5.4.1)","length":673,"point":0.0,"problem_id":"arc087_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc082","epoch_second":1513428779,"execution_time":58,"id":1877460,"language":"C++14 (GCC 5.4.1)","length":772,"point":300.0,"problem_id":"arc087_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc083","epoch_second":1514968812,"execution_time":4,"id":1937286,"language":"C++14 (Clang 3.8.0)","length":527,"point":100.0,"problem_id":"abc083_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc085","epoch_second":1515326570,"execution_time":18,"id":1946923,"language":"Python3 (3.4.3)","length":40,"point":100.0,"problem_id":"abc085_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc085","epoch_second":1515326855,"execution_time":17,"id":1947740,"language":"Python3 (3.4.3)","length":98,"point":200.0,"problem_id":"abc085_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc087","epoch_second":1518409192,"execution_time":7,"id":2089980,"language":"C++14 (Clang 3.8.0)","length":383,"point":100.0,"problem_id":"abc087_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc087","epoch_second":1519523035,"execution_time":1,"id":2134160,"language":"C++14 (Clang 3.8.0)","length":634,"point":200.0,"problem_id":"abc087_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc087","epoch_second":1519524993,"execution_time":1,"id":2134221,"language":"C++14 (Clang 3.8.0)","length":718,"point":300.0,"problem_id":"arc090_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc088","epoch_second":1520086033,"execution_time":7,"id":2150837,"language":"C++14 (Clang 3.8.0)","length":406,"point":100.0,"problem_id":"abc088_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc088","epoch_second":1520087035,"execution_time":1,"id":2150868,"language":"C++14 (Clang 3.8.0)","length":590,"point":200.0,"problem_id":"abc088_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc088","epoch_second":1520473667,"execution_time":1,"id":2171167,"language":"C++14 (Clang 3.8.0)","length":756,"point":300.0,"problem_id":"abc088_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526126835,"execution_time":4,"id":2495858,"language":"C++14 (Clang 3.8.0)","length":814,"point":100.0,"problem_id":"abc097_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526127452,"execution_time":5,"id":2497569,"language":"C++14 (Clang 3.8.0)","length":714,"point":0.0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526128936,"execution_time":138,"id":2500280,"language":"Python3 (3.4.3)","length":187,"point":0.0,"problem_id":"arc097_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526129099,"execution_time":"","id":2500531,"language":"Python3 (3.4.3)","length":228,"point":0.0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526129176,"execution_time":"","id":2500658,"language":"Python3 (3.4.3)","length":191,"point":0.0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526129251,"execution_time":"","id":2500756,"language":"Python3 (3.4.3)","length":191,"point":0.0,"problem_id":"arc097_a","result":"RE","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526130894,"execution_time":8,"id":2502651,"language":"C++14 (Clang 3.8.0)","length":853,"point":0.0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526131129,"execution_time":2,"id":2502895,"language":"C++14 (Clang 3.8.0)","length":856,"point":0.0,"problem_id":"abc097_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526131208,"execution_time":6,"id":2502987,"language":"C++14 (Clang 3.8.0)","length":859,"point":200.0,"problem_id":"abc097_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526131720,"execution_time":"","id":2503459,"language":"Python3 (3.4.3)","length":186,"point":200.0,"problem_id":"arc097_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc097","epoch_second":1526651149,"execution_time":35,"id":2526645,"language":"Python3 (3.4.3)","length":181,"point":300.0,"problem_id":"arc097_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc096","epoch_second":1526732698,"execution_time":1,"id":2529421,"language":"C++14 (Clang 3.8.0)","length":746,"point":100.0,"problem_id":"abc096_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc096","epoch_second":1526733346,"execution_time":6,"id":2529487,"language":"C++14 (Clang 3.8.0)","length":909,"point":200.0,"problem_id":"abc096_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc096","epoch_second":1526859334,"execution_time":1,"id":2542424,"language":"C++14 (Clang 3.8.0)","length":1090,"point":300.0,"problem_id":"abc096_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527336344,"execution_time":5,"id":2562775,"language":"C++14 (Clang 3.8.0)","length":900,"point":0.0,"problem_id":"abc098_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527336402,"execution_time":1,"id":2562957,"language":"C++14 (Clang 3.8.0)","length":903,"point":0.0,"problem_id":"abc098_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527336616,"execution_time":4,"id":2563499,"language":"C++14 (Clang 3.8.0)","length":989,"point":100.0,"problem_id":"abc098_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527339695,"execution_time":17,"id":2567933,"language":"Python3 (3.4.3)","length":243,"point":200.0,"problem_id":"abc098_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527340600,"execution_time":"","id":2568985,"language":"C (Clang 3.8.0)","length":986,"point":0.0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527340680,"execution_time":"","id":2569080,"language":"C (Clang 3.8.0)","length":965,"point":0.0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527340712,"execution_time":"","id":2569122,"language":"C++14 (Clang 3.8.0)","length":965,"point":0.0,"problem_id":"arc098_a","result":"CE","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1527340744,"execution_time":"","id":2569151,"language":"C++14 (Clang 3.8.0)","length":986,"point":0.0,"problem_id":"arc098_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1529883739,"execution_time":"","id":2740771,"language":"C++14 (Clang 3.8.0)","length":1205,"point":0.0,"problem_id":"arc098_a","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc098","epoch_second":1530148637,"execution_time":19,"id":2751420,"language":"C++14 (Clang 3.8.0)","length":1074,"point":300.0,"problem_id":"arc098_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc099","epoch_second":1530217955,"execution_time":1,"id":2754301,"language":"C++14 (Clang 3.8.0)","length":743,"point":100.0,"problem_id":"abc099_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc099","epoch_second":1530219249,"execution_time":7,"id":2754302,"language":"C++14 (Clang 3.8.0)","length":774,"point":200.0,"problem_id":"abc099_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530444726,"execution_time":4,"id":2765643,"language":"C++14 (Clang 3.8.0)","length":742,"point":100.0,"problem_id":"abc102_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530445275,"execution_time":5,"id":2767620,"language":"C++14 (Clang 3.8.0)","length":772,"point":200.0,"problem_id":"abc102_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530448521,"execution_time":221,"id":2773605,"language":"C++14 (Clang 3.8.0)","length":988,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530488233,"execution_time":"","id":2780315,"language":"C++14 (Clang 3.8.0)","length":956,"point":0.0,"problem_id":"arc100_a","result":"RE","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530488818,"execution_time":233,"id":2780339,"language":"C++14 (Clang 3.8.0)","length":956,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530488942,"execution_time":233,"id":2780346,"language":"C++14 (Clang 3.8.0)","length":957,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530489951,"execution_time":234,"id":2780361,"language":"C++14 (Clang 3.8.0)","length":986,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530538743,"execution_time":234,"id":2783522,"language":"C++14 (Clang 3.8.0)","length":1000,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530566618,"execution_time":232,"id":2784403,"language":"C++14 (Clang 3.8.0)","length":924,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530566696,"execution_time":234,"id":2784405,"language":"C++14 (Clang 3.8.0)","length":920,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530566872,"execution_time":233,"id":2784406,"language":"C++14 (Clang 3.8.0)","length":1018,"point":0.0,"problem_id":"arc100_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530567011,"execution_time":234,"id":2784407,"language":"C++14 (Clang 3.8.0)","length":1016,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc102","epoch_second":1530567224,"execution_time":234,"id":2784412,"language":"C++14 (Clang 3.8.0)","length":982,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc032","epoch_second":1531553767,"execution_time":45,"id":2839872,"language":"C++14 (GCC 5.4.1)","length":1166,"point":100.0,"problem_id":"abc032_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc038","epoch_second":1531558552,"execution_time":78,"id":2840387,"language":"C++14 (Clang 3.8.0)","length":1034,"point":40.0,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc038","epoch_second":1531560695,"execution_time":78,"id":2840529,"language":"C++14 (Clang 3.8.0)","length":969,"point":40.0,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc038","epoch_second":1531563155,"execution_time":77,"id":2840656,"language":"C++14 (Clang 3.8.0)","length":961,"point":40.0,"problem_id":"abc038_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc100","epoch_second":1545470086,"execution_time":1,"id":3836324,"language":"C++14 (Clang 3.8.0)","length":760,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc100","epoch_second":1545565991,"execution_time":7,"id":3857829,"language":"C++14 (Clang 3.8.0)","length":807,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc100","epoch_second":1545596319,"execution_time":2,"id":3859638,"language":"C++14 (Clang 3.8.0)","length":740,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc100","epoch_second":1545609564,"execution_time":4,"id":3859828,"language":"C++14 (Clang 3.8.0)","length":829,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc101","epoch_second":1545646752,"execution_time":3,"id":3864370,"language":"C++14 (Clang 3.8.0)","length":791,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc101","epoch_second":1545647786,"execution_time":7,"id":3864521,"language":"C++14 (Clang 3.8.0)","length":838,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc103","epoch_second":1549776274,"execution_time":2,"id":4222235,"language":"C++14 (Clang 3.8.0)","length":796,"point":100.0,"problem_id":"abc103_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc103","epoch_second":1549777247,"execution_time":18,"id":4222373,"language":"Python3 (3.4.3)","length":210,"point":200.0,"problem_id":"abc103_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc103","epoch_second":1551361301,"execution_time":4,"id":4414118,"language":"C++14 (Clang 3.8.0)","length":770,"point":300.0,"problem_id":"abc103_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc095","epoch_second":1553980443,"execution_time":1,"id":4779913,"language":"C++14 (Clang 3.8.0)","length":780,"point":100.0,"problem_id":"abc095_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc095","epoch_second":1553986377,"execution_time":4,"id":4780073,"language":"C++14 (Clang 3.8.0)","length":887,"point":200.0,"problem_id":"abc095_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc095","epoch_second":1554028917,"execution_time":1,"id":4786555,"language":"C++14 (Clang 3.8.0)","length":1145,"point":300.0,"problem_id":"arc096_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1554378514,"execution_time":1,"id":4823580,"language":"C++14 (Clang 3.8.0)","length":881,"point":100.0,"problem_id":"abc122_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1554412218,"execution_time":1,"id":4827060,"language":"C++14 (Clang 3.8.0)","length":913,"point":0.0,"problem_id":"abc122_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1554412528,"execution_time":7,"id":4827071,"language":"C++14 (Clang 3.8.0)","length":925,"point":200.0,"problem_id":"abc122_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1554532660,"execution_time":"","id":4839172,"language":"Python3 (3.4.3)","length":179,"point":0.0,"problem_id":"abc122_c","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1554545466,"execution_time":949,"id":4841444,"language":"Python3 (3.4.3)","length":272,"point":300.0,"problem_id":"abc122_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc121","epoch_second":1554578002,"execution_time":1,"id":4869366,"language":"C++14 (Clang 3.8.0)","length":755,"point":100.0,"problem_id":"abc121_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc121","epoch_second":1554579653,"execution_time":2,"id":4869461,"language":"C++14 (Clang 3.8.0)","length":1001,"point":200.0,"problem_id":"abc121_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc121","epoch_second":1554640103,"execution_time":196,"id":4878167,"language":"C++14 (Clang 3.8.0)","length":1140,"point":300.0,"problem_id":"abc121_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc120","epoch_second":1554670061,"execution_time":1,"id":4881700,"language":"C++14 (Clang 3.8.0)","length":757,"point":100.0,"problem_id":"abc120_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc120","epoch_second":1554673782,"execution_time":1,"id":4881803,"language":"C++14 (Clang 3.8.0)","length":872,"point":0.0,"problem_id":"abc120_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc120","epoch_second":1554755333,"execution_time":1,"id":4891796,"language":"C++14 (Clang 3.8.0)","length":859,"point":0.0,"problem_id":"abc120_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc120","epoch_second":1554757402,"execution_time":1,"id":4891844,"language":"C++14 (Clang 3.8.0)","length":859,"point":200.0,"problem_id":"abc120_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc120","epoch_second":1554758347,"execution_time":18,"id":4891881,"language":"Python3 (3.4.3)","length":85,"point":300.0,"problem_id":"abc120_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc119","epoch_second":1554842594,"execution_time":17,"id":4901704,"language":"Python3 (3.4.3)","length":184,"point":100.0,"problem_id":"abc119_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc119","epoch_second":1554843033,"execution_time":7,"id":4901718,"language":"C++14 (Clang 3.8.0)","length":840,"point":200.0,"problem_id":"abc119_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc119","epoch_second":1554986071,"execution_time":21,"id":4918390,"language":"C++14 (Clang 3.8.0)","length":1223,"point":300.0,"problem_id":"abc119_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc118","epoch_second":1555066250,"execution_time":1,"id":4927187,"language":"C++14 (Clang 3.8.0)","length":754,"point":100.0,"problem_id":"abc118_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc118","epoch_second":1555067282,"execution_time":2,"id":4927329,"language":"C++14 (Clang 3.8.0)","length":896,"point":200.0,"problem_id":"abc118_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc118","epoch_second":1555111574,"execution_time":124,"id":4931333,"language":"C++14 (Clang 3.8.0)","length":949,"point":0.0,"problem_id":"abc118_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc118","epoch_second":1555112262,"execution_time":112,"id":4931352,"language":"C++14 (Clang 3.8.0)","length":945,"point":300.0,"problem_id":"abc118_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc117","epoch_second":1555328320,"execution_time":8,"id":4989132,"language":"C++14 (Clang 3.8.0)","length":709,"point":100.0,"problem_id":"abc117_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc117","epoch_second":1555329347,"execution_time":1,"id":4989358,"language":"C++14 (Clang 3.8.0)","length":849,"point":200.0,"problem_id":"abc117_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc117","epoch_second":1555360488,"execution_time":90,"id":4993001,"language":"C++14 (Clang 3.8.0)","length":974,"point":300.0,"problem_id":"abc117_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555412871,"execution_time":1,"id":4998943,"language":"C++14 (Clang 3.8.0)","length":719,"point":100.0,"problem_id":"abc116_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555676955,"execution_time":1,"id":5026852,"language":"C++14 (Clang 3.8.0)","length":916,"point":0.0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555677901,"execution_time":1,"id":5026982,"language":"C++14 (Clang 3.8.0)","length":871,"point":0.0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555678602,"execution_time":1,"id":5027077,"language":"C++14 (Clang 3.8.0)","length":871,"point":0.0,"problem_id":"abc116_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555732686,"execution_time":18,"id":5031167,"language":"Python3 (3.4.3)","length":263,"point":200.0,"problem_id":"abc116_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc116","epoch_second":1555747507,"execution_time":19,"id":5033562,"language":"Python3 (3.4.3)","length":393,"point":300.0,"problem_id":"abc116_c","result":"AC","user_id":"poche"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762340,"execution_time":1,"id":5042282,"language":"C++14 (Clang 3.8.0)","length":807,"point":100.0,"problem_id":"tenka1_2019_a","result":"AC","user_id":"poche"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555762742,"execution_time":17,"id":5044520,"language":"Python3 (3.4.3)","length":163,"point":200.0,"problem_id":"tenka1_2019_b","result":"AC","user_id":"poche"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555764210,"execution_time":28,"id":5051271,"language":"Python3 (3.4.3)","length":286,"point":0.0,"problem_id":"tenka1_2019_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc124","epoch_second":1556051733,"execution_time":1,"id":5103039,"language":"C++ (Clang 3.8.0)","length":838,"point":100.0,"problem_id":"abc124_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc124","epoch_second":1556052506,"execution_time":1,"id":5103060,"language":"C++ (Clang 3.8.0)","length":857,"point":200.0,"problem_id":"abc124_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc124","epoch_second":1556055193,"execution_time":88,"id":5103130,"language":"Python3 (3.4.3)","length":341,"point":300.0,"problem_id":"abc124_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc123","epoch_second":1556104574,"execution_time":1,"id":5109054,"language":"C++14 (Clang 3.8.0)","length":810,"point":0.0,"problem_id":"abc123_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc123","epoch_second":1556107232,"execution_time":1,"id":5109546,"language":"C++14 (Clang 3.8.0)","length":799,"point":0.0,"problem_id":"abc123_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc123","epoch_second":1556107306,"execution_time":1,"id":5109560,"language":"C++14 (Clang 3.8.0)","length":799,"point":100.0,"problem_id":"abc123_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc123","epoch_second":1556224427,"execution_time":17,"id":5122908,"language":"Python3 (3.4.3)","length":192,"point":200.0,"problem_id":"abc123_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc125","epoch_second":1556917057,"execution_time":1,"id":5248409,"language":"C++14 (Clang 3.8.0)","length":721,"point":100.0,"problem_id":"abc125_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc125","epoch_second":1556952662,"execution_time":1,"id":5253368,"language":"C++14 (Clang 3.8.0)","length":873,"point":200.0,"problem_id":"abc125_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc115","epoch_second":1557263428,"execution_time":8,"id":5304836,"language":"C++14 (Clang 3.8.0)","length":877,"point":100.0,"problem_id":"abc115_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc115","epoch_second":1557263627,"execution_time":8,"id":5304843,"language":"C++14 (Clang 3.8.0)","length":808,"point":200.0,"problem_id":"abc115_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc115","epoch_second":1557349281,"execution_time":117,"id":5314792,"language":"C++14 (Clang 3.8.0)","length":874,"point":0.0,"problem_id":"abc115_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc115","epoch_second":1557349604,"execution_time":117,"id":5314798,"language":"C++14 (Clang 3.8.0)","length":878,"point":300.0,"problem_id":"abc115_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc114","epoch_second":1557349840,"execution_time":8,"id":5314801,"language":"C++14 (Clang 3.8.0)","length":761,"point":100.0,"problem_id":"abc114_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc114","epoch_second":1557350115,"execution_time":17,"id":5314805,"language":"Python3 (3.4.3)","length":113,"point":200.0,"problem_id":"abc114_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc114","epoch_second":1557562326,"execution_time":80,"id":5338537,"language":"Python3 (3.4.3)","length":233,"point":300.0,"problem_id":"abc114_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc113","epoch_second":1557565402,"execution_time":1,"id":5339191,"language":"C++14 (Clang 3.8.0)","length":761,"point":0.0,"problem_id":"abc113_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc113","epoch_second":1557565435,"execution_time":1,"id":5339199,"language":"C++14 (Clang 3.8.0)","length":711,"point":100.0,"problem_id":"abc113_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc113","epoch_second":1557566052,"execution_time":2,"id":5339303,"language":"C++14 (Clang 3.8.0)","length":904,"point":200.0,"problem_id":"abc113_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc113","epoch_second":1557572475,"execution_time":"","id":5340393,"language":"Python3 (3.4.3)","length":342,"point":0.0,"problem_id":"abc113_c","result":"TLE","user_id":"poche"}
+,{"contest_id":"diverta2019","epoch_second":1557577336,"execution_time":10,"id":5345366,"language":"C++14 (Clang 3.8.0)","length":713,"point":100.0,"problem_id":"diverta2019_a","result":"AC","user_id":"poche"}
+,{"contest_id":"diverta2019","epoch_second":1557578667,"execution_time":41,"id":5351770,"language":"Python3 (3.4.3)","length":237,"point":0.0,"problem_id":"diverta2019_c","result":"WA","user_id":"poche"}
+,{"contest_id":"diverta2019","epoch_second":1557579553,"execution_time":"","id":5355341,"language":"C++14 (Clang 3.8.0)","length":1011,"point":0.0,"problem_id":"diverta2019_b","result":"RE","user_id":"poche"}
+,{"contest_id":"diverta2019","epoch_second":1557610999,"execution_time":44,"id":5371871,"language":"C++14 (Clang 3.8.0)","length":1015,"point":200.0,"problem_id":"diverta2019_b","result":"AC","user_id":"poche"}
+,{"contest_id":"diverta2019","epoch_second":1557648565,"execution_time":43,"id":5376922,"language":"Python3 (3.4.3)","length":453,"point":400.0,"problem_id":"diverta2019_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc122","epoch_second":1557793500,"execution_time":947,"id":5393568,"language":"Python3 (3.4.3)","length":314,"point":300.0,"problem_id":"abc122_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc112","epoch_second":1558155118,"execution_time":17,"id":5433467,"language":"Python3 (3.4.3)","length":132,"point":100.0,"problem_id":"abc112_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc112","epoch_second":1558155533,"execution_time":9,"id":5433517,"language":"C++14 (Clang 3.8.0)","length":887,"point":200.0,"problem_id":"abc112_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558763218,"execution_time":17,"id":5578519,"language":"Python3 (3.4.3)","length":118,"point":100.0,"problem_id":"abc111_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558780049,"execution_time":2,"id":5583851,"language":"C++14 (Clang 3.8.0)","length":813,"point":0.0,"problem_id":"abc111_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558780973,"execution_time":8,"id":5584040,"language":"C++14 (Clang 3.8.0)","length":816,"point":200.0,"problem_id":"abc111_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558837437,"execution_time":127,"id":5625342,"language":"Python3 (3.4.3)","length":454,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558852256,"execution_time":114,"id":5627928,"language":"Python3 (3.4.3)","length":362,"point":0.0,"problem_id":"arc103_a","result":"WA","user_id":"poche"}
+,{"contest_id":"abc111","epoch_second":1558852588,"execution_time":172,"id":5627997,"language":"Python3 (3.4.3)","length":642,"point":300.0,"problem_id":"arc103_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc110","epoch_second":1558854673,"execution_time":17,"id":5628414,"language":"Python3 (3.4.3)","length":108,"point":100.0,"problem_id":"abc110_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc110","epoch_second":1558906143,"execution_time":3,"id":5657034,"language":"C++14 (Clang 3.8.0)","length":920,"point":0.0,"problem_id":"abc110_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc110","epoch_second":1560063739,"execution_time":2,"id":5831421,"language":"C++14 (Clang 3.8.0)","length":932,"point":0.0,"problem_id":"abc110_b","result":"WA","user_id":"poche"}
+,{"contest_id":"abc110","epoch_second":1560064313,"execution_time":1,"id":5831502,"language":"C++14 (Clang 3.8.0)","length":929,"point":200.0,"problem_id":"abc110_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560081773,"execution_time":7,"id":5836041,"language":"C++14 (Clang 3.8.0)","length":751,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560082281,"execution_time":5,"id":5840962,"language":"C++14 (Clang 3.8.0)","length":974,"point":200.0,"problem_id":"abc129_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560201130,"execution_time":79,"id":5873711,"language":"C++14 (Clang 3.8.0)","length":1032,"point":0.0,"problem_id":"abc129_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560201387,"execution_time":79,"id":5873718,"language":"C++14 (Clang 3.8.0)","length":1032,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560461067,"execution_time":562,"id":5901505,"language":"C++14 (Clang 3.8.0)","length":1801,"point":0.0,"problem_id":"abc129_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560461128,"execution_time":563,"id":5901510,"language":"C++14 (Clang 3.8.0)","length":1800,"point":0.0,"problem_id":"abc129_d","result":"WA","user_id":"poche"}
+,{"contest_id":"abc129","epoch_second":1560546643,"execution_time":563,"id":5910740,"language":"C++14 (Clang 3.8.0)","length":1804,"point":400.0,"problem_id":"abc129_d","result":"AC","user_id":"poche"}
+,{"contest_id":"abc128","epoch_second":1560546917,"execution_time":3,"id":5910744,"language":"C++14 (Clang 3.8.0)","length":721,"point":100.0,"problem_id":"abc128_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc128","epoch_second":1560548114,"execution_time":18,"id":5910766,"language":"Python3 (3.4.3)","length":388,"point":200.0,"problem_id":"abc128_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc130","epoch_second":1560686524,"execution_time":8,"id":5952766,"language":"C++14 (Clang 3.8.0)","length":748,"point":100.0,"problem_id":"abc130_a","result":"AC","user_id":"poche"}
+,{"contest_id":"abc130","epoch_second":1560686828,"execution_time":1,"id":5956929,"language":"C++14 (Clang 3.8.0)","length":861,"point":200.0,"problem_id":"abc130_b","result":"AC","user_id":"poche"}
+,{"contest_id":"abc130","epoch_second":1560687784,"execution_time":1,"id":5964667,"language":"C++14 (Clang 3.8.0)","length":861,"point":0.0,"problem_id":"abc130_c","result":"WA","user_id":"poche"}
+,{"contest_id":"abc130","epoch_second":1560688509,"execution_time":"","id":5968841,"language":"C++14 (Clang 3.8.0)","length":994,"point":0.0,"problem_id":"abc130_d","result":"TLE","user_id":"poche"}
+,{"contest_id":"abc130","epoch_second":1560689703,"execution_time":1,"id":5974310,"language":"C++14 (Clang 3.8.0)","length":904,"point":0.0,"problem_id":"abc130_c","result":"WA","user_id":"poche"}
 ]

@@ -1,469 +1,486 @@
-[{"contest_id":"abc002","epoch_second":1382880028,"execution_time":240,"id":111885,"language":"C# (Mono 2.10.8.1)","length":269,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc002","epoch_second":1382880317,"execution_time":106,"id":111920,"language":"C# (Mono 2.10.8.1)","length":397,"point":100,"problem_id":"abc002_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc002","epoch_second":1382880808,"execution_time":162,"id":111964,"language":"C# (Mono 2.10.8.1)","length":455,"point":0,"problem_id":"abc002_3","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc002","epoch_second":1382881977,"execution_time":179,"id":112081,"language":"C# (Mono 2.10.8.1)","length":465,"point":0,"problem_id":"abc002_3","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394806589,"execution_time":"","id":142817,"language":"C (GCC 4.6.4)","length":188,"point":0,"problem_id":"abc004_1","result":"CE","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394806779,"execution_time":"","id":142818,"language":"C (GCC 4.6.4)","length":116,"point":0,"problem_id":"abc004_1","result":"CE","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394806804,"execution_time":35,"id":142819,"language":"C++ (G++ 4.6.4)","length":116,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394807382,"execution_time":25,"id":142821,"language":"C++ (G++ 4.6.4)","length":440,"point":0,"problem_id":"abc004_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394807462,"execution_time":29,"id":142822,"language":"C++ (G++ 4.6.4)","length":524,"point":100,"problem_id":"abc004_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394807953,"execution_time":"","id":142832,"language":"C++ (G++ 4.6.4)","length":366,"point":30,"problem_id":"abc004_3","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc004","epoch_second":1394843326,"execution_time":22,"id":142879,"language":"C++ (G++ 4.6.4)","length":378,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc018","epoch_second":1394845486,"execution_time":24,"id":142890,"language":"C++ (G++ 4.6.4)","length":152,"point":100,"problem_id":"arc018_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc018","epoch_second":1394846513,"execution_time":"","id":142893,"language":"C++ (G++ 4.6.4)","length":569,"point":0,"problem_id":"arc018_2","result":"CE","user_id":"obakyan"}
-,{"contest_id":"arc018","epoch_second":1394846832,"execution_time":25,"id":142895,"language":"C++ (G++ 4.6.4)","length":568,"point":0,"problem_id":"arc018_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc018","epoch_second":1394846995,"execution_time":28,"id":142896,"language":"C++ (G++ 4.6.4)","length":575,"point":100,"problem_id":"arc018_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc003","epoch_second":1394861524,"execution_time":34,"id":143051,"language":"C++ (G++ 4.6.4)","length":872,"point":100,"problem_id":"abc003_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc019","epoch_second":1394941043,"execution_time":"","id":145267,"language":"C++ (G++ 4.6.4)","length":404,"point":0,"problem_id":"arc019_1","result":"CE","user_id":"obakyan"}
-,{"contest_id":"arc019","epoch_second":1394941077,"execution_time":24,"id":145268,"language":"C++ (G++ 4.6.4)","length":385,"point":100,"problem_id":"arc019_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc001","epoch_second":1394961540,"execution_time":35,"id":145572,"language":"C++ (G++ 4.6.4)","length":505,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc001","epoch_second":1395324389,"execution_time":52,"id":146491,"language":"C++ (G++ 4.6.4)","length":329,"point":100,"problem_id":"abc001_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395489820,"execution_time":24,"id":146939,"language":"C++ (G++ 4.6.4)","length":135,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395490021,"execution_time":24,"id":147046,"language":"C++ (G++ 4.6.4)","length":199,"point":100,"problem_id":"abc005_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395491575,"execution_time":27,"id":147428,"language":"C++ (G++ 4.6.4)","length":492,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395493240,"execution_time":50,"id":147726,"language":"C++ (G++ 4.6.4)","length":621,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395493417,"execution_time":23,"id":147755,"language":"C++ (G++ 4.6.4)","length":643,"point":0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395493661,"execution_time":23,"id":147797,"language":"C++ (G++ 4.6.4)","length":655,"point":100,"problem_id":"abc005_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395495443,"execution_time":"","id":148000,"language":"C++ (G++ 4.6.4)","length":1013,"point":50,"problem_id":"abc005_4","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395495876,"execution_time":5038,"id":148041,"language":"C++ (G++ 4.6.4)","length":1169,"point":0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395495974,"execution_time":"","id":148051,"language":"C++ (G++ 4.6.4)","length":1171,"point":50,"problem_id":"abc005_4","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395496566,"execution_time":5031,"id":148103,"language":"C++ (G++ 4.6.4)","length":1365,"point":0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395496721,"execution_time":23,"id":148121,"language":"C++ (G++ 4.6.4)","length":1362,"point":0,"problem_id":"abc005_1","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1395496734,"execution_time":5037,"id":148123,"language":"C++ (G++ 4.6.4)","length":1362,"point":0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396097878,"execution_time":24,"id":152465,"language":"C++ (G++ 4.6.4)","length":1132,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396098045,"execution_time":22,"id":152501,"language":"C++ (G++ 4.6.4)","length":1117,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396182112,"execution_time":25,"id":153519,"language":"C++ (G++ 4.6.4)","length":1259,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396182647,"execution_time":23,"id":153530,"language":"C++ (G++ 4.6.4)","length":1435,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396182932,"execution_time":23,"id":153534,"language":"C++ (G++ 4.6.4)","length":1520,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396183037,"execution_time":33,"id":153535,"language":"C++ (G++ 4.6.4)","length":1484,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396183716,"execution_time":26,"id":153539,"language":"C++ (G++ 4.6.4)","length":1484,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396183997,"execution_time":22,"id":153543,"language":"C++ (G++ 4.6.4)","length":1485,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396184231,"execution_time":20,"id":153547,"language":"C++ (G++ 4.6.4)","length":1440,"point":0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc020","epoch_second":1396184380,"execution_time":23,"id":153549,"language":"C++ (G++ 4.6.4)","length":1376,"point":100,"problem_id":"arc020_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc022","epoch_second":1399118843,"execution_time":23,"id":165367,"language":"C++ (G++ 4.6.4)","length":517,"point":0,"problem_id":"arc022_1","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc022","epoch_second":1399294038,"execution_time":25,"id":167558,"language":"C++ (G++ 4.6.4)","length":526,"point":100,"problem_id":"arc022_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc034","epoch_second":1424520739,"execution_time":39,"id":341071,"language":"C (GCC 4.6.4)","length":330,"point":0,"problem_id":"arc034_1","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc034","epoch_second":1424520994,"execution_time":27,"id":341155,"language":"C (GCC 4.6.4)","length":301,"point":100,"problem_id":"arc034_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc050","epoch_second":1460440289,"execution_time":3,"id":693057,"language":"C (GCC 5.4.1)","length":159,"point":100,"problem_id":"arc050_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc055","epoch_second":1465806644,"execution_time":2,"id":766610,"language":"C (GCC 5.4.1)","length":241,"point":100,"problem_id":"arc055_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc004","epoch_second":1472990919,"execution_time":2,"id":865317,"language":"C++14 (GCC 5.4.1)","length":338,"point":200,"problem_id":"agc004_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"tenka1-2016-final-open","epoch_second":1473488654,"execution_time":3,"id":873849,"language":"Text (cat)","length":33,"point":100,"problem_id":"tenka1_2016_final_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc007","epoch_second":1480058439,"execution_time":1,"id":990855,"language":"C++14 (GCC 5.4.1)","length":443,"point":200,"problem_id":"agc007_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc051","epoch_second":1483874732,"execution_time":1,"id":1058731,"language":"C (GCC 5.4.1)","length":130,"point":100,"problem_id":"abc051_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc051","epoch_second":1483876218,"execution_time":1,"id":1058758,"language":"C (GCC 5.4.1)","length":400,"point":200,"problem_id":"abc051_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc051","epoch_second":1483877254,"execution_time":1,"id":1058774,"language":"C (GCC 5.4.1)","length":606,"point":300,"problem_id":"abc051_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc009","epoch_second":1485089050,"execution_time":27,"id":1074825,"language":"C (GCC 5.4.1)","length":485,"point":300,"problem_id":"agc009_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc086","epoch_second":1518501022,"execution_time":1,"id":2092160,"language":"C++14 (GCC 5.4.1)","length":197,"point":100,"problem_id":"abc086_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc086","epoch_second":1518501955,"execution_time":1,"id":2092189,"language":"C++14 (GCC 5.4.1)","length":381,"point":200,"problem_id":"abc086_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc086","epoch_second":1518503366,"execution_time":72,"id":2092227,"language":"C++14 (GCC 5.4.1)","length":618,"point":300,"problem_id":"arc089_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1553946808,"execution_time":75,"id":4762394,"language":"Lua (5.3.2)","length":130,"point":100,"problem_id":"abc122_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1553947150,"execution_time":129,"id":4762496,"language":"Lua (5.3.2)","length":108,"point":200,"problem_id":"abc122_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553947268,"execution_time":124,"id":4762788,"language":"Lua (5.3.2)","length":94,"point":100,"problem_id":"exawizards2019_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553947446,"execution_time":7,"id":4765367,"language":"Lua (5.3.2)","length":191,"point":200,"problem_id":"exawizards2019_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553949484,"execution_time":"","id":4770330,"language":"LuaJIT (2.0.4)","length":980,"point":0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553949781,"execution_time":"","id":4770683,"language":"LuaJIT (2.0.4)","length":914,"point":0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553953585,"execution_time":2103,"id":4774987,"language":"LuaJIT (2.0.4)","length":2028,"point":0,"problem_id":"exawizards2019_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553954075,"execution_time":306,"id":4775629,"language":"LuaJIT (2.0.4)","length":1799,"point":500,"problem_id":"exawizards2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"exawizards2019","epoch_second":1553955371,"execution_time":"","id":4776742,"language":"Lua (5.3.2)","length":1799,"point":0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1554476603,"execution_time":"","id":4834500,"language":"LuaJIT (2.0.4)","length":219,"point":0,"problem_id":"abc122_c","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1554477938,"execution_time":115,"id":4834679,"language":"LuaJIT (2.0.4)","length":442,"point":0,"problem_id":"abc122_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1554478576,"execution_time":111,"id":4834764,"language":"LuaJIT (2.0.4)","length":446,"point":300,"problem_id":"abc122_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"s8pc-1","epoch_second":1554478970,"execution_time":1,"id":4834806,"language":"LuaJIT (2.0.4)","length":63,"point":100,"problem_id":"s8pc_1_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc122","epoch_second":1554542508,"execution_time":1,"id":4840987,"language":"C++14 (GCC 5.4.1)","length":2566,"point":400,"problem_id":"abc122_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc121","epoch_second":1554542876,"execution_time":1,"id":4841051,"language":"LuaJIT (2.0.4)","length":63,"point":100,"problem_id":"abc121_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc121","epoch_second":1554543097,"execution_time":1,"id":4841098,"language":"LuaJIT (2.0.4)","length":253,"point":200,"problem_id":"abc121_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc121","epoch_second":1554547218,"execution_time":77,"id":4841796,"language":"C++14 (GCC 5.4.1)","length":1523,"point":300,"problem_id":"abc121_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc123","epoch_second":1554552216,"execution_time":1,"id":4843529,"language":"LuaJIT (2.0.4)","length":86,"point":100,"problem_id":"abc123_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc123","epoch_second":1554552589,"execution_time":1,"id":4846020,"language":"LuaJIT (2.0.4)","length":418,"point":200,"problem_id":"abc123_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc123","epoch_second":1554554613,"execution_time":1,"id":4853914,"language":"C++14 (GCC 5.4.1)","length":2802,"point":300,"problem_id":"abc123_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc123","epoch_second":1554556788,"execution_time":46,"id":4859455,"language":"C++14 (GCC 5.4.1)","length":4688,"point":400,"problem_id":"abc123_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc002","epoch_second":1554594707,"execution_time":1,"id":4870052,"language":"LuaJIT (2.0.4)","length":96,"point":100,"problem_id":"abc002_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc006","epoch_second":1554595030,"execution_time":1,"id":4870076,"language":"LuaJIT (2.0.4)","length":54,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc006","epoch_second":1554595193,"execution_time":13,"id":4870083,"language":"LuaJIT (2.0.4)","length":159,"point":100,"problem_id":"abc006_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc006","epoch_second":1554595744,"execution_time":1,"id":4870114,"language":"LuaJIT (2.0.4)","length":262,"point":100,"problem_id":"abc006_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc003","epoch_second":1554596574,"execution_time":1,"id":4870163,"language":"LuaJIT (2.0.4)","length":267,"point":100,"problem_id":"abc003_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc001","epoch_second":1554596984,"execution_time":1,"id":4870205,"language":"C++14 (GCC 5.4.1)","length":505,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc040","epoch_second":1554597706,"execution_time":34,"id":4870278,"language":"LuaJIT (2.0.4)","length":275,"point":100,"problem_id":"abc040_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc100","epoch_second":1554599068,"execution_time":4,"id":4870417,"language":"LuaJIT (2.0.4)","length":202,"point":300,"problem_id":"abc100_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1554599202,"execution_time":1,"id":4870436,"language":"LuaJIT (2.0.4)","length":72,"point":200,"problem_id":"abc099_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1554599278,"execution_time":1,"id":4870439,"language":"LuaJIT (2.0.4)","length":46,"point":100,"problem_id":"abc099_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc040","epoch_second":1554600575,"execution_time":1,"id":4870606,"language":"LuaJIT (2.0.4)","length":267,"point":100,"problem_id":"abc040_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc040","epoch_second":1554600786,"execution_time":"","id":4870634,"language":"LuaJIT (2.0.4)","length":50,"point":0,"problem_id":"abc040_a","result":"CE","user_id":"obakyan"}
-,{"contest_id":"abc040","epoch_second":1554600805,"execution_time":"","id":4870637,"language":"LuaJIT (2.0.4)","length":51,"point":0,"problem_id":"abc040_a","result":"RE","user_id":"obakyan"}
-,{"contest_id":"abc040","epoch_second":1554600841,"execution_time":1,"id":4870644,"language":"LuaJIT (2.0.4)","length":56,"point":100,"problem_id":"abc040_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1554636251,"execution_time":2,"id":4877158,"language":"LuaJIT (2.0.4)","length":628,"point":300,"problem_id":"abc099_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc058","epoch_second":1554637187,"execution_time":2,"id":4877310,"language":"LuaJIT (2.0.4)","length":597,"point":300,"problem_id":"arc071_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc049","epoch_second":1554637360,"execution_time":5,"id":4877342,"language":"LuaJIT (2.0.4)","length":193,"point":300,"problem_id":"arc065_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc028","epoch_second":1554637857,"execution_time":1,"id":4877425,"language":"LuaJIT (2.0.4)","length":538,"point":100,"problem_id":"abc028_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc028","epoch_second":1554638073,"execution_time":1,"id":4877470,"language":"LuaJIT (2.0.4)","length":292,"point":100,"problem_id":"abc028_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc028","epoch_second":1554638186,"execution_time":1,"id":4877488,"language":"LuaJIT (2.0.4)","length":106,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc041","epoch_second":1554639298,"execution_time":269,"id":4877908,"language":"LuaJIT (2.0.4)","length":371,"point":100,"problem_id":"abc041_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc042","epoch_second":1554640987,"execution_time":1,"id":4878464,"language":"LuaJIT (2.0.4)","length":837,"point":0,"problem_id":"arc058_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc042","epoch_second":1554641820,"execution_time":1,"id":4878715,"language":"LuaJIT (2.0.4)","length":1005,"point":300,"problem_id":"arc058_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc042","epoch_second":1554647737,"execution_time":49,"id":4880199,"language":"C++14 (GCC 5.4.1)","length":1577,"point":400,"problem_id":"arc058_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc041","epoch_second":1554647961,"execution_time":1,"id":4880247,"language":"C++14 (GCC 5.4.1)","length":403,"point":100,"problem_id":"abc041_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc041","epoch_second":1554648016,"execution_time":1,"id":4880263,"language":"LuaJIT (2.0.4)","length":60,"point":100,"problem_id":"abc041_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1554648441,"execution_time":40,"id":4880355,"language":"LuaJIT (2.0.4)","length":459,"point":300,"problem_id":"arc087_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc081","epoch_second":1554649381,"execution_time":174,"id":4880489,"language":"LuaJIT (2.0.4)","length":322,"point":300,"problem_id":"arc086_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1554737257,"execution_time":39,"id":4890848,"language":"C++14 (GCC 5.4.1)","length":588,"point":100,"problem_id":"abc037_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc105","epoch_second":1554784533,"execution_time":1,"id":4893727,"language":"LuaJIT (2.0.4)","length":371,"point":0,"problem_id":"abc105_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc105","epoch_second":1554784610,"execution_time":3,"id":4893738,"language":"LuaJIT (2.0.4)","length":383,"point":300,"problem_id":"abc105_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554791122,"execution_time":21,"id":4894832,"language":"LuaJIT (2.0.4)","length":337,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554791570,"execution_time":22,"id":4894900,"language":"LuaJIT (2.0.4)","length":363,"point":300,"problem_id":"arc099_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554821413,"execution_time":2103,"id":4900284,"language":"LuaJIT (2.0.4)","length":505,"point":0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554821503,"execution_time":"","id":4900307,"language":"LuaJIT (2.0.4)","length":504,"point":0,"problem_id":"arc099_b","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc049","epoch_second":1554855642,"execution_time":1,"id":4902177,"language":"LuaJIT (2.0.4)","length":101,"point":200,"problem_id":"abc049_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc049","epoch_second":1554855724,"execution_time":1,"id":4902184,"language":"LuaJIT (2.0.4)","length":123,"point":100,"problem_id":"abc049_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554905441,"execution_time":3,"id":4909932,"language":"LuaJIT (2.0.4)","length":1597,"point":0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554908483,"execution_time":4,"id":4910575,"language":"LuaJIT (2.0.4)","length":1783,"point":0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1554935685,"execution_time":2,"id":4912079,"language":"LuaJIT (2.0.4)","length":188,"point":100,"problem_id":"abc037_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1554935981,"execution_time":2,"id":4912090,"language":"LuaJIT (2.0.4)","length":65,"point":100,"problem_id":"abc037_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1554957443,"execution_time":3,"id":4913940,"language":"C++14 (GCC 5.4.1)","length":1956,"point":500,"problem_id":"arc099_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc100","epoch_second":1554960321,"execution_time":7,"id":4914300,"language":"LuaJIT (2.0.4)","length":577,"point":400,"problem_id":"abc100_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc102","epoch_second":1554961620,"execution_time":172,"id":4914513,"language":"LuaJIT (2.0.4)","length":234,"point":300,"problem_id":"arc100_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc104","epoch_second":1554968846,"execution_time":3,"id":4915770,"language":"LuaJIT (2.0.4)","length":793,"point":300,"problem_id":"abc104_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1554990775,"execution_time":17,"id":4919275,"language":"LuaJIT (2.0.4)","length":1204,"point":0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc005","epoch_second":1554991607,"execution_time":16,"id":4919422,"language":"LuaJIT (2.0.4)","length":1167,"point":100,"problem_id":"abc005_4","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc056","epoch_second":1554992877,"execution_time":1,"id":4919668,"language":"LuaJIT (2.0.4)","length":250,"point":0,"problem_id":"arc070_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc056","epoch_second":1554992981,"execution_time":1,"id":4919686,"language":"LuaJIT (2.0.4)","length":169,"point":200,"problem_id":"arc070_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc042","epoch_second":1554993418,"execution_time":1,"id":4919759,"language":"LuaJIT (2.0.4)","length":152,"point":200,"problem_id":"abc042_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc042","epoch_second":1554993550,"execution_time":1,"id":4919783,"language":"LuaJIT (2.0.4)","length":70,"point":100,"problem_id":"abc042_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc033","epoch_second":1554994886,"execution_time":14,"id":4920079,"language":"LuaJIT (2.0.4)","length":365,"point":100,"problem_id":"abc033_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc085","epoch_second":1555028275,"execution_time":1,"id":4921821,"language":"LuaJIT (2.0.4)","length":391,"point":300,"problem_id":"abc085_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc085","epoch_second":1555069478,"execution_time":179,"id":4927658,"language":"LuaJIT (2.0.4)","length":462,"point":400,"problem_id":"abc085_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc100","epoch_second":1555155314,"execution_time":1,"id":4937666,"language":"LuaJIT (2.0.4)","length":67,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc100","epoch_second":1555155593,"execution_time":1,"id":4937736,"language":"LuaJIT (2.0.4)","length":114,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc100","epoch_second":1555155704,"execution_time":1,"id":4937757,"language":"LuaJIT (2.0.4)","length":98,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1555155978,"execution_time":1,"id":4937847,"language":"LuaJIT (2.0.4)","length":137,"point":200,"problem_id":"abc101_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc101","epoch_second":1555156066,"execution_time":1,"id":4937880,"language":"LuaJIT (2.0.4)","length":133,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc124","epoch_second":1555165487,"execution_time":21,"id":4962300,"language":"LuaJIT (2.0.4)","length":558,"point":400,"problem_id":"abc124_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc124","epoch_second":1555201115,"execution_time":6,"id":4966405,"language":"LuaJIT (2.0.4)","length":243,"point":300,"problem_id":"abc124_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc124","epoch_second":1555201283,"execution_time":1,"id":4966429,"language":"LuaJIT (2.0.4)","length":160,"point":200,"problem_id":"abc124_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc124","epoch_second":1555201363,"execution_time":1,"id":4966434,"language":"LuaJIT (2.0.4)","length":95,"point":100,"problem_id":"abc124_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc085","epoch_second":1555201670,"execution_time":1,"id":4966466,"language":"LuaJIT (2.0.4)","length":147,"point":200,"problem_id":"abc085_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc085","epoch_second":1555201731,"execution_time":1,"id":4966470,"language":"LuaJIT (2.0.4)","length":59,"point":100,"problem_id":"abc085_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc102","epoch_second":1555217741,"execution_time":1,"id":4968540,"language":"LuaJIT (2.0.4)","length":69,"point":100,"problem_id":"abc102_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc102","epoch_second":1555217775,"execution_time":1,"id":4968546,"language":"LuaJIT (2.0.4)","length":102,"point":200,"problem_id":"abc102_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555249174,"execution_time":"","id":4978069,"language":"LuaJIT (2.0.4)","length":1509,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555251884,"execution_time":"","id":4979309,"language":"LuaJIT (2.0.4)","length":1558,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555252433,"execution_time":1938,"id":4979579,"language":"LuaJIT (2.0.4)","length":1730,"point":100,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555287952,"execution_time":"","id":4982437,"language":"LuaJIT (2.0.4)","length":1629,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555288412,"execution_time":"","id":4982473,"language":"LuaJIT (2.0.4)","length":1555,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555289403,"execution_time":"","id":4982555,"language":"LuaJIT (2.0.4)","length":1577,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555291030,"execution_time":"","id":4982683,"language":"LuaJIT (2.0.4)","length":1607,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555291489,"execution_time":1984,"id":4982709,"language":"LuaJIT (2.0.4)","length":1567,"point":100,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555292335,"execution_time":"","id":4982796,"language":"LuaJIT (2.0.4)","length":1622,"point":0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555292544,"execution_time":1756,"id":4982810,"language":"LuaJIT (2.0.4)","length":1655,"point":100,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc037","epoch_second":1555295523,"execution_time":1559,"id":4983133,"language":"LuaJIT (2.0.4)","length":1936,"point":100,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc088","epoch_second":1555317776,"execution_time":2,"id":4987133,"language":"LuaJIT (2.0.4)","length":1227,"point":400,"problem_id":"abc088_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc088","epoch_second":1555336364,"execution_time":2,"id":4990736,"language":"LuaJIT (2.0.4)","length":224,"point":300,"problem_id":"abc088_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc088","epoch_second":1555336542,"execution_time":2,"id":4990788,"language":"LuaJIT (2.0.4)","length":270,"point":200,"problem_id":"abc088_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc088","epoch_second":1555336642,"execution_time":2,"id":4990811,"language":"LuaJIT (2.0.4)","length":90,"point":100,"problem_id":"abc088_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1555338605,"execution_time":2104,"id":4991281,"language":"C++14 (GCC 5.4.1)","length":1572,"point":0,"problem_id":"abc034_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1555338970,"execution_time":"","id":4991363,"language":"C++14 (GCC 5.4.1)","length":1609,"point":0,"problem_id":"abc034_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc057","epoch_second":1555366829,"execution_time":2,"id":4993133,"language":"LuaJIT (2.0.4)","length":334,"point":300,"problem_id":"abc057_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc069","epoch_second":1555367075,"execution_time":1,"id":4993145,"language":"LuaJIT (2.0.4)","length":179,"point":300,"problem_id":"arc069_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc054","epoch_second":1555374980,"execution_time":10,"id":4993523,"language":"LuaJIT (2.0.4)","length":819,"point":300,"problem_id":"abc054_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc068","epoch_second":1555375354,"execution_time":9,"id":4993546,"language":"Lua (5.3.2)","length":147,"point":300,"problem_id":"arc068_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1555388394,"execution_time":66,"id":4995029,"language":"LuaJIT (2.0.4)","length":548,"point":100,"problem_id":"abc034_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc096","epoch_second":1555394311,"execution_time":2,"id":4995929,"language":"LuaJIT (2.0.4)","length":700,"point":0,"problem_id":"abc096_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc096","epoch_second":1555394403,"execution_time":2,"id":4995949,"language":"LuaJIT (2.0.4)","length":691,"point":300,"problem_id":"abc096_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc084","epoch_second":1555424463,"execution_time":260,"id":5000951,"language":"LuaJIT (2.0.4)","length":1285,"point":0,"problem_id":"arc084_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc084","epoch_second":1555424943,"execution_time":248,"id":5001047,"language":"LuaJIT (2.0.4)","length":1184,"point":0,"problem_id":"arc084_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc084","epoch_second":1555425715,"execution_time":388,"id":5001187,"language":"Lua (5.3.2)","length":1187,"point":300,"problem_id":"arc084_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc067","epoch_second":1555426463,"execution_time":136,"id":5001315,"language":"Lua (5.3.2)","length":444,"point":300,"problem_id":"arc078_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1555426878,"execution_time":16,"id":5001368,"language":"C++14 (GCC 5.4.1)","length":911,"point":101,"problem_id":"abc034_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc067","epoch_second":1555453777,"execution_time":1,"id":5002717,"language":"LuaJIT (2.0.4)","length":551,"point":300,"problem_id":"arc067_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc012","epoch_second":1555453979,"execution_time":1,"id":5002725,"language":"LuaJIT (2.0.4)","length":166,"point":100,"problem_id":"abc012_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc027","epoch_second":1555461635,"execution_time":7,"id":5003085,"language":"Lua (5.3.2)","length":327,"point":0,"problem_id":"abc027_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc027","epoch_second":1555462155,"execution_time":7,"id":5003121,"language":"Lua (5.3.2)","length":361,"point":0,"problem_id":"abc027_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc027","epoch_second":1555510141,"execution_time":4,"id":5010121,"language":"Lua (5.3.2)","length":365,"point":100,"problem_id":"abc027_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc029","epoch_second":1555510784,"execution_time":23,"id":5010223,"language":"Lua (5.3.2)","length":301,"point":100,"problem_id":"abc029_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc026","epoch_second":1555512001,"execution_time":6,"id":5010420,"language":"Lua (5.3.2)","length":497,"point":100,"problem_id":"abc026_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc073","epoch_second":1555512253,"execution_time":52,"id":5010473,"language":"LuaJIT (2.0.4)","length":214,"point":300,"problem_id":"abc073_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc094","epoch_second":1555512664,"execution_time":655,"id":5010557,"language":"Lua (5.3.2)","length":247,"point":300,"problem_id":"arc095_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc068","epoch_second":1555540124,"execution_time":114,"id":5012161,"language":"Lua (5.3.2)","length":326,"point":300,"problem_id":"arc079_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc066","epoch_second":1555540742,"execution_time":"","id":5012176,"language":"LuaJIT (2.0.4)","length":388,"point":0,"problem_id":"arc077_a","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc066","epoch_second":1555547253,"execution_time":219,"id":5012473,"language":"LuaJIT (2.0.4)","length":447,"point":300,"problem_id":"arc077_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc073","epoch_second":1555547857,"execution_time":92,"id":5012511,"language":"LuaJIT (2.0.4)","length":280,"point":300,"problem_id":"arc073_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc065","epoch_second":1555550674,"execution_time":25,"id":5012699,"language":"Lua (5.3.2)","length":349,"point":300,"problem_id":"arc076_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc087","epoch_second":1555570479,"execution_time":1,"id":5015042,"language":"LuaJIT (2.0.4)","length":280,"point":300,"problem_id":"arc090_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc106","epoch_second":1555583174,"execution_time":4,"id":5017124,"language":"Lua (5.3.2)","length":249,"point":300,"problem_id":"abc106_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc089","epoch_second":1555583590,"execution_time":51,"id":5017168,"language":"Lua (5.3.2)","length":662,"point":300,"problem_id":"abc089_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc111","epoch_second":1555597647,"execution_time":161,"id":5019521,"language":"LuaJIT (2.0.4)","length":1350,"point":300,"problem_id":"arc103_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc120","epoch_second":1555598058,"execution_time":2,"id":5019642,"language":"LuaJIT (2.0.4)","length":147,"point":300,"problem_id":"abc120_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc022","epoch_second":1555599259,"execution_time":41,"id":5019870,"language":"LuaJIT (2.0.4)","length":714,"point":0,"problem_id":"arc022_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc022","epoch_second":1555599446,"execution_time":41,"id":5019900,"language":"LuaJIT (2.0.4)","length":720,"point":100,"problem_id":"arc022_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc097","epoch_second":1555760327,"execution_time":"","id":5035836,"language":"Lua (5.3.2)","length":682,"point":0,"problem_id":"arc097_b","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"arc097","epoch_second":1555760375,"execution_time":"","id":5035844,"language":"LuaJIT (2.0.4)","length":682,"point":0,"problem_id":"arc097_b","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"tenka1-2019","epoch_second":1555762350,"execution_time":8,"id":5042346,"language":"LuaJIT (2.0.4)","length":553,"point":300,"problem_id":"tenka1_2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555772903,"execution_time":1,"id":5066115,"language":"LuaJIT (2.0.4)","length":207,"point":200,"problem_id":"tenka1_2019_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555773035,"execution_time":1,"id":5066186,"language":"LuaJIT (2.0.4)","length":71,"point":0,"problem_id":"tenka1_2019_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"tenka1-2019-beginner","epoch_second":1555773123,"execution_time":1,"id":5066215,"language":"LuaJIT (2.0.4)","length":71,"point":100,"problem_id":"tenka1_2019_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc097","epoch_second":1555773930,"execution_time":260,"id":5066552,"language":"LuaJIT (2.0.4)","length":772,"point":400,"problem_id":"arc097_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc007","epoch_second":1555776232,"execution_time":"","id":5067265,"language":"LuaJIT (2.0.4)","length":1785,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"obakyan"}
-,{"contest_id":"abc007","epoch_second":1555776304,"execution_time":"","id":5067283,"language":"LuaJIT (2.0.4)","length":1785,"point":0,"problem_id":"abc007_3","result":"RE","user_id":"obakyan"}
-,{"contest_id":"abc007","epoch_second":1555817124,"execution_time":3,"id":5071005,"language":"LuaJIT (2.0.4)","length":1821,"point":100,"problem_id":"abc007_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc118","epoch_second":1555817956,"execution_time":33,"id":5071149,"language":"LuaJIT (2.0.4)","length":281,"point":300,"problem_id":"abc118_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc117","epoch_second":1555819028,"execution_time":236,"id":5071301,"language":"Lua (5.3.2)","length":387,"point":300,"problem_id":"abc117_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc058","epoch_second":1555819471,"execution_time":8,"id":5071372,"language":"Lua (5.3.2)","length":193,"point":200,"problem_id":"abc058_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc058","epoch_second":1555819532,"execution_time":7,"id":5071377,"language":"Lua (5.3.2)","length":82,"point":100,"problem_id":"abc058_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc116","epoch_second":1555835480,"execution_time":9,"id":5074670,"language":"Lua (5.3.2)","length":870,"point":300,"problem_id":"abc116_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc014","epoch_second":1555836157,"execution_time":51,"id":5074845,"language":"LuaJIT (2.0.4)","length":333,"point":100,"problem_id":"abc014_3","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc016","epoch_second":1555836943,"execution_time":1,"id":5075042,"language":"LuaJIT (2.0.4)","length":456,"point":100,"problem_id":"arc016_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc008","epoch_second":1555837370,"execution_time":7,"id":5075153,"language":"Lua (5.3.2)","length":83,"point":100,"problem_id":"arc008_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc102","epoch_second":1555858010,"execution_time":8,"id":5080003,"language":"Lua (5.3.2)","length":186,"point":300,"problem_id":"arc102_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc093","epoch_second":1555858503,"execution_time":1,"id":5080156,"language":"Lua (5.3.2)","length":577,"point":300,"problem_id":"arc094_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc002","epoch_second":1555938531,"execution_time":8,"id":5090512,"language":"Lua (5.3.2)","length":154,"point":100,"problem_id":"arc002_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc001","epoch_second":1555938861,"execution_time":1,"id":5090598,"language":"Lua (5.3.2)","length":170,"point":0,"problem_id":"arc001_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc001","epoch_second":1555938966,"execution_time":9,"id":5090621,"language":"Lua (5.3.2)","length":180,"point":0,"problem_id":"arc001_2","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc001","epoch_second":1555939233,"execution_time":8,"id":5090675,"language":"Lua (5.3.2)","length":203,"point":100,"problem_id":"arc001_2","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc050","epoch_second":1555940506,"execution_time":8,"id":5090962,"language":"Lua (5.3.2)","length":228,"point":0,"problem_id":"arc050_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc050","epoch_second":1555940804,"execution_time":1,"id":5091031,"language":"Lua (5.3.2)","length":288,"point":0,"problem_id":"arc050_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc050","epoch_second":1555941466,"execution_time":1,"id":5091195,"language":"Lua (5.3.2)","length":596,"point":100,"problem_id":"arc050_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc119","epoch_second":1555942482,"execution_time":102,"id":5091447,"language":"Lua (5.3.2)","length":653,"point":300,"problem_id":"abc119_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc091","epoch_second":1555943054,"execution_time":21,"id":5091566,"language":"Lua (5.3.2)","length":167,"point":0,"problem_id":"arc091_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"arc091","epoch_second":1555943734,"execution_time":18,"id":5091730,"language":"Lua (5.3.2)","length":277,"point":400,"problem_id":"arc091_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc115","epoch_second":1555971977,"execution_time":101,"id":5093457,"language":"Lua (5.3.2)","length":232,"point":300,"problem_id":"abc115_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc081","epoch_second":1555972536,"execution_time":178,"id":5093469,"language":"Lua (5.3.2)","length":441,"point":300,"problem_id":"arc081_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc098","epoch_second":1556014389,"execution_time":121,"id":5098599,"language":"Lua (5.3.2)","length":421,"point":300,"problem_id":"arc098_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc105","epoch_second":1556025530,"execution_time":43,"id":5100534,"language":"Lua (5.3.2)","length":313,"point":400,"problem_id":"abc105_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc026","epoch_second":1556026417,"execution_time":11,"id":5100679,"language":"Lua (5.3.2)","length":272,"point":200,"problem_id":"agc026_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc026","epoch_second":1556028274,"execution_time":7,"id":5100998,"language":"Lua (5.3.2)","length":528,"point":0,"problem_id":"agc026_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"agc026","epoch_second":1556028411,"execution_time":10,"id":5101032,"language":"Lua (5.3.2)","length":564,"point":0,"problem_id":"agc026_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"agc026","epoch_second":1556028924,"execution_time":2,"id":5101133,"language":"Lua (5.3.2)","length":553,"point":600,"problem_id":"agc026_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc095","epoch_second":1556031307,"execution_time":1,"id":5101613,"language":"Lua (5.3.2)","length":312,"point":300,"problem_id":"arc096_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc051","epoch_second":1556031729,"execution_time":8,"id":5101693,"language":"Lua (5.3.2)","length":107,"point":100,"problem_id":"arc051_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1556059002,"execution_time":100,"id":5103227,"language":"LuaJIT (2.0.4)","length":820,"point":400,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1556059032,"execution_time":901,"id":5103228,"language":"Lua (5.3.2)","length":820,"point":400,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1556059147,"execution_time":80,"id":5103230,"language":"LuaJIT (2.0.4)","length":832,"point":400,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc099","epoch_second":1556059194,"execution_time":886,"id":5103233,"language":"Lua (5.3.2)","length":832,"point":400,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc107","epoch_second":1556080681,"execution_time":95,"id":5104917,"language":"LuaJIT (2.0.4)","length":745,"point":300,"problem_id":"arc101_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc109","epoch_second":1556098432,"execution_time":37,"id":5107983,"language":"Lua (5.3.2)","length":242,"point":0,"problem_id":"abc109_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc109","epoch_second":1556098597,"execution_time":50,"id":5108002,"language":"Lua (5.3.2)","length":304,"point":300,"problem_id":"abc109_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc032","epoch_second":1556116493,"execution_time":8,"id":5111442,"language":"Lua (5.3.2)","length":505,"point":0,"problem_id":"agc032_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"agc032","epoch_second":1556116978,"execution_time":8,"id":5111549,"language":"Lua (5.3.2)","length":506,"point":700,"problem_id":"agc032_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc096","epoch_second":1556145369,"execution_time":1,"id":5113195,"language":"Lua (5.3.2)","length":382,"point":400,"problem_id":"abc096_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc059","epoch_second":1556151931,"execution_time":12,"id":5113525,"language":"Lua (5.3.2)","length":391,"point":200,"problem_id":"arc059_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc030","epoch_second":1556204515,"execution_time":"","id":5121603,"language":"Lua (5.3.2)","length":1227,"point":300,"problem_id":"agc030_b","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"agc030","epoch_second":1556204617,"execution_time":"","id":5121614,"language":"LuaJIT (2.0.4)","length":1227,"point":300,"problem_id":"agc030_b","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556366531,"execution_time":8,"id":5139409,"language":"Lua (5.3.2)","length":56,"point":100,"problem_id":"abc125_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556366684,"execution_time":15,"id":5141587,"language":"Lua (5.3.2)","length":231,"point":200,"problem_id":"abc125_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556367191,"execution_time":94,"id":5145659,"language":"Lua (5.3.2)","length":546,"point":0,"problem_id":"abc125_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556367414,"execution_time":93,"id":5146685,"language":"Lua (5.3.2)","length":580,"point":400,"problem_id":"abc125_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556369143,"execution_time":"","id":5152594,"language":"LuaJIT (2.0.4)","length":1001,"point":0,"problem_id":"abc125_c","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556369303,"execution_time":945,"id":5153121,"language":"LuaJIT (2.0.4)","length":1021,"point":300,"problem_id":"abc125_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc125","epoch_second":1556407808,"execution_time":223,"id":5169271,"language":"LuaJIT (2.0.4)","length":1020,"point":300,"problem_id":"abc125_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc045","epoch_second":1556414092,"execution_time":6,"id":5169792,"language":"Lua (5.3.2)","length":482,"point":300,"problem_id":"arc061_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc083","epoch_second":1556433586,"execution_time":7,"id":5172886,"language":"Lua (5.3.2)","length":305,"point":200,"problem_id":"abc083_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc087","epoch_second":1556433834,"execution_time":12,"id":5172955,"language":"Lua (5.3.2)","length":228,"point":200,"problem_id":"abc087_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc081","epoch_second":1556434081,"execution_time":5,"id":5173016,"language":"Lua (5.3.2)","length":269,"point":200,"problem_id":"abc081_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc081","epoch_second":1556434284,"execution_time":1,"id":5173054,"language":"Lua (5.3.2)","length":140,"point":100,"problem_id":"abc081_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc021","epoch_second":1556435115,"execution_time":16,"id":5173256,"language":"C++14 (GCC 5.4.1)","length":827,"point":100,"problem_id":"abc021_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc121","epoch_second":1556534544,"execution_time":"","id":5186835,"language":"LuaJIT (2.0.4)","length":741,"point":0,"problem_id":"abc121_d","result":"RE","user_id":"obakyan"}
-,{"contest_id":"abc121","epoch_second":1556534853,"execution_time":4,"id":5186881,"language":"Lua (5.3.2)","length":733,"point":400,"problem_id":"abc121_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc029","epoch_second":1556535399,"execution_time":5,"id":5186973,"language":"Lua (5.3.2)","length":542,"point":100,"problem_id":"abc029_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc001","epoch_second":1556536358,"execution_time":4,"id":5187202,"language":"Lua (5.3.2)","length":202,"point":200,"problem_id":"agc001_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc009","epoch_second":1556537246,"execution_time":3,"id":5187426,"language":"Lua (5.3.2)","length":187,"point":100,"problem_id":"arc009_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc001","epoch_second":1556539283,"execution_time":1,"id":5187921,"language":"Lua (5.3.2)","length":324,"point":500,"problem_id":"agc001_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc120","epoch_second":1556543773,"execution_time":2104,"id":5189125,"language":"LuaJIT (2.0.4)","length":1572,"point":0,"problem_id":"abc120_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc120","epoch_second":1556546648,"execution_time":145,"id":5189755,"language":"LuaJIT (2.0.4)","length":2231,"point":400,"problem_id":"abc120_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc120","epoch_second":1556548277,"execution_time":2,"id":5190090,"language":"LuaJIT (2.0.4)","length":350,"point":200,"problem_id":"abc120_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc120","epoch_second":1556548388,"execution_time":8,"id":5190121,"language":"Lua (5.3.2)","length":71,"point":100,"problem_id":"abc120_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556606533,"execution_time":7,"id":5200014,"language":"Lua (5.3.2)","length":25,"point":100,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556606785,"execution_time":7,"id":5200134,"language":"Lua (5.3.2)","length":167,"point":100,"problem_id":"iroha2019_day1_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556606857,"execution_time":1,"id":5200173,"language":"Lua (5.3.2)","length":59,"point":100,"problem_id":"iroha2019_day1_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556607037,"execution_time":13,"id":5200259,"language":"Lua (5.3.2)","length":295,"point":200,"problem_id":"iroha2019_day1_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556608124,"execution_time":2108,"id":5200718,"language":"LuaJIT (2.0.4)","length":1765,"point":0,"problem_id":"iroha2019_day1_f","result":"WA","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556608560,"execution_time":2,"id":5200915,"language":"LuaJIT (2.0.4)","length":1752,"point":0,"problem_id":"iroha2019_day1_f","result":"WA","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556609162,"execution_time":2,"id":5201215,"language":"LuaJIT (2.0.4)","length":1967,"point":300,"problem_id":"iroha2019_day1_f","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556609436,"execution_time":192,"id":5201372,"language":"Lua (5.3.2)","length":299,"point":300,"problem_id":"iroha2019_day1_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556610508,"execution_time":10,"id":5201852,"language":"Lua (5.3.2)","length":960,"point":400,"problem_id":"iroha2019_day1_h","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day1","epoch_second":1556613426,"execution_time":16,"id":5203062,"language":"LuaJIT (2.0.4)","length":798,"point":400,"problem_id":"iroha2019_day1_g","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day2","epoch_second":1556686988,"execution_time":1,"id":5213624,"language":"LuaJIT (2.0.4)","length":227,"point":300,"problem_id":"iroha2019_day2_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day2","epoch_second":1556687309,"execution_time":376,"id":5213723,"language":"LuaJIT (2.0.4)","length":454,"point":300,"problem_id":"iroha2019_day2_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"iroha2019-day2","epoch_second":1556692917,"execution_time":704,"id":5215207,"language":"LuaJIT (2.0.4)","length":628,"point":300,"problem_id":"iroha2019_day2_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc033","epoch_second":1556971897,"execution_time":"","id":5257475,"language":"LuaJIT (2.0.4)","length":1075,"point":0,"problem_id":"agc033_a","result":"RE","user_id":"obakyan"}
-,{"contest_id":"agc033","epoch_second":1556972378,"execution_time":201,"id":5258117,"language":"LuaJIT (2.0.4)","length":1097,"point":300,"problem_id":"agc033_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc033","epoch_second":1556974025,"execution_time":43,"id":5260501,"language":"LuaJIT (2.0.4)","length":2034,"point":0,"problem_id":"agc033_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc061","epoch_second":1557067305,"execution_time":159,"id":5282479,"language":"LuaJIT (2.0.4)","length":506,"point":300,"problem_id":"abc061_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc087","epoch_second":1557143568,"execution_time":2,"id":5291831,"language":"LuaJIT (2.0.4)","length":45,"point":100,"problem_id":"abc087_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc087","epoch_second":1557144691,"execution_time":105,"id":5292058,"language":"LuaJIT (2.0.4)","length":1381,"point":0,"problem_id":"arc090_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc087","epoch_second":1557147299,"execution_time":188,"id":5292626,"language":"LuaJIT (2.0.4)","length":2251,"point":400,"problem_id":"arc090_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc043","epoch_second":1557537781,"execution_time":1,"id":5334820,"language":"LuaJIT (2.0.4)","length":236,"point":200,"problem_id":"abc043_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc043","epoch_second":1557537876,"execution_time":11,"id":5334830,"language":"Lua (5.3.2)","length":44,"point":100,"problem_id":"abc043_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc059","epoch_second":1557539283,"execution_time":3,"id":5334981,"language":"LuaJIT (2.0.4)","length":366,"point":400,"problem_id":"arc059_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557576995,"execution_time":13,"id":5342355,"language":"Lua (5.3.2)","length":75,"point":100,"problem_id":"diverta2019_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557577202,"execution_time":28,"id":5344510,"language":"LuaJIT (2.0.4)","length":253,"point":200,"problem_id":"diverta2019_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557579005,"execution_time":6,"id":5353164,"language":"LuaJIT (2.0.4)","length":1364,"point":0,"problem_id":"diverta2019_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557580287,"execution_time":12,"id":5357801,"language":"C++14 (GCC 5.4.1)","length":2381,"point":500,"problem_id":"diverta2019_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557580896,"execution_time":6,"id":5359686,"language":"LuaJIT (2.0.4)","length":1020,"point":400,"problem_id":"diverta2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019","epoch_second":1557581464,"execution_time":6,"id":5361126,"language":"LuaJIT (2.0.4)","length":1020,"point":400,"problem_id":"diverta2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc030","epoch_second":1557588477,"execution_time":1,"id":5368790,"language":"LuaJIT (2.0.4)","length":65,"point":100,"problem_id":"arc030_1","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc044","epoch_second":1557625889,"execution_time":7,"id":5373045,"language":"Lua (5.3.2)","length":390,"point":100,"problem_id":"arc044_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc117","epoch_second":1557843716,"execution_time":4,"id":5401009,"language":"Lua (5.3.2)","length":34,"point":100,"problem_id":"abc117_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc117","epoch_second":1557843882,"execution_time":1,"id":5401045,"language":"Lua (5.3.2)","length":184,"point":200,"problem_id":"abc117_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc119","epoch_second":1558165050,"execution_time":251,"id":5434955,"language":"LuaJIT (2.0.4)","length":1430,"point":400,"problem_id":"abc119_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc084","epoch_second":1558176528,"execution_time":91,"id":5436664,"language":"LuaJIT (2.0.4)","length":740,"point":400,"problem_id":"abc084_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc013","epoch_second":1558177173,"execution_time":27,"id":5436750,"language":"LuaJIT (2.0.4)","length":613,"point":300,"problem_id":"agc013_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc068","epoch_second":1558179030,"execution_time":8,"id":5437009,"language":"Lua (5.3.2)","length":359,"point":600,"problem_id":"arc079_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc016","epoch_second":1558180090,"execution_time":1,"id":5437156,"language":"LuaJIT (2.0.4)","length":415,"point":300,"problem_id":"agc016_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc066","epoch_second":1558182253,"execution_time":24,"id":5437638,"language":"LuaJIT (2.0.4)","length":725,"point":300,"problem_id":"arc066_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc015","epoch_second":1558182777,"execution_time":15,"id":5437737,"language":"Lua (5.3.2)","length":240,"point":400,"problem_id":"agc015_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc048","epoch_second":1558183031,"execution_time":1,"id":5437783,"language":"Lua (5.3.2)","length":147,"point":200,"problem_id":"abc048_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc017","epoch_second":1558183556,"execution_time":1,"id":5437900,"language":"Lua (5.3.2)","length":410,"point":200,"problem_id":"agc017_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc081","epoch_second":1558185004,"execution_time":1,"id":5438238,"language":"LuaJIT (2.0.4)","length":662,"point":400,"problem_id":"arc081_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"code-festival-2016-quala","epoch_second":1558185212,"execution_time":33,"id":5438299,"language":"Lua (5.3.2)","length":198,"point":200,"problem_id":"codefestival_2016_qualA_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc119","epoch_second":1558185854,"execution_time":1,"id":5438438,"language":"LuaJIT (2.0.4)","length":285,"point":200,"problem_id":"abc119_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc119","epoch_second":1558186131,"execution_time":1,"id":5438494,"language":"LuaJIT (2.0.4)","length":256,"point":100,"problem_id":"abc119_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc006","epoch_second":1558187809,"execution_time":2,"id":5438857,"language":"LuaJIT (2.0.4)","length":327,"point":200,"problem_id":"agc006_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc011","epoch_second":1558188856,"execution_time":74,"id":5439043,"language":"LuaJIT (2.0.4)","length":412,"point":300,"problem_id":"agc011_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"keyence2019","epoch_second":1558227097,"execution_time":96,"id":5441756,"language":"LuaJIT (2.0.4)","length":512,"point":400,"problem_id":"keyence2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1558228704,"execution_time":1,"id":5441902,"language":"LuaJIT (2.0.4)","length":55,"point":100,"problem_id":"abc034_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc034","epoch_second":1558228800,"execution_time":7,"id":5441913,"language":"Lua (5.3.2)","length":58,"point":100,"problem_id":"abc034_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc070","epoch_second":1558232898,"execution_time":298,"id":5442361,"language":"LuaJIT (2.0.4)","length":696,"point":0,"problem_id":"abc070_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc070","epoch_second":1558233224,"execution_time":526,"id":5442398,"language":"Lua (5.3.2)","length":696,"point":400,"problem_id":"abc070_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"code-festival-2017-quala","epoch_second":1558238651,"execution_time":7,"id":5443044,"language":"Lua (5.3.2)","length":61,"point":100,"problem_id":"code_festival_2017_quala_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"code-festival-2017-quala","epoch_second":1558238948,"execution_time":3,"id":5443082,"language":"LuaJIT (2.0.4)","length":254,"point":200,"problem_id":"code_festival_2017_quala_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc072","epoch_second":1558239787,"execution_time":23,"id":5443187,"language":"LuaJIT (2.0.4)","length":266,"point":0,"problem_id":"arc082_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc072","epoch_second":1558240253,"execution_time":22,"id":5443243,"language":"LuaJIT (2.0.4)","length":252,"point":400,"problem_id":"arc082_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc071","epoch_second":1558241311,"execution_time":"","id":5443376,"language":"LuaJIT (2.0.4)","length":340,"point":0,"problem_id":"abc071_b","result":"RE","user_id":"obakyan"}
-,{"contest_id":"abc071","epoch_second":1558241434,"execution_time":2,"id":5443395,"language":"LuaJIT (2.0.4)","length":373,"point":200,"problem_id":"abc071_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc071","epoch_second":1558241507,"execution_time":11,"id":5443406,"language":"Lua (5.3.2)","length":82,"point":100,"problem_id":"abc071_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"cf17-final","epoch_second":1558242269,"execution_time":4,"id":5443511,"language":"LuaJIT (2.0.4)","length":287,"point":400,"problem_id":"cf17_final_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc094","epoch_second":1558243282,"execution_time":94,"id":5443680,"language":"Lua (5.3.2)","length":717,"point":400,"problem_id":"arc095_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558267441,"execution_time":1,"id":5449807,"language":"LuaJIT (2.0.4)","length":316,"point":300,"problem_id":"abc126_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558267665,"execution_time":1,"id":5452274,"language":"LuaJIT (2.0.4)","length":422,"point":200,"problem_id":"abc126_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558267853,"execution_time":1,"id":5454087,"language":"LuaJIT (2.0.4)","length":287,"point":100,"problem_id":"abc126_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558268322,"execution_time":239,"id":5458124,"language":"LuaJIT (2.0.4)","length":622,"point":400,"problem_id":"abc126_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558268840,"execution_time":"","id":5461478,"language":"LuaJIT (2.0.4)","length":630,"point":0,"problem_id":"abc126_e","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558269371,"execution_time":82,"id":5464534,"language":"LuaJIT (2.0.4)","length":911,"point":500,"problem_id":"abc126_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558270499,"execution_time":201,"id":5469723,"language":"LuaJIT (2.0.4)","length":572,"point":0,"problem_id":"abc126_f","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558271168,"execution_time":187,"id":5472051,"language":"LuaJIT (2.0.4)","length":960,"point":600,"problem_id":"abc126_f","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc126","epoch_second":1558271373,"execution_time":187,"id":5472758,"language":"LuaJIT (2.0.4)","length":960,"point":600,"problem_id":"abc126_f","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc118","epoch_second":1558312905,"execution_time":1,"id":5485798,"language":"LuaJIT (2.0.4)","length":64,"point":100,"problem_id":"abc118_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc118","epoch_second":1558313216,"execution_time":1,"id":5485840,"language":"Lua (5.3.2)","length":319,"point":200,"problem_id":"abc118_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc102","epoch_second":1558450987,"execution_time":1286,"id":5538687,"language":"Lua (5.3.2)","length":1341,"point":600,"problem_id":"arc100_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc110","epoch_second":1558534820,"execution_time":2,"id":5547553,"language":"LuaJIT (2.0.4)","length":2815,"point":400,"problem_id":"abc110_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc112","epoch_second":1558536234,"execution_time":3,"id":5547830,"language":"LuaJIT (2.0.4)","length":2085,"point":400,"problem_id":"abc112_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc048","epoch_second":1558537033,"execution_time":1,"id":5547994,"language":"LuaJIT (2.0.4)","length":108,"point":100,"problem_id":"abc048_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc089","epoch_second":1558537107,"execution_time":8,"id":5548005,"language":"Lua (5.3.2)","length":27,"point":100,"problem_id":"abc089_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc089","epoch_second":1558537245,"execution_time":7,"id":5548042,"language":"Lua (5.3.2)","length":82,"point":200,"problem_id":"abc089_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc114","epoch_second":1558588894,"execution_time":14,"id":5552013,"language":"Lua (5.3.2)","length":3935,"point":0,"problem_id":"abc114_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc114","epoch_second":1558591647,"execution_time":8,"id":5552446,"language":"Lua (5.3.2)","length":3907,"point":300,"problem_id":"abc114_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc089","epoch_second":1558618124,"execution_time":"","id":5556581,"language":"LuaJIT (2.0.4)","length":738,"point":0,"problem_id":"abc089_d","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc089","epoch_second":1558618291,"execution_time":129,"id":5556609,"language":"LuaJIT (2.0.4)","length":743,"point":400,"problem_id":"abc089_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc045","epoch_second":1558619012,"execution_time":1,"id":5556764,"language":"LuaJIT (2.0.4)","length":283,"point":200,"problem_id":"abc045_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc012","epoch_second":1558619832,"execution_time":385,"id":5556913,"language":"Lua (5.3.2)","length":234,"point":300,"problem_id":"agc012_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc055","epoch_second":1558621082,"execution_time":11,"id":5557180,"language":"LuaJIT (2.0.4)","length":690,"point":0,"problem_id":"arc069_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc055","epoch_second":1558621340,"execution_time":10,"id":5557232,"language":"LuaJIT (2.0.4)","length":932,"point":0,"problem_id":"arc069_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc055","epoch_second":1558622009,"execution_time":23,"id":5557364,"language":"LuaJIT (2.0.4)","length":1136,"point":500,"problem_id":"arc069_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc057","epoch_second":1558623359,"execution_time":8,"id":5557609,"language":"Lua (5.3.2)","length":1065,"point":0,"problem_id":"abc057_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc057","epoch_second":1558623842,"execution_time":8,"id":5557709,"language":"Lua (5.3.2)","length":1169,"point":0,"problem_id":"abc057_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc057","epoch_second":1558651085,"execution_time":7,"id":5559274,"language":"Lua (5.3.2)","length":1137,"point":400,"problem_id":"abc057_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc079","epoch_second":1558774098,"execution_time":8,"id":5582470,"language":"LuaJIT (2.0.4)","length":693,"point":400,"problem_id":"abc079_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558781903,"execution_time":669,"id":5584232,"language":"Lua (5.3.2)","length":146,"point":100,"problem_id":"chokudai_S002_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558781934,"execution_time":243,"id":5584237,"language":"LuaJIT (2.0.4)","length":125,"point":100,"problem_id":"chokudai_S002_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558781992,"execution_time":87,"id":5584256,"language":"Lua (5.3.2)","length":204,"point":200,"problem_id":"chokudai_S002_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558782226,"execution_time":90,"id":5584295,"language":"Lua (5.3.2)","length":204,"point":200,"problem_id":"chokudai_S002_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558782316,"execution_time":89,"id":5584318,"language":"Lua (5.3.2)","length":209,"point":200,"problem_id":"chokudai_S002_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558782367,"execution_time":662,"id":5584328,"language":"Lua (5.3.2)","length":161,"point":100,"problem_id":"chokudai_S002_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558782546,"execution_time":147,"id":5584365,"language":"Lua (5.3.2)","length":306,"point":300,"problem_id":"chokudai_S002_f","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558782633,"execution_time":245,"id":5584384,"language":"LuaJIT (2.0.4)","length":300,"point":300,"problem_id":"chokudai_S002_g","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558784388,"execution_time":"","id":5584779,"language":"LuaJIT (2.0.4)","length":2329,"point":0,"problem_id":"chokudai_S002_h","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558784610,"execution_time":1584,"id":5584857,"language":"LuaJIT (2.0.4)","length":2365,"point":400,"problem_id":"chokudai_S002_h","result":"AC","user_id":"obakyan"}
-,{"contest_id":"chokudai_S002","epoch_second":1558785189,"execution_time":102,"id":5585082,"language":"LuaJIT (2.0.4)","length":824,"point":400,"problem_id":"chokudai_S002_i","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558785732,"execution_time":8,"id":5586322,"language":"Lua (5.3.2)","length":139,"point":200,"problem_id":"abc127_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558785813,"execution_time":8,"id":5588155,"language":"Lua (5.3.2)","length":148,"point":100,"problem_id":"abc127_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558785955,"execution_time":40,"id":5590936,"language":"LuaJIT (2.0.4)","length":379,"point":300,"problem_id":"abc127_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558788150,"execution_time":389,"id":5604917,"language":"LuaJIT (2.0.4)","length":1032,"point":400,"problem_id":"abc127_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558790536,"execution_time":"","id":5612627,"language":"Lua (5.3.2)","length":1527,"point":0,"problem_id":"abc127_f","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc127","epoch_second":1558790657,"execution_time":"","id":5613027,"language":"LuaJIT (2.0.4)","length":1541,"point":0,"problem_id":"abc127_f","result":"TLE","user_id":"obakyan"}
-,{"contest_id":"abc074","epoch_second":1558868718,"execution_time":10,"id":5631466,"language":"LuaJIT (2.0.4)","length":767,"point":300,"problem_id":"arc083_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc078","epoch_second":1558870901,"execution_time":1,"id":5631975,"language":"LuaJIT (2.0.4)","length":76,"point":300,"problem_id":"arc085_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc116","epoch_second":1558871370,"execution_time":1,"id":5632118,"language":"LuaJIT (2.0.4)","length":325,"point":200,"problem_id":"abc116_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc128","epoch_second":1558872469,"execution_time":2,"id":5637378,"language":"LuaJIT (2.0.4)","length":842,"point":300,"problem_id":"abc128_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc128","epoch_second":1558872529,"execution_time":6,"id":5637682,"language":"Lua (5.3.2)","length":170,"point":100,"problem_id":"abc128_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc128","epoch_second":1558873198,"execution_time":1,"id":5640373,"language":"LuaJIT (2.0.4)","length":769,"point":200,"problem_id":"abc128_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc128","epoch_second":1558875451,"execution_time":610,"id":5646001,"language":"LuaJIT (2.0.4)","length":2455,"point":500,"problem_id":"abc128_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc128","epoch_second":1558877389,"execution_time":22,"id":5649828,"language":"LuaJIT (2.0.4)","length":1000,"point":400,"problem_id":"abc128_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc072","epoch_second":1558883434,"execution_time":30,"id":5654957,"language":"LuaJIT (2.0.4)","length":341,"point":300,"problem_id":"arc082_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc084","epoch_second":1558916379,"execution_time":3,"id":5657583,"language":"LuaJIT (2.0.4)","length":375,"point":300,"problem_id":"abc084_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc063","epoch_second":1558936169,"execution_time":1,"id":5660123,"language":"LuaJIT (2.0.4)","length":302,"point":300,"problem_id":"arc075_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc064","epoch_second":1558938278,"execution_time":1,"id":5660498,"language":"LuaJIT (2.0.4)","length":436,"point":0,"problem_id":"abc064_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc064","epoch_second":1558938607,"execution_time":1,"id":5660570,"language":"LuaJIT (2.0.4)","length":409,"point":0,"problem_id":"abc064_c","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc064","epoch_second":1558938929,"execution_time":1,"id":5660628,"language":"LuaJIT (2.0.4)","length":423,"point":300,"problem_id":"abc064_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc030","epoch_second":1558941631,"execution_time":81,"id":5661233,"language":"LuaJIT (2.0.4)","length":740,"point":100,"problem_id":"abc030_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc059","epoch_second":1558960112,"execution_time":51,"id":5664919,"language":"LuaJIT (2.0.4)","length":618,"point":300,"problem_id":"arc072_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc116","epoch_second":1558960198,"execution_time":7,"id":5664932,"language":"Lua (5.3.2)","length":44,"point":100,"problem_id":"abc116_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc115","epoch_second":1558960312,"execution_time":13,"id":5664955,"language":"Lua (5.3.2)","length":181,"point":200,"problem_id":"abc115_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc115","epoch_second":1558960402,"execution_time":1,"id":5664968,"language":"Lua (5.3.2)","length":111,"point":100,"problem_id":"abc115_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc113","epoch_second":1558968178,"execution_time":382,"id":5666886,"language":"LuaJIT (2.0.4)","length":658,"point":300,"problem_id":"abc113_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc112","epoch_second":1558969297,"execution_time":1,"id":5667108,"language":"LuaJIT (2.0.4)","length":669,"point":300,"problem_id":"abc112_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc062","epoch_second":1559003188,"execution_time":21,"id":5669778,"language":"Lua (5.3.2)","length":1425,"point":400,"problem_id":"arc074_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc117","epoch_second":1559054932,"execution_time":398,"id":5678460,"language":"Lua (5.3.2)","length":1251,"point":0,"problem_id":"abc117_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc117","epoch_second":1559140586,"execution_time":388,"id":5694606,"language":"Lua (5.3.2)","length":1338,"point":400,"problem_id":"abc117_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1559320680,"execution_time":37,"id":5716104,"language":"LuaJIT (2.0.4)","length":1347,"point":0,"problem_id":"arc087_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1559321856,"execution_time":37,"id":5716232,"language":"LuaJIT (2.0.4)","length":1409,"point":0,"problem_id":"arc087_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1559347961,"execution_time":66,"id":5717421,"language":"LuaJIT (2.0.4)","length":1450,"point":500,"problem_id":"arc087_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1559348642,"execution_time":1,"id":5717489,"language":"LuaJIT (2.0.4)","length":338,"point":200,"problem_id":"abc082_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc082","epoch_second":1559348696,"execution_time":1,"id":5717495,"language":"LuaJIT (2.0.4)","length":59,"point":100,"problem_id":"abc082_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc114","epoch_second":1559366958,"execution_time":1,"id":5719584,"language":"LuaJIT (2.0.4)","length":1048,"point":400,"problem_id":"abc114_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"m-solutions2019","epoch_second":1559390449,"execution_time":10,"id":5723906,"language":"Lua (5.3.2)","length":47,"point":100,"problem_id":"m_solutions2019_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"m-solutions2019","epoch_second":1559390568,"execution_time":7,"id":5725596,"language":"Lua (5.3.2)","length":168,"point":200,"problem_id":"m_solutions2019_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"m-solutions2019","epoch_second":1559392076,"execution_time":41,"id":5731142,"language":"LuaJIT (2.0.4)","length":791,"point":0,"problem_id":"m_solutions2019_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"m-solutions2019","epoch_second":1559394270,"execution_time":32,"id":5733668,"language":"LuaJIT (2.0.4)","length":1337,"point":500,"problem_id":"m_solutions2019_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"m-solutions2019","epoch_second":1559397943,"execution_time":1356,"id":5737335,"language":"LuaJIT (2.0.4)","length":1589,"point":500,"problem_id":"m_solutions2019_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc114","epoch_second":1559437307,"execution_time":6,"id":5741364,"language":"Lua (5.3.2)","length":184,"point":200,"problem_id":"abc114_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc114","epoch_second":1559437369,"execution_time":7,"id":5741373,"language":"Lua (5.3.2)","length":105,"point":100,"problem_id":"abc114_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc110","epoch_second":1559465152,"execution_time":3,"id":5745718,"language":"LuaJIT (2.0.4)","length":503,"point":300,"problem_id":"abc110_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc110","epoch_second":1559471348,"execution_time":1,"id":5746917,"language":"LuaJIT (2.0.4)","length":515,"point":200,"problem_id":"abc110_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc110","epoch_second":1559471455,"execution_time":8,"id":5746934,"language":"Lua (5.3.2)","length":183,"point":0,"problem_id":"abc110_a","result":"WA","user_id":"obakyan"}
-,{"contest_id":"abc110","epoch_second":1559471547,"execution_time":6,"id":5746949,"language":"Lua (5.3.2)","length":187,"point":100,"problem_id":"abc110_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc103","epoch_second":1559471731,"execution_time":6,"id":5746969,"language":"Lua (5.3.2)","length":148,"point":300,"problem_id":"abc103_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc097","epoch_second":1559472304,"execution_time":15,"id":5747054,"language":"LuaJIT (2.0.4)","length":342,"point":300,"problem_id":"arc097_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc092","epoch_second":1559473259,"execution_time":108,"id":5747216,"language":"LuaJIT (2.0.4)","length":489,"point":300,"problem_id":"arc093_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc090","epoch_second":1559474274,"execution_time":6,"id":5747398,"language":"Lua (5.3.2)","length":275,"point":300,"problem_id":"arc091_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc083","epoch_second":1559474523,"execution_time":8,"id":5747458,"language":"Lua (5.3.2)","length":113,"point":300,"problem_id":"arc088_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc079","epoch_second":1559475057,"execution_time":17,"id":5747552,"language":"Lua (5.3.2)","length":512,"point":300,"problem_id":"abc079_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc070","epoch_second":1559476178,"execution_time":78,"id":5747750,"language":"Lua (5.3.2)","length":305,"point":300,"problem_id":"abc070_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc048","epoch_second":1559478005,"execution_time":88,"id":5749992,"language":"Lua (5.3.2)","length":419,"point":300,"problem_id":"arc064_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"caddi2018","epoch_second":1559478650,"execution_time":25,"id":5752158,"language":"LuaJIT (2.0.4)","length":1397,"point":300,"problem_id":"caddi2018_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc024","epoch_second":1559479148,"execution_time":7,"id":5753717,"language":"Lua (5.3.2)","length":112,"point":300,"problem_id":"agc024_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc029","epoch_second":1559480814,"execution_time":24,"id":5758429,"language":"LuaJIT (2.0.4)","length":279,"point":300,"problem_id":"agc029_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc029","epoch_second":1559480836,"execution_time":83,"id":5758488,"language":"Lua (5.3.2)","length":279,"point":300,"problem_id":"agc029_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc105","epoch_second":1559521601,"execution_time":7,"id":5772107,"language":"Lua (5.3.2)","length":227,"point":200,"problem_id":"abc105_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc105","epoch_second":1559521717,"execution_time":8,"id":5772116,"language":"Lua (5.3.2)","length":64,"point":100,"problem_id":"abc105_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc106","epoch_second":1559573769,"execution_time":7,"id":5780782,"language":"Lua (5.3.2)","length":42,"point":100,"problem_id":"abc106_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc106","epoch_second":1559615899,"execution_time":9,"id":5783525,"language":"Lua (5.3.2)","length":196,"point":200,"problem_id":"abc106_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"arc067","epoch_second":1559712517,"execution_time":58,"id":5794459,"language":"Lua (5.3.2)","length":284,"point":500,"problem_id":"arc067_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"pakencamp-2018-day2","epoch_second":1560079835,"execution_time":7,"id":5834174,"language":"Lua (5.3.2)","length":65,"point":100,"problem_id":"pakencamp_2018_day2_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"pakencamp-2018-day2","epoch_second":1560080169,"execution_time":2,"id":5834268,"language":"LuaJIT (2.0.4)","length":227,"point":100,"problem_id":"pakencamp_2018_day2_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc129","epoch_second":1560081724,"execution_time":4,"id":5835228,"language":"LuaJIT (2.0.4)","length":203,"point":100,"problem_id":"abc129_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc129","epoch_second":1560082008,"execution_time":1,"id":5838800,"language":"LuaJIT (2.0.4)","length":427,"point":200,"problem_id":"abc129_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc129","epoch_second":1560082625,"execution_time":21,"id":5842987,"language":"LuaJIT (2.0.4)","length":893,"point":300,"problem_id":"abc129_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc129","epoch_second":1560083730,"execution_time":1206,"id":5846988,"language":"LuaJIT (2.0.4)","length":2280,"point":400,"problem_id":"abc129_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc129","epoch_second":1560084649,"execution_time":53,"id":5849314,"language":"LuaJIT (2.0.4)","length":894,"point":500,"problem_id":"abc129_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc045","epoch_second":1560180478,"execution_time":8,"id":5872322,"language":"Lua (5.3.2)","length":70,"point":100,"problem_id":"abc045_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"code-festival-2017-qualb","epoch_second":1560211497,"execution_time":169,"id":5874091,"language":"Lua (5.3.2)","length":386,"point":200,"problem_id":"code_festival_2017_qualb_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"agc028","epoch_second":1560213142,"execution_time":21,"id":5874212,"language":"LuaJIT (2.0.4)","length":632,"point":300,"problem_id":"agc028_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc030","epoch_second":1560344689,"execution_time":7,"id":5889826,"language":"Lua (5.3.2)","length":177,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc030","epoch_second":1560344858,"execution_time":13,"id":5889860,"language":"Lua (5.3.2)","length":170,"point":100,"problem_id":"abc030_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"code-festival-2018-final","epoch_second":1560433917,"execution_time":"","id":5899632,"language":"LuaJIT (2.0.4)","length":329,"point":0,"problem_id":"code_festival_2018_final_b","result":"RE","user_id":"obakyan"}
-,{"contest_id":"code-festival-2018-final","epoch_second":1560434023,"execution_time":22,"id":5899648,"language":"LuaJIT (2.0.4)","length":350,"point":300,"problem_id":"code_festival_2018_final_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"tkppc3","epoch_second":1560434942,"execution_time":26,"id":5899827,"language":"LuaJIT (2.0.4)","length":176,"point":500,"problem_id":"tkppc3_e","result":"AC","user_id":"obakyan"}
-,{"contest_id":"soundhound2018-summer-qual","epoch_second":1560435458,"execution_time":1,"id":5899923,"language":"LuaJIT (2.0.4)","length":158,"point":300,"problem_id":"soundhound2018_summer_qual_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560600121,"execution_time":8,"id":5917896,"language":"Lua (5.3.2)","length":79,"point":100,"problem_id":"diverta2019_2_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560601396,"execution_time":26,"id":5922915,"language":"LuaJIT (2.0.4)","length":1778,"point":0,"problem_id":"diverta2019_2_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560601746,"execution_time":162,"id":5923777,"language":"Lua (5.3.2)","length":1963,"point":0,"problem_id":"diverta2019_2_b","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560601855,"execution_time":160,"id":5924040,"language":"Lua (5.3.2)","length":1997,"point":300,"problem_id":"diverta2019_2_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560603344,"execution_time":226,"id":5927726,"language":"LuaJIT (2.0.4)","length":1242,"point":500,"problem_id":"diverta2019_2_c","result":"AC","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560604371,"execution_time":2105,"id":5930215,"language":"LuaJIT (2.0.4)","length":1983,"point":0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560605007,"execution_time":2105,"id":5931657,"language":"LuaJIT (2.0.4)","length":1816,"point":0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560606348,"execution_time":90,"id":5934808,"language":"LuaJIT (2.0.4)","length":3110,"point":0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560606675,"execution_time":90,"id":5935629,"language":"LuaJIT (2.0.4)","length":3122,"point":0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
-,{"contest_id":"diverta2019-2","epoch_second":1560607053,"execution_time":91,"id":5936770,"language":"LuaJIT (2.0.4)","length":3120,"point":600,"problem_id":"diverta2019_2_d","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc069","epoch_second":1560670965,"execution_time":36,"id":5947427,"language":"LuaJIT (2.0.4)","length":521,"point":400,"problem_id":"arc080_a","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc112","epoch_second":1560731681,"execution_time":8,"id":5992587,"language":"Lua (5.3.2)","length":251,"point":200,"problem_id":"abc112_b","result":"AC","user_id":"obakyan"}
-,{"contest_id":"abc112","epoch_second":1560731762,"execution_time":7,"id":5992597,"language":"Lua (5.3.2)","length":107,"point":100,"problem_id":"abc112_a","result":"AC","user_id":"obakyan"}
+[{"contest_id":"abc002","epoch_second":1382880028,"execution_time":240,"id":111885,"language":"C# (Mono 2.10.8.1)","length":269,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc002","epoch_second":1382880317,"execution_time":106,"id":111920,"language":"C# (Mono 2.10.8.1)","length":397,"point":100.0,"problem_id":"abc002_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc002","epoch_second":1382880808,"execution_time":162,"id":111964,"language":"C# (Mono 2.10.8.1)","length":455,"point":0.0,"problem_id":"abc002_3","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc002","epoch_second":1382881977,"execution_time":179,"id":112081,"language":"C# (Mono 2.10.8.1)","length":465,"point":0.0,"problem_id":"abc002_3","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394806589,"execution_time":"","id":142817,"language":"C (GCC 4.6.4)","length":188,"point":0.0,"problem_id":"abc004_1","result":"CE","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394806779,"execution_time":"","id":142818,"language":"C (GCC 4.6.4)","length":116,"point":0.0,"problem_id":"abc004_1","result":"CE","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394806804,"execution_time":35,"id":142819,"language":"C++ (G++ 4.6.4)","length":116,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394807382,"execution_time":25,"id":142821,"language":"C++ (G++ 4.6.4)","length":440,"point":0.0,"problem_id":"abc004_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394807462,"execution_time":29,"id":142822,"language":"C++ (G++ 4.6.4)","length":524,"point":100.0,"problem_id":"abc004_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394807953,"execution_time":"","id":142832,"language":"C++ (G++ 4.6.4)","length":366,"point":30.0,"problem_id":"abc004_3","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc004","epoch_second":1394843326,"execution_time":22,"id":142879,"language":"C++ (G++ 4.6.4)","length":378,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc018","epoch_second":1394845486,"execution_time":24,"id":142890,"language":"C++ (G++ 4.6.4)","length":152,"point":100.0,"problem_id":"arc018_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc018","epoch_second":1394846513,"execution_time":"","id":142893,"language":"C++ (G++ 4.6.4)","length":569,"point":0.0,"problem_id":"arc018_2","result":"CE","user_id":"obakyan"}
+,{"contest_id":"arc018","epoch_second":1394846832,"execution_time":25,"id":142895,"language":"C++ (G++ 4.6.4)","length":568,"point":0.0,"problem_id":"arc018_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc018","epoch_second":1394846995,"execution_time":28,"id":142896,"language":"C++ (G++ 4.6.4)","length":575,"point":100.0,"problem_id":"arc018_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc003","epoch_second":1394859444,"execution_time":23,"id":143016,"language":"C++ (G++ 4.6.4)","length":146,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc003","epoch_second":1394861113,"execution_time":28,"id":143046,"language":"C++ (G++ 4.6.4)","length":405,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc003","epoch_second":1394861524,"execution_time":34,"id":143051,"language":"C++ (G++ 4.6.4)","length":872,"point":100.0,"problem_id":"abc003_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc019","epoch_second":1394941043,"execution_time":"","id":145267,"language":"C++ (G++ 4.6.4)","length":404,"point":0.0,"problem_id":"arc019_1","result":"CE","user_id":"obakyan"}
+,{"contest_id":"arc019","epoch_second":1394941077,"execution_time":24,"id":145268,"language":"C++ (G++ 4.6.4)","length":385,"point":100.0,"problem_id":"arc019_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc001","epoch_second":1394961540,"execution_time":35,"id":145572,"language":"C++ (G++ 4.6.4)","length":505,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc001","epoch_second":1395323694,"execution_time":81,"id":146490,"language":"C++ (G++ 4.6.4)","length":143,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc001","epoch_second":1395324389,"execution_time":52,"id":146491,"language":"C++ (G++ 4.6.4)","length":329,"point":100.0,"problem_id":"abc001_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395489820,"execution_time":24,"id":146939,"language":"C++ (G++ 4.6.4)","length":135,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395490021,"execution_time":24,"id":147046,"language":"C++ (G++ 4.6.4)","length":199,"point":100.0,"problem_id":"abc005_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395491575,"execution_time":27,"id":147428,"language":"C++ (G++ 4.6.4)","length":492,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395493240,"execution_time":50,"id":147726,"language":"C++ (G++ 4.6.4)","length":621,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395493417,"execution_time":23,"id":147755,"language":"C++ (G++ 4.6.4)","length":643,"point":0.0,"problem_id":"abc005_3","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395493661,"execution_time":23,"id":147797,"language":"C++ (G++ 4.6.4)","length":655,"point":100.0,"problem_id":"abc005_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395495443,"execution_time":"","id":148000,"language":"C++ (G++ 4.6.4)","length":1013,"point":50.0,"problem_id":"abc005_4","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395495876,"execution_time":5038,"id":148041,"language":"C++ (G++ 4.6.4)","length":1169,"point":0.0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395495974,"execution_time":"","id":148051,"language":"C++ (G++ 4.6.4)","length":1171,"point":50.0,"problem_id":"abc005_4","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395496566,"execution_time":5031,"id":148103,"language":"C++ (G++ 4.6.4)","length":1365,"point":0.0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395496721,"execution_time":23,"id":148121,"language":"C++ (G++ 4.6.4)","length":1362,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1395496734,"execution_time":5037,"id":148123,"language":"C++ (G++ 4.6.4)","length":1362,"point":0.0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396096533,"execution_time":23,"id":152211,"language":"C++ (G++ 4.6.4)","length":259,"point":100.0,"problem_id":"arc020_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396097795,"execution_time":30,"id":152451,"language":"C++ (G++ 4.6.4)","length":1114,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396097878,"execution_time":24,"id":152465,"language":"C++ (G++ 4.6.4)","length":1132,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396098045,"execution_time":22,"id":152501,"language":"C++ (G++ 4.6.4)","length":1117,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396182112,"execution_time":25,"id":153519,"language":"C++ (G++ 4.6.4)","length":1259,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396182485,"execution_time":24,"id":153525,"language":"C++ (G++ 4.6.4)","length":1435,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396182597,"execution_time":24,"id":153527,"language":"C++ (G++ 4.6.4)","length":1435,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396182647,"execution_time":23,"id":153530,"language":"C++ (G++ 4.6.4)","length":1435,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396182932,"execution_time":23,"id":153534,"language":"C++ (G++ 4.6.4)","length":1520,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396183037,"execution_time":33,"id":153535,"language":"C++ (G++ 4.6.4)","length":1484,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396183716,"execution_time":26,"id":153539,"language":"C++ (G++ 4.6.4)","length":1484,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396183997,"execution_time":22,"id":153543,"language":"C++ (G++ 4.6.4)","length":1485,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396184231,"execution_time":20,"id":153547,"language":"C++ (G++ 4.6.4)","length":1440,"point":0.0,"problem_id":"arc020_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc020","epoch_second":1396184380,"execution_time":23,"id":153549,"language":"C++ (G++ 4.6.4)","length":1376,"point":100.0,"problem_id":"arc020_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc022","epoch_second":1399118843,"execution_time":23,"id":165367,"language":"C++ (G++ 4.6.4)","length":517,"point":0.0,"problem_id":"arc022_1","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc022","epoch_second":1399121425,"execution_time":2031,"id":166115,"language":"C++ (G++ 4.6.4)","length":956,"point":0.0,"problem_id":"arc022_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc022","epoch_second":1399294038,"execution_time":25,"id":167558,"language":"C++ (G++ 4.6.4)","length":526,"point":100.0,"problem_id":"arc022_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc034","epoch_second":1424520739,"execution_time":39,"id":341071,"language":"C (GCC 4.6.4)","length":330,"point":0.0,"problem_id":"arc034_1","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc034","epoch_second":1424520994,"execution_time":27,"id":341155,"language":"C (GCC 4.6.4)","length":301,"point":100.0,"problem_id":"arc034_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc050","epoch_second":1460440289,"execution_time":3,"id":693057,"language":"C (GCC 5.4.1)","length":159,"point":100.0,"problem_id":"arc050_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc055","epoch_second":1465806644,"execution_time":2,"id":766610,"language":"C (GCC 5.4.1)","length":241,"point":100.0,"problem_id":"arc055_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc004","epoch_second":1472990919,"execution_time":2,"id":865317,"language":"C++14 (GCC 5.4.1)","length":338,"point":200.0,"problem_id":"agc004_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"tenka1-2016-final-open","epoch_second":1473488654,"execution_time":3,"id":873849,"language":"Text (cat)","length":33,"point":100.0,"problem_id":"tenka1_2016_final_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc007","epoch_second":1480058439,"execution_time":1,"id":990855,"language":"C++14 (GCC 5.4.1)","length":443,"point":200.0,"problem_id":"agc007_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc051","epoch_second":1483874732,"execution_time":1,"id":1058731,"language":"C (GCC 5.4.1)","length":130,"point":100.0,"problem_id":"abc051_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc051","epoch_second":1483876218,"execution_time":1,"id":1058758,"language":"C (GCC 5.4.1)","length":400,"point":200.0,"problem_id":"abc051_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc051","epoch_second":1483877254,"execution_time":1,"id":1058774,"language":"C (GCC 5.4.1)","length":606,"point":300.0,"problem_id":"abc051_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc009","epoch_second":1485089050,"execution_time":27,"id":1074825,"language":"C (GCC 5.4.1)","length":485,"point":300.0,"problem_id":"agc009_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc086","epoch_second":1518501022,"execution_time":1,"id":2092160,"language":"C++14 (GCC 5.4.1)","length":197,"point":100.0,"problem_id":"abc086_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc086","epoch_second":1518501955,"execution_time":1,"id":2092189,"language":"C++14 (GCC 5.4.1)","length":381,"point":200.0,"problem_id":"abc086_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc086","epoch_second":1518503366,"execution_time":72,"id":2092227,"language":"C++14 (GCC 5.4.1)","length":618,"point":300.0,"problem_id":"arc089_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1553946808,"execution_time":75,"id":4762394,"language":"Lua (5.3.2)","length":130,"point":100.0,"problem_id":"abc122_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1553947150,"execution_time":129,"id":4762496,"language":"Lua (5.3.2)","length":108,"point":200.0,"problem_id":"abc122_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553947268,"execution_time":124,"id":4762788,"language":"Lua (5.3.2)","length":94,"point":100.0,"problem_id":"exawizards2019_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553947446,"execution_time":7,"id":4765367,"language":"Lua (5.3.2)","length":191,"point":200.0,"problem_id":"exawizards2019_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553949484,"execution_time":"","id":4770330,"language":"LuaJIT (2.0.4)","length":980,"point":0.0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553949781,"execution_time":"","id":4770683,"language":"LuaJIT (2.0.4)","length":914,"point":0.0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553953585,"execution_time":2103,"id":4774987,"language":"LuaJIT (2.0.4)","length":2028,"point":0.0,"problem_id":"exawizards2019_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553954075,"execution_time":306,"id":4775629,"language":"LuaJIT (2.0.4)","length":1799,"point":500.0,"problem_id":"exawizards2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"exawizards2019","epoch_second":1553955371,"execution_time":"","id":4776742,"language":"Lua (5.3.2)","length":1799,"point":0.0,"problem_id":"exawizards2019_c","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1554476603,"execution_time":"","id":4834500,"language":"LuaJIT (2.0.4)","length":219,"point":0.0,"problem_id":"abc122_c","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1554477938,"execution_time":115,"id":4834679,"language":"LuaJIT (2.0.4)","length":442,"point":0.0,"problem_id":"abc122_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1554478576,"execution_time":111,"id":4834764,"language":"LuaJIT (2.0.4)","length":446,"point":300.0,"problem_id":"abc122_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"s8pc-1","epoch_second":1554478970,"execution_time":1,"id":4834806,"language":"LuaJIT (2.0.4)","length":63,"point":100.0,"problem_id":"s8pc_1_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc122","epoch_second":1554542508,"execution_time":1,"id":4840987,"language":"C++14 (GCC 5.4.1)","length":2566,"point":400.0,"problem_id":"abc122_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc121","epoch_second":1554542876,"execution_time":1,"id":4841051,"language":"LuaJIT (2.0.4)","length":63,"point":100.0,"problem_id":"abc121_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc121","epoch_second":1554543097,"execution_time":1,"id":4841098,"language":"LuaJIT (2.0.4)","length":253,"point":200.0,"problem_id":"abc121_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc121","epoch_second":1554547218,"execution_time":77,"id":4841796,"language":"C++14 (GCC 5.4.1)","length":1523,"point":300.0,"problem_id":"abc121_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc123","epoch_second":1554552216,"execution_time":1,"id":4843529,"language":"LuaJIT (2.0.4)","length":86,"point":100.0,"problem_id":"abc123_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc123","epoch_second":1554552589,"execution_time":1,"id":4846020,"language":"LuaJIT (2.0.4)","length":418,"point":200.0,"problem_id":"abc123_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc123","epoch_second":1554554613,"execution_time":1,"id":4853914,"language":"C++14 (GCC 5.4.1)","length":2802,"point":300.0,"problem_id":"abc123_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc123","epoch_second":1554556788,"execution_time":46,"id":4859455,"language":"C++14 (GCC 5.4.1)","length":4688,"point":400.0,"problem_id":"abc123_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc002","epoch_second":1554594707,"execution_time":1,"id":4870052,"language":"LuaJIT (2.0.4)","length":96,"point":100.0,"problem_id":"abc002_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc006","epoch_second":1554595030,"execution_time":1,"id":4870076,"language":"LuaJIT (2.0.4)","length":54,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc006","epoch_second":1554595193,"execution_time":13,"id":4870083,"language":"LuaJIT (2.0.4)","length":159,"point":100.0,"problem_id":"abc006_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc006","epoch_second":1554595744,"execution_time":1,"id":4870114,"language":"LuaJIT (2.0.4)","length":262,"point":100.0,"problem_id":"abc006_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc003","epoch_second":1554596574,"execution_time":1,"id":4870163,"language":"LuaJIT (2.0.4)","length":267,"point":100.0,"problem_id":"abc003_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc001","epoch_second":1554596984,"execution_time":1,"id":4870205,"language":"C++14 (GCC 5.4.1)","length":505,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc040","epoch_second":1554597706,"execution_time":34,"id":4870278,"language":"LuaJIT (2.0.4)","length":275,"point":100.0,"problem_id":"abc040_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc100","epoch_second":1554599068,"execution_time":4,"id":4870417,"language":"LuaJIT (2.0.4)","length":202,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1554599202,"execution_time":1,"id":4870436,"language":"LuaJIT (2.0.4)","length":72,"point":200.0,"problem_id":"abc099_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1554599278,"execution_time":1,"id":4870439,"language":"LuaJIT (2.0.4)","length":46,"point":100.0,"problem_id":"abc099_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc040","epoch_second":1554600575,"execution_time":1,"id":4870606,"language":"LuaJIT (2.0.4)","length":267,"point":100.0,"problem_id":"abc040_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc040","epoch_second":1554600786,"execution_time":"","id":4870634,"language":"LuaJIT (2.0.4)","length":50,"point":0.0,"problem_id":"abc040_a","result":"CE","user_id":"obakyan"}
+,{"contest_id":"abc040","epoch_second":1554600805,"execution_time":"","id":4870637,"language":"LuaJIT (2.0.4)","length":51,"point":0.0,"problem_id":"abc040_a","result":"RE","user_id":"obakyan"}
+,{"contest_id":"abc040","epoch_second":1554600841,"execution_time":1,"id":4870644,"language":"LuaJIT (2.0.4)","length":56,"point":100.0,"problem_id":"abc040_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1554636251,"execution_time":2,"id":4877158,"language":"LuaJIT (2.0.4)","length":628,"point":300.0,"problem_id":"abc099_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc058","epoch_second":1554637187,"execution_time":2,"id":4877310,"language":"LuaJIT (2.0.4)","length":597,"point":300.0,"problem_id":"arc071_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc049","epoch_second":1554637360,"execution_time":5,"id":4877342,"language":"LuaJIT (2.0.4)","length":193,"point":300.0,"problem_id":"arc065_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc028","epoch_second":1554637857,"execution_time":1,"id":4877425,"language":"LuaJIT (2.0.4)","length":538,"point":100.0,"problem_id":"abc028_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc028","epoch_second":1554638073,"execution_time":1,"id":4877470,"language":"LuaJIT (2.0.4)","length":292,"point":100.0,"problem_id":"abc028_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc028","epoch_second":1554638186,"execution_time":1,"id":4877488,"language":"LuaJIT (2.0.4)","length":106,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc041","epoch_second":1554639298,"execution_time":269,"id":4877908,"language":"LuaJIT (2.0.4)","length":371,"point":100.0,"problem_id":"abc041_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc042","epoch_second":1554640987,"execution_time":1,"id":4878464,"language":"LuaJIT (2.0.4)","length":837,"point":0.0,"problem_id":"arc058_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc042","epoch_second":1554641820,"execution_time":1,"id":4878715,"language":"LuaJIT (2.0.4)","length":1005,"point":300.0,"problem_id":"arc058_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc042","epoch_second":1554647737,"execution_time":49,"id":4880199,"language":"C++14 (GCC 5.4.1)","length":1577,"point":400.0,"problem_id":"arc058_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc041","epoch_second":1554647961,"execution_time":1,"id":4880247,"language":"C++14 (GCC 5.4.1)","length":403,"point":100.0,"problem_id":"abc041_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc041","epoch_second":1554648016,"execution_time":1,"id":4880263,"language":"LuaJIT (2.0.4)","length":60,"point":100.0,"problem_id":"abc041_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1554648441,"execution_time":40,"id":4880355,"language":"LuaJIT (2.0.4)","length":459,"point":300.0,"problem_id":"arc087_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc081","epoch_second":1554649381,"execution_time":174,"id":4880489,"language":"LuaJIT (2.0.4)","length":322,"point":300.0,"problem_id":"arc086_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1554737257,"execution_time":39,"id":4890848,"language":"C++14 (GCC 5.4.1)","length":588,"point":100.0,"problem_id":"abc037_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc105","epoch_second":1554784533,"execution_time":1,"id":4893727,"language":"LuaJIT (2.0.4)","length":371,"point":0.0,"problem_id":"abc105_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc105","epoch_second":1554784610,"execution_time":3,"id":4893738,"language":"LuaJIT (2.0.4)","length":383,"point":300.0,"problem_id":"abc105_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554791122,"execution_time":21,"id":4894832,"language":"LuaJIT (2.0.4)","length":337,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554791570,"execution_time":22,"id":4894900,"language":"LuaJIT (2.0.4)","length":363,"point":300.0,"problem_id":"arc099_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554821413,"execution_time":2103,"id":4900284,"language":"LuaJIT (2.0.4)","length":505,"point":0.0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554821503,"execution_time":"","id":4900307,"language":"LuaJIT (2.0.4)","length":504,"point":0.0,"problem_id":"arc099_b","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc049","epoch_second":1554855642,"execution_time":1,"id":4902177,"language":"LuaJIT (2.0.4)","length":101,"point":200.0,"problem_id":"abc049_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc049","epoch_second":1554855724,"execution_time":1,"id":4902184,"language":"LuaJIT (2.0.4)","length":123,"point":100.0,"problem_id":"abc049_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554905441,"execution_time":3,"id":4909932,"language":"LuaJIT (2.0.4)","length":1597,"point":0.0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554908483,"execution_time":4,"id":4910575,"language":"LuaJIT (2.0.4)","length":1783,"point":0.0,"problem_id":"arc099_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1554935685,"execution_time":2,"id":4912079,"language":"LuaJIT (2.0.4)","length":188,"point":100.0,"problem_id":"abc037_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1554935981,"execution_time":2,"id":4912090,"language":"LuaJIT (2.0.4)","length":65,"point":100.0,"problem_id":"abc037_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1554957443,"execution_time":3,"id":4913940,"language":"C++14 (GCC 5.4.1)","length":1956,"point":500.0,"problem_id":"arc099_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc100","epoch_second":1554960321,"execution_time":7,"id":4914300,"language":"LuaJIT (2.0.4)","length":577,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc102","epoch_second":1554961620,"execution_time":172,"id":4914513,"language":"LuaJIT (2.0.4)","length":234,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc104","epoch_second":1554968846,"execution_time":3,"id":4915770,"language":"LuaJIT (2.0.4)","length":793,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1554990775,"execution_time":17,"id":4919275,"language":"LuaJIT (2.0.4)","length":1204,"point":0.0,"problem_id":"abc005_4","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc005","epoch_second":1554991607,"execution_time":16,"id":4919422,"language":"LuaJIT (2.0.4)","length":1167,"point":100.0,"problem_id":"abc005_4","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc056","epoch_second":1554992877,"execution_time":1,"id":4919668,"language":"LuaJIT (2.0.4)","length":250,"point":0.0,"problem_id":"arc070_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc056","epoch_second":1554992981,"execution_time":1,"id":4919686,"language":"LuaJIT (2.0.4)","length":169,"point":200.0,"problem_id":"arc070_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc042","epoch_second":1554993418,"execution_time":1,"id":4919759,"language":"LuaJIT (2.0.4)","length":152,"point":200.0,"problem_id":"abc042_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc042","epoch_second":1554993550,"execution_time":1,"id":4919783,"language":"LuaJIT (2.0.4)","length":70,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc033","epoch_second":1554994886,"execution_time":14,"id":4920079,"language":"LuaJIT (2.0.4)","length":365,"point":100.0,"problem_id":"abc033_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc085","epoch_second":1555028275,"execution_time":1,"id":4921821,"language":"LuaJIT (2.0.4)","length":391,"point":300.0,"problem_id":"abc085_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc085","epoch_second":1555069478,"execution_time":179,"id":4927658,"language":"LuaJIT (2.0.4)","length":462,"point":400.0,"problem_id":"abc085_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc100","epoch_second":1555155314,"execution_time":1,"id":4937666,"language":"LuaJIT (2.0.4)","length":67,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc100","epoch_second":1555155593,"execution_time":1,"id":4937736,"language":"LuaJIT (2.0.4)","length":114,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc100","epoch_second":1555155704,"execution_time":1,"id":4937757,"language":"LuaJIT (2.0.4)","length":98,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1555155978,"execution_time":1,"id":4937847,"language":"LuaJIT (2.0.4)","length":137,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc101","epoch_second":1555156066,"execution_time":1,"id":4937880,"language":"LuaJIT (2.0.4)","length":133,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc124","epoch_second":1555165487,"execution_time":21,"id":4962300,"language":"LuaJIT (2.0.4)","length":558,"point":400.0,"problem_id":"abc124_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc124","epoch_second":1555201115,"execution_time":6,"id":4966405,"language":"LuaJIT (2.0.4)","length":243,"point":300.0,"problem_id":"abc124_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc124","epoch_second":1555201283,"execution_time":1,"id":4966429,"language":"LuaJIT (2.0.4)","length":160,"point":200.0,"problem_id":"abc124_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc124","epoch_second":1555201363,"execution_time":1,"id":4966434,"language":"LuaJIT (2.0.4)","length":95,"point":100.0,"problem_id":"abc124_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc085","epoch_second":1555201670,"execution_time":1,"id":4966466,"language":"LuaJIT (2.0.4)","length":147,"point":200.0,"problem_id":"abc085_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc085","epoch_second":1555201731,"execution_time":1,"id":4966470,"language":"LuaJIT (2.0.4)","length":59,"point":100.0,"problem_id":"abc085_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc102","epoch_second":1555217741,"execution_time":1,"id":4968540,"language":"LuaJIT (2.0.4)","length":69,"point":100.0,"problem_id":"abc102_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc102","epoch_second":1555217775,"execution_time":1,"id":4968546,"language":"LuaJIT (2.0.4)","length":102,"point":200.0,"problem_id":"abc102_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555249174,"execution_time":"","id":4978069,"language":"LuaJIT (2.0.4)","length":1509,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555251884,"execution_time":"","id":4979309,"language":"LuaJIT (2.0.4)","length":1558,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555252433,"execution_time":1938,"id":4979579,"language":"LuaJIT (2.0.4)","length":1730,"point":100.0,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555287952,"execution_time":"","id":4982437,"language":"LuaJIT (2.0.4)","length":1629,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555288412,"execution_time":"","id":4982473,"language":"LuaJIT (2.0.4)","length":1555,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555289403,"execution_time":"","id":4982555,"language":"LuaJIT (2.0.4)","length":1577,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555291030,"execution_time":"","id":4982683,"language":"LuaJIT (2.0.4)","length":1607,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555291489,"execution_time":1984,"id":4982709,"language":"LuaJIT (2.0.4)","length":1567,"point":100.0,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555292335,"execution_time":"","id":4982796,"language":"LuaJIT (2.0.4)","length":1622,"point":0.0,"problem_id":"abc037_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555292544,"execution_time":1756,"id":4982810,"language":"LuaJIT (2.0.4)","length":1655,"point":100.0,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc037","epoch_second":1555295523,"execution_time":1559,"id":4983133,"language":"LuaJIT (2.0.4)","length":1936,"point":100.0,"problem_id":"abc037_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc088","epoch_second":1555317776,"execution_time":2,"id":4987133,"language":"LuaJIT (2.0.4)","length":1227,"point":400.0,"problem_id":"abc088_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc088","epoch_second":1555336364,"execution_time":2,"id":4990736,"language":"LuaJIT (2.0.4)","length":224,"point":300.0,"problem_id":"abc088_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc088","epoch_second":1555336542,"execution_time":2,"id":4990788,"language":"LuaJIT (2.0.4)","length":270,"point":200.0,"problem_id":"abc088_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc088","epoch_second":1555336642,"execution_time":2,"id":4990811,"language":"LuaJIT (2.0.4)","length":90,"point":100.0,"problem_id":"abc088_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1555338605,"execution_time":2104,"id":4991281,"language":"C++14 (GCC 5.4.1)","length":1572,"point":0.0,"problem_id":"abc034_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1555338970,"execution_time":"","id":4991363,"language":"C++14 (GCC 5.4.1)","length":1609,"point":0.0,"problem_id":"abc034_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc057","epoch_second":1555366829,"execution_time":2,"id":4993133,"language":"LuaJIT (2.0.4)","length":334,"point":300.0,"problem_id":"abc057_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc069","epoch_second":1555367075,"execution_time":1,"id":4993145,"language":"LuaJIT (2.0.4)","length":179,"point":300.0,"problem_id":"arc069_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc054","epoch_second":1555374980,"execution_time":10,"id":4993523,"language":"LuaJIT (2.0.4)","length":819,"point":300.0,"problem_id":"abc054_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc068","epoch_second":1555375354,"execution_time":9,"id":4993546,"language":"Lua (5.3.2)","length":147,"point":300.0,"problem_id":"arc068_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1555388394,"execution_time":66,"id":4995029,"language":"LuaJIT (2.0.4)","length":548,"point":100.0,"problem_id":"abc034_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc096","epoch_second":1555394311,"execution_time":2,"id":4995929,"language":"LuaJIT (2.0.4)","length":700,"point":0.0,"problem_id":"abc096_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc096","epoch_second":1555394403,"execution_time":2,"id":4995949,"language":"LuaJIT (2.0.4)","length":691,"point":300.0,"problem_id":"abc096_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc084","epoch_second":1555424463,"execution_time":260,"id":5000951,"language":"LuaJIT (2.0.4)","length":1285,"point":0.0,"problem_id":"arc084_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc084","epoch_second":1555424943,"execution_time":248,"id":5001047,"language":"LuaJIT (2.0.4)","length":1184,"point":0.0,"problem_id":"arc084_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc084","epoch_second":1555425715,"execution_time":388,"id":5001187,"language":"Lua (5.3.2)","length":1187,"point":300.0,"problem_id":"arc084_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc067","epoch_second":1555426463,"execution_time":136,"id":5001315,"language":"Lua (5.3.2)","length":444,"point":300.0,"problem_id":"arc078_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1555426878,"execution_time":16,"id":5001368,"language":"C++14 (GCC 5.4.1)","length":911,"point":101.0,"problem_id":"abc034_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc067","epoch_second":1555453777,"execution_time":1,"id":5002717,"language":"LuaJIT (2.0.4)","length":551,"point":300.0,"problem_id":"arc067_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc012","epoch_second":1555453979,"execution_time":1,"id":5002725,"language":"LuaJIT (2.0.4)","length":166,"point":100.0,"problem_id":"abc012_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc027","epoch_second":1555461635,"execution_time":7,"id":5003085,"language":"Lua (5.3.2)","length":327,"point":0.0,"problem_id":"abc027_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc027","epoch_second":1555462155,"execution_time":7,"id":5003121,"language":"Lua (5.3.2)","length":361,"point":0.0,"problem_id":"abc027_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc027","epoch_second":1555510141,"execution_time":4,"id":5010121,"language":"Lua (5.3.2)","length":365,"point":100.0,"problem_id":"abc027_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc029","epoch_second":1555510784,"execution_time":23,"id":5010223,"language":"Lua (5.3.2)","length":301,"point":100.0,"problem_id":"abc029_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc026","epoch_second":1555512001,"execution_time":6,"id":5010420,"language":"Lua (5.3.2)","length":497,"point":100.0,"problem_id":"abc026_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc073","epoch_second":1555512253,"execution_time":52,"id":5010473,"language":"LuaJIT (2.0.4)","length":214,"point":300.0,"problem_id":"abc073_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc094","epoch_second":1555512664,"execution_time":655,"id":5010557,"language":"Lua (5.3.2)","length":247,"point":300.0,"problem_id":"arc095_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc068","epoch_second":1555540124,"execution_time":114,"id":5012161,"language":"Lua (5.3.2)","length":326,"point":300.0,"problem_id":"arc079_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc066","epoch_second":1555540742,"execution_time":"","id":5012176,"language":"LuaJIT (2.0.4)","length":388,"point":0.0,"problem_id":"arc077_a","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc066","epoch_second":1555547253,"execution_time":219,"id":5012473,"language":"LuaJIT (2.0.4)","length":447,"point":300.0,"problem_id":"arc077_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc073","epoch_second":1555547857,"execution_time":92,"id":5012511,"language":"LuaJIT (2.0.4)","length":280,"point":300.0,"problem_id":"arc073_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc065","epoch_second":1555550674,"execution_time":25,"id":5012699,"language":"Lua (5.3.2)","length":349,"point":300.0,"problem_id":"arc076_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc087","epoch_second":1555570479,"execution_time":1,"id":5015042,"language":"LuaJIT (2.0.4)","length":280,"point":300.0,"problem_id":"arc090_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc106","epoch_second":1555583174,"execution_time":4,"id":5017124,"language":"Lua (5.3.2)","length":249,"point":300.0,"problem_id":"abc106_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc089","epoch_second":1555583590,"execution_time":51,"id":5017168,"language":"Lua (5.3.2)","length":662,"point":300.0,"problem_id":"abc089_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc111","epoch_second":1555597647,"execution_time":161,"id":5019521,"language":"LuaJIT (2.0.4)","length":1350,"point":300.0,"problem_id":"arc103_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc120","epoch_second":1555598058,"execution_time":2,"id":5019642,"language":"LuaJIT (2.0.4)","length":147,"point":300.0,"problem_id":"abc120_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc022","epoch_second":1555599259,"execution_time":41,"id":5019870,"language":"LuaJIT (2.0.4)","length":714,"point":0.0,"problem_id":"arc022_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc022","epoch_second":1555599446,"execution_time":41,"id":5019900,"language":"LuaJIT (2.0.4)","length":720,"point":100.0,"problem_id":"arc022_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc097","epoch_second":1555760327,"execution_time":"","id":5035836,"language":"Lua (5.3.2)","length":682,"point":0.0,"problem_id":"arc097_b","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"arc097","epoch_second":1555760375,"execution_time":"","id":5035844,"language":"LuaJIT (2.0.4)","length":682,"point":0.0,"problem_id":"arc097_b","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"tenka1-2019","epoch_second":1555762350,"execution_time":8,"id":5042346,"language":"LuaJIT (2.0.4)","length":553,"point":300.0,"problem_id":"tenka1_2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555772903,"execution_time":1,"id":5066115,"language":"LuaJIT (2.0.4)","length":207,"point":200.0,"problem_id":"tenka1_2019_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555773035,"execution_time":1,"id":5066186,"language":"LuaJIT (2.0.4)","length":71,"point":0.0,"problem_id":"tenka1_2019_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"tenka1-2019-beginner","epoch_second":1555773123,"execution_time":1,"id":5066215,"language":"LuaJIT (2.0.4)","length":71,"point":100.0,"problem_id":"tenka1_2019_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc097","epoch_second":1555773930,"execution_time":260,"id":5066552,"language":"LuaJIT (2.0.4)","length":772,"point":400.0,"problem_id":"arc097_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc007","epoch_second":1555776232,"execution_time":"","id":5067265,"language":"LuaJIT (2.0.4)","length":1785,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"obakyan"}
+,{"contest_id":"abc007","epoch_second":1555776304,"execution_time":"","id":5067283,"language":"LuaJIT (2.0.4)","length":1785,"point":0.0,"problem_id":"abc007_3","result":"RE","user_id":"obakyan"}
+,{"contest_id":"abc007","epoch_second":1555817124,"execution_time":3,"id":5071005,"language":"LuaJIT (2.0.4)","length":1821,"point":100.0,"problem_id":"abc007_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc118","epoch_second":1555817956,"execution_time":33,"id":5071149,"language":"LuaJIT (2.0.4)","length":281,"point":300.0,"problem_id":"abc118_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc117","epoch_second":1555819028,"execution_time":236,"id":5071301,"language":"Lua (5.3.2)","length":387,"point":300.0,"problem_id":"abc117_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc058","epoch_second":1555819471,"execution_time":8,"id":5071372,"language":"Lua (5.3.2)","length":193,"point":200.0,"problem_id":"abc058_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc058","epoch_second":1555819532,"execution_time":7,"id":5071377,"language":"Lua (5.3.2)","length":82,"point":100.0,"problem_id":"abc058_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc116","epoch_second":1555835480,"execution_time":9,"id":5074670,"language":"Lua (5.3.2)","length":870,"point":300.0,"problem_id":"abc116_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc014","epoch_second":1555836157,"execution_time":51,"id":5074845,"language":"LuaJIT (2.0.4)","length":333,"point":100.0,"problem_id":"abc014_3","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc016","epoch_second":1555836943,"execution_time":1,"id":5075042,"language":"LuaJIT (2.0.4)","length":456,"point":100.0,"problem_id":"arc016_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc008","epoch_second":1555837370,"execution_time":7,"id":5075153,"language":"Lua (5.3.2)","length":83,"point":100.0,"problem_id":"arc008_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc102","epoch_second":1555858010,"execution_time":8,"id":5080003,"language":"Lua (5.3.2)","length":186,"point":300.0,"problem_id":"arc102_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc093","epoch_second":1555858503,"execution_time":1,"id":5080156,"language":"Lua (5.3.2)","length":577,"point":300.0,"problem_id":"arc094_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc002","epoch_second":1555938531,"execution_time":8,"id":5090512,"language":"Lua (5.3.2)","length":154,"point":100.0,"problem_id":"arc002_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc001","epoch_second":1555938861,"execution_time":1,"id":5090598,"language":"Lua (5.3.2)","length":170,"point":0.0,"problem_id":"arc001_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc001","epoch_second":1555938966,"execution_time":9,"id":5090621,"language":"Lua (5.3.2)","length":180,"point":0.0,"problem_id":"arc001_2","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc001","epoch_second":1555939233,"execution_time":8,"id":5090675,"language":"Lua (5.3.2)","length":203,"point":100.0,"problem_id":"arc001_2","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc050","epoch_second":1555940506,"execution_time":8,"id":5090962,"language":"Lua (5.3.2)","length":228,"point":0.0,"problem_id":"arc050_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc050","epoch_second":1555940804,"execution_time":1,"id":5091031,"language":"Lua (5.3.2)","length":288,"point":0.0,"problem_id":"arc050_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc050","epoch_second":1555941466,"execution_time":1,"id":5091195,"language":"Lua (5.3.2)","length":596,"point":100.0,"problem_id":"arc050_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc119","epoch_second":1555942482,"execution_time":102,"id":5091447,"language":"Lua (5.3.2)","length":653,"point":300.0,"problem_id":"abc119_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc091","epoch_second":1555943054,"execution_time":21,"id":5091566,"language":"Lua (5.3.2)","length":167,"point":0.0,"problem_id":"arc091_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"arc091","epoch_second":1555943734,"execution_time":18,"id":5091730,"language":"Lua (5.3.2)","length":277,"point":400.0,"problem_id":"arc091_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc115","epoch_second":1555971977,"execution_time":101,"id":5093457,"language":"Lua (5.3.2)","length":232,"point":300.0,"problem_id":"abc115_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc081","epoch_second":1555972536,"execution_time":178,"id":5093469,"language":"Lua (5.3.2)","length":441,"point":300.0,"problem_id":"arc081_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc098","epoch_second":1556014389,"execution_time":121,"id":5098599,"language":"Lua (5.3.2)","length":421,"point":300.0,"problem_id":"arc098_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc105","epoch_second":1556025530,"execution_time":43,"id":5100534,"language":"Lua (5.3.2)","length":313,"point":400.0,"problem_id":"abc105_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc026","epoch_second":1556026417,"execution_time":11,"id":5100679,"language":"Lua (5.3.2)","length":272,"point":200.0,"problem_id":"agc026_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc026","epoch_second":1556028274,"execution_time":7,"id":5100998,"language":"Lua (5.3.2)","length":528,"point":0.0,"problem_id":"agc026_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"agc026","epoch_second":1556028411,"execution_time":10,"id":5101032,"language":"Lua (5.3.2)","length":564,"point":0.0,"problem_id":"agc026_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"agc026","epoch_second":1556028924,"execution_time":2,"id":5101133,"language":"Lua (5.3.2)","length":553,"point":600.0,"problem_id":"agc026_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc095","epoch_second":1556031307,"execution_time":1,"id":5101613,"language":"Lua (5.3.2)","length":312,"point":300.0,"problem_id":"arc096_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc051","epoch_second":1556031729,"execution_time":8,"id":5101693,"language":"Lua (5.3.2)","length":107,"point":100.0,"problem_id":"arc051_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1556059002,"execution_time":100,"id":5103227,"language":"LuaJIT (2.0.4)","length":820,"point":400.0,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1556059032,"execution_time":901,"id":5103228,"language":"Lua (5.3.2)","length":820,"point":400.0,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1556059147,"execution_time":80,"id":5103230,"language":"LuaJIT (2.0.4)","length":832,"point":400.0,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc099","epoch_second":1556059194,"execution_time":886,"id":5103233,"language":"Lua (5.3.2)","length":832,"point":400.0,"problem_id":"abc099_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc107","epoch_second":1556080681,"execution_time":95,"id":5104917,"language":"LuaJIT (2.0.4)","length":745,"point":300.0,"problem_id":"arc101_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc109","epoch_second":1556098432,"execution_time":37,"id":5107983,"language":"Lua (5.3.2)","length":242,"point":0.0,"problem_id":"abc109_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc109","epoch_second":1556098597,"execution_time":50,"id":5108002,"language":"Lua (5.3.2)","length":304,"point":300.0,"problem_id":"abc109_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc032","epoch_second":1556116493,"execution_time":8,"id":5111442,"language":"Lua (5.3.2)","length":505,"point":0.0,"problem_id":"agc032_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"agc032","epoch_second":1556116978,"execution_time":8,"id":5111549,"language":"Lua (5.3.2)","length":506,"point":700.0,"problem_id":"agc032_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc096","epoch_second":1556145369,"execution_time":1,"id":5113195,"language":"Lua (5.3.2)","length":382,"point":400.0,"problem_id":"abc096_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc059","epoch_second":1556151931,"execution_time":12,"id":5113525,"language":"Lua (5.3.2)","length":391,"point":200.0,"problem_id":"arc059_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc030","epoch_second":1556204515,"execution_time":"","id":5121603,"language":"Lua (5.3.2)","length":1227,"point":300.0,"problem_id":"agc030_b","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"agc030","epoch_second":1556204617,"execution_time":"","id":5121614,"language":"LuaJIT (2.0.4)","length":1227,"point":300.0,"problem_id":"agc030_b","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556366531,"execution_time":8,"id":5139409,"language":"Lua (5.3.2)","length":56,"point":100.0,"problem_id":"abc125_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556366684,"execution_time":15,"id":5141587,"language":"Lua (5.3.2)","length":231,"point":200.0,"problem_id":"abc125_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556367191,"execution_time":94,"id":5145659,"language":"Lua (5.3.2)","length":546,"point":0.0,"problem_id":"abc125_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556367414,"execution_time":93,"id":5146685,"language":"Lua (5.3.2)","length":580,"point":400.0,"problem_id":"abc125_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556369143,"execution_time":"","id":5152594,"language":"LuaJIT (2.0.4)","length":1001,"point":0.0,"problem_id":"abc125_c","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556369303,"execution_time":945,"id":5153121,"language":"LuaJIT (2.0.4)","length":1021,"point":300.0,"problem_id":"abc125_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc125","epoch_second":1556407808,"execution_time":223,"id":5169271,"language":"LuaJIT (2.0.4)","length":1020,"point":300.0,"problem_id":"abc125_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc045","epoch_second":1556414092,"execution_time":6,"id":5169792,"language":"Lua (5.3.2)","length":482,"point":300.0,"problem_id":"arc061_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc083","epoch_second":1556433586,"execution_time":7,"id":5172886,"language":"Lua (5.3.2)","length":305,"point":200.0,"problem_id":"abc083_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc087","epoch_second":1556433834,"execution_time":12,"id":5172955,"language":"Lua (5.3.2)","length":228,"point":200.0,"problem_id":"abc087_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc081","epoch_second":1556434081,"execution_time":5,"id":5173016,"language":"Lua (5.3.2)","length":269,"point":200.0,"problem_id":"abc081_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc081","epoch_second":1556434284,"execution_time":1,"id":5173054,"language":"Lua (5.3.2)","length":140,"point":100.0,"problem_id":"abc081_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc021","epoch_second":1556435115,"execution_time":16,"id":5173256,"language":"C++14 (GCC 5.4.1)","length":827,"point":100.0,"problem_id":"abc021_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc121","epoch_second":1556534544,"execution_time":"","id":5186835,"language":"LuaJIT (2.0.4)","length":741,"point":0.0,"problem_id":"abc121_d","result":"RE","user_id":"obakyan"}
+,{"contest_id":"abc121","epoch_second":1556534853,"execution_time":4,"id":5186881,"language":"Lua (5.3.2)","length":733,"point":400.0,"problem_id":"abc121_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc029","epoch_second":1556535399,"execution_time":5,"id":5186973,"language":"Lua (5.3.2)","length":542,"point":100.0,"problem_id":"abc029_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc001","epoch_second":1556536358,"execution_time":4,"id":5187202,"language":"Lua (5.3.2)","length":202,"point":200.0,"problem_id":"agc001_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc009","epoch_second":1556537246,"execution_time":3,"id":5187426,"language":"Lua (5.3.2)","length":187,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc001","epoch_second":1556539283,"execution_time":1,"id":5187921,"language":"Lua (5.3.2)","length":324,"point":500.0,"problem_id":"agc001_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc120","epoch_second":1556543773,"execution_time":2104,"id":5189125,"language":"LuaJIT (2.0.4)","length":1572,"point":0.0,"problem_id":"abc120_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc120","epoch_second":1556546648,"execution_time":145,"id":5189755,"language":"LuaJIT (2.0.4)","length":2231,"point":400.0,"problem_id":"abc120_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc120","epoch_second":1556548277,"execution_time":2,"id":5190090,"language":"LuaJIT (2.0.4)","length":350,"point":200.0,"problem_id":"abc120_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc120","epoch_second":1556548388,"execution_time":8,"id":5190121,"language":"Lua (5.3.2)","length":71,"point":100.0,"problem_id":"abc120_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556606533,"execution_time":7,"id":5200014,"language":"Lua (5.3.2)","length":25,"point":100.0,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556606785,"execution_time":7,"id":5200134,"language":"Lua (5.3.2)","length":167,"point":100.0,"problem_id":"iroha2019_day1_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556606857,"execution_time":1,"id":5200173,"language":"Lua (5.3.2)","length":59,"point":100.0,"problem_id":"iroha2019_day1_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556607037,"execution_time":13,"id":5200259,"language":"Lua (5.3.2)","length":295,"point":200.0,"problem_id":"iroha2019_day1_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556608124,"execution_time":2108,"id":5200718,"language":"LuaJIT (2.0.4)","length":1765,"point":0.0,"problem_id":"iroha2019_day1_f","result":"WA","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556608560,"execution_time":2,"id":5200915,"language":"LuaJIT (2.0.4)","length":1752,"point":0.0,"problem_id":"iroha2019_day1_f","result":"WA","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556609162,"execution_time":2,"id":5201215,"language":"LuaJIT (2.0.4)","length":1967,"point":300.0,"problem_id":"iroha2019_day1_f","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556609436,"execution_time":192,"id":5201372,"language":"Lua (5.3.2)","length":299,"point":300.0,"problem_id":"iroha2019_day1_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556610508,"execution_time":10,"id":5201852,"language":"Lua (5.3.2)","length":960,"point":400.0,"problem_id":"iroha2019_day1_h","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day1","epoch_second":1556613426,"execution_time":16,"id":5203062,"language":"LuaJIT (2.0.4)","length":798,"point":400.0,"problem_id":"iroha2019_day1_g","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day2","epoch_second":1556686988,"execution_time":1,"id":5213624,"language":"LuaJIT (2.0.4)","length":227,"point":300.0,"problem_id":"iroha2019_day2_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day2","epoch_second":1556687309,"execution_time":376,"id":5213723,"language":"LuaJIT (2.0.4)","length":454,"point":300.0,"problem_id":"iroha2019_day2_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"iroha2019-day2","epoch_second":1556692917,"execution_time":704,"id":5215207,"language":"LuaJIT (2.0.4)","length":628,"point":300.0,"problem_id":"iroha2019_day2_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc033","epoch_second":1556971897,"execution_time":"","id":5257475,"language":"LuaJIT (2.0.4)","length":1075,"point":0.0,"problem_id":"agc033_a","result":"RE","user_id":"obakyan"}
+,{"contest_id":"agc033","epoch_second":1556972378,"execution_time":201,"id":5258117,"language":"LuaJIT (2.0.4)","length":1097,"point":300.0,"problem_id":"agc033_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc033","epoch_second":1556974025,"execution_time":43,"id":5260501,"language":"LuaJIT (2.0.4)","length":2034,"point":0.0,"problem_id":"agc033_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc061","epoch_second":1557067305,"execution_time":159,"id":5282479,"language":"LuaJIT (2.0.4)","length":506,"point":300.0,"problem_id":"abc061_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc087","epoch_second":1557143568,"execution_time":2,"id":5291831,"language":"LuaJIT (2.0.4)","length":45,"point":100.0,"problem_id":"abc087_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc087","epoch_second":1557144691,"execution_time":105,"id":5292058,"language":"LuaJIT (2.0.4)","length":1381,"point":0.0,"problem_id":"arc090_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc087","epoch_second":1557147299,"execution_time":188,"id":5292626,"language":"LuaJIT (2.0.4)","length":2251,"point":400.0,"problem_id":"arc090_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc043","epoch_second":1557537781,"execution_time":1,"id":5334820,"language":"LuaJIT (2.0.4)","length":236,"point":200.0,"problem_id":"abc043_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc043","epoch_second":1557537876,"execution_time":11,"id":5334830,"language":"Lua (5.3.2)","length":44,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc059","epoch_second":1557539283,"execution_time":3,"id":5334981,"language":"LuaJIT (2.0.4)","length":366,"point":400.0,"problem_id":"arc059_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557576995,"execution_time":13,"id":5342355,"language":"Lua (5.3.2)","length":75,"point":100.0,"problem_id":"diverta2019_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557577202,"execution_time":28,"id":5344510,"language":"LuaJIT (2.0.4)","length":253,"point":200.0,"problem_id":"diverta2019_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557579005,"execution_time":6,"id":5353164,"language":"LuaJIT (2.0.4)","length":1364,"point":0.0,"problem_id":"diverta2019_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557580287,"execution_time":12,"id":5357801,"language":"C++14 (GCC 5.4.1)","length":2381,"point":500.0,"problem_id":"diverta2019_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557580896,"execution_time":6,"id":5359686,"language":"LuaJIT (2.0.4)","length":1020,"point":400.0,"problem_id":"diverta2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019","epoch_second":1557581464,"execution_time":6,"id":5361126,"language":"LuaJIT (2.0.4)","length":1020,"point":400.0,"problem_id":"diverta2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc030","epoch_second":1557588477,"execution_time":1,"id":5368790,"language":"LuaJIT (2.0.4)","length":65,"point":100.0,"problem_id":"arc030_1","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc044","epoch_second":1557625889,"execution_time":7,"id":5373045,"language":"Lua (5.3.2)","length":390,"point":100.0,"problem_id":"arc044_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc117","epoch_second":1557843716,"execution_time":4,"id":5401009,"language":"Lua (5.3.2)","length":34,"point":100.0,"problem_id":"abc117_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc117","epoch_second":1557843882,"execution_time":1,"id":5401045,"language":"Lua (5.3.2)","length":184,"point":200.0,"problem_id":"abc117_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc119","epoch_second":1558165050,"execution_time":251,"id":5434955,"language":"LuaJIT (2.0.4)","length":1430,"point":400.0,"problem_id":"abc119_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc084","epoch_second":1558176528,"execution_time":91,"id":5436664,"language":"LuaJIT (2.0.4)","length":740,"point":400.0,"problem_id":"abc084_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc013","epoch_second":1558177173,"execution_time":27,"id":5436750,"language":"LuaJIT (2.0.4)","length":613,"point":300.0,"problem_id":"agc013_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc068","epoch_second":1558179030,"execution_time":8,"id":5437009,"language":"Lua (5.3.2)","length":359,"point":600.0,"problem_id":"arc079_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc016","epoch_second":1558180090,"execution_time":1,"id":5437156,"language":"LuaJIT (2.0.4)","length":415,"point":300.0,"problem_id":"agc016_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc066","epoch_second":1558182253,"execution_time":24,"id":5437638,"language":"LuaJIT (2.0.4)","length":725,"point":300.0,"problem_id":"arc066_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc015","epoch_second":1558182777,"execution_time":15,"id":5437737,"language":"Lua (5.3.2)","length":240,"point":400.0,"problem_id":"agc015_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc048","epoch_second":1558183031,"execution_time":1,"id":5437783,"language":"Lua (5.3.2)","length":147,"point":200.0,"problem_id":"abc048_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc017","epoch_second":1558183556,"execution_time":1,"id":5437900,"language":"Lua (5.3.2)","length":410,"point":200.0,"problem_id":"agc017_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc081","epoch_second":1558185004,"execution_time":1,"id":5438238,"language":"LuaJIT (2.0.4)","length":662,"point":400.0,"problem_id":"arc081_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"code-festival-2016-quala","epoch_second":1558185212,"execution_time":33,"id":5438299,"language":"Lua (5.3.2)","length":198,"point":200.0,"problem_id":"codefestival_2016_qualA_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc119","epoch_second":1558185854,"execution_time":1,"id":5438438,"language":"LuaJIT (2.0.4)","length":285,"point":200.0,"problem_id":"abc119_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc119","epoch_second":1558186131,"execution_time":1,"id":5438494,"language":"LuaJIT (2.0.4)","length":256,"point":100.0,"problem_id":"abc119_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc006","epoch_second":1558187809,"execution_time":2,"id":5438857,"language":"LuaJIT (2.0.4)","length":327,"point":200.0,"problem_id":"agc006_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc011","epoch_second":1558188856,"execution_time":74,"id":5439043,"language":"LuaJIT (2.0.4)","length":412,"point":300.0,"problem_id":"agc011_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"keyence2019","epoch_second":1558227097,"execution_time":96,"id":5441756,"language":"LuaJIT (2.0.4)","length":512,"point":400.0,"problem_id":"keyence2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1558228704,"execution_time":1,"id":5441902,"language":"LuaJIT (2.0.4)","length":55,"point":100.0,"problem_id":"abc034_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc034","epoch_second":1558228800,"execution_time":7,"id":5441913,"language":"Lua (5.3.2)","length":58,"point":100.0,"problem_id":"abc034_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc070","epoch_second":1558232898,"execution_time":298,"id":5442361,"language":"LuaJIT (2.0.4)","length":696,"point":0.0,"problem_id":"abc070_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc070","epoch_second":1558233224,"execution_time":526,"id":5442398,"language":"Lua (5.3.2)","length":696,"point":400.0,"problem_id":"abc070_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"code-festival-2017-quala","epoch_second":1558238651,"execution_time":7,"id":5443044,"language":"Lua (5.3.2)","length":61,"point":100.0,"problem_id":"code_festival_2017_quala_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"code-festival-2017-quala","epoch_second":1558238948,"execution_time":3,"id":5443082,"language":"LuaJIT (2.0.4)","length":254,"point":200.0,"problem_id":"code_festival_2017_quala_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc072","epoch_second":1558239787,"execution_time":23,"id":5443187,"language":"LuaJIT (2.0.4)","length":266,"point":0.0,"problem_id":"arc082_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc072","epoch_second":1558240253,"execution_time":22,"id":5443243,"language":"LuaJIT (2.0.4)","length":252,"point":400.0,"problem_id":"arc082_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc071","epoch_second":1558241311,"execution_time":"","id":5443376,"language":"LuaJIT (2.0.4)","length":340,"point":0.0,"problem_id":"abc071_b","result":"RE","user_id":"obakyan"}
+,{"contest_id":"abc071","epoch_second":1558241434,"execution_time":2,"id":5443395,"language":"LuaJIT (2.0.4)","length":373,"point":200.0,"problem_id":"abc071_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc071","epoch_second":1558241507,"execution_time":11,"id":5443406,"language":"Lua (5.3.2)","length":82,"point":100.0,"problem_id":"abc071_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"cf17-final","epoch_second":1558242269,"execution_time":4,"id":5443511,"language":"LuaJIT (2.0.4)","length":287,"point":400.0,"problem_id":"cf17_final_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc094","epoch_second":1558243282,"execution_time":94,"id":5443680,"language":"Lua (5.3.2)","length":717,"point":400.0,"problem_id":"arc095_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558267441,"execution_time":1,"id":5449807,"language":"LuaJIT (2.0.4)","length":316,"point":300.0,"problem_id":"abc126_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558267665,"execution_time":1,"id":5452274,"language":"LuaJIT (2.0.4)","length":422,"point":200.0,"problem_id":"abc126_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558267853,"execution_time":1,"id":5454087,"language":"LuaJIT (2.0.4)","length":287,"point":100.0,"problem_id":"abc126_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558268322,"execution_time":239,"id":5458124,"language":"LuaJIT (2.0.4)","length":622,"point":400.0,"problem_id":"abc126_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558268840,"execution_time":"","id":5461478,"language":"LuaJIT (2.0.4)","length":630,"point":0.0,"problem_id":"abc126_e","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558269371,"execution_time":82,"id":5464534,"language":"LuaJIT (2.0.4)","length":911,"point":500.0,"problem_id":"abc126_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558270499,"execution_time":201,"id":5469723,"language":"LuaJIT (2.0.4)","length":572,"point":0.0,"problem_id":"abc126_f","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558271168,"execution_time":187,"id":5472051,"language":"LuaJIT (2.0.4)","length":960,"point":600.0,"problem_id":"abc126_f","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc126","epoch_second":1558271373,"execution_time":187,"id":5472758,"language":"LuaJIT (2.0.4)","length":960,"point":600.0,"problem_id":"abc126_f","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc118","epoch_second":1558312905,"execution_time":1,"id":5485798,"language":"LuaJIT (2.0.4)","length":64,"point":100.0,"problem_id":"abc118_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc118","epoch_second":1558313216,"execution_time":1,"id":5485840,"language":"Lua (5.3.2)","length":319,"point":200.0,"problem_id":"abc118_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc102","epoch_second":1558450987,"execution_time":1286,"id":5538687,"language":"Lua (5.3.2)","length":1341,"point":600.0,"problem_id":"arc100_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc110","epoch_second":1558534820,"execution_time":2,"id":5547553,"language":"LuaJIT (2.0.4)","length":2815,"point":400.0,"problem_id":"abc110_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc112","epoch_second":1558536234,"execution_time":3,"id":5547830,"language":"LuaJIT (2.0.4)","length":2085,"point":400.0,"problem_id":"abc112_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc048","epoch_second":1558537033,"execution_time":1,"id":5547994,"language":"LuaJIT (2.0.4)","length":108,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc089","epoch_second":1558537107,"execution_time":8,"id":5548005,"language":"Lua (5.3.2)","length":27,"point":100.0,"problem_id":"abc089_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc089","epoch_second":1558537245,"execution_time":7,"id":5548042,"language":"Lua (5.3.2)","length":82,"point":200.0,"problem_id":"abc089_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc114","epoch_second":1558588894,"execution_time":14,"id":5552013,"language":"Lua (5.3.2)","length":3935,"point":0.0,"problem_id":"abc114_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc114","epoch_second":1558591647,"execution_time":8,"id":5552446,"language":"Lua (5.3.2)","length":3907,"point":300.0,"problem_id":"abc114_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc089","epoch_second":1558618124,"execution_time":"","id":5556581,"language":"LuaJIT (2.0.4)","length":738,"point":0.0,"problem_id":"abc089_d","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc089","epoch_second":1558618291,"execution_time":129,"id":5556609,"language":"LuaJIT (2.0.4)","length":743,"point":400.0,"problem_id":"abc089_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc045","epoch_second":1558619012,"execution_time":1,"id":5556764,"language":"LuaJIT (2.0.4)","length":283,"point":200.0,"problem_id":"abc045_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc012","epoch_second":1558619832,"execution_time":385,"id":5556913,"language":"Lua (5.3.2)","length":234,"point":300.0,"problem_id":"agc012_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc055","epoch_second":1558621082,"execution_time":11,"id":5557180,"language":"LuaJIT (2.0.4)","length":690,"point":0.0,"problem_id":"arc069_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc055","epoch_second":1558621340,"execution_time":10,"id":5557232,"language":"LuaJIT (2.0.4)","length":932,"point":0.0,"problem_id":"arc069_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc055","epoch_second":1558622009,"execution_time":23,"id":5557364,"language":"LuaJIT (2.0.4)","length":1136,"point":500.0,"problem_id":"arc069_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc057","epoch_second":1558623359,"execution_time":8,"id":5557609,"language":"Lua (5.3.2)","length":1065,"point":0.0,"problem_id":"abc057_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc057","epoch_second":1558623842,"execution_time":8,"id":5557709,"language":"Lua (5.3.2)","length":1169,"point":0.0,"problem_id":"abc057_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc057","epoch_second":1558651085,"execution_time":7,"id":5559274,"language":"Lua (5.3.2)","length":1137,"point":400.0,"problem_id":"abc057_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc079","epoch_second":1558774098,"execution_time":8,"id":5582470,"language":"LuaJIT (2.0.4)","length":693,"point":400.0,"problem_id":"abc079_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558781903,"execution_time":669,"id":5584232,"language":"Lua (5.3.2)","length":146,"point":100.0,"problem_id":"chokudai_S002_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558781934,"execution_time":243,"id":5584237,"language":"LuaJIT (2.0.4)","length":125,"point":100.0,"problem_id":"chokudai_S002_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558781992,"execution_time":87,"id":5584256,"language":"Lua (5.3.2)","length":204,"point":200.0,"problem_id":"chokudai_S002_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558782226,"execution_time":90,"id":5584295,"language":"Lua (5.3.2)","length":204,"point":200.0,"problem_id":"chokudai_S002_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558782316,"execution_time":89,"id":5584318,"language":"Lua (5.3.2)","length":209,"point":200.0,"problem_id":"chokudai_S002_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558782367,"execution_time":662,"id":5584328,"language":"Lua (5.3.2)","length":161,"point":100.0,"problem_id":"chokudai_S002_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558782546,"execution_time":147,"id":5584365,"language":"Lua (5.3.2)","length":306,"point":300.0,"problem_id":"chokudai_S002_f","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558782633,"execution_time":245,"id":5584384,"language":"LuaJIT (2.0.4)","length":300,"point":300.0,"problem_id":"chokudai_S002_g","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558784388,"execution_time":"","id":5584779,"language":"LuaJIT (2.0.4)","length":2329,"point":0.0,"problem_id":"chokudai_S002_h","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558784610,"execution_time":1584,"id":5584857,"language":"LuaJIT (2.0.4)","length":2365,"point":400.0,"problem_id":"chokudai_S002_h","result":"AC","user_id":"obakyan"}
+,{"contest_id":"chokudai_S002","epoch_second":1558785189,"execution_time":102,"id":5585082,"language":"LuaJIT (2.0.4)","length":824,"point":400.0,"problem_id":"chokudai_S002_i","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558785732,"execution_time":8,"id":5586322,"language":"Lua (5.3.2)","length":139,"point":200.0,"problem_id":"abc127_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558785813,"execution_time":8,"id":5588155,"language":"Lua (5.3.2)","length":148,"point":100.0,"problem_id":"abc127_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558785955,"execution_time":40,"id":5590936,"language":"LuaJIT (2.0.4)","length":379,"point":300.0,"problem_id":"abc127_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558788150,"execution_time":389,"id":5604917,"language":"LuaJIT (2.0.4)","length":1032,"point":400.0,"problem_id":"abc127_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558790536,"execution_time":"","id":5612627,"language":"Lua (5.3.2)","length":1527,"point":0.0,"problem_id":"abc127_f","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc127","epoch_second":1558790657,"execution_time":"","id":5613027,"language":"LuaJIT (2.0.4)","length":1541,"point":0.0,"problem_id":"abc127_f","result":"TLE","user_id":"obakyan"}
+,{"contest_id":"abc074","epoch_second":1558868718,"execution_time":10,"id":5631466,"language":"LuaJIT (2.0.4)","length":767,"point":300.0,"problem_id":"arc083_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc078","epoch_second":1558870901,"execution_time":1,"id":5631975,"language":"LuaJIT (2.0.4)","length":76,"point":300.0,"problem_id":"arc085_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc116","epoch_second":1558871370,"execution_time":1,"id":5632118,"language":"LuaJIT (2.0.4)","length":325,"point":200.0,"problem_id":"abc116_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc128","epoch_second":1558872469,"execution_time":2,"id":5637378,"language":"LuaJIT (2.0.4)","length":842,"point":300.0,"problem_id":"abc128_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc128","epoch_second":1558872529,"execution_time":6,"id":5637682,"language":"Lua (5.3.2)","length":170,"point":100.0,"problem_id":"abc128_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc128","epoch_second":1558873198,"execution_time":1,"id":5640373,"language":"LuaJIT (2.0.4)","length":769,"point":200.0,"problem_id":"abc128_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc128","epoch_second":1558875451,"execution_time":610,"id":5646001,"language":"LuaJIT (2.0.4)","length":2455,"point":500.0,"problem_id":"abc128_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc128","epoch_second":1558877389,"execution_time":22,"id":5649828,"language":"LuaJIT (2.0.4)","length":1000,"point":400.0,"problem_id":"abc128_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc072","epoch_second":1558883434,"execution_time":30,"id":5654957,"language":"LuaJIT (2.0.4)","length":341,"point":300.0,"problem_id":"arc082_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc084","epoch_second":1558916379,"execution_time":3,"id":5657583,"language":"LuaJIT (2.0.4)","length":375,"point":300.0,"problem_id":"abc084_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc063","epoch_second":1558936169,"execution_time":1,"id":5660123,"language":"LuaJIT (2.0.4)","length":302,"point":300.0,"problem_id":"arc075_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc064","epoch_second":1558938278,"execution_time":1,"id":5660498,"language":"LuaJIT (2.0.4)","length":436,"point":0.0,"problem_id":"abc064_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc064","epoch_second":1558938607,"execution_time":1,"id":5660570,"language":"LuaJIT (2.0.4)","length":409,"point":0.0,"problem_id":"abc064_c","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc064","epoch_second":1558938929,"execution_time":1,"id":5660628,"language":"LuaJIT (2.0.4)","length":423,"point":300.0,"problem_id":"abc064_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc030","epoch_second":1558941631,"execution_time":81,"id":5661233,"language":"LuaJIT (2.0.4)","length":740,"point":100.0,"problem_id":"abc030_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc059","epoch_second":1558960112,"execution_time":51,"id":5664919,"language":"LuaJIT (2.0.4)","length":618,"point":300.0,"problem_id":"arc072_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc116","epoch_second":1558960198,"execution_time":7,"id":5664932,"language":"Lua (5.3.2)","length":44,"point":100.0,"problem_id":"abc116_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc115","epoch_second":1558960312,"execution_time":13,"id":5664955,"language":"Lua (5.3.2)","length":181,"point":200.0,"problem_id":"abc115_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc115","epoch_second":1558960402,"execution_time":1,"id":5664968,"language":"Lua (5.3.2)","length":111,"point":100.0,"problem_id":"abc115_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc113","epoch_second":1558968178,"execution_time":382,"id":5666886,"language":"LuaJIT (2.0.4)","length":658,"point":300.0,"problem_id":"abc113_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc112","epoch_second":1558969297,"execution_time":1,"id":5667108,"language":"LuaJIT (2.0.4)","length":669,"point":300.0,"problem_id":"abc112_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc062","epoch_second":1559003188,"execution_time":21,"id":5669778,"language":"Lua (5.3.2)","length":1425,"point":400.0,"problem_id":"arc074_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc117","epoch_second":1559054932,"execution_time":398,"id":5678460,"language":"Lua (5.3.2)","length":1251,"point":0.0,"problem_id":"abc117_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc117","epoch_second":1559140586,"execution_time":388,"id":5694606,"language":"Lua (5.3.2)","length":1338,"point":400.0,"problem_id":"abc117_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1559320680,"execution_time":37,"id":5716104,"language":"LuaJIT (2.0.4)","length":1347,"point":0.0,"problem_id":"arc087_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1559321856,"execution_time":37,"id":5716232,"language":"LuaJIT (2.0.4)","length":1409,"point":0.0,"problem_id":"arc087_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1559347961,"execution_time":66,"id":5717421,"language":"LuaJIT (2.0.4)","length":1450,"point":500.0,"problem_id":"arc087_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1559348642,"execution_time":1,"id":5717489,"language":"LuaJIT (2.0.4)","length":338,"point":200.0,"problem_id":"abc082_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc082","epoch_second":1559348696,"execution_time":1,"id":5717495,"language":"LuaJIT (2.0.4)","length":59,"point":100.0,"problem_id":"abc082_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc114","epoch_second":1559366958,"execution_time":1,"id":5719584,"language":"LuaJIT (2.0.4)","length":1048,"point":400.0,"problem_id":"abc114_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"m-solutions2019","epoch_second":1559390449,"execution_time":10,"id":5723906,"language":"Lua (5.3.2)","length":47,"point":100.0,"problem_id":"m_solutions2019_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"m-solutions2019","epoch_second":1559390568,"execution_time":7,"id":5725596,"language":"Lua (5.3.2)","length":168,"point":200.0,"problem_id":"m_solutions2019_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"m-solutions2019","epoch_second":1559392076,"execution_time":41,"id":5731142,"language":"LuaJIT (2.0.4)","length":791,"point":0.0,"problem_id":"m_solutions2019_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"m-solutions2019","epoch_second":1559394270,"execution_time":32,"id":5733668,"language":"LuaJIT (2.0.4)","length":1337,"point":500.0,"problem_id":"m_solutions2019_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"m-solutions2019","epoch_second":1559397943,"execution_time":1356,"id":5737335,"language":"LuaJIT (2.0.4)","length":1589,"point":500.0,"problem_id":"m_solutions2019_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc114","epoch_second":1559437307,"execution_time":6,"id":5741364,"language":"Lua (5.3.2)","length":184,"point":200.0,"problem_id":"abc114_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc114","epoch_second":1559437369,"execution_time":7,"id":5741373,"language":"Lua (5.3.2)","length":105,"point":100.0,"problem_id":"abc114_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc110","epoch_second":1559465152,"execution_time":3,"id":5745718,"language":"LuaJIT (2.0.4)","length":503,"point":300.0,"problem_id":"abc110_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc110","epoch_second":1559471348,"execution_time":1,"id":5746917,"language":"LuaJIT (2.0.4)","length":515,"point":200.0,"problem_id":"abc110_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc110","epoch_second":1559471455,"execution_time":8,"id":5746934,"language":"Lua (5.3.2)","length":183,"point":0.0,"problem_id":"abc110_a","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc110","epoch_second":1559471547,"execution_time":6,"id":5746949,"language":"Lua (5.3.2)","length":187,"point":100.0,"problem_id":"abc110_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc103","epoch_second":1559471731,"execution_time":6,"id":5746969,"language":"Lua (5.3.2)","length":148,"point":300.0,"problem_id":"abc103_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc097","epoch_second":1559472304,"execution_time":15,"id":5747054,"language":"LuaJIT (2.0.4)","length":342,"point":300.0,"problem_id":"arc097_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc092","epoch_second":1559473259,"execution_time":108,"id":5747216,"language":"LuaJIT (2.0.4)","length":489,"point":300.0,"problem_id":"arc093_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc090","epoch_second":1559474274,"execution_time":6,"id":5747398,"language":"Lua (5.3.2)","length":275,"point":300.0,"problem_id":"arc091_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc083","epoch_second":1559474523,"execution_time":8,"id":5747458,"language":"Lua (5.3.2)","length":113,"point":300.0,"problem_id":"arc088_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc079","epoch_second":1559475057,"execution_time":17,"id":5747552,"language":"Lua (5.3.2)","length":512,"point":300.0,"problem_id":"abc079_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc070","epoch_second":1559476178,"execution_time":78,"id":5747750,"language":"Lua (5.3.2)","length":305,"point":300.0,"problem_id":"abc070_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc048","epoch_second":1559478005,"execution_time":88,"id":5749992,"language":"Lua (5.3.2)","length":419,"point":300.0,"problem_id":"arc064_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"caddi2018","epoch_second":1559478650,"execution_time":25,"id":5752158,"language":"LuaJIT (2.0.4)","length":1397,"point":300.0,"problem_id":"caddi2018_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc024","epoch_second":1559479148,"execution_time":7,"id":5753717,"language":"Lua (5.3.2)","length":112,"point":300.0,"problem_id":"agc024_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc029","epoch_second":1559480814,"execution_time":24,"id":5758429,"language":"LuaJIT (2.0.4)","length":279,"point":300.0,"problem_id":"agc029_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc029","epoch_second":1559480836,"execution_time":83,"id":5758488,"language":"Lua (5.3.2)","length":279,"point":300.0,"problem_id":"agc029_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc105","epoch_second":1559521601,"execution_time":7,"id":5772107,"language":"Lua (5.3.2)","length":227,"point":200.0,"problem_id":"abc105_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc105","epoch_second":1559521717,"execution_time":8,"id":5772116,"language":"Lua (5.3.2)","length":64,"point":100.0,"problem_id":"abc105_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc106","epoch_second":1559573769,"execution_time":7,"id":5780782,"language":"Lua (5.3.2)","length":42,"point":100.0,"problem_id":"abc106_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc106","epoch_second":1559615899,"execution_time":9,"id":5783525,"language":"Lua (5.3.2)","length":196,"point":200.0,"problem_id":"abc106_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc067","epoch_second":1559712517,"execution_time":58,"id":5794459,"language":"Lua (5.3.2)","length":284,"point":500.0,"problem_id":"arc067_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"pakencamp-2018-day2","epoch_second":1560079835,"execution_time":7,"id":5834174,"language":"Lua (5.3.2)","length":65,"point":100.0,"problem_id":"pakencamp_2018_day2_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"pakencamp-2018-day2","epoch_second":1560080169,"execution_time":2,"id":5834268,"language":"LuaJIT (2.0.4)","length":227,"point":100.0,"problem_id":"pakencamp_2018_day2_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc129","epoch_second":1560081724,"execution_time":4,"id":5835228,"language":"LuaJIT (2.0.4)","length":203,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc129","epoch_second":1560082008,"execution_time":1,"id":5838800,"language":"LuaJIT (2.0.4)","length":427,"point":200.0,"problem_id":"abc129_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc129","epoch_second":1560082625,"execution_time":21,"id":5842987,"language":"LuaJIT (2.0.4)","length":893,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc129","epoch_second":1560083730,"execution_time":1206,"id":5846988,"language":"LuaJIT (2.0.4)","length":2280,"point":400.0,"problem_id":"abc129_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc129","epoch_second":1560084649,"execution_time":53,"id":5849314,"language":"LuaJIT (2.0.4)","length":894,"point":500.0,"problem_id":"abc129_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc045","epoch_second":1560180478,"execution_time":8,"id":5872322,"language":"Lua (5.3.2)","length":70,"point":100.0,"problem_id":"abc045_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"code-festival-2017-qualb","epoch_second":1560211497,"execution_time":169,"id":5874091,"language":"Lua (5.3.2)","length":386,"point":200.0,"problem_id":"code_festival_2017_qualb_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"agc028","epoch_second":1560213142,"execution_time":21,"id":5874212,"language":"LuaJIT (2.0.4)","length":632,"point":300.0,"problem_id":"agc028_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc030","epoch_second":1560344689,"execution_time":7,"id":5889826,"language":"Lua (5.3.2)","length":177,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc030","epoch_second":1560344858,"execution_time":13,"id":5889860,"language":"Lua (5.3.2)","length":170,"point":100.0,"problem_id":"abc030_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"code-festival-2018-final","epoch_second":1560433917,"execution_time":"","id":5899632,"language":"LuaJIT (2.0.4)","length":329,"point":0.0,"problem_id":"code_festival_2018_final_b","result":"RE","user_id":"obakyan"}
+,{"contest_id":"code-festival-2018-final","epoch_second":1560434023,"execution_time":22,"id":5899648,"language":"LuaJIT (2.0.4)","length":350,"point":300.0,"problem_id":"code_festival_2018_final_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"tkppc3","epoch_second":1560434942,"execution_time":26,"id":5899827,"language":"LuaJIT (2.0.4)","length":176,"point":500.0,"problem_id":"tkppc3_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"soundhound2018-summer-qual","epoch_second":1560435458,"execution_time":1,"id":5899923,"language":"LuaJIT (2.0.4)","length":158,"point":300.0,"problem_id":"soundhound2018_summer_qual_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560600121,"execution_time":8,"id":5917896,"language":"Lua (5.3.2)","length":79,"point":100.0,"problem_id":"diverta2019_2_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560601396,"execution_time":26,"id":5922915,"language":"LuaJIT (2.0.4)","length":1778,"point":0.0,"problem_id":"diverta2019_2_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560601746,"execution_time":162,"id":5923777,"language":"Lua (5.3.2)","length":1963,"point":0.0,"problem_id":"diverta2019_2_b","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560601855,"execution_time":160,"id":5924040,"language":"Lua (5.3.2)","length":1997,"point":300.0,"problem_id":"diverta2019_2_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560603344,"execution_time":226,"id":5927726,"language":"LuaJIT (2.0.4)","length":1242,"point":500.0,"problem_id":"diverta2019_2_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560604371,"execution_time":2105,"id":5930215,"language":"LuaJIT (2.0.4)","length":1983,"point":0.0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560605007,"execution_time":2105,"id":5931657,"language":"LuaJIT (2.0.4)","length":1816,"point":0.0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560606348,"execution_time":90,"id":5934808,"language":"LuaJIT (2.0.4)","length":3110,"point":0.0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560606675,"execution_time":90,"id":5935629,"language":"LuaJIT (2.0.4)","length":3122,"point":0.0,"problem_id":"diverta2019_2_d","result":"WA","user_id":"obakyan"}
+,{"contest_id":"diverta2019-2","epoch_second":1560607053,"execution_time":91,"id":5936770,"language":"LuaJIT (2.0.4)","length":3120,"point":600.0,"problem_id":"diverta2019_2_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"arc057","epoch_second":1560670045,"execution_time":1,"id":5947239,"language":"LuaJIT (2.0.4)","length":199,"point":100.0,"problem_id":"arc057_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc069","epoch_second":1560670965,"execution_time":36,"id":5947427,"language":"LuaJIT (2.0.4)","length":521,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc046","epoch_second":1560681775,"execution_time":9,"id":5949248,"language":"Lua (5.3.2)","length":686,"point":300.0,"problem_id":"arc062_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560686456,"execution_time":12,"id":5950627,"language":"Lua (5.3.2)","length":75,"point":100.0,"problem_id":"abc130_a","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560686574,"execution_time":10,"id":5953613,"language":"Lua (5.3.2)","length":216,"point":200.0,"problem_id":"abc130_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560686924,"execution_time":7,"id":5957961,"language":"Lua (5.3.2)","length":237,"point":300.0,"problem_id":"abc130_c","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560687476,"execution_time":24,"id":5962586,"language":"LuaJIT (2.0.4)","length":439,"point":400.0,"problem_id":"abc130_d","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560690093,"execution_time":110,"id":5975904,"language":"LuaJIT (2.0.4)","length":1070,"point":500.0,"problem_id":"abc130_e","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560691907,"execution_time":95,"id":5982574,"language":"LuaJIT (2.0.4)","length":5669,"point":0.0,"problem_id":"abc130_f","result":"WA","user_id":"obakyan"}
+,{"contest_id":"abc130","epoch_second":1560691979,"execution_time":94,"id":5982868,"language":"LuaJIT (2.0.4)","length":5669,"point":600.0,"problem_id":"abc130_f","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc112","epoch_second":1560731681,"execution_time":8,"id":5992587,"language":"Lua (5.3.2)","length":251,"point":200.0,"problem_id":"abc112_b","result":"AC","user_id":"obakyan"}
+,{"contest_id":"abc112","epoch_second":1560731762,"execution_time":7,"id":5992597,"language":"Lua (5.3.2)","length":107,"point":100.0,"problem_id":"abc112_a","result":"AC","user_id":"obakyan"}
 ]

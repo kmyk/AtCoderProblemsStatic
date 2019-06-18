@@ -1,438 +1,507 @@
-[{"contest_id":"abc001","epoch_second":1498173978,"execution_time":171,"id":1370958,"language":"PyPy3 (2.4.0)","length":52,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498175675,"execution_time":167,"id":1370965,"language":"PyPy3 (2.4.0)","length":394,"point":0,"problem_id":"abc001_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498176412,"execution_time":172,"id":1370981,"language":"PyPy3 (2.4.0)","length":386,"point":0,"problem_id":"abc001_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498176569,"execution_time":170,"id":1370983,"language":"PyPy3 (2.4.0)","length":398,"point":100,"problem_id":"abc001_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498189902,"execution_time":174,"id":1371184,"language":"PyPy3 (2.4.0)","length":101,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498190591,"execution_time":169,"id":1371196,"language":"PyPy3 (2.4.0)","length":125,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498434754,"execution_time":1,"id":1381688,"language":"C (GCC 5.4.1)","length":109,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498438551,"execution_time":1,"id":1381732,"language":"C++ (GCC 5.4.1)","length":154,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498444564,"execution_time":105,"id":1381774,"language":"Java7 (OpenJDK 1.7.0)","length":233,"point":0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498445465,"execution_time":22,"id":1381785,"language":"C# (Mono 4.6.2.0)","length":215,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498459225,"execution_time":55,"id":1382363,"language":"JavaScript (node.js v5.12)","length":209,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498459771,"execution_time":4,"id":1382414,"language":"Bash (GNU bash v4.3.11)","length":76,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498462041,"execution_time":2,"id":1382551,"language":"Perl (v5.18.2)","length":92,"point":0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498462212,"execution_time":3,"id":1382557,"language":"Perl (v5.18.2)","length":98,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498463331,"execution_time":11,"id":1382620,"language":"PHP (5.6.30)","length":77,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498519792,"execution_time":22,"id":1383853,"language":"Common Lisp (SBCL 1.1.14)","length":25,"point":0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498519869,"execution_time":5,"id":1383854,"language":"Common Lisp (SBCL 1.1.14)","length":39,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498534537,"execution_time":7,"id":1384323,"language":"Ruby (2.3.3)","length":47,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498535113,"execution_time":29,"id":1384334,"language":"Swift (swift-2.2-RELEASE)","length":66,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498536404,"execution_time":"","id":1384371,"language":"Objective-C (GCC 5.3.0)","length":120,"point":0,"problem_id":"abc001_1","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1498536487,"execution_time":"","id":1384376,"language":"Objective-C (GCC 5.3.0)","length":124,"point":0,"problem_id":"abc001_1","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498606406,"execution_time":1,"id":1386239,"language":"C (GCC 5.4.1)","length":168,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498606967,"execution_time":1,"id":1386240,"language":"C++ (GCC 5.4.1)","length":218,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498621851,"execution_time":2,"id":1386389,"language":"Bash (GNU bash v4.3.11)","length":84,"point":0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498622058,"execution_time":1,"id":1386391,"language":"Bash (GNU bash v4.3.11)","length":90,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498622445,"execution_time":3,"id":1386397,"language":"Perl (v5.18.2)","length":170,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498704913,"execution_time":9,"id":1387609,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498704968,"execution_time":30,"id":1387611,"language":"Common Lisp (SBCL 1.1.14)","length":116,"point":0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1498718696,"execution_time":25,"id":1387871,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498721613,"execution_time":1,"id":1387937,"language":"C (GCC 5.4.1)","length":179,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498722894,"execution_time":1,"id":1387965,"language":"C++14 (GCC 5.4.1)","length":216,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498725268,"execution_time":22,"id":1388033,"language":"C# (Mono 4.6.2.0)","length":276,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498726271,"execution_time":102,"id":1388071,"language":"Java7 (OpenJDK 1.7.0)","length":310,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498962853,"execution_time":50,"id":1398536,"language":"JavaScript (node.js v5.12)","length":232,"point":0,"problem_id":"abc003_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1498963562,"execution_time":53,"id":1398559,"language":"JavaScript (node.js v5.12)","length":275,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499037724,"execution_time":141,"id":1399922,"language":"Bash (GNU bash v4.3.11)","length":149,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499038072,"execution_time":3,"id":1399923,"language":"Perl (v5.18.2)","length":163,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499038286,"execution_time":9,"id":1399925,"language":"PHP (5.6.30)","length":131,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499038864,"execution_time":7,"id":1399929,"language":"Ruby (2.3.3)","length":104,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499039721,"execution_time":35,"id":1399932,"language":"Swift (swift-2.2-RELEASE)","length":137,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499053872,"execution_time":137,"id":1400099,"language":"Common Lisp (SBCL 1.1.14)","length":212,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1499053939,"execution_time":10,"id":1400100,"language":"Common Lisp (SBCL 1.1.14)","length":206,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499054170,"execution_time":1,"id":1400103,"language":"C (GCC 5.4.1)","length":111,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499054322,"execution_time":1,"id":1400107,"language":"C++14 (GCC 5.4.1)","length":150,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499054463,"execution_time":21,"id":1400110,"language":"C# (Mono 4.6.2.0)","length":178,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499123304,"execution_time":106,"id":1401691,"language":"Java7 (OpenJDK 1.7.0)","length":212,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499123467,"execution_time":52,"id":1401692,"language":"JavaScript (node.js v5.12)","length":172,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499123574,"execution_time":16,"id":1401693,"language":"Bash (GNU bash v4.3.11)","length":54,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499123741,"execution_time":2,"id":1401695,"language":"Perl (v5.18.2)","length":66,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499123920,"execution_time":12,"id":1401697,"language":"PHP (5.6.30)","length":60,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499124012,"execution_time":17,"id":1401698,"language":"Python3 (3.4.3)","length":31,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499124087,"execution_time":7,"id":1401701,"language":"Ruby (2.3.3)","length":32,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499124180,"execution_time":35,"id":1401705,"language":"Swift (swift-2.2-RELEASE)","length":40,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499124249,"execution_time":5,"id":1401706,"language":"Common Lisp (SBCL 1.1.14)","length":34,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1499124327,"execution_time":103,"id":1401707,"language":"Java7 (OpenJDK 1.7.0)","length":197,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499124773,"execution_time":1,"id":1401708,"language":"C (GCC 5.4.1)","length":116,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499124904,"execution_time":1,"id":1401709,"language":"C++14 (GCC 5.4.1)","length":165,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125006,"execution_time":21,"id":1401710,"language":"C# (Mono 4.6.2.0)","length":237,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125116,"execution_time":100,"id":1401711,"language":"Java7 (OpenJDK 1.7.0)","length":225,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125244,"execution_time":51,"id":1401713,"language":"JavaScript (node.js v5.12)","length":234,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125499,"execution_time":2,"id":1401714,"language":"Bash (GNU bash v4.3.11)","length":51,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125812,"execution_time":2,"id":1401717,"language":"Perl (v5.18.2)","length":127,"point":0,"problem_id":"abc005_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499125962,"execution_time":2,"id":1401718,"language":"Perl (v5.18.2)","length":137,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499126190,"execution_time":10,"id":1401719,"language":"PHP (5.6.30)","length":93,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499126289,"execution_time":175,"id":1401720,"language":"PyPy3 (2.4.0)","length":55,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499126390,"execution_time":7,"id":1401721,"language":"Ruby (2.3.3)","length":68,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499126776,"execution_time":10,"id":1401722,"language":"Swift (swift-2.2-RELEASE)","length":129,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1499127894,"execution_time":46,"id":1401725,"language":"Common Lisp (SBCL 1.1.14)","length":110,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499138589,"execution_time":1,"id":1401943,"language":"C (GCC 5.4.1)","length":159,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499138885,"execution_time":1,"id":1401949,"language":"C++14 (GCC 5.4.1)","length":205,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499139136,"execution_time":21,"id":1401954,"language":"C# (Mono 4.6.2.0)","length":247,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499139286,"execution_time":97,"id":1401956,"language":"Java7 (OpenJDK 1.7.0)","length":287,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499139436,"execution_time":52,"id":1401959,"language":"JavaScript (node.js v5.12)","length":248,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499139970,"execution_time":2,"id":1401965,"language":"Bash (GNU bash v4.3.11)","length":96,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499141077,"execution_time":2,"id":1401988,"language":"Perl (v5.18.2)","length":125,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499141219,"execution_time":9,"id":1401990,"language":"PHP (5.6.30)","length":104,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499141585,"execution_time":17,"id":1402001,"language":"Python3 (3.4.3)","length":83,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499144439,"execution_time":4,"id":1402076,"language":"Swift (swift-2.2-RELEASE)","length":105,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499144825,"execution_time":6,"id":1402088,"language":"Common Lisp (SBCL 1.1.14)","length":65,"point":0,"problem_id":"abc006_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499145104,"execution_time":5,"id":1402095,"language":"Common Lisp (SBCL 1.1.14)","length":65,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499209757,"execution_time":1,"id":1403082,"language":"C (GCC 5.4.1)","length":93,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210143,"execution_time":52,"id":1403087,"language":"JavaScript (node.js v5.12)","length":174,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210206,"execution_time":6,"id":1403088,"language":"Bash (GNU bash v4.3.11)","length":39,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210276,"execution_time":2,"id":1403090,"language":"Perl (v5.18.2)","length":66,"point":0,"problem_id":"abc007_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210429,"execution_time":2,"id":1403092,"language":"Perl (v5.18.2)","length":80,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210492,"execution_time":11,"id":1403093,"language":"PHP (5.6.30)","length":60,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210547,"execution_time":17,"id":1403094,"language":"Python3 (3.4.3)","length":31,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210611,"execution_time":7,"id":1403095,"language":"Ruby (2.3.3)","length":38,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210692,"execution_time":36,"id":1403096,"language":"Swift (swift-2.2-RELEASE)","length":40,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210827,"execution_time":15,"id":1403097,"language":"Common Lisp (SBCL 1.1.14)","length":20,"point":0,"problem_id":"abc007_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1499210858,"execution_time":12,"id":1403098,"language":"Common Lisp (SBCL 1.1.14)","length":34,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1499211130,"execution_time":7,"id":1403099,"language":"Ruby (2.3.3)","length":84,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc008","epoch_second":1499211427,"execution_time":1,"id":1403100,"language":"C (GCC 5.4.1)","length":120,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc008","epoch_second":1499211787,"execution_time":3,"id":1403105,"language":"Bash (GNU bash v4.3.11)","length":55,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc008","epoch_second":1499211887,"execution_time":12,"id":1403107,"language":"PHP (5.6.30)","length":97,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc008","epoch_second":1499211929,"execution_time":179,"id":1403108,"language":"PyPy3 (2.4.0)","length":59,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499225290,"execution_time":1,"id":1403264,"language":"C (GCC 5.4.1)","length":105,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499225364,"execution_time":1,"id":1403265,"language":"C++14 (GCC 5.4.1)","length":137,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499225484,"execution_time":20,"id":1403266,"language":"C# (Mono 4.6.2.0)","length":164,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499225566,"execution_time":103,"id":1403270,"language":"Java7 (OpenJDK 1.7.0)","length":205,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226146,"execution_time":55,"id":1403277,"language":"JavaScript (node.js v5.12)","length":194,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226220,"execution_time":7,"id":1403279,"language":"Bash (GNU bash v4.3.11)","length":48,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226449,"execution_time":3,"id":1403285,"language":"Perl (v5.18.2)","length":96,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226590,"execution_time":9,"id":1403286,"language":"PHP (5.6.30)","length":79,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226706,"execution_time":17,"id":1403287,"language":"Python3 (3.4.3)","length":56,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499226931,"execution_time":7,"id":1403291,"language":"Ruby (2.3.3)","length":46,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499227041,"execution_time":4,"id":1403293,"language":"Swift (swift-2.2-RELEASE)","length":54,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1499235869,"execution_time":15,"id":1403474,"language":"Common Lisp (SBCL 1.1.14)","length":102,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499238570,"execution_time":"","id":1403542,"language":"C (GCC 5.4.1)","length":130,"point":0,"problem_id":"abc010_1","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499238692,"execution_time":1,"id":1403544,"language":"C (GCC 5.4.1)","length":130,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499238995,"execution_time":1,"id":1403549,"language":"C++14 (GCC 5.4.1)","length":140,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499239206,"execution_time":20,"id":1403551,"language":"C# (Mono 4.6.2.0)","length":151,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499239416,"execution_time":95,"id":1403560,"language":"Java7 (OpenJDK 1.7.0)","length":204,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499239685,"execution_time":53,"id":1403565,"language":"JavaScript (node.js v5.12)","length":145,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499239900,"execution_time":13,"id":1403576,"language":"Bash (GNU bash v4.3.11)","length":32,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499240118,"execution_time":2,"id":1403581,"language":"Perl (v5.18.2)","length":54,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499240203,"execution_time":2,"id":1403583,"language":"Perl (v5.18.2)","length":57,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499240355,"execution_time":2,"id":1403585,"language":"Perl (v5.18.2)","length":70,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499240546,"execution_time":2,"id":1403590,"language":"Perl (v5.18.2)","length":70,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499242085,"execution_time":7,"id":1403621,"language":"Ruby (2.3.3)","length":24,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499242164,"execution_time":7,"id":1403622,"language":"Ruby (2.3.3)","length":29,"point":0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499242278,"execution_time":7,"id":1403624,"language":"Ruby (2.3.3)","length":39,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499242367,"execution_time":2,"id":1403627,"language":"Perl (v5.18.2)","length":66,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499242458,"execution_time":4,"id":1403630,"language":"Swift (swift-2.2-RELEASE)","length":38,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1499243232,"execution_time":7,"id":1403649,"language":"Common Lisp (SBCL 1.1.14)","length":60,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499296641,"execution_time":1,"id":1404221,"language":"C (GCC 5.4.1)","length":155,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499296744,"execution_time":1,"id":1404223,"language":"C++14 (GCC 5.4.1)","length":188,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499296814,"execution_time":21,"id":1404225,"language":"C# (Mono 4.6.2.0)","length":290,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499296885,"execution_time":106,"id":1404226,"language":"Java7 (OpenJDK 1.7.0)","length":265,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499296937,"execution_time":52,"id":1404227,"language":"JavaScript (node.js v5.12)","length":225,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499297032,"execution_time":2,"id":1404229,"language":"Bash (GNU bash v4.3.11)","length":85,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499297342,"execution_time":2,"id":1404232,"language":"Perl (v5.18.2)","length":167,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499297478,"execution_time":14,"id":1404233,"language":"PHP (5.6.30)","length":140,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499297556,"execution_time":17,"id":1404235,"language":"Python3 (3.4.3)","length":92,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1499297899,"execution_time":118,"id":1404238,"language":"Common Lisp (SBCL 1.1.14)","length":103,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499298103,"execution_time":1,"id":1404241,"language":"C (GCC 5.4.1)","length":122,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499298363,"execution_time":1,"id":1404243,"language":"C++14 (GCC 5.4.1)","length":158,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499298496,"execution_time":20,"id":1404245,"language":"C# (Mono 4.6.2.0)","length":221,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499298904,"execution_time":96,"id":1404247,"language":"Java7 (OpenJDK 1.7.0)","length":247,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499298981,"execution_time":52,"id":1404248,"language":"JavaScript (node.js v5.12)","length":150,"point":0,"problem_id":"abc012_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299148,"execution_time":50,"id":1404251,"language":"JavaScript (node.js v5.12)","length":212,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299217,"execution_time":2,"id":1404252,"language":"Bash (GNU bash v4.3.11)","length":31,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299620,"execution_time":2,"id":1404255,"language":"Perl (v5.18.2)","length":125,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299705,"execution_time":9,"id":1404256,"language":"PHP (5.6.30)","length":87,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299799,"execution_time":168,"id":1404258,"language":"PyPy3 (2.4.0)","length":42,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499299941,"execution_time":7,"id":1404260,"language":"Ruby (2.3.3)","length":76,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499301666,"execution_time":4,"id":1404272,"language":"Swift (swift-2.2-RELEASE)","length":101,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1499302117,"execution_time":9,"id":1404275,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499312798,"execution_time":21,"id":1404449,"language":"C# (Mono 4.6.2.0)","length":265,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499313775,"execution_time":95,"id":1404463,"language":"Java7 (OpenJDK 1.7.0)","length":318,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499314797,"execution_time":51,"id":1404473,"language":"JavaScript (node.js v5.12)","length":239,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499327956,"execution_time":5,"id":1404657,"language":"Bash (GNU bash v4.3.11)","length":128,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499328352,"execution_time":2,"id":1404666,"language":"Perl (v5.18.2)","length":169,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499328662,"execution_time":9,"id":1404674,"language":"PHP (5.6.30)","length":146,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499328907,"execution_time":17,"id":1404684,"language":"Python3 (3.4.3)","length":112,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499329685,"execution_time":7,"id":1404704,"language":"Ruby (2.3.3)","length":121,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499329864,"execution_time":32,"id":1404708,"language":"Swift (swift-2.2-RELEASE)","length":132,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1499331798,"execution_time":38,"id":1404743,"language":"Common Lisp (SBCL 1.1.14)","length":226,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499382884,"execution_time":1,"id":1405236,"language":"C (GCC 5.4.1)","length":188,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499383126,"execution_time":1,"id":1405237,"language":"C++14 (GCC 5.4.1)","length":216,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499383492,"execution_time":21,"id":1405239,"language":"C# (Mono 4.6.2.0)","length":318,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499383673,"execution_time":108,"id":1405241,"language":"Java7 (OpenJDK 1.7.0)","length":313,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499384441,"execution_time":9,"id":1405249,"language":"PHP (5.6.30)","length":146,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1499384578,"execution_time":17,"id":1405250,"language":"Python3 (3.4.3)","length":102,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499399226,"execution_time":1,"id":1405409,"language":"C (GCC 5.4.1)","length":252,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499399476,"execution_time":1,"id":1405414,"language":"C++14 (GCC 5.4.1)","length":220,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499399712,"execution_time":20,"id":1405418,"language":"C# (Mono 4.6.2.0)","length":274,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499399881,"execution_time":103,"id":1405422,"language":"Java7 (OpenJDK 1.7.0)","length":314,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499402270,"execution_time":51,"id":1405457,"language":"JavaScript (node.js v5.12)","length":213,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499402739,"execution_time":2,"id":1405464,"language":"Bash (GNU bash v4.3.11)","length":89,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499403208,"execution_time":9,"id":1405470,"language":"PHP (5.6.30)","length":133,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499403457,"execution_time":17,"id":1405474,"language":"Python3 (3.4.3)","length":76,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499403736,"execution_time":7,"id":1405477,"language":"Ruby (2.3.3)","length":90,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499404044,"execution_time":20,"id":1405485,"language":"Swift (swift-2.2-RELEASE)","length":134,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499406167,"execution_time":56,"id":1405534,"language":"Common Lisp (SBCL 1.1.14)","length":135,"point":0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499406213,"execution_time":11,"id":1405536,"language":"Common Lisp (SBCL 1.1.14)","length":119,"point":0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499406557,"execution_time":10,"id":1405547,"language":"Common Lisp (SBCL 1.1.14)","length":161,"point":0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc015","epoch_second":1499406957,"execution_time":9,"id":1405551,"language":"Common Lisp (SBCL 1.1.14)","length":147,"point":100,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499407569,"execution_time":1,"id":1405566,"language":"C (GCC 5.4.1)","length":178,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499408757,"execution_time":1,"id":1405581,"language":"C++14 (GCC 5.4.1)","length":220,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499408963,"execution_time":20,"id":1405586,"language":"C# (Mono 4.6.2.0)","length":312,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409035,"execution_time":100,"id":1405588,"language":"Java7 (OpenJDK 1.7.0)","length":316,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409102,"execution_time":51,"id":1405590,"language":"JavaScript (node.js v5.12)","length":280,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409205,"execution_time":2,"id":1405594,"language":"Bash (GNU bash v4.3.11)","length":108,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409574,"execution_time":2,"id":1405603,"language":"Perl (v5.18.2)","length":182,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409646,"execution_time":9,"id":1405607,"language":"PHP (5.6.30)","length":139,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409726,"execution_time":20,"id":1405612,"language":"Python3 (3.4.3)","length":102,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409858,"execution_time":9,"id":1405618,"language":"Ruby (2.3.3)","length":120,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499409953,"execution_time":17,"id":1405620,"language":"Swift (swift-2.2-RELEASE)","length":173,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1499410112,"execution_time":11,"id":1405627,"language":"Common Lisp (SBCL 1.1.14)","length":133,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499413078,"execution_time":1,"id":1405691,"language":"C (GCC 5.4.1)","length":248,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499413547,"execution_time":1,"id":1405702,"language":"C++14 (GCC 5.4.1)","length":202,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499415042,"execution_time":20,"id":1405744,"language":"C# (Mono 4.6.2.0)","length":345,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499417945,"execution_time":83,"id":1405861,"language":"Java7 (OpenJDK 1.7.0)","length":488,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499827791,"execution_time":53,"id":1417507,"language":"JavaScript (node.js v5.12)","length":340,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499832691,"execution_time":18,"id":1417571,"language":"Bash (GNU bash v4.3.11)","length":113,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499833844,"execution_time":2,"id":1417586,"language":"Perl (v5.18.2)","length":181,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499847402,"execution_time":13,"id":1417814,"language":"PHP (5.6.30)","length":150,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499848445,"execution_time":18,"id":1417845,"language":"Python3 (3.4.3)","length":140,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499849207,"execution_time":7,"id":1417865,"language":"Ruby (2.3.3)","length":141,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499929372,"execution_time":9,"id":1419187,"language":"Swift (swift-2.2-RELEASE)","length":170,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1499993719,"execution_time":10,"id":1419783,"language":"Common Lisp (SBCL 1.1.14)","length":248,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500007781,"execution_time":1,"id":1419892,"language":"C (GCC 5.4.1)","length":432,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500008705,"execution_time":1,"id":1419901,"language":"C++14 (GCC 5.4.1)","length":400,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500010041,"execution_time":20,"id":1419912,"language":"C# (Mono 4.6.2.0)","length":567,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500020962,"execution_time":90,"id":1420019,"language":"Java7 (OpenJDK 1.7.0)","length":724,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500022073,"execution_time":223,"id":1420028,"language":"JavaScript (node.js v5.12)","length":424,"point":0,"problem_id":"abc018_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500022419,"execution_time":53,"id":1420032,"language":"JavaScript (node.js v5.12)","length":437,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500334554,"execution_time":6,"id":1436010,"language":"Bash (GNU bash v4.3.11)","length":315,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500335167,"execution_time":2,"id":1436013,"language":"Perl (v5.18.2)","length":359,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500335827,"execution_time":18,"id":1436016,"language":"PHP (5.6.30)","length":328,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500338184,"execution_time":18,"id":1436054,"language":"Python3 (3.4.3)","length":248,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500342517,"execution_time":8,"id":1436116,"language":"Ruby (2.3.3)","length":282,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500343513,"execution_time":34,"id":1436127,"language":"Swift (swift-2.2-RELEASE)","length":273,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1500363301,"execution_time":199,"id":1436433,"language":"Common Lisp (SBCL 1.1.14)","length":515,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500421724,"execution_time":1,"id":1437670,"language":"C (GCC 5.4.1)","length":307,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500425933,"execution_time":1,"id":1437713,"language":"C++14 (GCC 5.4.1)","length":341,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500428663,"execution_time":20,"id":1437754,"language":"C# (Mono 4.6.2.0)","length":432,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500429462,"execution_time":108,"id":1437764,"language":"Java7 (OpenJDK 1.7.0)","length":469,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500434931,"execution_time":52,"id":1437847,"language":"JavaScript (node.js v5.12)","length":331,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500435104,"execution_time":51,"id":1437848,"language":"JavaScript (node.js v5.12)","length":359,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500435521,"execution_time":54,"id":1437852,"language":"JavaScript (node.js v5.12)","length":349,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500435724,"execution_time":50,"id":1437854,"language":"JavaScript (node.js v5.12)","length":353,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500437117,"execution_time":51,"id":1437877,"language":"JavaScript (node.js v5.12)","length":367,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500437398,"execution_time":52,"id":1437880,"language":"JavaScript (node.js v5.12)","length":247,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500437563,"execution_time":54,"id":1437884,"language":"JavaScript (node.js v5.12)","length":287,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500437673,"execution_time":53,"id":1437885,"language":"JavaScript (node.js v5.12)","length":268,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500438032,"execution_time":54,"id":1437891,"language":"JavaScript (node.js v5.12)","length":278,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500505862,"execution_time":5,"id":1439273,"language":"Bash (GNU bash v4.3.11)","length":268,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500505984,"execution_time":4,"id":1439275,"language":"Bash (GNU bash v4.3.11)","length":269,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500506305,"execution_time":2,"id":1439278,"language":"Perl (v5.18.2)","length":111,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500506360,"execution_time":2,"id":1439279,"language":"Perl (v5.18.2)","length":126,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500506735,"execution_time":13,"id":1439284,"language":"PHP (5.6.30)","length":106,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500506806,"execution_time":18,"id":1439285,"language":"PHP (5.6.30)","length":101,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500507082,"execution_time":9,"id":1439291,"language":"PHP (5.6.30)","length":93,"point":0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500507472,"execution_time":10,"id":1439304,"language":"PHP (5.6.30)","length":267,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500508625,"execution_time":17,"id":1439321,"language":"Python3 (3.4.3)","length":68,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500509579,"execution_time":7,"id":1439327,"language":"Ruby (2.3.3)","length":70,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1500513663,"execution_time":37,"id":1439368,"language":"Swift (swift-2.2-RELEASE)","length":266,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500522264,"execution_time":0,"id":1439507,"language":"C (GCC 5.4.1)","length":159,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500522508,"execution_time":1,"id":1439515,"language":"C++14 (GCC 5.4.1)","length":205,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500522885,"execution_time":20,"id":1439519,"language":"C# (Mono 4.6.2.0)","length":234,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500523154,"execution_time":93,"id":1439526,"language":"Java7 (OpenJDK 1.7.0)","length":295,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500523374,"execution_time":51,"id":1439532,"language":"JavaScript (node.js v5.12)","length":212,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500523697,"execution_time":3,"id":1439536,"language":"Perl (v5.18.2)","length":103,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500524004,"execution_time":10,"id":1439538,"language":"PHP (5.6.30)","length":96,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500524119,"execution_time":17,"id":1439539,"language":"Python3 (3.4.3)","length":75,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500524193,"execution_time":7,"id":1439542,"language":"Ruby (2.3.3)","length":79,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500524302,"execution_time":32,"id":1439543,"language":"Swift (swift-2.2-RELEASE)","length":96,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1500524715,"execution_time":5,"id":1439553,"language":"Common Lisp (SBCL 1.1.14)","length":64,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500532837,"execution_time":0,"id":1439739,"language":"C (GCC 5.4.1)","length":474,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500533684,"execution_time":1,"id":1439756,"language":"C++14 (GCC 5.4.1)","length":521,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500534264,"execution_time":1,"id":1439777,"language":"C (GCC 5.4.1)","length":317,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500534965,"execution_time":1,"id":1439800,"language":"C++14 (GCC 5.4.1)","length":381,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500536264,"execution_time":21,"id":1439835,"language":"C# (Mono 4.6.2.0)","length":467,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500538659,"execution_time":101,"id":1439897,"language":"Java7 (OpenJDK 1.7.0)","length":507,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500593717,"execution_time":210,"id":1440803,"language":"JavaScript (node.js v5.12)","length":411,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500595680,"execution_time":11,"id":1440819,"language":"Bash (GNU bash v4.3.11)","length":313,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500604256,"execution_time":2,"id":1440958,"language":"Perl (v5.18.2)","length":312,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500616704,"execution_time":13,"id":1441205,"language":"PHP (5.6.30)","length":306,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500852323,"execution_time":17,"id":1450936,"language":"Python3 (3.4.3)","length":203,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500852799,"execution_time":7,"id":1450937,"language":"Ruby (2.3.3)","length":221,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1500853400,"execution_time":45,"id":1450943,"language":"Swift (swift-2.2-RELEASE)","length":246,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc022","epoch_second":1501545447,"execution_time":1,"id":1474880,"language":"C (GCC 5.4.1)","length":262,"point":0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc022","epoch_second":1501818395,"execution_time":1,"id":1480907,"language":"C (GCC 5.4.1)","length":262,"point":0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc022","epoch_second":1501819395,"execution_time":1,"id":1480921,"language":"C (GCC 5.4.1)","length":284,"point":100,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc022","epoch_second":1502638218,"execution_time":2,"id":1512377,"language":"C++14 (GCC 5.4.1)","length":324,"point":100,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1507160332,"execution_time":11,"id":1652029,"language":"PHP (5.6.30)","length":330,"point":0,"problem_id":"abc026_b","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1507160640,"execution_time":12,"id":1652030,"language":"PHP (5.6.30)","length":363,"point":100,"problem_id":"abc026_b","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1507279086,"execution_time":18,"id":1654270,"language":"Python3 (3.4.3)","length":47,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1507279956,"execution_time":18,"id":1654305,"language":"Python3 (3.4.3)","length":198,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1513576378,"execution_time":"","id":1884077,"language":"Python3 (3.4.3)","length":169,"point":0,"problem_id":"abc025_a","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1513576738,"execution_time":18,"id":1884086,"language":"Python3 (3.4.3)","length":175,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1513577204,"execution_time":17,"id":1884107,"language":"Python3 (3.4.3)","length":39,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc028","epoch_second":1513578936,"execution_time":17,"id":1884178,"language":"Python3 (3.4.3)","length":150,"point":100,"problem_id":"abc028_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc030","epoch_second":1513579656,"execution_time":18,"id":1884204,"language":"Python3 (3.4.3)","length":163,"point":100,"problem_id":"abc030_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc032","epoch_second":1513664890,"execution_time":20,"id":1886315,"language":"Python3 (3.4.3)","length":114,"point":100,"problem_id":"abc032_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc034","epoch_second":1513665888,"execution_time":21,"id":1886364,"language":"Python3 (3.4.3)","length":90,"point":100,"problem_id":"abc034_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc035","epoch_second":1513666227,"execution_time":17,"id":1886394,"language":"Python3 (3.4.3)","length":102,"point":100,"problem_id":"abc035_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc036","epoch_second":1513752152,"execution_time":17,"id":1888641,"language":"Python3 (3.4.3)","length":135,"point":100,"problem_id":"abc036_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc037","epoch_second":1513752559,"execution_time":17,"id":1888657,"language":"Python3 (3.4.3)","length":126,"point":100,"problem_id":"abc037_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc038","epoch_second":1513752975,"execution_time":18,"id":1888667,"language":"Python3 (3.4.3)","length":73,"point":100,"problem_id":"abc038_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc040","epoch_second":1513755572,"execution_time":18,"id":1888752,"language":"Python3 (3.4.3)","length":68,"point":100,"problem_id":"abc040_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc041","epoch_second":1513830083,"execution_time":17,"id":1890406,"language":"Python3 (3.4.3)","length":52,"point":100,"problem_id":"abc041_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc043","epoch_second":1513830989,"execution_time":17,"id":1890458,"language":"Python3 (3.4.3)","length":55,"point":0,"problem_id":"abc043_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc043","epoch_second":1513831243,"execution_time":17,"id":1890467,"language":"Python3 (3.4.3)","length":46,"point":100,"problem_id":"abc043_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc044","epoch_second":1513831913,"execution_time":17,"id":1890484,"language":"Python3 (3.4.3)","length":103,"point":0,"problem_id":"abc044_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc044","epoch_second":1513832032,"execution_time":17,"id":1890489,"language":"Python3 (3.4.3)","length":139,"point":100,"problem_id":"abc044_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc045","epoch_second":1513832207,"execution_time":17,"id":1890493,"language":"Python3 (3.4.3)","length":81,"point":100,"problem_id":"abc045_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc047","epoch_second":1513834202,"execution_time":17,"id":1890550,"language":"Python3 (3.4.3)","length":107,"point":0,"problem_id":"abc047_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc047","epoch_second":1513834380,"execution_time":17,"id":1890556,"language":"Python3 (3.4.3)","length":117,"point":100,"problem_id":"abc047_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc048","epoch_second":1513834594,"execution_time":17,"id":1890564,"language":"Python3 (3.4.3)","length":94,"point":100,"problem_id":"abc048_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc048","epoch_second":1513834741,"execution_time":17,"id":1890570,"language":"Python3 (3.4.3)","length":60,"point":100,"problem_id":"abc048_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc049","epoch_second":1513835032,"execution_time":17,"id":1890582,"language":"Python3 (3.4.3)","length":103,"point":100,"problem_id":"abc049_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc050","epoch_second":1513835339,"execution_time":17,"id":1890596,"language":"Python3 (3.4.3)","length":107,"point":100,"problem_id":"abc050_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc051","epoch_second":1513921273,"execution_time":17,"id":1892609,"language":"Python3 (3.4.3)","length":39,"point":100,"problem_id":"abc051_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc052","epoch_second":1513921777,"execution_time":17,"id":1892626,"language":"Python3 (3.4.3)","length":117,"point":100,"problem_id":"abc052_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc053","epoch_second":1513921897,"execution_time":17,"id":1892630,"language":"Python3 (3.4.3)","length":69,"point":100,"problem_id":"abc053_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc054","epoch_second":1513922777,"execution_time":17,"id":1892649,"language":"Python3 (3.4.3)","length":220,"point":100,"problem_id":"abc054_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc055","epoch_second":1513923110,"execution_time":17,"id":1892653,"language":"Python3 (3.4.3)","length":52,"point":100,"problem_id":"abc055_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc056","epoch_second":1513923249,"execution_time":17,"id":1892658,"language":"Python3 (3.4.3)","length":72,"point":100,"problem_id":"abc056_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc057","epoch_second":1513923489,"execution_time":17,"id":1892668,"language":"Python3 (3.4.3)","length":108,"point":100,"problem_id":"abc057_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc058","epoch_second":1513923646,"execution_time":17,"id":1892674,"language":"Python3 (3.4.3)","length":112,"point":100,"problem_id":"abc058_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc059","epoch_second":1513923831,"execution_time":17,"id":1892681,"language":"Python3 (3.4.3)","length":118,"point":100,"problem_id":"abc059_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc060","epoch_second":1513923995,"execution_time":17,"id":1892687,"language":"Python3 (3.4.3)","length":142,"point":100,"problem_id":"abc060_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc061","epoch_second":1514182665,"execution_time":17,"id":1908872,"language":"Python3 (3.4.3)","length":83,"point":0,"problem_id":"abc061_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc061","epoch_second":1514182820,"execution_time":17,"id":1908876,"language":"Python3 (3.4.3)","length":92,"point":0,"problem_id":"abc061_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc061","epoch_second":1514182925,"execution_time":17,"id":1908879,"language":"Python3 (3.4.3)","length":107,"point":100,"problem_id":"abc061_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc062","epoch_second":1514184183,"execution_time":17,"id":1908935,"language":"Python3 (3.4.3)","length":174,"point":100,"problem_id":"abc062_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc063","epoch_second":1514184340,"execution_time":17,"id":1908941,"language":"Python3 (3.4.3)","length":103,"point":100,"problem_id":"abc063_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc064","epoch_second":1514184638,"execution_time":17,"id":1908953,"language":"Python3 (3.4.3)","length":87,"point":100,"problem_id":"abc064_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc065","epoch_second":1514185057,"execution_time":17,"id":1908968,"language":"Python3 (3.4.3)","length":158,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc065","epoch_second":1514185963,"execution_time":17,"id":1909005,"language":"Python3 (3.4.3)","length":165,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc065","epoch_second":1514186772,"execution_time":17,"id":1909033,"language":"Python3 (3.4.3)","length":172,"point":0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc065","epoch_second":1514186841,"execution_time":17,"id":1909037,"language":"Python3 (3.4.3)","length":154,"point":100,"problem_id":"abc065_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc066","epoch_second":1514187054,"execution_time":18,"id":1909046,"language":"Python3 (3.4.3)","length":64,"point":100,"problem_id":"abc066_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc067","epoch_second":1514187262,"execution_time":17,"id":1909053,"language":"Python3 (3.4.3)","length":147,"point":100,"problem_id":"abc067_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc068","epoch_second":1514187362,"execution_time":17,"id":1909058,"language":"Python3 (3.4.3)","length":22,"point":100,"problem_id":"abc068_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc069","epoch_second":1514187559,"execution_time":17,"id":1909064,"language":"Python3 (3.4.3)","length":66,"point":100,"problem_id":"abc069_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc070","epoch_second":1514187743,"execution_time":17,"id":1909069,"language":"Python3 (3.4.3)","length":90,"point":100,"problem_id":"abc070_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc071","epoch_second":1514269912,"execution_time":17,"id":1911449,"language":"Python3 (3.4.3)","length":110,"point":100,"problem_id":"abc071_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc072","epoch_second":1514270054,"execution_time":17,"id":1911454,"language":"Python3 (3.4.3)","length":93,"point":100,"problem_id":"abc072_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc073","epoch_second":1514270186,"execution_time":18,"id":1911460,"language":"Python3 (3.4.3)","length":69,"point":100,"problem_id":"abc073_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc074","epoch_second":1514270310,"execution_time":17,"id":1911467,"language":"Python3 (3.4.3)","length":52,"point":100,"problem_id":"abc074_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc075","epoch_second":1514270776,"execution_time":17,"id":1911487,"language":"Python3 (3.4.3)","length":105,"point":100,"problem_id":"abc075_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc076","epoch_second":1514271240,"execution_time":17,"id":1911502,"language":"Python3 (3.4.3)","length":52,"point":100,"problem_id":"abc076_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc077","epoch_second":1514271472,"execution_time":17,"id":1911512,"language":"Python3 (3.4.3)","length":120,"point":100,"problem_id":"abc077_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc078","epoch_second":1514271769,"execution_time":17,"id":1911527,"language":"Python3 (3.4.3)","length":176,"point":100,"problem_id":"abc078_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc079","epoch_second":1514272423,"execution_time":17,"id":1911548,"language":"Python3 (3.4.3)","length":205,"point":100,"problem_id":"abc079_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc080","epoch_second":1514272591,"execution_time":18,"id":1911556,"language":"Python3 (3.4.3)","length":103,"point":100,"problem_id":"abc080_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc081","epoch_second":1514349387,"execution_time":17,"id":1913812,"language":"Python3 (3.4.3)","length":38,"point":100,"problem_id":"abc081_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc082","epoch_second":1514349571,"execution_time":18,"id":1913815,"language":"Python3 (3.4.3)","length":72,"point":0,"problem_id":"abc082_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc082","epoch_second":1514350002,"execution_time":17,"id":1913827,"language":"Python3 (3.4.3)","length":86,"point":100,"problem_id":"abc082_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc083","epoch_second":1514350211,"execution_time":17,"id":1913832,"language":"Python3 (3.4.3)","length":161,"point":100,"problem_id":"abc083_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc002","epoch_second":1514435530,"execution_time":17,"id":1916354,"language":"Python3 (3.4.3)","length":105,"point":100,"problem_id":"abc002_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1514451103,"execution_time":18,"id":1916884,"language":"Python3 (3.4.3)","length":482,"point":0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1515050019,"execution_time":18,"id":1939495,"language":"Python3 (3.4.3)","length":516,"point":0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1515050389,"execution_time":17,"id":1939516,"language":"Python3 (3.4.3)","length":631,"point":0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1515050446,"execution_time":18,"id":1939520,"language":"Python3 (3.4.3)","length":630,"point":0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1515050638,"execution_time":20,"id":1939529,"language":"Python3 (3.4.3)","length":654,"point":0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1515050797,"execution_time":17,"id":1939535,"language":"Python3 (3.4.3)","length":652,"point":100,"problem_id":"abc003_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1515051788,"execution_time":17,"id":1939577,"language":"Python3 (3.4.3)","length":156,"point":100,"problem_id":"abc004_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1515132106,"execution_time":18,"id":1941514,"language":"Python3 (3.4.3)","length":110,"point":0,"problem_id":"abc005_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1515132162,"execution_time":18,"id":1941519,"language":"Python3 (3.4.3)","length":110,"point":0,"problem_id":"abc005_2","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1515132367,"execution_time":18,"id":1941523,"language":"Python3 (3.4.3)","length":85,"point":100,"problem_id":"abc005_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1515133754,"execution_time":"","id":1941566,"language":"Python3 (3.4.3)","length":225,"point":0,"problem_id":"abc006_2","result":"TLE","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1515134126,"execution_time":"","id":1941576,"language":"Python3 (3.4.3)","length":255,"point":0,"problem_id":"abc006_2","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1515140076,"execution_time":443,"id":1941785,"language":"Python3 (3.4.3)","length":161,"point":100,"problem_id":"abc006_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1516004811,"execution_time":17,"id":1982461,"language":"Python3 (3.4.3)","length":69,"point":100,"problem_id":"abc007_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1516006257,"execution_time":17,"id":1982539,"language":"Python3 (3.4.3)","length":128,"point":100,"problem_id":"abc009_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1525652461,"execution_time":18,"id":2474960,"language":"Python3 (3.4.3)","length":248,"point":100,"problem_id":"abc010_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1525746294,"execution_time":17,"id":2478890,"language":"Python3 (3.4.3)","length":34,"point":100,"problem_id":"abc011_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1525750208,"execution_time":17,"id":2479063,"language":"Python3 (3.4.3)","length":191,"point":100,"problem_id":"abc012_2","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534124267,"execution_time":21,"id":3000753,"language":"C# (Mono 4.6.2.0)","length":168,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534124422,"execution_time":93,"id":3000762,"language":"Java8 (OpenJDK 1.8.0)","length":204,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534124646,"execution_time":52,"id":3000781,"language":"JavaScript (node.js v5.12)","length":123,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534125599,"execution_time":2,"id":3000836,"language":"Perl (v5.18.2)","length":78,"point":0,"problem_id":"abc023_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534125688,"execution_time":"","id":3000844,"language":"Perl (v5.18.2)","length":80,"point":0,"problem_id":"abc023_a","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534125763,"execution_time":2,"id":3000849,"language":"Perl (v5.18.2)","length":83,"point":0,"problem_id":"abc023_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534125909,"execution_time":2,"id":3000856,"language":"Perl (v5.18.2)","length":104,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534126166,"execution_time":9,"id":3000864,"language":"PHP (5.6.30)","length":78,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534126356,"execution_time":7,"id":3000871,"language":"Ruby (2.3.3)","length":38,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1534126470,"execution_time":35,"id":3000879,"language":"Swift (swift-2.2-RELEASE)","length":56,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534221700,"execution_time":1,"id":3005776,"language":"C (GCC 5.4.1)","length":273,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534222880,"execution_time":2,"id":3005828,"language":"C++14 (GCC 5.4.1)","length":301,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534224169,"execution_time":20,"id":3005875,"language":"C# (Mono 4.6.2.0)","length":485,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534225257,"execution_time":105,"id":3005927,"language":"Java8 (OpenJDK 1.8.0)","length":617,"point":0,"problem_id":"abc024_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534225352,"execution_time":92,"id":3005932,"language":"Java8 (OpenJDK 1.8.0)","length":617,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534231239,"execution_time":53,"id":3006369,"language":"JavaScript (node.js v5.12)","length":374,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534233418,"execution_time":2,"id":3006532,"language":"Bash (GNU bash v4.3.11)","length":208,"point":0,"problem_id":"abc024_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534233465,"execution_time":2,"id":3006536,"language":"Bash (GNU bash v4.3.11)","length":208,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534237154,"execution_time":2,"id":3006801,"language":"Perl (v5.18.2)","length":313,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534237437,"execution_time":14,"id":3006822,"language":"PHP (5.6.30)","length":314,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534294327,"execution_time":7,"id":3009589,"language":"Ruby (2.3.3)","length":214,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1534296178,"execution_time":36,"id":3009693,"language":"Swift (swift-2.2-RELEASE)","length":333,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534387920,"execution_time":1,"id":3014518,"language":"C (GCC 5.4.1)","length":174,"point":0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534388299,"execution_time":2,"id":3014533,"language":"C (GCC 5.4.1)","length":231,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534392981,"execution_time":1,"id":3014787,"language":"C++14 (GCC 5.4.1)","length":271,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534409118,"execution_time":20,"id":3016011,"language":"C# (Mono 4.6.2.0)","length":400,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534409694,"execution_time":91,"id":3016053,"language":"Java8 (OpenJDK 1.8.0)","length":512,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534751277,"execution_time":2,"id":3048334,"language":"Bash (GNU bash v4.3.11)","length":113,"point":0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534751466,"execution_time":2,"id":3048354,"language":"Bash (GNU bash v4.3.11)","length":160,"point":0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534751866,"execution_time":2,"id":3048387,"language":"Bash (GNU bash v4.3.11)","length":171,"point":0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534751901,"execution_time":3,"id":3048391,"language":"Bash (GNU bash v4.3.11)","length":162,"point":0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534752112,"execution_time":2,"id":3048415,"language":"Bash (GNU bash v4.3.11)","length":133,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534817322,"execution_time":12,"id":3051663,"language":"PHP (5.6.30)","length":229,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534817588,"execution_time":9,"id":3051678,"language":"Ruby (2.3.3)","length":134,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc025","epoch_second":1534819227,"execution_time":4,"id":3051766,"language":"Swift (swift-2.2-RELEASE)","length":221,"point":100,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904172,"execution_time":1,"id":3055649,"language":"C (GCC 5.4.1)","length":111,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904303,"execution_time":1,"id":3055661,"language":"C++14 (GCC 5.4.1)","length":150,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904437,"execution_time":21,"id":3055670,"language":"C# (Mono 4.6.2.0)","length":186,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904750,"execution_time":232,"id":3055692,"language":"JavaScript (node.js v5.12)","length":126,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904824,"execution_time":2,"id":3055695,"language":"Bash (GNU bash v4.3.11)","length":46,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534904948,"execution_time":3,"id":3055705,"language":"Perl (v5.18.2)","length":73,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534905055,"execution_time":9,"id":3055709,"language":"PHP (5.6.30)","length":66,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534905140,"execution_time":7,"id":3055713,"language":"Ruby (2.3.3)","length":42,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534905243,"execution_time":31,"id":3055718,"language":"Swift (swift-2.2-RELEASE)","length":54,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc026","epoch_second":1534905364,"execution_time":68,"id":3055725,"language":"Common Lisp (SBCL 1.1.14)","length":89,"point":100,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1535692077,"execution_time":21,"id":3106244,"language":"C# (Mono 4.6.2.0)","length":430,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1535692933,"execution_time":95,"id":3106326,"language":"Java8 (OpenJDK 1.8.0)","length":702,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537429813,"execution_time":52,"id":3229635,"language":"JavaScript (node.js v5.12)","length":341,"point":0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537430716,"execution_time":51,"id":3229729,"language":"JavaScript (node.js v5.12)","length":356,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537431471,"execution_time":2,"id":3229791,"language":"Bash (GNU bash v4.3.11)","length":219,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537432114,"execution_time":3,"id":3229845,"language":"Perl (v5.18.2)","length":280,"point":0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537432257,"execution_time":3,"id":3229870,"language":"Perl (v5.18.2)","length":287,"point":0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537432319,"execution_time":3,"id":3229872,"language":"Perl (v5.18.2)","length":310,"point":0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537432415,"execution_time":3,"id":3229886,"language":"Perl (v5.18.2)","length":287,"point":0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537432611,"execution_time":2,"id":3229911,"language":"Perl (v5.18.2)","length":275,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537433653,"execution_time":13,"id":3229992,"language":"PHP (5.6.30)","length":281,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc027","epoch_second":1537434172,"execution_time":7,"id":3230044,"language":"Ruby (2.3.3)","length":232,"point":100,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1542271983,"execution_time":1,"id":3603223,"language":"Go (1.6)","length":402,"point":0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc001","epoch_second":1542272056,"execution_time":3,"id":3603231,"language":"Go (1.6)","length":404,"point":100,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc003","epoch_second":1542348868,"execution_time":1,"id":3606915,"language":"Go (1.6)","length":431,"point":100,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc004","epoch_second":1542349113,"execution_time":1,"id":3606933,"language":"Go (1.6)","length":369,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc005","epoch_second":1542349816,"execution_time":1,"id":3606990,"language":"Go (1.6)","length":422,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc006","epoch_second":1542350606,"execution_time":1,"id":3607039,"language":"Go (1.6)","length":421,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc007","epoch_second":1542350834,"execution_time":1,"id":3607063,"language":"Go (1.6)","length":343,"point":100,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc008","epoch_second":1542351124,"execution_time":1,"id":3607084,"language":"Go (1.6)","length":428,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc009","epoch_second":1542351394,"execution_time":1,"id":3607107,"language":"Go (1.6)","length":420,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc010","epoch_second":1542351626,"execution_time":1,"id":3607119,"language":"Go (1.6)","length":320,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc011","epoch_second":1542790431,"execution_time":2,"id":3635401,"language":"Go (1.6)","length":406,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1542790971,"execution_time":1,"id":3635439,"language":"Go (1.6)","length":332,"point":0,"problem_id":"abc012_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc012","epoch_second":1543995270,"execution_time":1,"id":3721115,"language":"Go (1.6)","length":360,"point":100,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc013","epoch_second":1543995916,"execution_time":1,"id":3721171,"language":"Go (1.6)","length":421,"point":100,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc014","epoch_second":1543996391,"execution_time":1,"id":3721214,"language":"Go (1.6)","length":456,"point":100,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc016","epoch_second":1544060957,"execution_time":3,"id":3724724,"language":"Go (1.6)","length":484,"point":100,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1544063244,"execution_time":"","id":3724844,"language":"Go (1.6)","length":508,"point":0,"problem_id":"abc017_1","result":"RE","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1544064134,"execution_time":1,"id":3724888,"language":"Go (1.6)","length":342,"point":0,"problem_id":"abc017_1","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc017","epoch_second":1544064752,"execution_time":1,"id":3724916,"language":"Go (1.6)","length":466,"point":100,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc018","epoch_second":1544076146,"execution_time":1,"id":3725579,"language":"Go (1.6)","length":641,"point":100,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc019","epoch_second":1544077532,"execution_time":1,"id":3725648,"language":"Go (1.6)","length":527,"point":100,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc020","epoch_second":1544077927,"execution_time":1,"id":3725672,"language":"Go (1.6)","length":347,"point":100,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1544083416,"execution_time":1,"id":3726171,"language":"Go (1.6)","length":431,"point":0,"problem_id":"abc021_a","result":"WA","user_id":"ssaaa"}
-,{"contest_id":"abc021","epoch_second":1544084055,"execution_time":1,"id":3726276,"language":"Go (1.6)","length":582,"point":100,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc022","epoch_second":1544162957,"execution_time":1,"id":3731006,"language":"Go (1.6)","length":655,"point":100,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc023","epoch_second":1544163475,"execution_time":1,"id":3731043,"language":"Go (1.6)","length":413,"point":100,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
-,{"contest_id":"abc024","epoch_second":1544164872,"execution_time":1,"id":3731154,"language":"Go (1.6)","length":582,"point":100,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+[{"contest_id":"abc001","epoch_second":1498173978,"execution_time":171,"id":1370958,"language":"PyPy3 (2.4.0)","length":52,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498175675,"execution_time":167,"id":1370965,"language":"PyPy3 (2.4.0)","length":394,"point":0.0,"problem_id":"abc001_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498176412,"execution_time":172,"id":1370981,"language":"PyPy3 (2.4.0)","length":386,"point":0.0,"problem_id":"abc001_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498176569,"execution_time":170,"id":1370983,"language":"PyPy3 (2.4.0)","length":398,"point":100.0,"problem_id":"abc001_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498189902,"execution_time":174,"id":1371184,"language":"PyPy3 (2.4.0)","length":101,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498190591,"execution_time":169,"id":1371196,"language":"PyPy3 (2.4.0)","length":125,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498434754,"execution_time":1,"id":1381688,"language":"C (GCC 5.4.1)","length":109,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498438551,"execution_time":1,"id":1381732,"language":"C++ (GCC 5.4.1)","length":154,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498444564,"execution_time":105,"id":1381774,"language":"Java7 (OpenJDK 1.7.0)","length":233,"point":0.0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498445465,"execution_time":22,"id":1381785,"language":"C# (Mono 4.6.2.0)","length":215,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498459225,"execution_time":55,"id":1382363,"language":"JavaScript (node.js v5.12)","length":209,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498459771,"execution_time":4,"id":1382414,"language":"Bash (GNU bash v4.3.11)","length":76,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498462041,"execution_time":2,"id":1382551,"language":"Perl (v5.18.2)","length":92,"point":0.0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498462212,"execution_time":3,"id":1382557,"language":"Perl (v5.18.2)","length":98,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498463331,"execution_time":11,"id":1382620,"language":"PHP (5.6.30)","length":77,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498519792,"execution_time":22,"id":1383853,"language":"Common Lisp (SBCL 1.1.14)","length":25,"point":0.0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498519869,"execution_time":5,"id":1383854,"language":"Common Lisp (SBCL 1.1.14)","length":39,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498534537,"execution_time":7,"id":1384323,"language":"Ruby (2.3.3)","length":47,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498535113,"execution_time":29,"id":1384334,"language":"Swift (swift-2.2-RELEASE)","length":66,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498536404,"execution_time":"","id":1384371,"language":"Objective-C (GCC 5.3.0)","length":120,"point":0.0,"problem_id":"abc001_1","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1498536487,"execution_time":"","id":1384376,"language":"Objective-C (GCC 5.3.0)","length":124,"point":0.0,"problem_id":"abc001_1","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498606406,"execution_time":1,"id":1386239,"language":"C (GCC 5.4.1)","length":168,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498606967,"execution_time":1,"id":1386240,"language":"C++ (GCC 5.4.1)","length":218,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498607850,"execution_time":21,"id":1386245,"language":"C# (Mono 4.6.2.0)","length":316,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498621157,"execution_time":105,"id":1386380,"language":"Java7 (OpenJDK 1.7.0)","length":288,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498621369,"execution_time":52,"id":1386382,"language":"JavaScript (node.js v5.12)","length":252,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498621851,"execution_time":2,"id":1386389,"language":"Bash (GNU bash v4.3.11)","length":84,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498622058,"execution_time":1,"id":1386391,"language":"Bash (GNU bash v4.3.11)","length":90,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498622445,"execution_time":3,"id":1386397,"language":"Perl (v5.18.2)","length":170,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498638026,"execution_time":10,"id":1386735,"language":"PHP (5.6.30)","length":131,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498638246,"execution_time":7,"id":1386737,"language":"Ruby (2.3.3)","length":90,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498640011,"execution_time":7,"id":1386782,"language":"Ruby (2.3.3)","length":111,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498640651,"execution_time":4,"id":1386793,"language":"Swift (swift-2.2-RELEASE)","length":172,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498704863,"execution_time":11,"id":1387607,"language":"Common Lisp (SBCL 1.1.14)","length":102,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498704913,"execution_time":9,"id":1387609,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498704968,"execution_time":30,"id":1387611,"language":"Common Lisp (SBCL 1.1.14)","length":116,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498718374,"execution_time":9,"id":1387862,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":0.0,"problem_id":"abc002_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1498718696,"execution_time":25,"id":1387871,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498721613,"execution_time":1,"id":1387937,"language":"C (GCC 5.4.1)","length":179,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498722894,"execution_time":1,"id":1387965,"language":"C++14 (GCC 5.4.1)","length":216,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498725268,"execution_time":22,"id":1388033,"language":"C# (Mono 4.6.2.0)","length":276,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498726271,"execution_time":102,"id":1388071,"language":"Java7 (OpenJDK 1.7.0)","length":310,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498962702,"execution_time":48,"id":1398527,"language":"JavaScript (node.js v5.12)","length":230,"point":0.0,"problem_id":"abc003_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498962853,"execution_time":50,"id":1398536,"language":"JavaScript (node.js v5.12)","length":232,"point":0.0,"problem_id":"abc003_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1498963562,"execution_time":53,"id":1398559,"language":"JavaScript (node.js v5.12)","length":275,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499037724,"execution_time":141,"id":1399922,"language":"Bash (GNU bash v4.3.11)","length":149,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499038072,"execution_time":3,"id":1399923,"language":"Perl (v5.18.2)","length":163,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499038286,"execution_time":9,"id":1399925,"language":"PHP (5.6.30)","length":131,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499038864,"execution_time":7,"id":1399929,"language":"Ruby (2.3.3)","length":104,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499039721,"execution_time":35,"id":1399932,"language":"Swift (swift-2.2-RELEASE)","length":137,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499053872,"execution_time":137,"id":1400099,"language":"Common Lisp (SBCL 1.1.14)","length":212,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1499053939,"execution_time":10,"id":1400100,"language":"Common Lisp (SBCL 1.1.14)","length":206,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499054170,"execution_time":1,"id":1400103,"language":"C (GCC 5.4.1)","length":111,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499054322,"execution_time":1,"id":1400107,"language":"C++14 (GCC 5.4.1)","length":150,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499054463,"execution_time":21,"id":1400110,"language":"C# (Mono 4.6.2.0)","length":178,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499123304,"execution_time":106,"id":1401691,"language":"Java7 (OpenJDK 1.7.0)","length":212,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499123467,"execution_time":52,"id":1401692,"language":"JavaScript (node.js v5.12)","length":172,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499123574,"execution_time":16,"id":1401693,"language":"Bash (GNU bash v4.3.11)","length":54,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499123741,"execution_time":2,"id":1401695,"language":"Perl (v5.18.2)","length":66,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499123920,"execution_time":12,"id":1401697,"language":"PHP (5.6.30)","length":60,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499124012,"execution_time":17,"id":1401698,"language":"Python3 (3.4.3)","length":31,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499124087,"execution_time":7,"id":1401701,"language":"Ruby (2.3.3)","length":32,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499124180,"execution_time":35,"id":1401705,"language":"Swift (swift-2.2-RELEASE)","length":40,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499124249,"execution_time":5,"id":1401706,"language":"Common Lisp (SBCL 1.1.14)","length":34,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1499124327,"execution_time":103,"id":1401707,"language":"Java7 (OpenJDK 1.7.0)","length":197,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499124773,"execution_time":1,"id":1401708,"language":"C (GCC 5.4.1)","length":116,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499124904,"execution_time":1,"id":1401709,"language":"C++14 (GCC 5.4.1)","length":165,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125006,"execution_time":21,"id":1401710,"language":"C# (Mono 4.6.2.0)","length":237,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125116,"execution_time":100,"id":1401711,"language":"Java7 (OpenJDK 1.7.0)","length":225,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125244,"execution_time":51,"id":1401713,"language":"JavaScript (node.js v5.12)","length":234,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125499,"execution_time":2,"id":1401714,"language":"Bash (GNU bash v4.3.11)","length":51,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125812,"execution_time":2,"id":1401717,"language":"Perl (v5.18.2)","length":127,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499125962,"execution_time":2,"id":1401718,"language":"Perl (v5.18.2)","length":137,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499126190,"execution_time":10,"id":1401719,"language":"PHP (5.6.30)","length":93,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499126289,"execution_time":175,"id":1401720,"language":"PyPy3 (2.4.0)","length":55,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499126390,"execution_time":7,"id":1401721,"language":"Ruby (2.3.3)","length":68,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499126776,"execution_time":10,"id":1401722,"language":"Swift (swift-2.2-RELEASE)","length":129,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1499127894,"execution_time":46,"id":1401725,"language":"Common Lisp (SBCL 1.1.14)","length":110,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499138589,"execution_time":1,"id":1401943,"language":"C (GCC 5.4.1)","length":159,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499138885,"execution_time":1,"id":1401949,"language":"C++14 (GCC 5.4.1)","length":205,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499139136,"execution_time":21,"id":1401954,"language":"C# (Mono 4.6.2.0)","length":247,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499139286,"execution_time":97,"id":1401956,"language":"Java7 (OpenJDK 1.7.0)","length":287,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499139436,"execution_time":52,"id":1401959,"language":"JavaScript (node.js v5.12)","length":248,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499139970,"execution_time":2,"id":1401965,"language":"Bash (GNU bash v4.3.11)","length":96,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499141077,"execution_time":2,"id":1401988,"language":"Perl (v5.18.2)","length":125,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499141219,"execution_time":9,"id":1401990,"language":"PHP (5.6.30)","length":104,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499141585,"execution_time":17,"id":1402001,"language":"Python3 (3.4.3)","length":83,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499144439,"execution_time":4,"id":1402076,"language":"Swift (swift-2.2-RELEASE)","length":105,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499144825,"execution_time":6,"id":1402088,"language":"Common Lisp (SBCL 1.1.14)","length":65,"point":0.0,"problem_id":"abc006_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499145104,"execution_time":5,"id":1402095,"language":"Common Lisp (SBCL 1.1.14)","length":65,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499209757,"execution_time":1,"id":1403082,"language":"C (GCC 5.4.1)","length":93,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499209849,"execution_time":1,"id":1403083,"language":"C++14 (GCC 5.4.1)","length":130,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499209973,"execution_time":20,"id":1403084,"language":"C# (Mono 4.6.2.0)","length":156,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210069,"execution_time":114,"id":1403086,"language":"Java7 (OpenJDK 1.7.0)","length":198,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210143,"execution_time":52,"id":1403087,"language":"JavaScript (node.js v5.12)","length":174,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210206,"execution_time":6,"id":1403088,"language":"Bash (GNU bash v4.3.11)","length":39,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210276,"execution_time":2,"id":1403090,"language":"Perl (v5.18.2)","length":66,"point":0.0,"problem_id":"abc007_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210429,"execution_time":2,"id":1403092,"language":"Perl (v5.18.2)","length":80,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210492,"execution_time":11,"id":1403093,"language":"PHP (5.6.30)","length":60,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210547,"execution_time":17,"id":1403094,"language":"Python3 (3.4.3)","length":31,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210611,"execution_time":7,"id":1403095,"language":"Ruby (2.3.3)","length":38,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210692,"execution_time":36,"id":1403096,"language":"Swift (swift-2.2-RELEASE)","length":40,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210827,"execution_time":15,"id":1403097,"language":"Common Lisp (SBCL 1.1.14)","length":20,"point":0.0,"problem_id":"abc007_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1499210858,"execution_time":12,"id":1403098,"language":"Common Lisp (SBCL 1.1.14)","length":34,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1499211130,"execution_time":7,"id":1403099,"language":"Ruby (2.3.3)","length":84,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211427,"execution_time":1,"id":1403100,"language":"C (GCC 5.4.1)","length":120,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211514,"execution_time":1,"id":1403101,"language":"C++14 (GCC 5.4.1)","length":160,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211576,"execution_time":21,"id":1403102,"language":"C# (Mono 4.6.2.0)","length":241,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211625,"execution_time":107,"id":1403103,"language":"Java7 (OpenJDK 1.7.0)","length":229,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211751,"execution_time":51,"id":1403104,"language":"JavaScript (node.js v5.12)","length":210,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211787,"execution_time":3,"id":1403105,"language":"Bash (GNU bash v4.3.11)","length":55,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211836,"execution_time":2,"id":1403106,"language":"Perl (v5.18.2)","length":141,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211887,"execution_time":12,"id":1403107,"language":"PHP (5.6.30)","length":97,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211929,"execution_time":179,"id":1403108,"language":"PyPy3 (2.4.0)","length":59,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499211977,"execution_time":7,"id":1403109,"language":"Ruby (2.3.3)","length":72,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499212063,"execution_time":4,"id":1403110,"language":"Swift (swift-2.2-RELEASE)","length":133,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1499212117,"execution_time":41,"id":1403111,"language":"Common Lisp (SBCL 1.1.14)","length":108,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499225290,"execution_time":1,"id":1403264,"language":"C (GCC 5.4.1)","length":105,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499225364,"execution_time":1,"id":1403265,"language":"C++14 (GCC 5.4.1)","length":137,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499225484,"execution_time":20,"id":1403266,"language":"C# (Mono 4.6.2.0)","length":164,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499225566,"execution_time":103,"id":1403270,"language":"Java7 (OpenJDK 1.7.0)","length":205,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226146,"execution_time":55,"id":1403277,"language":"JavaScript (node.js v5.12)","length":194,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226220,"execution_time":7,"id":1403279,"language":"Bash (GNU bash v4.3.11)","length":48,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226449,"execution_time":3,"id":1403285,"language":"Perl (v5.18.2)","length":96,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226590,"execution_time":9,"id":1403286,"language":"PHP (5.6.30)","length":79,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226706,"execution_time":17,"id":1403287,"language":"Python3 (3.4.3)","length":56,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499226931,"execution_time":7,"id":1403291,"language":"Ruby (2.3.3)","length":46,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499227041,"execution_time":4,"id":1403293,"language":"Swift (swift-2.2-RELEASE)","length":54,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1499235869,"execution_time":15,"id":1403474,"language":"Common Lisp (SBCL 1.1.14)","length":102,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499238570,"execution_time":"","id":1403542,"language":"C (GCC 5.4.1)","length":130,"point":0.0,"problem_id":"abc010_1","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499238692,"execution_time":1,"id":1403544,"language":"C (GCC 5.4.1)","length":130,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499238995,"execution_time":1,"id":1403549,"language":"C++14 (GCC 5.4.1)","length":140,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499239206,"execution_time":20,"id":1403551,"language":"C# (Mono 4.6.2.0)","length":151,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499239416,"execution_time":95,"id":1403560,"language":"Java7 (OpenJDK 1.7.0)","length":204,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499239685,"execution_time":53,"id":1403565,"language":"JavaScript (node.js v5.12)","length":145,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499239900,"execution_time":13,"id":1403576,"language":"Bash (GNU bash v4.3.11)","length":32,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499240118,"execution_time":2,"id":1403581,"language":"Perl (v5.18.2)","length":54,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499240203,"execution_time":2,"id":1403583,"language":"Perl (v5.18.2)","length":57,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499240355,"execution_time":2,"id":1403585,"language":"Perl (v5.18.2)","length":70,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499240546,"execution_time":2,"id":1403590,"language":"Perl (v5.18.2)","length":70,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499240689,"execution_time":2,"id":1403593,"language":"Perl (v5.18.2)","length":52,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499241950,"execution_time":9,"id":1403618,"language":"PHP (5.6.30)","length":48,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242015,"execution_time":17,"id":1403620,"language":"Python3 (3.4.3)","length":29,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242085,"execution_time":7,"id":1403621,"language":"Ruby (2.3.3)","length":24,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242164,"execution_time":7,"id":1403622,"language":"Ruby (2.3.3)","length":29,"point":0.0,"problem_id":"abc010_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242278,"execution_time":7,"id":1403624,"language":"Ruby (2.3.3)","length":39,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242367,"execution_time":2,"id":1403627,"language":"Perl (v5.18.2)","length":66,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499242458,"execution_time":4,"id":1403630,"language":"Swift (swift-2.2-RELEASE)","length":38,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1499243232,"execution_time":7,"id":1403649,"language":"Common Lisp (SBCL 1.1.14)","length":60,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499296641,"execution_time":1,"id":1404221,"language":"C (GCC 5.4.1)","length":155,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499296744,"execution_time":1,"id":1404223,"language":"C++14 (GCC 5.4.1)","length":188,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499296814,"execution_time":21,"id":1404225,"language":"C# (Mono 4.6.2.0)","length":290,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499296885,"execution_time":106,"id":1404226,"language":"Java7 (OpenJDK 1.7.0)","length":265,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499296937,"execution_time":52,"id":1404227,"language":"JavaScript (node.js v5.12)","length":225,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297032,"execution_time":2,"id":1404229,"language":"Bash (GNU bash v4.3.11)","length":85,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297342,"execution_time":2,"id":1404232,"language":"Perl (v5.18.2)","length":167,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297478,"execution_time":14,"id":1404233,"language":"PHP (5.6.30)","length":140,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297556,"execution_time":17,"id":1404235,"language":"Python3 (3.4.3)","length":92,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297645,"execution_time":7,"id":1404236,"language":"Ruby (2.3.3)","length":79,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297725,"execution_time":4,"id":1404237,"language":"Swift (swift-2.2-RELEASE)","length":99,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1499297899,"execution_time":118,"id":1404238,"language":"Common Lisp (SBCL 1.1.14)","length":103,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499298103,"execution_time":1,"id":1404241,"language":"C (GCC 5.4.1)","length":122,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499298363,"execution_time":1,"id":1404243,"language":"C++14 (GCC 5.4.1)","length":158,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499298496,"execution_time":20,"id":1404245,"language":"C# (Mono 4.6.2.0)","length":221,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499298904,"execution_time":96,"id":1404247,"language":"Java7 (OpenJDK 1.7.0)","length":247,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499298981,"execution_time":52,"id":1404248,"language":"JavaScript (node.js v5.12)","length":150,"point":0.0,"problem_id":"abc012_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299148,"execution_time":50,"id":1404251,"language":"JavaScript (node.js v5.12)","length":212,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299217,"execution_time":2,"id":1404252,"language":"Bash (GNU bash v4.3.11)","length":31,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299620,"execution_time":2,"id":1404255,"language":"Perl (v5.18.2)","length":125,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299705,"execution_time":9,"id":1404256,"language":"PHP (5.6.30)","length":87,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299799,"execution_time":168,"id":1404258,"language":"PyPy3 (2.4.0)","length":42,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499299941,"execution_time":7,"id":1404260,"language":"Ruby (2.3.3)","length":76,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499301666,"execution_time":4,"id":1404272,"language":"Swift (swift-2.2-RELEASE)","length":101,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1499302117,"execution_time":9,"id":1404275,"language":"Common Lisp (SBCL 1.1.14)","length":118,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499309650,"execution_time":1,"id":1404382,"language":"C (GCC 5.4.1)","length":203,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499312401,"execution_time":1,"id":1404434,"language":"C++14 (GCC 5.4.1)","length":252,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499312798,"execution_time":21,"id":1404449,"language":"C# (Mono 4.6.2.0)","length":265,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499313775,"execution_time":95,"id":1404463,"language":"Java7 (OpenJDK 1.7.0)","length":318,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499314797,"execution_time":51,"id":1404473,"language":"JavaScript (node.js v5.12)","length":239,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499327956,"execution_time":5,"id":1404657,"language":"Bash (GNU bash v4.3.11)","length":128,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499328352,"execution_time":2,"id":1404666,"language":"Perl (v5.18.2)","length":169,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499328662,"execution_time":9,"id":1404674,"language":"PHP (5.6.30)","length":146,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499328907,"execution_time":17,"id":1404684,"language":"Python3 (3.4.3)","length":112,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499329464,"execution_time":"","id":1404701,"language":"Ruby (2.3.3)","length":111,"point":0.0,"problem_id":"abc013_1","result":"TLE","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499329685,"execution_time":7,"id":1404704,"language":"Ruby (2.3.3)","length":121,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499329864,"execution_time":32,"id":1404708,"language":"Swift (swift-2.2-RELEASE)","length":132,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1499331798,"execution_time":38,"id":1404743,"language":"Common Lisp (SBCL 1.1.14)","length":226,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499382884,"execution_time":1,"id":1405236,"language":"C (GCC 5.4.1)","length":188,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499383126,"execution_time":1,"id":1405237,"language":"C++14 (GCC 5.4.1)","length":216,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499383492,"execution_time":21,"id":1405239,"language":"C# (Mono 4.6.2.0)","length":318,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499383673,"execution_time":108,"id":1405241,"language":"Java7 (OpenJDK 1.7.0)","length":313,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499383858,"execution_time":53,"id":1405242,"language":"JavaScript (node.js v5.12)","length":292,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384104,"execution_time":3,"id":1405244,"language":"Bash (GNU bash v4.3.11)","length":128,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384279,"execution_time":2,"id":1405246,"language":"Perl (v5.18.2)","length":174,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384441,"execution_time":9,"id":1405249,"language":"PHP (5.6.30)","length":146,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384578,"execution_time":17,"id":1405250,"language":"Python3 (3.4.3)","length":102,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384706,"execution_time":7,"id":1405252,"language":"Ruby (2.3.3)","length":101,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499384976,"execution_time":4,"id":1405255,"language":"Swift (swift-2.2-RELEASE)","length":126,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1499385559,"execution_time":26,"id":1405259,"language":"Common Lisp (SBCL 1.1.14)","length":140,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499399226,"execution_time":1,"id":1405409,"language":"C (GCC 5.4.1)","length":252,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499399476,"execution_time":1,"id":1405414,"language":"C++14 (GCC 5.4.1)","length":220,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499399712,"execution_time":20,"id":1405418,"language":"C# (Mono 4.6.2.0)","length":274,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499399881,"execution_time":103,"id":1405422,"language":"Java7 (OpenJDK 1.7.0)","length":314,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499402270,"execution_time":51,"id":1405457,"language":"JavaScript (node.js v5.12)","length":213,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499402739,"execution_time":2,"id":1405464,"language":"Bash (GNU bash v4.3.11)","length":89,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499402957,"execution_time":2,"id":1405467,"language":"Perl (v5.18.2)","length":154,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499403208,"execution_time":9,"id":1405470,"language":"PHP (5.6.30)","length":133,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499403457,"execution_time":17,"id":1405474,"language":"Python3 (3.4.3)","length":76,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499403736,"execution_time":7,"id":1405477,"language":"Ruby (2.3.3)","length":90,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499404044,"execution_time":20,"id":1405485,"language":"Swift (swift-2.2-RELEASE)","length":134,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499406140,"execution_time":10,"id":1405533,"language":"Common Lisp (SBCL 1.1.14)","length":135,"point":0.0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499406167,"execution_time":56,"id":1405534,"language":"Common Lisp (SBCL 1.1.14)","length":135,"point":0.0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499406213,"execution_time":11,"id":1405536,"language":"Common Lisp (SBCL 1.1.14)","length":119,"point":0.0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499406557,"execution_time":10,"id":1405547,"language":"Common Lisp (SBCL 1.1.14)","length":161,"point":0.0,"problem_id":"abc015_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1499406957,"execution_time":9,"id":1405551,"language":"Common Lisp (SBCL 1.1.14)","length":147,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499407569,"execution_time":1,"id":1405566,"language":"C (GCC 5.4.1)","length":178,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499408757,"execution_time":1,"id":1405581,"language":"C++14 (GCC 5.4.1)","length":220,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499408963,"execution_time":20,"id":1405586,"language":"C# (Mono 4.6.2.0)","length":312,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409035,"execution_time":100,"id":1405588,"language":"Java7 (OpenJDK 1.7.0)","length":316,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409102,"execution_time":51,"id":1405590,"language":"JavaScript (node.js v5.12)","length":280,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409205,"execution_time":2,"id":1405594,"language":"Bash (GNU bash v4.3.11)","length":108,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409574,"execution_time":2,"id":1405603,"language":"Perl (v5.18.2)","length":182,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409646,"execution_time":9,"id":1405607,"language":"PHP (5.6.30)","length":139,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409726,"execution_time":20,"id":1405612,"language":"Python3 (3.4.3)","length":102,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409858,"execution_time":9,"id":1405618,"language":"Ruby (2.3.3)","length":120,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499409953,"execution_time":17,"id":1405620,"language":"Swift (swift-2.2-RELEASE)","length":173,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1499410112,"execution_time":11,"id":1405627,"language":"Common Lisp (SBCL 1.1.14)","length":133,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499413078,"execution_time":1,"id":1405691,"language":"C (GCC 5.4.1)","length":248,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499413547,"execution_time":1,"id":1405702,"language":"C++14 (GCC 5.4.1)","length":202,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499415042,"execution_time":20,"id":1405744,"language":"C# (Mono 4.6.2.0)","length":345,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499417945,"execution_time":83,"id":1405861,"language":"Java7 (OpenJDK 1.7.0)","length":488,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499827791,"execution_time":53,"id":1417507,"language":"JavaScript (node.js v5.12)","length":340,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499832691,"execution_time":18,"id":1417571,"language":"Bash (GNU bash v4.3.11)","length":113,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499833844,"execution_time":2,"id":1417586,"language":"Perl (v5.18.2)","length":181,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499847402,"execution_time":13,"id":1417814,"language":"PHP (5.6.30)","length":150,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499848445,"execution_time":18,"id":1417845,"language":"Python3 (3.4.3)","length":140,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499849207,"execution_time":7,"id":1417865,"language":"Ruby (2.3.3)","length":141,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499929372,"execution_time":9,"id":1419187,"language":"Swift (swift-2.2-RELEASE)","length":170,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1499993719,"execution_time":10,"id":1419783,"language":"Common Lisp (SBCL 1.1.14)","length":248,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500007781,"execution_time":1,"id":1419892,"language":"C (GCC 5.4.1)","length":432,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500008705,"execution_time":1,"id":1419901,"language":"C++14 (GCC 5.4.1)","length":400,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500010041,"execution_time":20,"id":1419912,"language":"C# (Mono 4.6.2.0)","length":567,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500020962,"execution_time":90,"id":1420019,"language":"Java7 (OpenJDK 1.7.0)","length":724,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500022073,"execution_time":223,"id":1420028,"language":"JavaScript (node.js v5.12)","length":424,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500022419,"execution_time":53,"id":1420032,"language":"JavaScript (node.js v5.12)","length":437,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500334554,"execution_time":6,"id":1436010,"language":"Bash (GNU bash v4.3.11)","length":315,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500335167,"execution_time":2,"id":1436013,"language":"Perl (v5.18.2)","length":359,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500335827,"execution_time":18,"id":1436016,"language":"PHP (5.6.30)","length":328,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500338184,"execution_time":18,"id":1436054,"language":"Python3 (3.4.3)","length":248,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500342517,"execution_time":8,"id":1436116,"language":"Ruby (2.3.3)","length":282,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500343513,"execution_time":34,"id":1436127,"language":"Swift (swift-2.2-RELEASE)","length":273,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1500363301,"execution_time":199,"id":1436433,"language":"Common Lisp (SBCL 1.1.14)","length":515,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500421724,"execution_time":1,"id":1437670,"language":"C (GCC 5.4.1)","length":307,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500425933,"execution_time":1,"id":1437713,"language":"C++14 (GCC 5.4.1)","length":341,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500428663,"execution_time":20,"id":1437754,"language":"C# (Mono 4.6.2.0)","length":432,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500429462,"execution_time":108,"id":1437764,"language":"Java7 (OpenJDK 1.7.0)","length":469,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500434931,"execution_time":52,"id":1437847,"language":"JavaScript (node.js v5.12)","length":331,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500435104,"execution_time":51,"id":1437848,"language":"JavaScript (node.js v5.12)","length":359,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500435521,"execution_time":54,"id":1437852,"language":"JavaScript (node.js v5.12)","length":349,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500435724,"execution_time":50,"id":1437854,"language":"JavaScript (node.js v5.12)","length":353,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500437117,"execution_time":51,"id":1437877,"language":"JavaScript (node.js v5.12)","length":367,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500437172,"execution_time":52,"id":1437879,"language":"JavaScript (node.js v5.12)","length":351,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500437398,"execution_time":52,"id":1437880,"language":"JavaScript (node.js v5.12)","length":247,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500437563,"execution_time":54,"id":1437884,"language":"JavaScript (node.js v5.12)","length":287,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500437673,"execution_time":53,"id":1437885,"language":"JavaScript (node.js v5.12)","length":268,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500438032,"execution_time":54,"id":1437891,"language":"JavaScript (node.js v5.12)","length":278,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500454751,"execution_time":2,"id":1438437,"language":"Bash (GNU bash v4.3.11)","length":253,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500505862,"execution_time":5,"id":1439273,"language":"Bash (GNU bash v4.3.11)","length":268,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500505984,"execution_time":4,"id":1439275,"language":"Bash (GNU bash v4.3.11)","length":269,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500506305,"execution_time":2,"id":1439278,"language":"Perl (v5.18.2)","length":111,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500506360,"execution_time":2,"id":1439279,"language":"Perl (v5.18.2)","length":126,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500506735,"execution_time":13,"id":1439284,"language":"PHP (5.6.30)","length":106,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500506806,"execution_time":18,"id":1439285,"language":"PHP (5.6.30)","length":101,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500506865,"execution_time":9,"id":1439286,"language":"PHP (5.6.30)","length":88,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500507082,"execution_time":9,"id":1439291,"language":"PHP (5.6.30)","length":93,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500507472,"execution_time":10,"id":1439304,"language":"PHP (5.6.30)","length":267,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500508625,"execution_time":17,"id":1439321,"language":"Python3 (3.4.3)","length":68,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500509579,"execution_time":7,"id":1439327,"language":"Ruby (2.3.3)","length":70,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500513663,"execution_time":37,"id":1439368,"language":"Swift (swift-2.2-RELEASE)","length":266,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1500514392,"execution_time":140,"id":1439377,"language":"Common Lisp (SBCL 1.1.14)","length":276,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500522207,"execution_time":1,"id":1439505,"language":"C (GCC 5.4.1)","length":137,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500522264,"execution_time":0,"id":1439507,"language":"C (GCC 5.4.1)","length":159,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500522508,"execution_time":1,"id":1439515,"language":"C++14 (GCC 5.4.1)","length":205,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500522885,"execution_time":20,"id":1439519,"language":"C# (Mono 4.6.2.0)","length":234,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500523154,"execution_time":93,"id":1439526,"language":"Java7 (OpenJDK 1.7.0)","length":295,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500523374,"execution_time":51,"id":1439532,"language":"JavaScript (node.js v5.12)","length":212,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500523534,"execution_time":1,"id":1439535,"language":"Bash (GNU bash v4.3.11)","length":85,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500523697,"execution_time":3,"id":1439536,"language":"Perl (v5.18.2)","length":103,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500524004,"execution_time":10,"id":1439538,"language":"PHP (5.6.30)","length":96,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500524119,"execution_time":17,"id":1439539,"language":"Python3 (3.4.3)","length":75,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500524193,"execution_time":7,"id":1439542,"language":"Ruby (2.3.3)","length":79,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500524302,"execution_time":32,"id":1439543,"language":"Swift (swift-2.2-RELEASE)","length":96,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1500524715,"execution_time":5,"id":1439553,"language":"Common Lisp (SBCL 1.1.14)","length":64,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500532837,"execution_time":0,"id":1439739,"language":"C (GCC 5.4.1)","length":474,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500533684,"execution_time":1,"id":1439756,"language":"C++14 (GCC 5.4.1)","length":521,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500534264,"execution_time":1,"id":1439777,"language":"C (GCC 5.4.1)","length":317,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500534965,"execution_time":1,"id":1439800,"language":"C++14 (GCC 5.4.1)","length":381,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500536264,"execution_time":21,"id":1439835,"language":"C# (Mono 4.6.2.0)","length":467,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500538659,"execution_time":101,"id":1439897,"language":"Java7 (OpenJDK 1.7.0)","length":507,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500593717,"execution_time":210,"id":1440803,"language":"JavaScript (node.js v5.12)","length":411,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500595680,"execution_time":11,"id":1440819,"language":"Bash (GNU bash v4.3.11)","length":313,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500604256,"execution_time":2,"id":1440958,"language":"Perl (v5.18.2)","length":312,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500616704,"execution_time":13,"id":1441205,"language":"PHP (5.6.30)","length":306,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500852323,"execution_time":17,"id":1450936,"language":"Python3 (3.4.3)","length":203,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500852799,"execution_time":7,"id":1450937,"language":"Ruby (2.3.3)","length":221,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1500853400,"execution_time":45,"id":1450943,"language":"Swift (swift-2.2-RELEASE)","length":246,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1501545447,"execution_time":1,"id":1474880,"language":"C (GCC 5.4.1)","length":262,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1501817781,"execution_time":1,"id":1480898,"language":"C (GCC 5.4.1)","length":261,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1501818057,"execution_time":1,"id":1480902,"language":"C (GCC 5.4.1)","length":265,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1501818395,"execution_time":1,"id":1480907,"language":"C (GCC 5.4.1)","length":262,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1501819395,"execution_time":1,"id":1480921,"language":"C (GCC 5.4.1)","length":284,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1502638218,"execution_time":2,"id":1512377,"language":"C++14 (GCC 5.4.1)","length":324,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1502756494,"execution_time":2,"id":1514086,"language":"C++14 (GCC 5.4.1)","length":327,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1507160332,"execution_time":11,"id":1652029,"language":"PHP (5.6.30)","length":330,"point":0.0,"problem_id":"abc026_b","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1507160640,"execution_time":12,"id":1652030,"language":"PHP (5.6.30)","length":363,"point":100.0,"problem_id":"abc026_b","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1507279086,"execution_time":18,"id":1654270,"language":"Python3 (3.4.3)","length":47,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1507279956,"execution_time":18,"id":1654305,"language":"Python3 (3.4.3)","length":198,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1513576378,"execution_time":"","id":1884077,"language":"Python3 (3.4.3)","length":169,"point":0.0,"problem_id":"abc025_a","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1513576738,"execution_time":18,"id":1884086,"language":"Python3 (3.4.3)","length":175,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1513577204,"execution_time":17,"id":1884107,"language":"Python3 (3.4.3)","length":39,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1513578580,"execution_time":21,"id":1884169,"language":"Python3 (3.4.3)","length":155,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc028","epoch_second":1513578936,"execution_time":17,"id":1884178,"language":"Python3 (3.4.3)","length":150,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc029","epoch_second":1513579056,"execution_time":17,"id":1884185,"language":"Python3 (3.4.3)","length":32,"point":100.0,"problem_id":"abc029_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc030","epoch_second":1513579656,"execution_time":18,"id":1884204,"language":"Python3 (3.4.3)","length":163,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc031","epoch_second":1513663494,"execution_time":18,"id":1886259,"language":"Python3 (3.4.3)","length":127,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc032","epoch_second":1513664890,"execution_time":20,"id":1886315,"language":"Python3 (3.4.3)","length":114,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc033","epoch_second":1513665270,"execution_time":23,"id":1886330,"language":"Python3 (3.4.3)","length":168,"point":100.0,"problem_id":"abc033_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc034","epoch_second":1513665888,"execution_time":21,"id":1886364,"language":"Python3 (3.4.3)","length":90,"point":100.0,"problem_id":"abc034_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc035","epoch_second":1513666227,"execution_time":17,"id":1886394,"language":"Python3 (3.4.3)","length":102,"point":100.0,"problem_id":"abc035_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc036","epoch_second":1513752152,"execution_time":17,"id":1888641,"language":"Python3 (3.4.3)","length":135,"point":100.0,"problem_id":"abc036_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc037","epoch_second":1513752559,"execution_time":17,"id":1888657,"language":"Python3 (3.4.3)","length":126,"point":100.0,"problem_id":"abc037_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc038","epoch_second":1513752975,"execution_time":18,"id":1888667,"language":"Python3 (3.4.3)","length":73,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc039","epoch_second":1513753422,"execution_time":17,"id":1888682,"language":"Python3 (3.4.3)","length":103,"point":100.0,"problem_id":"abc039_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc040","epoch_second":1513755572,"execution_time":18,"id":1888752,"language":"Python3 (3.4.3)","length":68,"point":100.0,"problem_id":"abc040_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc041","epoch_second":1513830083,"execution_time":17,"id":1890406,"language":"Python3 (3.4.3)","length":52,"point":100.0,"problem_id":"abc041_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc042","epoch_second":1513830768,"execution_time":19,"id":1890452,"language":"Python3 (3.4.3)","length":114,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc043","epoch_second":1513830989,"execution_time":17,"id":1890458,"language":"Python3 (3.4.3)","length":55,"point":0.0,"problem_id":"abc043_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc043","epoch_second":1513831243,"execution_time":17,"id":1890467,"language":"Python3 (3.4.3)","length":46,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc044","epoch_second":1513831913,"execution_time":17,"id":1890484,"language":"Python3 (3.4.3)","length":103,"point":0.0,"problem_id":"abc044_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc044","epoch_second":1513832032,"execution_time":17,"id":1890489,"language":"Python3 (3.4.3)","length":139,"point":100.0,"problem_id":"abc044_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc045","epoch_second":1513832207,"execution_time":17,"id":1890493,"language":"Python3 (3.4.3)","length":81,"point":100.0,"problem_id":"abc045_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc046","epoch_second":1513833637,"execution_time":17,"id":1890530,"language":"Python3 (3.4.3)","length":46,"point":100.0,"problem_id":"abc046_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc047","epoch_second":1513834202,"execution_time":17,"id":1890550,"language":"Python3 (3.4.3)","length":107,"point":0.0,"problem_id":"abc047_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc047","epoch_second":1513834380,"execution_time":17,"id":1890556,"language":"Python3 (3.4.3)","length":117,"point":100.0,"problem_id":"abc047_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc048","epoch_second":1513834594,"execution_time":17,"id":1890564,"language":"Python3 (3.4.3)","length":94,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc048","epoch_second":1513834741,"execution_time":17,"id":1890570,"language":"Python3 (3.4.3)","length":60,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc049","epoch_second":1513835032,"execution_time":17,"id":1890582,"language":"Python3 (3.4.3)","length":103,"point":100.0,"problem_id":"abc049_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc050","epoch_second":1513835339,"execution_time":17,"id":1890596,"language":"Python3 (3.4.3)","length":107,"point":100.0,"problem_id":"abc050_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc051","epoch_second":1513921273,"execution_time":17,"id":1892609,"language":"Python3 (3.4.3)","length":39,"point":100.0,"problem_id":"abc051_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc052","epoch_second":1513921777,"execution_time":17,"id":1892626,"language":"Python3 (3.4.3)","length":117,"point":100.0,"problem_id":"abc052_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc053","epoch_second":1513921897,"execution_time":17,"id":1892630,"language":"Python3 (3.4.3)","length":69,"point":100.0,"problem_id":"abc053_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc054","epoch_second":1513922777,"execution_time":17,"id":1892649,"language":"Python3 (3.4.3)","length":220,"point":100.0,"problem_id":"abc054_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc055","epoch_second":1513923110,"execution_time":17,"id":1892653,"language":"Python3 (3.4.3)","length":52,"point":100.0,"problem_id":"abc055_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc056","epoch_second":1513923249,"execution_time":17,"id":1892658,"language":"Python3 (3.4.3)","length":72,"point":100.0,"problem_id":"abc056_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc057","epoch_second":1513923489,"execution_time":17,"id":1892668,"language":"Python3 (3.4.3)","length":108,"point":100.0,"problem_id":"abc057_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc058","epoch_second":1513923646,"execution_time":17,"id":1892674,"language":"Python3 (3.4.3)","length":112,"point":100.0,"problem_id":"abc058_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc059","epoch_second":1513923831,"execution_time":17,"id":1892681,"language":"Python3 (3.4.3)","length":118,"point":100.0,"problem_id":"abc059_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc060","epoch_second":1513923995,"execution_time":17,"id":1892687,"language":"Python3 (3.4.3)","length":142,"point":100.0,"problem_id":"abc060_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc061","epoch_second":1514182665,"execution_time":17,"id":1908872,"language":"Python3 (3.4.3)","length":83,"point":0.0,"problem_id":"abc061_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc061","epoch_second":1514182820,"execution_time":17,"id":1908876,"language":"Python3 (3.4.3)","length":92,"point":0.0,"problem_id":"abc061_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc061","epoch_second":1514182925,"execution_time":17,"id":1908879,"language":"Python3 (3.4.3)","length":107,"point":100.0,"problem_id":"abc061_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc062","epoch_second":1514184183,"execution_time":17,"id":1908935,"language":"Python3 (3.4.3)","length":174,"point":100.0,"problem_id":"abc062_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc063","epoch_second":1514184340,"execution_time":17,"id":1908941,"language":"Python3 (3.4.3)","length":103,"point":100.0,"problem_id":"abc063_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc064","epoch_second":1514184638,"execution_time":17,"id":1908953,"language":"Python3 (3.4.3)","length":87,"point":100.0,"problem_id":"abc064_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc065","epoch_second":1514185057,"execution_time":17,"id":1908968,"language":"Python3 (3.4.3)","length":158,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc065","epoch_second":1514185963,"execution_time":17,"id":1909005,"language":"Python3 (3.4.3)","length":165,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc065","epoch_second":1514186772,"execution_time":17,"id":1909033,"language":"Python3 (3.4.3)","length":172,"point":0.0,"problem_id":"abc065_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc065","epoch_second":1514186841,"execution_time":17,"id":1909037,"language":"Python3 (3.4.3)","length":154,"point":100.0,"problem_id":"abc065_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc066","epoch_second":1514187054,"execution_time":18,"id":1909046,"language":"Python3 (3.4.3)","length":64,"point":100.0,"problem_id":"abc066_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc067","epoch_second":1514187262,"execution_time":17,"id":1909053,"language":"Python3 (3.4.3)","length":147,"point":100.0,"problem_id":"abc067_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc068","epoch_second":1514187362,"execution_time":17,"id":1909058,"language":"Python3 (3.4.3)","length":22,"point":100.0,"problem_id":"abc068_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc069","epoch_second":1514187559,"execution_time":17,"id":1909064,"language":"Python3 (3.4.3)","length":66,"point":100.0,"problem_id":"abc069_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc070","epoch_second":1514187743,"execution_time":17,"id":1909069,"language":"Python3 (3.4.3)","length":90,"point":100.0,"problem_id":"abc070_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc071","epoch_second":1514269912,"execution_time":17,"id":1911449,"language":"Python3 (3.4.3)","length":110,"point":100.0,"problem_id":"abc071_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc072","epoch_second":1514270054,"execution_time":17,"id":1911454,"language":"Python3 (3.4.3)","length":93,"point":100.0,"problem_id":"abc072_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc073","epoch_second":1514270186,"execution_time":18,"id":1911460,"language":"Python3 (3.4.3)","length":69,"point":100.0,"problem_id":"abc073_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc074","epoch_second":1514270310,"execution_time":17,"id":1911467,"language":"Python3 (3.4.3)","length":52,"point":100.0,"problem_id":"abc074_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc075","epoch_second":1514270776,"execution_time":17,"id":1911487,"language":"Python3 (3.4.3)","length":105,"point":100.0,"problem_id":"abc075_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc076","epoch_second":1514271240,"execution_time":17,"id":1911502,"language":"Python3 (3.4.3)","length":52,"point":100.0,"problem_id":"abc076_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc077","epoch_second":1514271472,"execution_time":17,"id":1911512,"language":"Python3 (3.4.3)","length":120,"point":100.0,"problem_id":"abc077_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc078","epoch_second":1514271769,"execution_time":17,"id":1911527,"language":"Python3 (3.4.3)","length":176,"point":100.0,"problem_id":"abc078_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc079","epoch_second":1514272423,"execution_time":17,"id":1911548,"language":"Python3 (3.4.3)","length":205,"point":100.0,"problem_id":"abc079_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc080","epoch_second":1514272591,"execution_time":18,"id":1911556,"language":"Python3 (3.4.3)","length":103,"point":100.0,"problem_id":"abc080_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc081","epoch_second":1514349387,"execution_time":17,"id":1913812,"language":"Python3 (3.4.3)","length":38,"point":100.0,"problem_id":"abc081_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc082","epoch_second":1514349571,"execution_time":18,"id":1913815,"language":"Python3 (3.4.3)","length":72,"point":0.0,"problem_id":"abc082_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc082","epoch_second":1514350002,"execution_time":17,"id":1913827,"language":"Python3 (3.4.3)","length":86,"point":100.0,"problem_id":"abc082_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc083","epoch_second":1514350211,"execution_time":17,"id":1913832,"language":"Python3 (3.4.3)","length":161,"point":100.0,"problem_id":"abc083_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1514434794,"execution_time":17,"id":1916339,"language":"Python3 (3.4.3)","length":129,"point":0.0,"problem_id":"abc002_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1514435149,"execution_time":18,"id":1916345,"language":"Python3 (3.4.3)","length":131,"point":0.0,"problem_id":"abc002_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1514435530,"execution_time":17,"id":1916354,"language":"Python3 (3.4.3)","length":105,"point":100.0,"problem_id":"abc002_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1514451103,"execution_time":18,"id":1916884,"language":"Python3 (3.4.3)","length":482,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1515050019,"execution_time":18,"id":1939495,"language":"Python3 (3.4.3)","length":516,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1515050389,"execution_time":17,"id":1939516,"language":"Python3 (3.4.3)","length":631,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1515050446,"execution_time":18,"id":1939520,"language":"Python3 (3.4.3)","length":630,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1515050638,"execution_time":20,"id":1939529,"language":"Python3 (3.4.3)","length":654,"point":0.0,"problem_id":"abc003_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1515050797,"execution_time":17,"id":1939535,"language":"Python3 (3.4.3)","length":652,"point":100.0,"problem_id":"abc003_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1515051788,"execution_time":17,"id":1939577,"language":"Python3 (3.4.3)","length":156,"point":100.0,"problem_id":"abc004_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1515132106,"execution_time":18,"id":1941514,"language":"Python3 (3.4.3)","length":110,"point":0.0,"problem_id":"abc005_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1515132162,"execution_time":18,"id":1941519,"language":"Python3 (3.4.3)","length":110,"point":0.0,"problem_id":"abc005_2","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1515132367,"execution_time":18,"id":1941523,"language":"Python3 (3.4.3)","length":85,"point":100.0,"problem_id":"abc005_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1515133754,"execution_time":"","id":1941566,"language":"Python3 (3.4.3)","length":225,"point":0.0,"problem_id":"abc006_2","result":"TLE","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1515134126,"execution_time":"","id":1941576,"language":"Python3 (3.4.3)","length":255,"point":0.0,"problem_id":"abc006_2","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1515140076,"execution_time":443,"id":1941785,"language":"Python3 (3.4.3)","length":161,"point":100.0,"problem_id":"abc006_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1516004811,"execution_time":17,"id":1982461,"language":"Python3 (3.4.3)","length":69,"point":100.0,"problem_id":"abc007_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1516005541,"execution_time":20,"id":1982490,"language":"Python3 (3.4.3)","length":180,"point":100.0,"problem_id":"abc008_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1516006257,"execution_time":17,"id":1982539,"language":"Python3 (3.4.3)","length":128,"point":100.0,"problem_id":"abc009_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1525652461,"execution_time":18,"id":2474960,"language":"Python3 (3.4.3)","length":248,"point":100.0,"problem_id":"abc010_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1525746294,"execution_time":17,"id":2478890,"language":"Python3 (3.4.3)","length":34,"point":100.0,"problem_id":"abc011_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1525750208,"execution_time":17,"id":2479063,"language":"Python3 (3.4.3)","length":191,"point":100.0,"problem_id":"abc012_2","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534123172,"execution_time":1,"id":3000693,"language":"C (GCC 5.4.1)","length":102,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534123533,"execution_time":1,"id":3000715,"language":"C++ (GCC 5.4.1)","length":154,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534124267,"execution_time":21,"id":3000753,"language":"C# (Mono 4.6.2.0)","length":168,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534124422,"execution_time":93,"id":3000762,"language":"Java8 (OpenJDK 1.8.0)","length":204,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534124646,"execution_time":52,"id":3000781,"language":"JavaScript (node.js v5.12)","length":123,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534125337,"execution_time":2,"id":3000816,"language":"Bash (GNU bash v4.3.11)","length":49,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534125599,"execution_time":2,"id":3000836,"language":"Perl (v5.18.2)","length":78,"point":0.0,"problem_id":"abc023_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534125688,"execution_time":"","id":3000844,"language":"Perl (v5.18.2)","length":80,"point":0.0,"problem_id":"abc023_a","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534125763,"execution_time":2,"id":3000849,"language":"Perl (v5.18.2)","length":83,"point":0.0,"problem_id":"abc023_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534125909,"execution_time":2,"id":3000856,"language":"Perl (v5.18.2)","length":104,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534126166,"execution_time":9,"id":3000864,"language":"PHP (5.6.30)","length":78,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534126356,"execution_time":7,"id":3000871,"language":"Ruby (2.3.3)","length":38,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534126470,"execution_time":35,"id":3000879,"language":"Swift (swift-2.2-RELEASE)","length":56,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1534127828,"execution_time":15,"id":3000944,"language":"Common Lisp (SBCL 1.1.14)","length":101,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534221700,"execution_time":1,"id":3005776,"language":"C (GCC 5.4.1)","length":273,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534222880,"execution_time":2,"id":3005828,"language":"C++14 (GCC 5.4.1)","length":301,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534224169,"execution_time":20,"id":3005875,"language":"C# (Mono 4.6.2.0)","length":485,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534225257,"execution_time":105,"id":3005927,"language":"Java8 (OpenJDK 1.8.0)","length":617,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534225352,"execution_time":92,"id":3005932,"language":"Java8 (OpenJDK 1.8.0)","length":617,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534231239,"execution_time":53,"id":3006369,"language":"JavaScript (node.js v5.12)","length":374,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534233418,"execution_time":2,"id":3006532,"language":"Bash (GNU bash v4.3.11)","length":208,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534233465,"execution_time":2,"id":3006536,"language":"Bash (GNU bash v4.3.11)","length":208,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534237154,"execution_time":2,"id":3006801,"language":"Perl (v5.18.2)","length":313,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534237437,"execution_time":14,"id":3006822,"language":"PHP (5.6.30)","length":314,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534294327,"execution_time":7,"id":3009589,"language":"Ruby (2.3.3)","length":214,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534296178,"execution_time":36,"id":3009693,"language":"Swift (swift-2.2-RELEASE)","length":333,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1534298992,"execution_time":13,"id":3009884,"language":"Common Lisp (SBCL 1.1.14)","length":249,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534387920,"execution_time":1,"id":3014518,"language":"C (GCC 5.4.1)","length":174,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534388299,"execution_time":2,"id":3014533,"language":"C (GCC 5.4.1)","length":231,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534392981,"execution_time":1,"id":3014787,"language":"C++14 (GCC 5.4.1)","length":271,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534409118,"execution_time":20,"id":3016011,"language":"C# (Mono 4.6.2.0)","length":400,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534409694,"execution_time":91,"id":3016053,"language":"Java8 (OpenJDK 1.8.0)","length":512,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534479648,"execution_time":51,"id":3019429,"language":"JavaScript (node.js v5.12)","length":312,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534751277,"execution_time":2,"id":3048334,"language":"Bash (GNU bash v4.3.11)","length":113,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534751466,"execution_time":2,"id":3048354,"language":"Bash (GNU bash v4.3.11)","length":160,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534751866,"execution_time":2,"id":3048387,"language":"Bash (GNU bash v4.3.11)","length":171,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534751901,"execution_time":3,"id":3048391,"language":"Bash (GNU bash v4.3.11)","length":162,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534752112,"execution_time":2,"id":3048415,"language":"Bash (GNU bash v4.3.11)","length":133,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534816058,"execution_time":2,"id":3051592,"language":"Perl (v5.18.2)","length":228,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534817322,"execution_time":12,"id":3051663,"language":"PHP (5.6.30)","length":229,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534817588,"execution_time":9,"id":3051678,"language":"Ruby (2.3.3)","length":134,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534819227,"execution_time":4,"id":3051766,"language":"Swift (swift-2.2-RELEASE)","length":221,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc025","epoch_second":1534831479,"execution_time":20,"id":3052251,"language":"Common Lisp (SBCL 1.1.14)","length":252,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904172,"execution_time":1,"id":3055649,"language":"C (GCC 5.4.1)","length":111,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904303,"execution_time":1,"id":3055661,"language":"C++14 (GCC 5.4.1)","length":150,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904437,"execution_time":21,"id":3055670,"language":"C# (Mono 4.6.2.0)","length":186,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904535,"execution_time":93,"id":3055675,"language":"Java8 (OpenJDK 1.8.0)","length":238,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904750,"execution_time":232,"id":3055692,"language":"JavaScript (node.js v5.12)","length":126,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904824,"execution_time":2,"id":3055695,"language":"Bash (GNU bash v4.3.11)","length":46,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534904948,"execution_time":3,"id":3055705,"language":"Perl (v5.18.2)","length":73,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534905055,"execution_time":9,"id":3055709,"language":"PHP (5.6.30)","length":66,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534905140,"execution_time":7,"id":3055713,"language":"Ruby (2.3.3)","length":42,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534905243,"execution_time":31,"id":3055718,"language":"Swift (swift-2.2-RELEASE)","length":54,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc026","epoch_second":1534905364,"execution_time":68,"id":3055725,"language":"Common Lisp (SBCL 1.1.14)","length":89,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1535613713,"execution_time":1,"id":3102498,"language":"C (GCC 5.4.1)","length":281,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1535614042,"execution_time":1,"id":3102541,"language":"C++ (GCC 5.4.1)","length":337,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1535692077,"execution_time":21,"id":3106244,"language":"C# (Mono 4.6.2.0)","length":430,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1535692933,"execution_time":95,"id":3106326,"language":"Java8 (OpenJDK 1.8.0)","length":702,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537429813,"execution_time":52,"id":3229635,"language":"JavaScript (node.js v5.12)","length":341,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537430716,"execution_time":51,"id":3229729,"language":"JavaScript (node.js v5.12)","length":356,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537431471,"execution_time":2,"id":3229791,"language":"Bash (GNU bash v4.3.11)","length":219,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537432114,"execution_time":3,"id":3229845,"language":"Perl (v5.18.2)","length":280,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537432257,"execution_time":3,"id":3229870,"language":"Perl (v5.18.2)","length":287,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537432319,"execution_time":3,"id":3229872,"language":"Perl (v5.18.2)","length":310,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537432415,"execution_time":3,"id":3229886,"language":"Perl (v5.18.2)","length":287,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537432611,"execution_time":2,"id":3229911,"language":"Perl (v5.18.2)","length":275,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537433653,"execution_time":13,"id":3229992,"language":"PHP (5.6.30)","length":281,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc027","epoch_second":1537434172,"execution_time":7,"id":3230044,"language":"Ruby (2.3.3)","length":232,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1542271983,"execution_time":1,"id":3603223,"language":"Go (1.6)","length":402,"point":0.0,"problem_id":"abc001_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc001","epoch_second":1542272056,"execution_time":3,"id":3603231,"language":"Go (1.6)","length":404,"point":100.0,"problem_id":"abc001_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc002","epoch_second":1542347378,"execution_time":1,"id":3606822,"language":"Go (1.6)","length":475,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc003","epoch_second":1542348868,"execution_time":1,"id":3606915,"language":"Go (1.6)","length":431,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc004","epoch_second":1542349113,"execution_time":1,"id":3606933,"language":"Go (1.6)","length":369,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc005","epoch_second":1542349816,"execution_time":1,"id":3606990,"language":"Go (1.6)","length":422,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc006","epoch_second":1542350606,"execution_time":1,"id":3607039,"language":"Go (1.6)","length":421,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc007","epoch_second":1542350834,"execution_time":1,"id":3607063,"language":"Go (1.6)","length":343,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc008","epoch_second":1542351124,"execution_time":1,"id":3607084,"language":"Go (1.6)","length":428,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc009","epoch_second":1542351394,"execution_time":1,"id":3607107,"language":"Go (1.6)","length":420,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc010","epoch_second":1542351626,"execution_time":1,"id":3607119,"language":"Go (1.6)","length":320,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc011","epoch_second":1542790431,"execution_time":2,"id":3635401,"language":"Go (1.6)","length":406,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1542790971,"execution_time":1,"id":3635439,"language":"Go (1.6)","length":332,"point":0.0,"problem_id":"abc012_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc012","epoch_second":1543995270,"execution_time":1,"id":3721115,"language":"Go (1.6)","length":360,"point":100.0,"problem_id":"abc012_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc013","epoch_second":1543995916,"execution_time":1,"id":3721171,"language":"Go (1.6)","length":421,"point":100.0,"problem_id":"abc013_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc014","epoch_second":1543996391,"execution_time":1,"id":3721214,"language":"Go (1.6)","length":456,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc015","epoch_second":1544059869,"execution_time":1,"id":3724679,"language":"Go (1.6)","length":393,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc016","epoch_second":1544060957,"execution_time":3,"id":3724724,"language":"Go (1.6)","length":484,"point":100.0,"problem_id":"abc016_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1544063244,"execution_time":"","id":3724844,"language":"Go (1.6)","length":508,"point":0.0,"problem_id":"abc017_1","result":"RE","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1544064134,"execution_time":1,"id":3724888,"language":"Go (1.6)","length":342,"point":0.0,"problem_id":"abc017_1","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc017","epoch_second":1544064752,"execution_time":1,"id":3724916,"language":"Go (1.6)","length":466,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc018","epoch_second":1544076146,"execution_time":1,"id":3725579,"language":"Go (1.6)","length":641,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc019","epoch_second":1544077532,"execution_time":1,"id":3725648,"language":"Go (1.6)","length":527,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc020","epoch_second":1544077927,"execution_time":1,"id":3725672,"language":"Go (1.6)","length":347,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1544083416,"execution_time":1,"id":3726171,"language":"Go (1.6)","length":431,"point":0.0,"problem_id":"abc021_a","result":"WA","user_id":"ssaaa"}
+,{"contest_id":"abc021","epoch_second":1544084055,"execution_time":1,"id":3726276,"language":"Go (1.6)","length":582,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc022","epoch_second":1544162957,"execution_time":1,"id":3731006,"language":"Go (1.6)","length":655,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc023","epoch_second":1544163475,"execution_time":1,"id":3731043,"language":"Go (1.6)","length":413,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"ssaaa"}
+,{"contest_id":"abc024","epoch_second":1544164872,"execution_time":1,"id":3731154,"language":"Go (1.6)","length":582,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"ssaaa"}
 ]

@@ -1,130 +1,152 @@
-[{"contest_id":"abc048","epoch_second":1481474858,"execution_time":"","id":1022373,"language":"C++14 (GCC 5.4.1)","length":1160,"point":0,"problem_id":"arc064_a","result":"TLE","user_id":"sumi"}
-,{"contest_id":"abc048","epoch_second":1481475665,"execution_time":15,"id":1022381,"language":"C++14 (GCC 5.4.1)","length":684,"point":0,"problem_id":"arc064_a","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc048","epoch_second":1481476395,"execution_time":15,"id":1022386,"language":"C++14 (GCC 5.4.1)","length":668,"point":0,"problem_id":"arc064_a","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc048","epoch_second":1481477139,"execution_time":125,"id":1022390,"language":"Python2 (2.7.6)","length":351,"point":300,"problem_id":"arc064_a","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488636570,"execution_time":1,"id":1143119,"language":"C++14 (GCC 5.4.1)","length":388,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488636833,"execution_time":"","id":1143144,"language":"C++14 (GCC 5.4.1)","length":414,"point":0,"problem_id":"arc001_1","result":"CE","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488636860,"execution_time":1,"id":1143150,"language":"C++14 (GCC 5.4.1)","length":400,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488637321,"execution_time":1,"id":1143186,"language":"C++14 (Clang 3.8.0)","length":380,"point":0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488637411,"execution_time":7,"id":1143193,"language":"C++14 (Clang 3.8.0)","length":309,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488637515,"execution_time":1,"id":1143202,"language":"C++14 (Clang 3.8.0)","length":385,"point":100,"problem_id":"arc001_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488638421,"execution_time":1,"id":1143250,"language":"C++14 (Clang 3.8.0)","length":345,"point":100,"problem_id":"arc001_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488694487,"execution_time":7,"id":1143910,"language":"C++14 (Clang 3.8.0)","length":3993,"point":0,"problem_id":"arc001_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488694698,"execution_time":7,"id":1143912,"language":"C++14 (Clang 3.8.0)","length":4356,"point":100,"problem_id":"arc001_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488712957,"execution_time":2103,"id":1144238,"language":"C++14 (Clang 3.8.0)","length":4640,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc001","epoch_second":1488713342,"execution_time":2103,"id":1144247,"language":"C++14 (Clang 3.8.0)","length":4679,"point":0,"problem_id":"arc001_4","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc002","epoch_second":1489165365,"execution_time":2,"id":1154087,"language":"Rust (1.15.1)","length":321,"point":100,"problem_id":"arc002_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc002","epoch_second":1489167296,"execution_time":45,"id":1154111,"language":"Python3 (3.4.3)","length":237,"point":100,"problem_id":"arc002_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc002","epoch_second":1489169473,"execution_time":29,"id":1154128,"language":"C# (Mono 4.6.2.0)","length":1205,"point":100,"problem_id":"arc002_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc003","epoch_second":1489310158,"execution_time":"","id":1155998,"language":"C++14 (GCC 5.4.1)","length":243,"point":0,"problem_id":"arc003_1","result":"CE","user_id":"sumi"}
-,{"contest_id":"arc003","epoch_second":1489311580,"execution_time":2,"id":1156012,"language":"Haskell (GHC 7.10.3)","length":164,"point":100,"problem_id":"arc003_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489314305,"execution_time":3,"id":1156042,"language":"Haskell (GHC 7.10.3)","length":376,"point":100,"problem_id":"arc004_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489315127,"execution_time":4,"id":1156050,"language":"Haskell (GHC 7.10.3)","length":228,"point":100,"problem_id":"arc004_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489410316,"execution_time":"","id":1160645,"language":"D (DMD64 v2.070.1)","length":644,"point":0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489410541,"execution_time":"","id":1160647,"language":"D (DMD64 v2.070.1)","length":664,"point":0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489411695,"execution_time":"","id":1160677,"language":"D (DMD64 v2.070.1)","length":702,"point":0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489411952,"execution_time":"","id":1160682,"language":"D (DMD64 v2.070.1)","length":689,"point":0,"problem_id":"arc004_1","result":"RE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489411979,"execution_time":1,"id":1160686,"language":"D (DMD64 v2.070.1)","length":689,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489413907,"execution_time":"","id":1160754,"language":"D (DMD64 v2.070.1)","length":703,"point":0,"problem_id":"arc004_3","result":"CE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489413938,"execution_time":1,"id":1160757,"language":"D (DMD64 v2.070.1)","length":804,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489414536,"execution_time":1,"id":1160773,"language":"D (DMD64 v2.070.1)","length":950,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489414665,"execution_time":1,"id":1160777,"language":"D (DMD64 v2.070.1)","length":954,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489416104,"execution_time":18,"id":1160820,"language":"Python3 (3.4.3)","length":453,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489416634,"execution_time":17,"id":1160830,"language":"Python3 (3.4.3)","length":281,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489416847,"execution_time":18,"id":1160832,"language":"Python3 (3.4.3)","length":291,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489417490,"execution_time":17,"id":1160849,"language":"Python3 (3.4.3)","length":248,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489417659,"execution_time":18,"id":1160856,"language":"Python3 (3.4.3)","length":260,"point":0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489417773,"execution_time":11,"id":1160862,"language":"Python2 (2.7.6)","length":254,"point":100,"problem_id":"arc004_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420126,"execution_time":"","id":1160890,"language":"PyPy2 (5.6.0)","length":589,"point":0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420145,"execution_time":"","id":1160891,"language":"PyPy2 (5.6.0)","length":589,"point":0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420158,"execution_time":"","id":1160892,"language":"PyPy2 (5.6.0)","length":589,"point":0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420187,"execution_time":"","id":1160893,"language":"Python2 (2.7.6)","length":589,"point":0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420697,"execution_time":"","id":1160903,"language":"Python2 (2.7.6)","length":519,"point":0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420766,"execution_time":17,"id":1160905,"language":"Python2 (2.7.6)","length":459,"point":100,"problem_id":"arc004_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc004","epoch_second":1489420889,"execution_time":18,"id":1160907,"language":"Python2 (2.7.6)","length":542,"point":100,"problem_id":"arc004_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc005","epoch_second":1489828956,"execution_time":1,"id":1166175,"language":"C++14 (GCC 5.4.1)","length":696,"point":100,"problem_id":"arc005_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc006","epoch_second":1489840962,"execution_time":2,"id":1168609,"language":"Haskell (GHC 7.10.3)","length":666,"point":100,"problem_id":"arc006_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc006","epoch_second":1489843863,"execution_time":1,"id":1170311,"language":"Haskell (GHC 7.10.3)","length":520,"point":100,"problem_id":"arc006_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc006","epoch_second":1489855823,"execution_time":1,"id":1171528,"language":"D (DMD64 v2.070.1)","length":420,"point":100,"problem_id":"arc006_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc007","epoch_second":1489941306,"execution_time":2,"id":1172783,"language":"Haskell (GHC 7.10.3)","length":200,"point":100,"problem_id":"arc007_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc007","epoch_second":1489944017,"execution_time":1,"id":1172834,"language":"D (DMD64 v2.070.1)","length":477,"point":100,"problem_id":"arc007_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc007","epoch_second":1490193308,"execution_time":2,"id":1176740,"language":"Haskell (GHC 7.10.3)","length":856,"point":0,"problem_id":"arc007_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc007","epoch_second":1490242929,"execution_time":1653,"id":1177141,"language":"Haskell (GHC 7.10.3)","length":826,"point":100,"problem_id":"arc007_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc007","epoch_second":1490243628,"execution_time":1629,"id":1177145,"language":"Haskell (GHC 7.10.3)","length":808,"point":100,"problem_id":"arc007_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc008","epoch_second":1490247957,"execution_time":2,"id":1177170,"language":"Haskell (GHC 7.10.3)","length":104,"point":100,"problem_id":"arc008_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc008","epoch_second":1490357946,"execution_time":"","id":1178334,"language":"Haskell (GHC 7.10.3)","length":634,"point":0,"problem_id":"arc008_2","result":"CE","user_id":"sumi"}
-,{"contest_id":"arc008","epoch_second":1490358010,"execution_time":1,"id":1178337,"language":"D (DMD64 v2.070.1)","length":634,"point":0,"problem_id":"arc008_2","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc008","epoch_second":1490358208,"execution_time":1,"id":1178343,"language":"D (DMD64 v2.070.1)","length":643,"point":0,"problem_id":"arc008_2","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc008","epoch_second":1490358792,"execution_time":1,"id":1178353,"language":"D (DMD64 v2.070.1)","length":640,"point":100,"problem_id":"arc008_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc009","epoch_second":1490423884,"execution_time":2,"id":1179167,"language":"Haskell (GHC 7.10.3)","length":236,"point":100,"problem_id":"arc009_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc009","epoch_second":1490595972,"execution_time":2106,"id":1185971,"language":"Haskell (GHC 7.10.3)","length":883,"point":40,"problem_id":"arc009_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc009","epoch_second":1490598363,"execution_time":"","id":1186066,"language":"Haskell (GHC 7.10.3)","length":823,"point":40,"problem_id":"arc009_3","result":"MLE","user_id":"sumi"}
-,{"contest_id":"arc010","epoch_second":1490620440,"execution_time":2,"id":1186862,"language":"Haskell (GHC 7.10.3)","length":489,"point":100,"problem_id":"arc010_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc010","epoch_second":1490798709,"execution_time":2,"id":1190542,"language":"Haskell (GHC 7.10.3)","length":805,"point":0,"problem_id":"arc010_2","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc012","epoch_second":1490985831,"execution_time":2,"id":1193304,"language":"Haskell (GHC 7.10.3)","length":399,"point":100,"problem_id":"arc012_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc012","epoch_second":1490986184,"execution_time":2,"id":1193305,"language":"Haskell (GHC 7.10.3)","length":316,"point":100,"problem_id":"arc012_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc013","epoch_second":1491151576,"execution_time":2,"id":1200072,"language":"Haskell (GHC 7.10.3)","length":379,"point":100,"problem_id":"arc013_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc013","epoch_second":1491152980,"execution_time":3,"id":1200081,"language":"Haskell (GHC 7.10.3)","length":496,"point":100,"problem_id":"arc013_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc015","epoch_second":1491652277,"execution_time":57,"id":1207302,"language":"Haskell (GHC 7.10.3)","length":955,"point":100,"problem_id":"arc015_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc001","epoch_second":1491656426,"execution_time":2,"id":1210041,"language":"Haskell (GHC 7.10.3)","length":286,"point":100,"problem_id":"abc001_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc001","epoch_second":1491657766,"execution_time":1,"id":1210528,"language":"Haskell (GHC 7.10.3)","length":812,"point":100,"problem_id":"abc001_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc001","epoch_second":1491659708,"execution_time":407,"id":1211171,"language":"Haskell (GHC 7.10.3)","length":645,"point":0,"problem_id":"abc001_4","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc001","epoch_second":1491660137,"execution_time":443,"id":1211248,"language":"Haskell (GHC 7.10.3)","length":729,"point":100,"problem_id":"abc001_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc002","epoch_second":1491660528,"execution_time":1,"id":1211307,"language":"Haskell (GHC 7.10.3)","length":131,"point":100,"problem_id":"abc002_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc002","epoch_second":1491660723,"execution_time":2,"id":1211339,"language":"Haskell (GHC 7.10.3)","length":98,"point":100,"problem_id":"abc002_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc002","epoch_second":1491662530,"execution_time":44,"id":1211522,"language":"Haskell (GHC 7.10.3)","length":313,"point":100,"problem_id":"abc002_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"agc012","epoch_second":1491757371,"execution_time":"","id":1214776,"language":"Haskell (GHC 7.10.3)","length":240,"point":0,"problem_id":"agc012_a","result":"TLE","user_id":"sumi"}
-,{"contest_id":"agc012","epoch_second":1491757885,"execution_time":1966,"id":1214784,"language":"Haskell (GHC 7.10.3)","length":267,"point":300,"problem_id":"agc012_a","result":"AC","user_id":"sumi"}
-,{"contest_id":"agc012","epoch_second":1491758519,"execution_time":"","id":1214788,"language":"Haskell (GHC 7.10.3)","length":189,"point":0,"problem_id":"agc012_a","result":"TLE","user_id":"sumi"}
-,{"contest_id":"agc012","epoch_second":1491758773,"execution_time":1974,"id":1214792,"language":"Haskell (GHC 7.10.3)","length":212,"point":300,"problem_id":"agc012_a","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc016","epoch_second":1492014940,"execution_time":2,"id":1218214,"language":"Haskell (GHC 7.10.3)","length":91,"point":100,"problem_id":"arc016_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc016","epoch_second":1492015740,"execution_time":2,"id":1218220,"language":"Haskell (GHC 7.10.3)","length":332,"point":100,"problem_id":"arc016_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc003","epoch_second":1492265110,"execution_time":2,"id":1223897,"language":"Haskell (GHC 7.10.3)","length":393,"point":100,"problem_id":"abc003_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc003","epoch_second":1492697420,"execution_time":"","id":1230660,"language":"Haskell (GHC 7.10.3)","length":961,"point":0,"problem_id":"abc003_4","result":"RE","user_id":"sumi"}
-,{"contest_id":"abc003","epoch_second":1492697984,"execution_time":3,"id":1230668,"language":"Haskell (GHC 7.10.3)","length":985,"point":101,"problem_id":"abc003_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc017","epoch_second":1492698493,"execution_time":"","id":1230674,"language":"Haskell (GHC 7.10.3)","length":331,"point":0,"problem_id":"arc017_1","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc017","epoch_second":1492699039,"execution_time":42,"id":1230691,"language":"Haskell (GHC 7.10.3)","length":333,"point":100,"problem_id":"arc017_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc017","epoch_second":1492704944,"execution_time":1719,"id":1230755,"language":"Haskell (GHC 7.10.3)","length":398,"point":100,"problem_id":"arc017_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc004","epoch_second":1492705545,"execution_time":1,"id":1230761,"language":"Haskell (GHC 7.10.3)","length":39,"point":100,"problem_id":"abc004_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc004","epoch_second":1492706238,"execution_time":1,"id":1230768,"language":"Haskell (GHC 7.10.3)","length":201,"point":100,"problem_id":"abc004_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc004","epoch_second":1493537312,"execution_time":1,"id":1255232,"language":"D (DMD64 v2.070.1)","length":347,"point":100,"problem_id":"abc004_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc004","epoch_second":1493544226,"execution_time":16,"id":1255445,"language":"Haskell (GHC 7.10.3)","length":354,"point":100,"problem_id":"abc004_4","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc018","epoch_second":1493550676,"execution_time":2,"id":1255572,"language":"Haskell (GHC 7.10.3)","length":111,"point":100,"problem_id":"arc018_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc018","epoch_second":1493551420,"execution_time":261,"id":1255588,"language":"Haskell (GHC 7.10.3)","length":291,"point":100,"problem_id":"arc018_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc019","epoch_second":1493552805,"execution_time":1,"id":1255614,"language":"C++14 (GCC 5.4.1)","length":537,"point":100,"problem_id":"arc019_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc019","epoch_second":1493553679,"execution_time":11,"id":1255642,"language":"C++14 (GCC 5.4.1)","length":422,"point":100,"problem_id":"arc019_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc005","epoch_second":1493553845,"execution_time":1,"id":1255648,"language":"Haskell (GHC 7.10.3)","length":99,"point":100,"problem_id":"abc005_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc005","epoch_second":1493554092,"execution_time":2,"id":1255654,"language":"Haskell (GHC 7.10.3)","length":205,"point":100,"problem_id":"abc005_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc005","epoch_second":1493624492,"execution_time":2,"id":1256626,"language":"Haskell (GHC 7.10.3)","length":381,"point":100,"problem_id":"abc005_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc020","epoch_second":1494167069,"execution_time":1,"id":1269649,"language":"Haskell (GHC 7.10.3)","length":270,"point":100,"problem_id":"arc020_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc020","epoch_second":1494176656,"execution_time":2,"id":1269727,"language":"Haskell (GHC 7.10.3)","length":481,"point":100,"problem_id":"arc020_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc006","epoch_second":1494939878,"execution_time":2,"id":1290930,"language":"Haskell (GHC 7.10.3)","length":129,"point":100,"problem_id":"abc006_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc006","epoch_second":1494940559,"execution_time":377,"id":1290949,"language":"Haskell (GHC 7.10.3)","length":186,"point":100,"problem_id":"abc006_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc006","epoch_second":1494941190,"execution_time":2,"id":1290962,"language":"Haskell (GHC 7.10.3)","length":310,"point":0,"problem_id":"abc006_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc006","epoch_second":1494941273,"execution_time":2,"id":1290967,"language":"Haskell (GHC 7.10.3)","length":313,"point":100,"problem_id":"abc006_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc021","epoch_second":1495793857,"execution_time":2,"id":1307613,"language":"Haskell (GHC 7.10.3)","length":513,"point":100,"problem_id":"arc021_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc021","epoch_second":1495800351,"execution_time":692,"id":1307720,"language":"Haskell (GHC 7.10.3)","length":361,"point":100,"problem_id":"arc021_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc021","epoch_second":1495802601,"execution_time":"","id":1307759,"language":"Haskell (GHC 7.10.3)","length":372,"point":40,"problem_id":"arc021_3","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc021","epoch_second":1495806610,"execution_time":949,"id":1307840,"language":"Haskell (GHC 7.10.3)","length":954,"point":55,"problem_id":"arc021_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc021","epoch_second":1495806866,"execution_time":920,"id":1307845,"language":"Haskell (GHC 7.10.3)","length":956,"point":100,"problem_id":"arc021_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc007","epoch_second":1495808726,"execution_time":73,"id":1307863,"language":"Haskell (GHC 7.10.3)","length":660,"point":100,"problem_id":"abc007_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495881206,"execution_time":1,"id":1308544,"language":"Haskell (GHC 7.10.3)","length":234,"point":100,"problem_id":"arc022_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495885801,"execution_time":572,"id":1309378,"language":"Haskell (GHC 7.10.3)","length":522,"point":100,"problem_id":"arc022_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495888161,"execution_time":"","id":1311877,"language":"Haskell (GHC 7.10.3)","length":932,"point":40,"problem_id":"arc022_3","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495889851,"execution_time":2122,"id":1313141,"language":"Haskell (GHC 7.10.3)","length":507,"point":0,"problem_id":"arc022_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495889953,"execution_time":"","id":1313250,"language":"Haskell (GHC 7.10.3)","length":492,"point":0,"problem_id":"arc022_3","result":"TLE","user_id":"sumi"}
-,{"contest_id":"arc022","epoch_second":1495891055,"execution_time":2118,"id":1313635,"language":"Haskell (GHC 7.10.3)","length":556,"point":0,"problem_id":"arc022_3","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc008","epoch_second":1495893087,"execution_time":1,"id":1314207,"language":"Haskell (GHC 7.10.3)","length":151,"point":100,"problem_id":"abc008_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc008","epoch_second":1495893469,"execution_time":2,"id":1314276,"language":"Haskell (GHC 7.10.3)","length":207,"point":0,"problem_id":"abc008_2","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc008","epoch_second":1495894935,"execution_time":3,"id":1314478,"language":"Haskell (GHC 7.10.3)","length":305,"point":100,"problem_id":"abc008_3","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc009","epoch_second":1495895115,"execution_time":1,"id":1314498,"language":"Haskell (GHC 7.10.3)","length":119,"point":100,"problem_id":"abc009_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc009","epoch_second":1495895307,"execution_time":2,"id":1314507,"language":"Haskell (GHC 7.10.3)","length":229,"point":100,"problem_id":"abc009_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc010","epoch_second":1495895862,"execution_time":2,"id":1314539,"language":"Haskell (GHC 7.10.3)","length":73,"point":100,"problem_id":"abc010_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc010","epoch_second":1495896243,"execution_time":1,"id":1314563,"language":"Haskell (GHC 7.10.3)","length":286,"point":100,"problem_id":"abc010_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1495965552,"execution_time":"","id":1315828,"language":"Haskell (GHC 7.10.3)","length":78,"point":0,"problem_id":"abc011_1","result":"CE","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1495965568,"execution_time":"","id":1315830,"language":"Haskell (GHC 7.10.3)","length":75,"point":0,"problem_id":"abc011_1","result":"CE","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1495965587,"execution_time":2,"id":1315831,"language":"Haskell (GHC 7.10.3)","length":74,"point":0,"problem_id":"abc011_1","result":"WA","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1496064737,"execution_time":1,"id":1317279,"language":"Haskell (GHC 7.10.3)","length":111,"point":100,"problem_id":"abc011_2","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1496064880,"execution_time":2,"id":1317281,"language":"Haskell (GHC 7.10.3)","length":115,"point":100,"problem_id":"abc011_1","result":"AC","user_id":"sumi"}
-,{"contest_id":"abc011","epoch_second":1496067012,"execution_time":2,"id":1317335,"language":"Haskell (GHC 7.10.3)","length":404,"point":100,"problem_id":"abc011_3","result":"AC","user_id":"sumi"}
+[{"contest_id":"abc048","epoch_second":1481474858,"execution_time":"","id":1022373,"language":"C++14 (GCC 5.4.1)","length":1160,"point":0.0,"problem_id":"arc064_a","result":"TLE","user_id":"sumi"}
+,{"contest_id":"abc048","epoch_second":1481475665,"execution_time":15,"id":1022381,"language":"C++14 (GCC 5.4.1)","length":684,"point":0.0,"problem_id":"arc064_a","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc048","epoch_second":1481476395,"execution_time":15,"id":1022386,"language":"C++14 (GCC 5.4.1)","length":668,"point":0.0,"problem_id":"arc064_a","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc048","epoch_second":1481477139,"execution_time":125,"id":1022390,"language":"Python2 (2.7.6)","length":351,"point":300.0,"problem_id":"arc064_a","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488636570,"execution_time":1,"id":1143119,"language":"C++14 (GCC 5.4.1)","length":388,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488636833,"execution_time":"","id":1143144,"language":"C++14 (GCC 5.4.1)","length":414,"point":0.0,"problem_id":"arc001_1","result":"CE","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488636860,"execution_time":1,"id":1143150,"language":"C++14 (GCC 5.4.1)","length":400,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488637321,"execution_time":1,"id":1143186,"language":"C++14 (Clang 3.8.0)","length":380,"point":0.0,"problem_id":"arc001_1","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488637411,"execution_time":7,"id":1143193,"language":"C++14 (Clang 3.8.0)","length":309,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488637515,"execution_time":1,"id":1143202,"language":"C++14 (Clang 3.8.0)","length":385,"point":100.0,"problem_id":"arc001_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488638421,"execution_time":1,"id":1143250,"language":"C++14 (Clang 3.8.0)","length":345,"point":100.0,"problem_id":"arc001_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488694487,"execution_time":7,"id":1143910,"language":"C++14 (Clang 3.8.0)","length":3993,"point":0.0,"problem_id":"arc001_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488694698,"execution_time":7,"id":1143912,"language":"C++14 (Clang 3.8.0)","length":4356,"point":100.0,"problem_id":"arc001_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488712957,"execution_time":2103,"id":1144238,"language":"C++14 (Clang 3.8.0)","length":4640,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc001","epoch_second":1488713342,"execution_time":2103,"id":1144247,"language":"C++14 (Clang 3.8.0)","length":4679,"point":0.0,"problem_id":"arc001_4","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc002","epoch_second":1489165365,"execution_time":2,"id":1154087,"language":"Rust (1.15.1)","length":321,"point":100.0,"problem_id":"arc002_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc002","epoch_second":1489167296,"execution_time":45,"id":1154111,"language":"Python3 (3.4.3)","length":237,"point":100.0,"problem_id":"arc002_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc002","epoch_second":1489169473,"execution_time":29,"id":1154128,"language":"C# (Mono 4.6.2.0)","length":1205,"point":100.0,"problem_id":"arc002_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc003","epoch_second":1489310158,"execution_time":"","id":1155998,"language":"C++14 (GCC 5.4.1)","length":243,"point":0.0,"problem_id":"arc003_1","result":"CE","user_id":"sumi"}
+,{"contest_id":"arc003","epoch_second":1489310187,"execution_time":2,"id":1155999,"language":"Haskell (GHC 7.10.3)","length":243,"point":100.0,"problem_id":"arc003_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc003","epoch_second":1489311580,"execution_time":2,"id":1156012,"language":"Haskell (GHC 7.10.3)","length":164,"point":100.0,"problem_id":"arc003_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489314305,"execution_time":3,"id":1156042,"language":"Haskell (GHC 7.10.3)","length":376,"point":100.0,"problem_id":"arc004_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489315127,"execution_time":4,"id":1156050,"language":"Haskell (GHC 7.10.3)","length":228,"point":100.0,"problem_id":"arc004_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489410316,"execution_time":"","id":1160645,"language":"D (DMD64 v2.070.1)","length":644,"point":0.0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489410541,"execution_time":"","id":1160647,"language":"D (DMD64 v2.070.1)","length":664,"point":0.0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489411695,"execution_time":"","id":1160677,"language":"D (DMD64 v2.070.1)","length":702,"point":0.0,"problem_id":"arc004_3","result":"RE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489411952,"execution_time":"","id":1160682,"language":"D (DMD64 v2.070.1)","length":689,"point":0.0,"problem_id":"arc004_1","result":"RE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489411979,"execution_time":1,"id":1160686,"language":"D (DMD64 v2.070.1)","length":689,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489413907,"execution_time":"","id":1160754,"language":"D (DMD64 v2.070.1)","length":703,"point":0.0,"problem_id":"arc004_3","result":"CE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489413938,"execution_time":1,"id":1160757,"language":"D (DMD64 v2.070.1)","length":804,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489414536,"execution_time":1,"id":1160773,"language":"D (DMD64 v2.070.1)","length":950,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489414665,"execution_time":1,"id":1160777,"language":"D (DMD64 v2.070.1)","length":954,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489416104,"execution_time":18,"id":1160820,"language":"Python3 (3.4.3)","length":453,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489416634,"execution_time":17,"id":1160830,"language":"Python3 (3.4.3)","length":281,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489416847,"execution_time":18,"id":1160832,"language":"Python3 (3.4.3)","length":291,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489417490,"execution_time":17,"id":1160849,"language":"Python3 (3.4.3)","length":248,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489417659,"execution_time":18,"id":1160856,"language":"Python3 (3.4.3)","length":260,"point":0.0,"problem_id":"arc004_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489417773,"execution_time":11,"id":1160862,"language":"Python2 (2.7.6)","length":254,"point":100.0,"problem_id":"arc004_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489419783,"execution_time":"","id":1160883,"language":"Python2 (2.7.6)","length":563,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420126,"execution_time":"","id":1160890,"language":"PyPy2 (5.6.0)","length":589,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420145,"execution_time":"","id":1160891,"language":"PyPy2 (5.6.0)","length":589,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420158,"execution_time":"","id":1160892,"language":"PyPy2 (5.6.0)","length":589,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420187,"execution_time":"","id":1160893,"language":"Python2 (2.7.6)","length":589,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420697,"execution_time":"","id":1160903,"language":"Python2 (2.7.6)","length":519,"point":0.0,"problem_id":"arc004_4","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420766,"execution_time":17,"id":1160905,"language":"Python2 (2.7.6)","length":459,"point":100.0,"problem_id":"arc004_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc004","epoch_second":1489420889,"execution_time":18,"id":1160907,"language":"Python2 (2.7.6)","length":542,"point":100.0,"problem_id":"arc004_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc005","epoch_second":1489434384,"execution_time":2,"id":1161070,"language":"Haskell (GHC 7.10.3)","length":277,"point":100.0,"problem_id":"arc005_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc005","epoch_second":1489828956,"execution_time":1,"id":1166175,"language":"C++14 (GCC 5.4.1)","length":696,"point":100.0,"problem_id":"arc005_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc005","epoch_second":1489836583,"execution_time":33,"id":1166360,"language":"C++14 (GCC 5.4.1)","length":1387,"point":100.0,"problem_id":"arc005_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc006","epoch_second":1489840962,"execution_time":2,"id":1168609,"language":"Haskell (GHC 7.10.3)","length":666,"point":100.0,"problem_id":"arc006_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc006","epoch_second":1489843863,"execution_time":1,"id":1170311,"language":"Haskell (GHC 7.10.3)","length":520,"point":100.0,"problem_id":"arc006_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc006","epoch_second":1489855823,"execution_time":1,"id":1171528,"language":"D (DMD64 v2.070.1)","length":420,"point":100.0,"problem_id":"arc006_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc007","epoch_second":1489941306,"execution_time":2,"id":1172783,"language":"Haskell (GHC 7.10.3)","length":200,"point":100.0,"problem_id":"arc007_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc007","epoch_second":1489944017,"execution_time":1,"id":1172834,"language":"D (DMD64 v2.070.1)","length":477,"point":100.0,"problem_id":"arc007_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc007","epoch_second":1490193308,"execution_time":2,"id":1176740,"language":"Haskell (GHC 7.10.3)","length":856,"point":0.0,"problem_id":"arc007_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc007","epoch_second":1490242929,"execution_time":1653,"id":1177141,"language":"Haskell (GHC 7.10.3)","length":826,"point":100.0,"problem_id":"arc007_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc007","epoch_second":1490243628,"execution_time":1629,"id":1177145,"language":"Haskell (GHC 7.10.3)","length":808,"point":100.0,"problem_id":"arc007_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc008","epoch_second":1490247957,"execution_time":2,"id":1177170,"language":"Haskell (GHC 7.10.3)","length":104,"point":100.0,"problem_id":"arc008_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc008","epoch_second":1490357946,"execution_time":"","id":1178334,"language":"Haskell (GHC 7.10.3)","length":634,"point":0.0,"problem_id":"arc008_2","result":"CE","user_id":"sumi"}
+,{"contest_id":"arc008","epoch_second":1490358010,"execution_time":1,"id":1178337,"language":"D (DMD64 v2.070.1)","length":634,"point":0.0,"problem_id":"arc008_2","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc008","epoch_second":1490358208,"execution_time":1,"id":1178343,"language":"D (DMD64 v2.070.1)","length":643,"point":0.0,"problem_id":"arc008_2","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc008","epoch_second":1490358792,"execution_time":1,"id":1178353,"language":"D (DMD64 v2.070.1)","length":640,"point":100.0,"problem_id":"arc008_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490423884,"execution_time":2,"id":1179167,"language":"Haskell (GHC 7.10.3)","length":236,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490427771,"execution_time":7,"id":1179457,"language":"Haskell (GHC 7.10.3)","length":563,"point":100.0,"problem_id":"arc009_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490590512,"execution_time":"","id":1185826,"language":"Haskell (GHC 7.10.3)","length":654,"point":40.0,"problem_id":"arc009_3","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490595972,"execution_time":2106,"id":1185971,"language":"Haskell (GHC 7.10.3)","length":883,"point":40.0,"problem_id":"arc009_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490598363,"execution_time":"","id":1186066,"language":"Haskell (GHC 7.10.3)","length":823,"point":40.0,"problem_id":"arc009_3","result":"MLE","user_id":"sumi"}
+,{"contest_id":"arc009","epoch_second":1490598461,"execution_time":104,"id":1186073,"language":"Haskell (GHC 7.10.3)","length":859,"point":100.0,"problem_id":"arc009_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc010","epoch_second":1490620440,"execution_time":2,"id":1186862,"language":"Haskell (GHC 7.10.3)","length":489,"point":100.0,"problem_id":"arc010_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc010","epoch_second":1490798709,"execution_time":2,"id":1190542,"language":"Haskell (GHC 7.10.3)","length":805,"point":0.0,"problem_id":"arc010_2","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc010","epoch_second":1490882865,"execution_time":13,"id":1191800,"language":"Python2 (2.7.6)","length":474,"point":100.0,"problem_id":"arc010_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc011","epoch_second":1490883841,"execution_time":2,"id":1191830,"language":"Haskell (GHC 7.10.3)","length":346,"point":100.0,"problem_id":"arc011_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc011","epoch_second":1490967478,"execution_time":39,"id":1193120,"language":"Haskell (GHC 7.10.3)","length":808,"point":100.0,"problem_id":"arc011_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc012","epoch_second":1490985831,"execution_time":2,"id":1193304,"language":"Haskell (GHC 7.10.3)","length":399,"point":100.0,"problem_id":"arc012_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc012","epoch_second":1490986184,"execution_time":2,"id":1193305,"language":"Haskell (GHC 7.10.3)","length":316,"point":100.0,"problem_id":"arc012_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc013","epoch_second":1491151576,"execution_time":2,"id":1200072,"language":"Haskell (GHC 7.10.3)","length":379,"point":100.0,"problem_id":"arc013_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc013","epoch_second":1491152980,"execution_time":3,"id":1200081,"language":"Haskell (GHC 7.10.3)","length":496,"point":100.0,"problem_id":"arc013_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc014","epoch_second":1491571185,"execution_time":1,"id":1206301,"language":"Haskell (GHC 7.10.3)","length":194,"point":100.0,"problem_id":"arc014_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc014","epoch_second":1491573776,"execution_time":2,"id":1206377,"language":"Haskell (GHC 7.10.3)","length":571,"point":100.0,"problem_id":"arc014_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc014","epoch_second":1491575989,"execution_time":2,"id":1206413,"language":"Haskell (GHC 7.10.3)","length":111,"point":100.0,"problem_id":"arc014_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc015","epoch_second":1491576418,"execution_time":2,"id":1206421,"language":"Haskell (GHC 7.10.3)","length":59,"point":100.0,"problem_id":"arc015_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc015","epoch_second":1491652277,"execution_time":57,"id":1207302,"language":"Haskell (GHC 7.10.3)","length":955,"point":100.0,"problem_id":"arc015_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc001","epoch_second":1491656426,"execution_time":2,"id":1210041,"language":"Haskell (GHC 7.10.3)","length":286,"point":100.0,"problem_id":"abc001_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc001","epoch_second":1491657766,"execution_time":1,"id":1210528,"language":"Haskell (GHC 7.10.3)","length":812,"point":100.0,"problem_id":"abc001_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc001","epoch_second":1491659708,"execution_time":407,"id":1211171,"language":"Haskell (GHC 7.10.3)","length":645,"point":0.0,"problem_id":"abc001_4","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc001","epoch_second":1491660137,"execution_time":443,"id":1211248,"language":"Haskell (GHC 7.10.3)","length":729,"point":100.0,"problem_id":"abc001_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc002","epoch_second":1491660528,"execution_time":1,"id":1211307,"language":"Haskell (GHC 7.10.3)","length":131,"point":100.0,"problem_id":"abc002_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc002","epoch_second":1491660723,"execution_time":2,"id":1211339,"language":"Haskell (GHC 7.10.3)","length":98,"point":100.0,"problem_id":"abc002_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc002","epoch_second":1491661140,"execution_time":2,"id":1211387,"language":"Haskell (GHC 7.10.3)","length":147,"point":100.0,"problem_id":"abc002_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc002","epoch_second":1491662530,"execution_time":44,"id":1211522,"language":"Haskell (GHC 7.10.3)","length":313,"point":100.0,"problem_id":"abc002_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"agc012","epoch_second":1491757371,"execution_time":"","id":1214776,"language":"Haskell (GHC 7.10.3)","length":240,"point":0.0,"problem_id":"agc012_a","result":"TLE","user_id":"sumi"}
+,{"contest_id":"agc012","epoch_second":1491757885,"execution_time":1966,"id":1214784,"language":"Haskell (GHC 7.10.3)","length":267,"point":300.0,"problem_id":"agc012_a","result":"AC","user_id":"sumi"}
+,{"contest_id":"agc012","epoch_second":1491758519,"execution_time":"","id":1214788,"language":"Haskell (GHC 7.10.3)","length":189,"point":0.0,"problem_id":"agc012_a","result":"TLE","user_id":"sumi"}
+,{"contest_id":"agc012","epoch_second":1491758773,"execution_time":1974,"id":1214792,"language":"Haskell (GHC 7.10.3)","length":212,"point":300.0,"problem_id":"agc012_a","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc016","epoch_second":1492014940,"execution_time":2,"id":1218214,"language":"Haskell (GHC 7.10.3)","length":91,"point":100.0,"problem_id":"arc016_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc016","epoch_second":1492015740,"execution_time":2,"id":1218220,"language":"Haskell (GHC 7.10.3)","length":332,"point":100.0,"problem_id":"arc016_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc003","epoch_second":1492264525,"execution_time":1,"id":1223732,"language":"Haskell (GHC 7.10.3)","length":46,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc003","epoch_second":1492265110,"execution_time":2,"id":1223897,"language":"Haskell (GHC 7.10.3)","length":393,"point":100.0,"problem_id":"abc003_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc003","epoch_second":1492267240,"execution_time":2,"id":1224456,"language":"Haskell (GHC 7.10.3)","length":259,"point":100.0,"problem_id":"abc003_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc003","epoch_second":1492697420,"execution_time":"","id":1230660,"language":"Haskell (GHC 7.10.3)","length":961,"point":0.0,"problem_id":"abc003_4","result":"RE","user_id":"sumi"}
+,{"contest_id":"abc003","epoch_second":1492697984,"execution_time":3,"id":1230668,"language":"Haskell (GHC 7.10.3)","length":985,"point":101.0,"problem_id":"abc003_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc017","epoch_second":1492698493,"execution_time":"","id":1230674,"language":"Haskell (GHC 7.10.3)","length":331,"point":0.0,"problem_id":"arc017_1","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc017","epoch_second":1492699039,"execution_time":42,"id":1230691,"language":"Haskell (GHC 7.10.3)","length":333,"point":100.0,"problem_id":"arc017_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc017","epoch_second":1492704944,"execution_time":1719,"id":1230755,"language":"Haskell (GHC 7.10.3)","length":398,"point":100.0,"problem_id":"arc017_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc004","epoch_second":1492705545,"execution_time":1,"id":1230761,"language":"Haskell (GHC 7.10.3)","length":39,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc004","epoch_second":1492706238,"execution_time":1,"id":1230768,"language":"Haskell (GHC 7.10.3)","length":201,"point":100.0,"problem_id":"abc004_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc004","epoch_second":1493537312,"execution_time":1,"id":1255232,"language":"D (DMD64 v2.070.1)","length":347,"point":100.0,"problem_id":"abc004_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc004","epoch_second":1493544226,"execution_time":16,"id":1255445,"language":"Haskell (GHC 7.10.3)","length":354,"point":100.0,"problem_id":"abc004_4","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc018","epoch_second":1493550676,"execution_time":2,"id":1255572,"language":"Haskell (GHC 7.10.3)","length":111,"point":100.0,"problem_id":"arc018_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc018","epoch_second":1493551420,"execution_time":261,"id":1255588,"language":"Haskell (GHC 7.10.3)","length":291,"point":100.0,"problem_id":"arc018_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc019","epoch_second":1493552805,"execution_time":1,"id":1255614,"language":"C++14 (GCC 5.4.1)","length":537,"point":100.0,"problem_id":"arc019_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc019","epoch_second":1493553679,"execution_time":11,"id":1255642,"language":"C++14 (GCC 5.4.1)","length":422,"point":100.0,"problem_id":"arc019_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc005","epoch_second":1493553845,"execution_time":1,"id":1255648,"language":"Haskell (GHC 7.10.3)","length":99,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc005","epoch_second":1493554092,"execution_time":2,"id":1255654,"language":"Haskell (GHC 7.10.3)","length":205,"point":100.0,"problem_id":"abc005_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc005","epoch_second":1493624492,"execution_time":2,"id":1256626,"language":"Haskell (GHC 7.10.3)","length":381,"point":100.0,"problem_id":"abc005_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc020","epoch_second":1494167069,"execution_time":1,"id":1269649,"language":"Haskell (GHC 7.10.3)","length":270,"point":100.0,"problem_id":"arc020_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc020","epoch_second":1494176656,"execution_time":2,"id":1269727,"language":"Haskell (GHC 7.10.3)","length":481,"point":100.0,"problem_id":"arc020_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc006","epoch_second":1494939878,"execution_time":2,"id":1290930,"language":"Haskell (GHC 7.10.3)","length":129,"point":100.0,"problem_id":"abc006_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc006","epoch_second":1494940559,"execution_time":377,"id":1290949,"language":"Haskell (GHC 7.10.3)","length":186,"point":100.0,"problem_id":"abc006_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc006","epoch_second":1494941190,"execution_time":2,"id":1290962,"language":"Haskell (GHC 7.10.3)","length":310,"point":0.0,"problem_id":"abc006_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc006","epoch_second":1494941273,"execution_time":2,"id":1290967,"language":"Haskell (GHC 7.10.3)","length":313,"point":100.0,"problem_id":"abc006_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495793237,"execution_time":2,"id":1307608,"language":"Haskell (GHC 7.10.3)","length":496,"point":0.0,"problem_id":"arc021_1","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495793857,"execution_time":2,"id":1307613,"language":"Haskell (GHC 7.10.3)","length":513,"point":100.0,"problem_id":"arc021_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495800351,"execution_time":692,"id":1307720,"language":"Haskell (GHC 7.10.3)","length":361,"point":100.0,"problem_id":"arc021_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495802601,"execution_time":"","id":1307759,"language":"Haskell (GHC 7.10.3)","length":372,"point":40.0,"problem_id":"arc021_3","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495806610,"execution_time":949,"id":1307840,"language":"Haskell (GHC 7.10.3)","length":954,"point":55.0,"problem_id":"arc021_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc021","epoch_second":1495806866,"execution_time":920,"id":1307845,"language":"Haskell (GHC 7.10.3)","length":956,"point":100.0,"problem_id":"arc021_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc007","epoch_second":1495807091,"execution_time":1,"id":1307846,"language":"Haskell (GHC 7.10.3)","length":109,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc007","epoch_second":1495807244,"execution_time":2,"id":1307849,"language":"Haskell (GHC 7.10.3)","length":160,"point":100.0,"problem_id":"abc007_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc007","epoch_second":1495808726,"execution_time":73,"id":1307863,"language":"Haskell (GHC 7.10.3)","length":660,"point":100.0,"problem_id":"abc007_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495881206,"execution_time":1,"id":1308544,"language":"Haskell (GHC 7.10.3)","length":234,"point":100.0,"problem_id":"arc022_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495885801,"execution_time":572,"id":1309378,"language":"Haskell (GHC 7.10.3)","length":522,"point":100.0,"problem_id":"arc022_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495888161,"execution_time":"","id":1311877,"language":"Haskell (GHC 7.10.3)","length":932,"point":40.0,"problem_id":"arc022_3","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495889851,"execution_time":2122,"id":1313141,"language":"Haskell (GHC 7.10.3)","length":507,"point":0.0,"problem_id":"arc022_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495889953,"execution_time":"","id":1313250,"language":"Haskell (GHC 7.10.3)","length":492,"point":0.0,"problem_id":"arc022_3","result":"TLE","user_id":"sumi"}
+,{"contest_id":"arc022","epoch_second":1495891055,"execution_time":2118,"id":1313635,"language":"Haskell (GHC 7.10.3)","length":556,"point":0.0,"problem_id":"arc022_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc008","epoch_second":1495893087,"execution_time":1,"id":1314207,"language":"Haskell (GHC 7.10.3)","length":151,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc008","epoch_second":1495893469,"execution_time":2,"id":1314276,"language":"Haskell (GHC 7.10.3)","length":207,"point":0.0,"problem_id":"abc008_2","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc008","epoch_second":1495893624,"execution_time":2,"id":1314307,"language":"Haskell (GHC 7.10.3)","length":217,"point":100.0,"problem_id":"abc008_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc008","epoch_second":1495894685,"execution_time":3,"id":1314456,"language":"Haskell (GHC 7.10.3)","length":307,"point":0.0,"problem_id":"abc008_3","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc008","epoch_second":1495894935,"execution_time":3,"id":1314478,"language":"Haskell (GHC 7.10.3)","length":305,"point":100.0,"problem_id":"abc008_3","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc009","epoch_second":1495895115,"execution_time":1,"id":1314498,"language":"Haskell (GHC 7.10.3)","length":119,"point":100.0,"problem_id":"abc009_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc009","epoch_second":1495895307,"execution_time":2,"id":1314507,"language":"Haskell (GHC 7.10.3)","length":229,"point":100.0,"problem_id":"abc009_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc010","epoch_second":1495895862,"execution_time":2,"id":1314539,"language":"Haskell (GHC 7.10.3)","length":73,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc010","epoch_second":1495896243,"execution_time":1,"id":1314563,"language":"Haskell (GHC 7.10.3)","length":286,"point":100.0,"problem_id":"abc010_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1495965552,"execution_time":"","id":1315828,"language":"Haskell (GHC 7.10.3)","length":78,"point":0.0,"problem_id":"abc011_1","result":"CE","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1495965568,"execution_time":"","id":1315830,"language":"Haskell (GHC 7.10.3)","length":75,"point":0.0,"problem_id":"abc011_1","result":"CE","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1495965587,"execution_time":2,"id":1315831,"language":"Haskell (GHC 7.10.3)","length":74,"point":0.0,"problem_id":"abc011_1","result":"WA","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1496064737,"execution_time":1,"id":1317279,"language":"Haskell (GHC 7.10.3)","length":111,"point":100.0,"problem_id":"abc011_2","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1496064880,"execution_time":2,"id":1317281,"language":"Haskell (GHC 7.10.3)","length":115,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"sumi"}
+,{"contest_id":"abc011","epoch_second":1496067012,"execution_time":2,"id":1317335,"language":"Haskell (GHC 7.10.3)","length":404,"point":100.0,"problem_id":"abc011_3","result":"AC","user_id":"sumi"}
 ]
