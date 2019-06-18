@@ -22,6 +22,8 @@ handler.setLevel(DEBUG)
 logger.setLevel(DEBUG)
 logger.addHandler(handler)
 
+DELAY = 3  # seconds
+
 
 @contextlib.contextmanager
 def db():
@@ -63,7 +65,7 @@ def scrape_contests(*, only_recent: bool = False, session: requests.Session, con
 
 
 def scrape_tasks(contest: AtCoderContest, *, session: requests.Session, conn: psycopg2.extensions.connection) -> None:
-    time.sleep(1)
+    time.sleep(DELAY)
     try:
         problems = contest.list_problems(session=session)
     except requests.exceptions.HTTPError as e:
@@ -210,7 +212,7 @@ def get_expected_submissions(contest: AtCoderContest, page: int, *, limit: Optio
 
 
 def is_submissions_page_broken(contest: AtCoderContest, page: int, *, session: requests.Session, conn: psycopg2.extensions.connection) -> bool:
-    time.sleep(1)
+    time.sleep(DELAY)
     is_broken = False
     a = (get_expected_submissions(contest, page, limit=SUBMISSIONS_IN_PAGE, conn=conn) + [None] * SUBMISSIONS_IN_PAGE)[:SUBMISSIONS_IN_PAGE]
     b1 = contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)
@@ -292,7 +294,7 @@ def recovery_lost_submissions_from(contest: AtCoderContest, page: int, *, force:
     INSERTED_MAX = 15 * SUBMISSIONS_IN_PAGE
     inserted = INSERTED_MAX
     for i, submission in enumerate(contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session)):
-        time.sleep(1 / SUBMISSIONS_IN_PAGE)
+        time.sleep(DELAY / SUBMISSIONS_IN_PAGE)
         if insert_submission(submission, session=session, conn=conn):
             inserted = min(INSERTED_MAX, inserted + 7)
         else:
@@ -320,7 +322,7 @@ def scrape_submissions_for_contest(contest: AtCoderContest, *, session: requests
     # find new submissions
     page = get_next_page(contest, conn=conn)
     for submission in contest.iterate_submissions_where(order='created', desc=False, pages=itertools.count(page), session=session):
-        time.sleep(1 / SUBMISSIONS_IN_PAGE)
+        time.sleep(DELAY / SUBMISSIONS_IN_PAGE)
         insert_submission(submission, session=session, conn=conn)
 
 
@@ -359,7 +361,7 @@ def main() -> None:
             return
 
         with requests.Session() as session:
-            scrape_contests(only_recent=(random.random() < 0.95), session=session, conn=conn)
+            scrape_contests(only_recent=False, session=session, conn=conn)
             scrape_submissions(session=session, conn=conn)
 
 
