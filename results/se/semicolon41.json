@@ -1,27 +1,54 @@
-[{"contest_id":"abc100","epoch_second":1557436336,"execution_time":17,"id":5324834,"language":"Python3 (3.4.3)","length":96,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557438238,"execution_time":19,"id":5324868,"language":"Python3 (3.4.3)","length":306,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557440036,"execution_time":53,"id":5324932,"language":"Python3 (3.4.3)","length":186,"point":300,"problem_id":"abc100_c","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557440260,"execution_time":25,"id":5324944,"language":"Python3 (3.4.3)","length":111,"point":300,"problem_id":"abc100_c","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557442686,"execution_time":"","id":5325036,"language":"Python3 (3.4.3)","length":383,"point":0,"problem_id":"abc100_d","result":"RE","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557442764,"execution_time":"","id":5325043,"language":"Python3 (3.4.3)","length":380,"point":0,"problem_id":"abc100_d","result":"TLE","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557446415,"execution_time":34,"id":5325221,"language":"Python3 (3.4.3)","length":404,"point":0,"problem_id":"abc100_d","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557446985,"execution_time":"","id":5325263,"language":"Python3 (3.4.3)","length":359,"point":0,"problem_id":"abc100_a","result":"RE","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557447005,"execution_time":35,"id":5325265,"language":"Python3 (3.4.3)","length":359,"point":0,"problem_id":"abc100_d","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557447514,"execution_time":36,"id":5325295,"language":"Python3 (3.4.3)","length":375,"point":400,"problem_id":"abc100_d","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557448715,"execution_time":17,"id":5325392,"language":"Python3 (3.4.3)","length":97,"point":100,"problem_id":"abc100_a","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557448946,"execution_time":"","id":5325404,"language":"Python3 (3.4.3)","length":180,"point":0,"problem_id":"abc100_b","result":"RE","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449056,"execution_time":17,"id":5325418,"language":"Python3 (3.4.3)","length":180,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449578,"execution_time":17,"id":5325460,"language":"Python3 (3.4.3)","length":171,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449727,"execution_time":17,"id":5325474,"language":"Python3 (3.4.3)","length":171,"point":0,"problem_id":"abc100_b","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449896,"execution_time":17,"id":5325483,"language":"Python3 (3.4.3)","length":180,"point":0,"problem_id":"abc100_a","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449915,"execution_time":17,"id":5325487,"language":"Python3 (3.4.3)","length":180,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557449975,"execution_time":18,"id":5325495,"language":"Python3 (3.4.3)","length":180,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557450085,"execution_time":18,"id":5325505,"language":"Python3 (3.4.3)","length":166,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc100","epoch_second":1557450253,"execution_time":17,"id":5325522,"language":"Python3 (3.4.3)","length":151,"point":200,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557473343,"execution_time":17,"id":5328117,"language":"Python3 (3.4.3)","length":64,"point":100,"problem_id":"abc101_a","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557473905,"execution_time":17,"id":5328235,"language":"Python3 (3.4.3)","length":86,"point":200,"problem_id":"abc101_b","result":"AC","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557474285,"execution_time":17,"id":5328312,"language":"Python3 (3.4.3)","length":76,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557474414,"execution_time":18,"id":5328341,"language":"Python3 (3.4.3)","length":92,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557534075,"execution_time":103,"id":5334570,"language":"Python3 (3.4.3)","length":436,"point":0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
-,{"contest_id":"abc101","epoch_second":1557534464,"execution_time":104,"id":5334583,"language":"Python3 (3.4.3)","length":382,"point":300,"problem_id":"arc099_a","result":"AC","user_id":"semicolon41"}
+[{"contest_id":"abc100","epoch_second":1557436336,"execution_time":17,"id":5324834,"language":"Python3 (3.4.3)","length":96,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557438238,"execution_time":19,"id":5324868,"language":"Python3 (3.4.3)","length":306,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557440036,"execution_time":53,"id":5324932,"language":"Python3 (3.4.3)","length":186,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557440260,"execution_time":25,"id":5324944,"language":"Python3 (3.4.3)","length":111,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557442686,"execution_time":"","id":5325036,"language":"Python3 (3.4.3)","length":383,"point":0.0,"problem_id":"abc100_d","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557442764,"execution_time":"","id":5325043,"language":"Python3 (3.4.3)","length":380,"point":0.0,"problem_id":"abc100_d","result":"TLE","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557446415,"execution_time":34,"id":5325221,"language":"Python3 (3.4.3)","length":404,"point":0.0,"problem_id":"abc100_d","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557446985,"execution_time":"","id":5325263,"language":"Python3 (3.4.3)","length":359,"point":0.0,"problem_id":"abc100_a","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557447005,"execution_time":35,"id":5325265,"language":"Python3 (3.4.3)","length":359,"point":0.0,"problem_id":"abc100_d","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557447514,"execution_time":36,"id":5325295,"language":"Python3 (3.4.3)","length":375,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557448715,"execution_time":17,"id":5325392,"language":"Python3 (3.4.3)","length":97,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557448946,"execution_time":"","id":5325404,"language":"Python3 (3.4.3)","length":180,"point":0.0,"problem_id":"abc100_b","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449056,"execution_time":17,"id":5325418,"language":"Python3 (3.4.3)","length":180,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449578,"execution_time":17,"id":5325460,"language":"Python3 (3.4.3)","length":171,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449727,"execution_time":17,"id":5325474,"language":"Python3 (3.4.3)","length":171,"point":0.0,"problem_id":"abc100_b","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449896,"execution_time":17,"id":5325483,"language":"Python3 (3.4.3)","length":180,"point":0.0,"problem_id":"abc100_a","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449915,"execution_time":17,"id":5325487,"language":"Python3 (3.4.3)","length":180,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557449975,"execution_time":18,"id":5325495,"language":"Python3 (3.4.3)","length":180,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557450085,"execution_time":18,"id":5325505,"language":"Python3 (3.4.3)","length":166,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1557450253,"execution_time":17,"id":5325522,"language":"Python3 (3.4.3)","length":151,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557473343,"execution_time":17,"id":5328117,"language":"Python3 (3.4.3)","length":64,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557473905,"execution_time":17,"id":5328235,"language":"Python3 (3.4.3)","length":86,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557474285,"execution_time":17,"id":5328312,"language":"Python3 (3.4.3)","length":76,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557474414,"execution_time":18,"id":5328341,"language":"Python3 (3.4.3)","length":92,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557534075,"execution_time":103,"id":5334570,"language":"Python3 (3.4.3)","length":436,"point":0.0,"problem_id":"arc099_a","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1557534464,"execution_time":104,"id":5334583,"language":"Python3 (3.4.3)","length":382,"point":300.0,"problem_id":"arc099_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1560996869,"execution_time":43,"id":6026294,"language":"F# (Mono 4.0)","length":145,"point":100.0,"problem_id":"abc100_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1560998168,"execution_time":42,"id":6026482,"language":"F# (Mono 4.0)","length":178,"point":200.0,"problem_id":"abc100_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1560999017,"execution_time":52,"id":6026614,"language":"F# (Mono 4.0)","length":287,"point":300.0,"problem_id":"abc100_c","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1561003618,"execution_time":"","id":6027270,"language":"F# (Mono 4.0)","length":635,"point":0.0,"problem_id":"abc100_d","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1561004560,"execution_time":76,"id":6027393,"language":"F# (Mono 4.0)","length":721,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1561022356,"execution_time":74,"id":6030423,"language":"F# (Mono 4.0)","length":752,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc100","epoch_second":1561024790,"execution_time":73,"id":6030812,"language":"F# (Mono 4.0)","length":717,"point":400.0,"problem_id":"abc100_d","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1561031185,"execution_time":43,"id":6031641,"language":"F# (Mono 4.0)","length":94,"point":100.0,"problem_id":"abc101_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1561032132,"execution_time":43,"id":6031765,"language":"F# (Mono 4.0)","length":170,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc101","epoch_second":1561034941,"execution_time":42,"id":6032254,"language":"F# (Mono 4.0)","length":172,"point":300.0,"problem_id":"arc099_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc102","epoch_second":1561036531,"execution_time":40,"id":6032565,"language":"F# (Mono 4.0)","length":90,"point":100.0,"problem_id":"abc102_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc102","epoch_second":1561036853,"execution_time":42,"id":6032625,"language":"F# (Mono 4.0)","length":134,"point":200.0,"problem_id":"abc102_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc102","epoch_second":1561038272,"execution_time":"","id":6032890,"language":"F# (Mono 4.0)","length":301,"point":0.0,"problem_id":"arc100_a","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc102","epoch_second":1561040154,"execution_time":"","id":6033254,"language":"F# (Mono 4.0)","length":366,"point":0.0,"problem_id":"arc100_a","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc102","epoch_second":1561040503,"execution_time":205,"id":6033323,"language":"F# (Mono 4.0)","length":426,"point":300.0,"problem_id":"arc100_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc103","epoch_second":1561074048,"execution_time":64,"id":6035647,"language":"F# (Mono 4.0)","length":160,"point":100.0,"problem_id":"abc103_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc103","epoch_second":1561087544,"execution_time":67,"id":6036863,"language":"F# (Mono 4.0)","length":354,"point":200.0,"problem_id":"abc103_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc103","epoch_second":1561088325,"execution_time":43,"id":6036928,"language":"F# (Mono 4.0)","length":177,"point":300.0,"problem_id":"abc103_c","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561271760,"execution_time":"","id":6092681,"language":"F# (Mono 4.0)","length":106,"point":0.0,"problem_id":"abc104_a","result":"CE","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561271945,"execution_time":40,"id":6092732,"language":"F# (Mono 4.0)","length":120,"point":100.0,"problem_id":"abc104_a","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561273767,"execution_time":43,"id":6093136,"language":"F# (Mono 4.0)","length":388,"point":200.0,"problem_id":"abc104_b","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561289084,"execution_time":70,"id":6096192,"language":"F# (Mono 4.0)","length":1006,"point":0.0,"problem_id":"abc104_c","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561289170,"execution_time":49,"id":6096210,"language":"F# (Mono 4.0)","length":1007,"point":0.0,"problem_id":"abc104_c","result":"WA","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561298111,"execution_time":"","id":6098586,"language":"F# (Mono 4.0)","length":1596,"point":0.0,"problem_id":"abc104_c","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561300357,"execution_time":"","id":6099060,"language":"F# (Mono 4.0)","length":1442,"point":0.0,"problem_id":"abc104_c","result":"RE","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561301945,"execution_time":75,"id":6099391,"language":"F# (Mono 4.0)","length":1397,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"semicolon41"}
+,{"contest_id":"abc104","epoch_second":1561302640,"execution_time":75,"id":6099521,"language":"F# (Mono 4.0)","length":1247,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"semicolon41"}
 ]
