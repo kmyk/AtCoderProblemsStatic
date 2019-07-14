@@ -497,6 +497,12 @@
 ,{"contest_id":"abc131","epoch_second":1561204962,"execution_time":9,"id":6053474,"language":"Ruby (2.3.3)","length":152,"point":100.0,"problem_id":"abc131_a","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc131","epoch_second":1561205703,"execution_time":7,"id":6059933,"language":"Ruby (2.3.3)","length":210,"point":200.0,"problem_id":"abc131_b","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc131","epoch_second":1561206255,"execution_time":7,"id":6063415,"language":"Ruby (2.3.3)","length":251,"point":300.0,"problem_id":"abc131_c","result":"AC","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561254886,"execution_time":963,"id":6089864,"language":"Ruby (2.3.3)","length":718,"point":0.0,"problem_id":"abc109_d","result":"WA","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561255530,"execution_time":574,"id":6089967,"language":"Ruby (2.3.3)","length":768,"point":0.0,"problem_id":"abc109_d","result":"WA","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561255725,"execution_time":577,"id":6090000,"language":"Ruby (2.3.3)","length":768,"point":0.0,"problem_id":"abc109_d","result":"WA","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561256615,"execution_time":609,"id":6090140,"language":"Ruby (2.3.3)","length":1174,"point":0.0,"problem_id":"abc109_d","result":"WA","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561256784,"execution_time":622,"id":6090166,"language":"Ruby (2.3.3)","length":1174,"point":0.0,"problem_id":"abc109_d","result":"WA","user_id":"emanon001"}
+,{"contest_id":"abc109","epoch_second":1561258530,"execution_time":465,"id":6090449,"language":"Ruby (2.3.3)","length":475,"point":400.0,"problem_id":"abc109_d","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc039","epoch_second":1561473582,"execution_time":7,"id":6120466,"language":"Ruby (2.3.3)","length":124,"point":100.0,"problem_id":"abc039_b","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc039","epoch_second":1561479000,"execution_time":"","id":6121432,"language":"Ruby (2.3.3)","length":178,"point":0.0,"problem_id":"abc039_c","result":"RE","user_id":"emanon001"}
 ,{"contest_id":"abc039","epoch_second":1561479562,"execution_time":7,"id":6121495,"language":"Ruby (2.3.3)","length":214,"point":100.0,"problem_id":"abc039_c","result":"AC","user_id":"emanon001"}
@@ -540,4 +546,22 @@
 ,{"contest_id":"abc133","epoch_second":1562503130,"execution_time":368,"id":6282230,"language":"Ruby (2.3.3)","length":198,"point":300.0,"problem_id":"abc133_c","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc133","epoch_second":1562515149,"execution_time":362,"id":6302915,"language":"Ruby (2.3.3)","length":198,"point":300.0,"problem_id":"abc133_c","result":"AC","user_id":"emanon001"}
 ,{"contest_id":"abc133","epoch_second":1562517532,"execution_time":126,"id":6303396,"language":"Ruby (2.3.3)","length":257,"point":400.0,"problem_id":"abc133_d","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562595210,"execution_time":146,"id":6314425,"language":"Ruby (2.3.3)","length":320,"point":100.0,"problem_id":"dp_a","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562595432,"execution_time":"","id":6314491,"language":"Ruby (2.3.3)","length":288,"point":0.0,"problem_id":"dp_b","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562596331,"execution_time":"","id":6314697,"language":"Crystal (0.20.5)","length":323,"point":0.0,"problem_id":"dp_b","result":"CE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562596708,"execution_time":1930,"id":6314772,"language":"Ruby (2.3.3)","length":299,"point":100.0,"problem_id":"dp_b","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562603911,"execution_time":375,"id":6315823,"language":"Ruby (2.3.3)","length":393,"point":100.0,"problem_id":"dp_c","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562605681,"execution_time":"","id":6316029,"language":"Ruby (2.3.3)","length":380,"point":0.0,"problem_id":"dp_d","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562605826,"execution_time":"","id":6316039,"language":"Ruby (2.3.3)","length":387,"point":0.0,"problem_id":"dp_d","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562606040,"execution_time":"","id":6316054,"language":"Ruby (2.3.3)","length":393,"point":0.0,"problem_id":"dp_d","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562606654,"execution_time":890,"id":6316107,"language":"Crystal (0.20.5)","length":460,"point":100.0,"problem_id":"dp_d","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562680728,"execution_time":"","id":6324537,"language":"Crystal (0.20.5)","length":640,"point":0.0,"problem_id":"dp_e","result":"CE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562680861,"execution_time":950,"id":6324567,"language":"Crystal (0.20.5)","length":644,"point":100.0,"problem_id":"dp_e","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562685950,"execution_time":"","id":6325526,"language":"Ruby (2.3.3)","length":417,"point":0.0,"problem_id":"dp_f","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562686155,"execution_time":"","id":6325550,"language":"Ruby (2.3.3)","length":428,"point":0.0,"problem_id":"dp_f","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562687002,"execution_time":"","id":6325681,"language":"Crystal (0.20.5)","length":487,"point":0.0,"problem_id":"dp_f","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562688525,"execution_time":"","id":6325878,"language":"Ruby (2.3.3)","length":551,"point":0.0,"problem_id":"dp_f","result":"TLE","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562688734,"execution_time":989,"id":6325898,"language":"Crystal (0.20.5)","length":621,"point":100.0,"problem_id":"dp_f","result":"AC","user_id":"emanon001"}
+,{"contest_id":"abc035","epoch_second":1562770983,"execution_time":53,"id":6335483,"language":"Ruby (2.3.3)","length":352,"point":101.0,"problem_id":"abc035_b","result":"AC","user_id":"emanon001"}
+,{"contest_id":"dp","epoch_second":1562870900,"execution_time":243,"id":6345881,"language":"Ruby (2.3.3)","length":546,"point":100.0,"problem_id":"dp_g","result":"AC","user_id":"emanon001"}
 ]
