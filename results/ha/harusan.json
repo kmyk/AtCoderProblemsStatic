@@ -44,8 +44,11 @@
 ,{"contest_id":"abc105","epoch_second":1544629765,"execution_time":2,"id":3780414,"language":"Haskell (GHC 7.10.3)","length":247,"point":200.0,"problem_id":"abc105_b","result":"AC","user_id":"harusan"}
 ,{"contest_id":"abc114","epoch_second":1544711337,"execution_time":344,"id":3784461,"language":"Haskell (GHC 7.10.3)","length":266,"point":300.0,"problem_id":"abc114_c","result":"AC","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545770016,"execution_time":1,"id":3874023,"language":"D (DMD64 v2.070.1)","length":251,"point":100.0,"problem_id":"abc113_a","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc113","epoch_second":1545772145,"execution_time":"","id":3874045,"language":"D (DMD64 v2.070.1)","length":429,"point":0.0,"problem_id":"abc113_b","result":"CE","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545772169,"execution_time":"","id":3874046,"language":"D (LDC 0.17.0)","length":429,"point":0.0,"problem_id":"abc113_b","result":"CE","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545772185,"execution_time":"","id":3874047,"language":"D (GDC 4.9.4)","length":431,"point":0.0,"problem_id":"abc113_b","result":"CE","user_id":"harusan"}
+,{"contest_id":"abc113","epoch_second":1545772863,"execution_time":"","id":3874057,"language":"D (GDC 4.9.4)","length":627,"point":0.0,"problem_id":"abc113_b","result":"CE","user_id":"harusan"}
+,{"contest_id":"abc113","epoch_second":1545772898,"execution_time":"","id":3874058,"language":"D (GDC 4.9.4)","length":601,"point":0.0,"problem_id":"abc113_b","result":"CE","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545772919,"execution_time":2,"id":3874059,"language":"D (DMD64 v2.070.1)","length":627,"point":200.0,"problem_id":"abc113_b","result":"AC","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545935607,"execution_time":"","id":3883622,"language":"D (LDC 0.17.0)","length":890,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"harusan"}
 ,{"contest_id":"abc113","epoch_second":1545935750,"execution_time":"","id":3883627,"language":"D (LDC 0.17.0)","length":901,"point":0.0,"problem_id":"abc113_c","result":"CE","user_id":"harusan"}
@@ -425,4 +428,25 @@
 ,{"contest_id":"agc035","epoch_second":1563113506,"execution_time":29,"id":6382857,"language":"D (DMD64 v2.070.1)","length":9874,"point":0.0,"problem_id":"agc035_a","result":"WA","user_id":"harusan"}
 ,{"contest_id":"agc035","epoch_second":1563114128,"execution_time":33,"id":6383876,"language":"D (DMD64 v2.070.1)","length":10288,"point":0.0,"problem_id":"agc035_a","result":"WA","user_id":"harusan"}
 ,{"contest_id":"agc035","epoch_second":1563114496,"execution_time":32,"id":6384516,"language":"D (DMD64 v2.070.1)","length":10377,"point":300.0,"problem_id":"agc035_a","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624083,"execution_time":1,"id":6447331,"language":"D (DMD64 v2.070.1)","length":9337,"point":100.0,"problem_id":"abc134_a","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624202,"execution_time":1,"id":6449538,"language":"D (DMD64 v2.070.1)","length":9363,"point":0.0,"problem_id":"abc134_b","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624472,"execution_time":"","id":6452975,"language":"D (DMD64 v2.070.1)","length":9261,"point":0.0,"problem_id":"abc134_c","result":"CE","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624519,"execution_time":149,"id":6453479,"language":"D (DMD64 v2.070.1)","length":9776,"point":300.0,"problem_id":"abc134_c","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624613,"execution_time":1,"id":6454388,"language":"D (DMD64 v2.070.1)","length":9361,"point":0.0,"problem_id":"abc134_b","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563624679,"execution_time":1,"id":6454926,"language":"D (DMD64 v2.070.1)","length":9444,"point":200.0,"problem_id":"abc134_b","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563627691,"execution_time":43,"id":6468393,"language":"D (DMD64 v2.070.1)","length":11288,"point":0.0,"problem_id":"abc134_d","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563628150,"execution_time":44,"id":6469853,"language":"D (DMD64 v2.070.1)","length":11406,"point":400.0,"problem_id":"abc134_d","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563629101,"execution_time":"","id":6472761,"language":"D (DMD64 v2.070.1)","length":9672,"point":0.0,"problem_id":"abc134_e","result":"TLE","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563629928,"execution_time":2103,"id":6475472,"language":"D (DMD64 v2.070.1)","length":10016,"point":0.0,"problem_id":"abc134_e","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563630198,"execution_time":"","id":6476282,"language":"D (DMD64 v2.070.1)","length":10051,"point":0.0,"problem_id":"abc134_e","result":"TLE","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563632171,"execution_time":70,"id":6478187,"language":"D (DMD64 v2.070.1)","length":10344,"point":0.0,"problem_id":"abc134_e","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563632233,"execution_time":76,"id":6478222,"language":"D (DMD64 v2.070.1)","length":10369,"point":500.0,"problem_id":"abc134_e","result":"AC","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563632587,"execution_time":75,"id":6478454,"language":"D (DMD64 v2.070.1)","length":10293,"point":0.0,"problem_id":"abc134_e","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563634300,"execution_time":"","id":6479323,"language":"D (DMD64 v2.070.1)","length":9734,"point":0.0,"problem_id":"abc134_e","result":"TLE","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563634344,"execution_time":75,"id":6479337,"language":"D (DMD64 v2.070.1)","length":9688,"point":0.0,"problem_id":"abc134_e","result":"WA","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563634839,"execution_time":"","id":6479556,"language":"D (DMD64 v2.070.1)","length":9718,"point":0.0,"problem_id":"abc134_e","result":"TLE","user_id":"harusan"}
+,{"contest_id":"abc134","epoch_second":1563634982,"execution_time":74,"id":6479624,"language":"D (DMD64 v2.070.1)","length":9689,"point":500.0,"problem_id":"abc134_e","result":"AC","user_id":"harusan"}
+,{"contest_id":"agc036","epoch_second":1563737568,"execution_time":1,"id":6500748,"language":"D (DMD64 v2.070.1)","length":10161,"point":0.0,"problem_id":"agc036_a","result":"WA","user_id":"harusan"}
+,{"contest_id":"agc036","epoch_second":1563737644,"execution_time":1,"id":6500751,"language":"D (DMD64 v2.070.1)","length":10161,"point":0.0,"problem_id":"agc036_a","result":"WA","user_id":"harusan"}
+,{"contest_id":"agc036","epoch_second":1563738509,"execution_time":1,"id":6500786,"language":"D (DMD64 v2.070.1)","length":10184,"point":400.0,"problem_id":"agc036_a","result":"AC","user_id":"harusan"}
 ]
