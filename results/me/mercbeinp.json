@@ -324,6 +324,13 @@
 ,{"contest_id":"abc101","epoch_second":1559991843,"execution_time":"","id":5824133,"language":"C++ (GCC 5.4.1)","length":255,"point":0.0,"problem_id":"abc101_b","result":"CE","user_id":"mercbeinp"}
 ,{"contest_id":"abc101","epoch_second":1559991886,"execution_time":1,"id":5824139,"language":"C++14 (GCC 5.4.1)","length":255,"point":200.0,"problem_id":"abc101_b","result":"AC","user_id":"mercbeinp"}
 ,{"contest_id":"abc098","epoch_second":1559994302,"execution_time":2,"id":5824520,"language":"C++14 (GCC 5.4.1)","length":516,"point":200.0,"problem_id":"abc098_b","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566034100,"execution_time":40,"id":6952118,"language":"Python3 (3.4.3)","length":557,"point":300.0,"problem_id":"abc128_c","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566036235,"execution_time":"","id":6952632,"language":"Python3 (3.4.3)","length":692,"point":0.0,"problem_id":"abc128_d","result":"TLE","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566037188,"execution_time":"","id":6952877,"language":"PyPy3 (2.4.0)","length":692,"point":0.0,"problem_id":"abc128_d","result":"TLE","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566037695,"execution_time":"","id":6952988,"language":"Python3 (3.4.3)","length":917,"point":0.0,"problem_id":"abc128_d","result":"RE","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566037723,"execution_time":"","id":6953001,"language":"Python3 (3.4.3)","length":933,"point":0.0,"problem_id":"abc128_d","result":"TLE","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566046500,"execution_time":29,"id":6958206,"language":"Python3 (3.4.3)","length":578,"point":0.0,"problem_id":"abc128_d","result":"WA","user_id":"mercbeinp"}
+,{"contest_id":"abc128","epoch_second":1566046812,"execution_time":43,"id":6958539,"language":"Python3 (3.4.3)","length":572,"point":400.0,"problem_id":"abc128_d","result":"AC","user_id":"mercbeinp"}
 ,{"contest_id":"abc127","epoch_second":1566107650,"execution_time":380,"id":6973250,"language":"Python3 (3.4.3)","length":255,"point":300.0,"problem_id":"abc127_c","result":"AC","user_id":"mercbeinp"}
 ,{"contest_id":"abc127","epoch_second":1566108165,"execution_time":"","id":6973419,"language":"Python3 (3.4.3)","length":349,"point":0.0,"problem_id":"abc127_d","result":"TLE","user_id":"mercbeinp"}
 ,{"contest_id":"abc127","epoch_second":1566108263,"execution_time":"","id":6973448,"language":"PyPy3 (2.4.0)","length":383,"point":0.0,"problem_id":"abc127_d","result":"TLE","user_id":"mercbeinp"}
@@ -350,4 +357,13 @@
 ,{"contest_id":"abc138","epoch_second":1566138397,"execution_time":261,"id":7012183,"language":"PyPy3 (2.4.0)","length":509,"point":0.0,"problem_id":"abc138_e","result":"WA","user_id":"mercbeinp"}
 ,{"contest_id":"abc138","epoch_second":1566138564,"execution_time":"","id":7012259,"language":"PyPy3 (2.4.0)","length":492,"point":0.0,"problem_id":"abc138_e","result":"RE","user_id":"mercbeinp"}
 ,{"contest_id":"abc138","epoch_second":1566138588,"execution_time":290,"id":7012269,"language":"PyPy3 (2.4.0)","length":509,"point":500.0,"problem_id":"abc138_e","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"abc125","epoch_second":1566638700,"execution_time":220,"id":7104357,"language":"Python3 (3.4.3)","length":303,"point":400.0,"problem_id":"abc125_d","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566648178,"execution_time":20,"id":7107263,"language":"Python3 (3.4.3)","length":238,"point":200.0,"problem_id":"jsc2019_qual_a","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566648932,"execution_time":251,"id":7110690,"language":"PyPy3 (2.4.0)","length":522,"point":300.0,"problem_id":"jsc2019_qual_b","result":"AC","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566656470,"execution_time":2104,"id":7122448,"language":"Python3 (3.4.3)","length":883,"point":0.0,"problem_id":"jsc2019_qual_c","result":"WA","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566656654,"execution_time":2111,"id":7122544,"language":"PyPy3 (2.4.0)","length":883,"point":0.0,"problem_id":"jsc2019_qual_c","result":"WA","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566656808,"execution_time":2104,"id":7122635,"language":"Python3 (3.4.3)","length":966,"point":0.0,"problem_id":"jsc2019_qual_c","result":"WA","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566656961,"execution_time":2112,"id":7122724,"language":"PyPy3 (2.4.0)","length":996,"point":0.0,"problem_id":"jsc2019_qual_c","result":"WA","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566657019,"execution_time":"","id":7122749,"language":"PyPy3 (2.4.0)","length":1000,"point":0.0,"problem_id":"jsc2019_qual_c","result":"TLE","user_id":"mercbeinp"}
+,{"contest_id":"jsc2019-qual","epoch_second":1566657049,"execution_time":400,"id":7122765,"language":"Python3 (3.4.3)","length":1000,"point":500.0,"problem_id":"jsc2019_qual_c","result":"AC","user_id":"mercbeinp"}
 ]
