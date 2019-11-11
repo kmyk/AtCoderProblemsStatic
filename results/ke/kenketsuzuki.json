@@ -1985,6 +1985,9 @@
 ,{"contest_id":"abc139","epoch_second":1570592044,"execution_time":244,"id":7914307,"language":"Octave (4.0.2)","length":59,"point":0.0,"problem_id":"abc139_c","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc134","epoch_second":1570615582,"execution_time":"","id":7918018,"language":"Octave (4.0.2)","length":117,"point":0.0,"problem_id":"abc134_d","result":"TLE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc134","epoch_second":1570616705,"execution_time":2109,"id":7918184,"language":"Octave (4.0.2)","length":115,"point":0.0,"problem_id":"abc134_d","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1570617018,"execution_time":107,"id":7918216,"language":"C (GCC 5.4.1)","length":193,"point":0.0,"problem_id":"abc129_d","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1570617050,"execution_time":105,"id":7918221,"language":"C (GCC 5.4.1)","length":189,"point":0.0,"problem_id":"abc129_d","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1570617085,"execution_time":"","id":7918224,"language":"C (GCC 5.4.1)","length":193,"point":0.0,"problem_id":"abc129_d","result":"CE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1570620474,"execution_time":141,"id":7918714,"language":"Octave (4.0.2)","length":50,"point":100.0,"problem_id":"abc138_a","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc137","epoch_second":1570620722,"execution_time":143,"id":7918750,"language":"Octave (4.0.2)","length":43,"point":0.0,"problem_id":"abc137_a","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc137","epoch_second":1570620801,"execution_time":141,"id":7918773,"language":"Octave (4.0.2)","length":46,"point":100.0,"problem_id":"abc137_a","result":"AC","user_id":"kenketsuzuki"}
@@ -2026,6 +2029,7 @@
 ,{"contest_id":"abc074","epoch_second":1570714909,"execution_time":1,"id":7929692,"language":"Awk (mawk 1.3.3)","length":45,"point":0.0,"problem_id":"abc074_b","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc072","epoch_second":1570721878,"execution_time":587,"id":7931055,"language":"Octave (4.0.2)","length":23,"point":200.0,"problem_id":"abc072_b","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc070","epoch_second":1570752197,"execution_time":1,"id":7932534,"language":"Awk (mawk 1.3.3)","length":53,"point":200.0,"problem_id":"abc070_b","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1570752854,"execution_time":147,"id":7932560,"language":"Octave (4.0.2)","length":30,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc069","epoch_second":1570753682,"execution_time":1,"id":7932614,"language":"Awk (mawk 1.3.3)","length":23,"point":200.0,"problem_id":"abc069_b","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc069","epoch_second":1570765839,"execution_time":723,"id":7933865,"language":"Octave (4.0.2)","length":48,"point":200.0,"problem_id":"abc069_b","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc067","epoch_second":1570786462,"execution_time":639,"id":7936885,"language":"Octave (4.0.2)","length":47,"point":0.0,"problem_id":"abc067_b","result":"WA","user_id":"kenketsuzuki"}
@@ -2597,9 +2601,25 @@
 ,{"contest_id":"abc133","epoch_second":1572013148,"execution_time":5,"id":8120019,"language":"Awk (mawk 1.3.3)","length":103,"point":0.0,"problem_id":"abc133_b","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc133","epoch_second":1572014224,"execution_time":2,"id":8120249,"language":"Awk (mawk 1.3.3)","length":61,"point":0.0,"problem_id":"abc133_c","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc133","epoch_second":1572014799,"execution_time":1,"id":8120339,"language":"Awk (mawk 1.3.3)","length":69,"point":0.0,"problem_id":"abc133_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572020609,"execution_time":1,"id":8121353,"language":"Awk (mawk 1.3.3)","length":33,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572021153,"execution_time":141,"id":8121425,"language":"Octave (4.0.2)","length":32,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572021174,"execution_time":334,"id":8121428,"language":"Octave (4.0.2)","length":31,"point":0.0,"problem_id":"abc129_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572022004,"execution_time":1,"id":8121518,"language":"Awk (mawk 1.3.3)","length":69,"point":0.0,"problem_id":"abc129_b","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572045747,"execution_time":336,"id":8122662,"language":"Awk (mawk 1.3.3)","length":83,"point":0.0,"problem_id":"abc138_c","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572045782,"execution_time":98,"id":8122664,"language":"Awk (mawk 1.3.3)","length":83,"point":0.0,"problem_id":"abc138_c","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572045816,"execution_time":314,"id":8122666,"language":"Awk (mawk 1.3.3)","length":83,"point":0.0,"problem_id":"abc138_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572046626,"execution_time":622,"id":8122711,"language":"Awk (mawk 1.3.3)","length":102,"point":0.0,"problem_id":"abc129_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572046903,"execution_time":498,"id":8122727,"language":"Awk (mawk 1.3.3)","length":101,"point":0.0,"problem_id":"abc129_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572047156,"execution_time":292,"id":8122735,"language":"Awk (mawk 1.3.3)","length":114,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572047406,"execution_time":1,"id":8122747,"language":"Awk (mawk 1.3.3)","length":111,"point":0.0,"problem_id":"abc129_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572059857,"execution_time":295,"id":8123857,"language":"Awk (mawk 1.3.3)","length":105,"point":0.0,"problem_id":"abc129_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572059893,"execution_time":300,"id":8123862,"language":"Awk (mawk 1.3.3)","length":105,"point":0.0,"problem_id":"abc129_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572060341,"execution_time":290,"id":8123913,"language":"Awk (mawk 1.3.3)","length":103,"point":0.0,"problem_id":"abc129_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572060557,"execution_time":298,"id":8123939,"language":"Awk (mawk 1.3.3)","length":102,"point":0.0,"problem_id":"abc129_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572060634,"execution_time":296,"id":8123951,"language":"Awk (mawk 1.3.3)","length":103,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572060765,"execution_time":457,"id":8123968,"language":"Awk (mawk 1.3.3)","length":103,"point":0.0,"problem_id":"abc129_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572060895,"execution_time":515,"id":8123983,"language":"Awk (mawk 1.3.3)","length":99,"point":0.0,"problem_id":"abc129_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572061043,"execution_time":303,"id":8124005,"language":"Awk (mawk 1.3.3)","length":102,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc025","epoch_second":1572083502,"execution_time":1,"id":8128058,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc025_a","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc025","epoch_second":1572083907,"execution_time":1,"id":8128136,"language":"Awk (mawk 1.3.3)","length":48,"point":0.0,"problem_id":"abc025_a","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc025","epoch_second":1572083975,"execution_time":1,"id":8128151,"language":"Awk (mawk 1.3.3)","length":48,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"kenketsuzuki"}
@@ -2610,6 +2630,7 @@
 ,{"contest_id":"abc143","epoch_second":1572089985,"execution_time":34,"id":8129345,"language":"Awk (mawk 1.3.3)","length":51,"point":300.0,"problem_id":"abc143_c","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc139","epoch_second":1572091733,"execution_time":1,"id":8129802,"language":"Awk (mawk 1.3.3)","length":24,"point":0.0,"problem_id":"abc139_d","result":"WA","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc139","epoch_second":1572091820,"execution_time":1,"id":8129835,"language":"Awk (mawk 1.3.3)","length":25,"point":0.0,"problem_id":"abc139_d","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc129","epoch_second":1572147716,"execution_time":303,"id":8136340,"language":"Awk (mawk 1.3.3)","length":101,"point":300.0,"problem_id":"abc129_c","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572153061,"execution_time":1,"id":8137784,"language":"Awk (mawk 1.3.3)","length":20,"point":100.0,"problem_id":"abc138_a","result":"AC","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572154273,"execution_time":1,"id":8138904,"language":"Awk (mawk 1.3.3)","length":26,"point":0.0,"problem_id":"abc138_a","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc138","epoch_second":1572154412,"execution_time":2,"id":8139016,"language":"Awk (mawk 1.3.3)","length":30,"point":0.0,"problem_id":"abc138_b","result":"WA","user_id":"kenketsuzuki"}
@@ -2843,4 +2864,176 @@
 ,{"contest_id":"abc010","epoch_second":1572667719,"execution_time":7,"id":8245957,"language":"Bash (GNU bash v4.3.11)","length":36,"point":0.0,"problem_id":"abc010_2","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc010","epoch_second":1572667742,"execution_time":14,"id":8245962,"language":"Bash (GNU bash v4.3.11)","length":36,"point":0.0,"problem_id":"abc010_2","result":"RE","user_id":"kenketsuzuki"}
 ,{"contest_id":"abc135","epoch_second":1572679590,"execution_time":3,"id":8250162,"language":"Awk (mawk 1.3.3)","length":147,"point":0.0,"problem_id":"abc135_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc045","epoch_second":1572911027,"execution_time":5,"id":8294976,"language":"Awk (mawk 1.3.3)","length":100,"point":200.0,"problem_id":"abc045_b","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1572911636,"execution_time":3,"id":8295025,"language":"Awk (mawk 1.3.3)","length":46,"point":0.0,"problem_id":"abc063_b","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1572911645,"execution_time":511,"id":8295027,"language":"Octave (4.0.2)","length":46,"point":0.0,"problem_id":"abc063_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1572911659,"execution_time":596,"id":8295029,"language":"Octave (4.0.2)","length":46,"point":200.0,"problem_id":"abc063_b","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc144","epoch_second":1572947662,"execution_time":155,"id":8300217,"language":"Octave (4.0.2)","length":51,"point":0.0,"problem_id":"abc144_b","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc003","epoch_second":1572951503,"execution_time":681,"id":8300826,"language":"Octave (4.0.2)","length":31,"point":100.0,"problem_id":"abc003_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"arc090","epoch_second":1572955224,"execution_time":791,"id":8301480,"language":"Octave (4.0.2)","length":62,"point":0.0,"problem_id":"arc090_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc140","epoch_second":1573009449,"execution_time":4,"id":8307645,"language":"Bash (GNU bash v4.3.11)","length":67,"point":100.0,"problem_id":"abc140_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc004","epoch_second":1573047757,"execution_time":143,"id":8314901,"language":"Octave (4.0.2)","length":25,"point":100.0,"problem_id":"abc004_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc005","epoch_second":1573047918,"execution_time":599,"id":8314941,"language":"Octave (4.0.2)","length":37,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc005","epoch_second":1573047974,"execution_time":142,"id":8314958,"language":"Octave (4.0.2)","length":43,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc005","epoch_second":1573048032,"execution_time":669,"id":8314977,"language":"Octave (4.0.2)","length":43,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc005","epoch_second":1573048075,"execution_time":569,"id":8314979,"language":"Octave (4.0.2)","length":43,"point":0.0,"problem_id":"abc005_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc005","epoch_second":1573048115,"execution_time":548,"id":8314990,"language":"Octave (4.0.2)","length":42,"point":100.0,"problem_id":"abc005_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573103639,"execution_time":599,"id":8320670,"language":"Octave (4.0.2)","length":51,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573103693,"execution_time":577,"id":8320678,"language":"Octave (4.0.2)","length":58,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573103908,"execution_time":729,"id":8320705,"language":"Octave (4.0.2)","length":60,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573104035,"execution_time":794,"id":8320724,"language":"Octave (4.0.2)","length":61,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573104066,"execution_time":293,"id":8320729,"language":"Octave (4.0.2)","length":68,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573104611,"execution_time":273,"id":8320816,"language":"Octave (4.0.2)","length":67,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573105374,"execution_time":593,"id":8320947,"language":"Octave (4.0.2)","length":69,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573105428,"execution_time":568,"id":8320959,"language":"Octave (4.0.2)","length":71,"point":300.0,"problem_id":"arc078_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573105759,"execution_time":565,"id":8321014,"language":"Octave (4.0.2)","length":67,"point":0.0,"problem_id":"arc078_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc067","epoch_second":1573106126,"execution_time":595,"id":8321081,"language":"Octave (4.0.2)","length":66,"point":0.0,"problem_id":"arc078_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1573107730,"execution_time":5,"id":8321358,"language":"Awk (mawk 1.3.3)","length":53,"point":0.0,"problem_id":"arc075_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1573112608,"execution_time":1,"id":8322194,"language":"Awk (mawk 1.3.3)","length":55,"point":0.0,"problem_id":"arc075_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1573114514,"execution_time":5,"id":8322545,"language":"Awk (mawk 1.3.3)","length":55,"point":0.0,"problem_id":"arc075_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc063","epoch_second":1573114864,"execution_time":986,"id":8322620,"language":"Octave (4.0.2)","length":75,"point":0.0,"problem_id":"arc075_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573123229,"execution_time":1,"id":8324073,"language":"C++14 (GCC 5.4.1)","length":935,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573124783,"execution_time":1,"id":8324312,"language":"Awk (mawk 1.3.3)","length":212,"point":0.0,"problem_id":"abc104_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573125682,"execution_time":12,"id":8324496,"language":"Awk (mawk 1.3.3)","length":206,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573126312,"execution_time":12,"id":8324619,"language":"Awk (mawk 1.3.3)","length":198,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573127157,"execution_time":12,"id":8324807,"language":"Awk (mawk 1.3.3)","length":195,"point":0.0,"problem_id":"abc104_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc104","epoch_second":1573127266,"execution_time":12,"id":8324828,"language":"Awk (mawk 1.3.3)","length":196,"point":300.0,"problem_id":"abc104_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc098","epoch_second":1573202139,"execution_time":13,"id":8334168,"language":"C++14 (GCC 5.4.1)","length":502,"point":0.0,"problem_id":"arc098_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc098","epoch_second":1573202239,"execution_time":13,"id":8334183,"language":"C++14 (GCC 5.4.1)","length":473,"point":0.0,"problem_id":"arc098_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc098","epoch_second":1573202551,"execution_time":14,"id":8334245,"language":"C++14 (GCC 5.4.1)","length":448,"point":300.0,"problem_id":"arc098_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc098","epoch_second":1573203559,"execution_time":150,"id":8334416,"language":"Octave (4.0.2)","length":64,"point":0.0,"problem_id":"arc098_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc098","epoch_second":1573203597,"execution_time":149,"id":8334425,"language":"Octave (4.0.2)","length":65,"point":0.0,"problem_id":"arc098_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573205293,"execution_time":1,"id":8334693,"language":"Awk (mawk 1.3.3)","length":62,"point":0.0,"problem_id":"arc080_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573205326,"execution_time":33,"id":8334702,"language":"Awk (mawk 1.3.3)","length":63,"point":0.0,"problem_id":"arc080_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573205390,"execution_time":32,"id":8334716,"language":"Awk (mawk 1.3.3)","length":63,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573205418,"execution_time":33,"id":8334720,"language":"Awk (mawk 1.3.3)","length":61,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573263796,"execution_time":53,"id":8340820,"language":"Awk (mawk 1.3.3)","length":59,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573264795,"execution_time":41,"id":8340945,"language":"Awk (mawk 1.3.3)","length":58,"point":400.0,"problem_id":"arc080_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573265114,"execution_time":"","id":8340977,"language":"C (GCC 5.4.1)","length":85,"point":0.0,"problem_id":"arc080_a","result":"CE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc069","epoch_second":1573265210,"execution_time":"","id":8340989,"language":"C (GCC 5.4.1)","length":85,"point":0.0,"problem_id":"arc080_a","result":"CE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc144","epoch_second":1573266846,"execution_time":4,"id":8341187,"language":"Bash (GNU bash v4.3.11)","length":43,"point":0.0,"problem_id":"abc144_b","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc144","epoch_second":1573266939,"execution_time":4,"id":8341194,"language":"Bash (GNU bash v4.3.11)","length":33,"point":0.0,"problem_id":"abc144_b","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc144","epoch_second":1573267015,"execution_time":15,"id":8341205,"language":"Bash (GNU bash v4.3.11)","length":42,"point":0.0,"problem_id":"abc144_b","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc141","epoch_second":1573274592,"execution_time":703,"id":8342140,"language":"Awk (mawk 1.3.3)","length":71,"point":0.0,"problem_id":"abc141_c","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc141","epoch_second":1573274747,"execution_time":193,"id":8342174,"language":"Awk (mawk 1.3.3)","length":78,"point":0.0,"problem_id":"abc141_c","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc007","epoch_second":1573280891,"execution_time":142,"id":8343249,"language":"Octave (4.0.2)","length":25,"point":100.0,"problem_id":"abc007_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc008","epoch_second":1573280985,"execution_time":142,"id":8343264,"language":"Octave (4.0.2)","length":33,"point":100.0,"problem_id":"abc008_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc008","epoch_second":1573281057,"execution_time":141,"id":8343280,"language":"Octave (4.0.2)","length":32,"point":0.0,"problem_id":"abc008_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc010","epoch_second":1573281309,"execution_time":141,"id":8343342,"language":"Octave (4.0.2)","length":25,"point":100.0,"problem_id":"abc010_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc011","epoch_second":1573281470,"execution_time":615,"id":8343380,"language":"Octave (4.0.2)","length":33,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc143","epoch_second":1573282522,"execution_time":19,"id":8343589,"language":"Awk (mawk 1.3.3)","length":45,"point":300.0,"problem_id":"abc143_c","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc014","epoch_second":1573293621,"execution_time":1,"id":8345966,"language":"Awk (mawk 1.3.3)","length":17,"point":0.0,"problem_id":"abc014_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc014","epoch_second":1573293751,"execution_time":3,"id":8346004,"language":"Awk (mawk 1.3.3)","length":24,"point":0.0,"problem_id":"abc014_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc014","epoch_second":1573293888,"execution_time":1,"id":8346033,"language":"Awk (mawk 1.3.3)","length":21,"point":0.0,"problem_id":"abc014_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc014","epoch_second":1573293968,"execution_time":1,"id":8346057,"language":"Awk (mawk 1.3.3)","length":23,"point":0.0,"problem_id":"abc014_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc014","epoch_second":1573294391,"execution_time":598,"id":8346118,"language":"Octave (4.0.2)","length":57,"point":100.0,"problem_id":"abc014_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc015","epoch_second":1573294709,"execution_time":1,"id":8346191,"language":"Awk (mawk 1.3.3)","length":33,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc015","epoch_second":1573295153,"execution_time":231,"id":8346278,"language":"Octave (4.0.2)","length":77,"point":100.0,"problem_id":"abc015_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc017","epoch_second":1573297806,"execution_time":144,"id":8346872,"language":"Octave (4.0.2)","length":41,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc017","epoch_second":1573298131,"execution_time":1,"id":8346955,"language":"Awk (mawk 1.3.3)","length":36,"point":100.0,"problem_id":"abc017_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573301610,"execution_time":15,"id":8351949,"language":"Bash (GNU bash v4.3.11)","length":21,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573301726,"execution_time":18,"id":8352357,"language":"Bash (GNU bash v4.3.11)","length":25,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573302106,"execution_time":4,"id":8353609,"language":"Bash (GNU bash v4.3.11)","length":24,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573302571,"execution_time":16,"id":8354970,"language":"Bash (GNU bash v4.3.11)","length":33,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573303125,"execution_time":663,"id":8356620,"language":"Octave (4.0.2)","length":40,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573305869,"execution_time":142,"id":8363604,"language":"Octave (4.0.2)","length":57,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573305923,"execution_time":614,"id":8363713,"language":"Octave (4.0.2)","length":47,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573306071,"execution_time":151,"id":8364059,"language":"Octave (4.0.2)","length":44,"point":100.0,"problem_id":"abc018_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc018","epoch_second":1573306331,"execution_time":606,"id":8364649,"language":"Octave (4.0.2)","length":36,"point":0.0,"problem_id":"abc018_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc019","epoch_second":1573306770,"execution_time":607,"id":8365738,"language":"Octave (4.0.2)","length":24,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc019","epoch_second":1573307412,"execution_time":568,"id":8367352,"language":"Octave (4.0.2)","length":30,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc019","epoch_second":1573308387,"execution_time":1,"id":8370049,"language":"Awk (mawk 1.3.3)","length":50,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308566,"execution_time":3,"id":8370242,"language":"Awk (mawk 1.3.3)","length":9,"point":0.0,"problem_id":"nikkei2019_2_qual_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308633,"execution_time":3,"id":8370294,"language":"Awk (mawk 1.3.3)","length":11,"point":0.0,"problem_id":"nikkei2019_2_qual_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308704,"execution_time":3,"id":8370363,"language":"Awk (mawk 1.3.3)","length":14,"point":0.0,"problem_id":"nikkei2019_2_qual_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308747,"execution_time":4,"id":8370394,"language":"Awk (mawk 1.3.3)","length":16,"point":100.0,"problem_id":"nikkei2019_2_qual_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308786,"execution_time":3,"id":8370436,"language":"Awk (mawk 1.3.3)","length":15,"point":100.0,"problem_id":"nikkei2019_2_qual_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"nikkei2019-2-qual","epoch_second":1573308993,"execution_time":3,"id":8370630,"language":"Awk (mawk 1.3.3)","length":10,"point":0.0,"problem_id":"nikkei2019_2_qual_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc019","epoch_second":1573310788,"execution_time":1,"id":8371926,"language":"Awk (mawk 1.3.3)","length":40,"point":0.0,"problem_id":"abc019_1","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc019","epoch_second":1573310809,"execution_time":3,"id":8371936,"language":"Awk (mawk 1.3.3)","length":40,"point":100.0,"problem_id":"abc019_1","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc020","epoch_second":1573311031,"execution_time":552,"id":8372039,"language":"Octave (4.0.2)","length":58,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc021","epoch_second":1573311550,"execution_time":570,"id":8372277,"language":"Octave (4.0.2)","length":39,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc021","epoch_second":1573311688,"execution_time":516,"id":8372334,"language":"Octave (4.0.2)","length":28,"point":100.0,"problem_id":"abc021_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc022","epoch_second":1573312471,"execution_time":3,"id":8372654,"language":"Awk (mawk 1.3.3)","length":43,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc022","epoch_second":1573313313,"execution_time":3,"id":8373000,"language":"Awk (mawk 1.3.3)","length":41,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc022","epoch_second":1573314858,"execution_time":561,"id":8373593,"language":"Octave (4.0.2)","length":64,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc022","epoch_second":1573314968,"execution_time":653,"id":8373640,"language":"Octave (4.0.2)","length":70,"point":0.0,"problem_id":"abc022_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc022","epoch_second":1573315051,"execution_time":578,"id":8373668,"language":"Octave (4.0.2)","length":71,"point":100.0,"problem_id":"abc022_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc023","epoch_second":1573315362,"execution_time":512,"id":8373772,"language":"Octave (4.0.2)","length":34,"point":0.0,"problem_id":"abc023_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc023","epoch_second":1573315400,"execution_time":144,"id":8373786,"language":"Octave (4.0.2)","length":40,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc024","epoch_second":1573316774,"execution_time":1,"id":8374181,"language":"Awk (mawk 1.3.3)","length":45,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc024","epoch_second":1573316814,"execution_time":1,"id":8374190,"language":"Awk (mawk 1.3.3)","length":45,"point":0.0,"problem_id":"abc024_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc024","epoch_second":1573316978,"execution_time":1,"id":8374237,"language":"Awk (mawk 1.3.3)","length":44,"point":100.0,"problem_id":"abc024_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc033","epoch_second":1573320432,"execution_time":1,"id":8374925,"language":"Awk (mawk 1.3.3)","length":28,"point":100.0,"problem_id":"abc033_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc033","epoch_second":1573320479,"execution_time":1,"id":8374931,"language":"Awk (mawk 1.3.3)","length":27,"point":0.0,"problem_id":"abc033_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc025","epoch_second":1573349220,"execution_time":141,"id":8377176,"language":"Octave (4.0.2)","length":70,"point":100.0,"problem_id":"abc025_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc026","epoch_second":1573349460,"execution_time":149,"id":8377209,"language":"Octave (4.0.2)","length":24,"point":0.0,"problem_id":"abc026_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc026","epoch_second":1573349488,"execution_time":144,"id":8377215,"language":"Octave (4.0.2)","length":25,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573349917,"execution_time":145,"id":8377262,"language":"Octave (4.0.2)","length":38,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573349932,"execution_time":144,"id":8377265,"language":"Octave (4.0.2)","length":40,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573350005,"execution_time":530,"id":8377278,"language":"Octave (4.0.2)","length":41,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573350020,"execution_time":142,"id":8377287,"language":"Octave (4.0.2)","length":43,"point":0.0,"problem_id":"abc027_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573350072,"execution_time":232,"id":8377296,"language":"Octave (4.0.2)","length":42,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc027","epoch_second":1573350113,"execution_time":559,"id":8377299,"language":"Octave (4.0.2)","length":39,"point":100.0,"problem_id":"abc027_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc028","epoch_second":1573350270,"execution_time":144,"id":8377322,"language":"Octave (4.0.2)","length":97,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc028","epoch_second":1573350304,"execution_time":143,"id":8377329,"language":"Octave (4.0.2)","length":100,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc028","epoch_second":1573350404,"execution_time":141,"id":8377344,"language":"Octave (4.0.2)","length":105,"point":0.0,"problem_id":"abc028_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc028","epoch_second":1573350449,"execution_time":142,"id":8377351,"language":"Octave (4.0.2)","length":98,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc030","epoch_second":1573350773,"execution_time":145,"id":8377411,"language":"Octave (4.0.2)","length":104,"point":100.0,"problem_id":"abc030_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc031","epoch_second":1573350976,"execution_time":160,"id":8377448,"language":"Octave (4.0.2)","length":31,"point":0.0,"problem_id":"abc031_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc031","epoch_second":1573351033,"execution_time":141,"id":8377458,"language":"Octave (4.0.2)","length":31,"point":0.0,"problem_id":"abc031_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc031","epoch_second":1573351059,"execution_time":148,"id":8377466,"language":"Octave (4.0.2)","length":38,"point":100.0,"problem_id":"abc031_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573351263,"execution_time":1,"id":8377507,"language":"Awk (mawk 1.3.3)","length":42,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573351323,"execution_time":1,"id":8377518,"language":"Awk (mawk 1.3.3)","length":40,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573351482,"execution_time":2103,"id":8377554,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"TLE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573351634,"execution_time":2,"id":8377588,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573352708,"execution_time":2,"id":8377814,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573353109,"execution_time":2,"id":8377924,"language":"Awk (mawk 1.3.3)","length":38,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573353306,"execution_time":2,"id":8377967,"language":"Awk (mawk 1.3.3)","length":39,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573353900,"execution_time":2,"id":8378091,"language":"Awk (mawk 1.3.3)","length":38,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573354149,"execution_time":2,"id":8378141,"language":"Awk (mawk 1.3.3)","length":37,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573355545,"execution_time":2,"id":8378391,"language":"Awk (mawk 1.3.3)","length":37,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573365441,"execution_time":2,"id":8380274,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573380852,"execution_time":8,"id":8383735,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc033","epoch_second":1573382401,"execution_time":694,"id":8384009,"language":"Octave (4.0.2)","length":60,"point":0.0,"problem_id":"abc033_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc033","epoch_second":1573382428,"execution_time":641,"id":8384015,"language":"Octave (4.0.2)","length":63,"point":100.0,"problem_id":"abc033_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc033","epoch_second":1573382470,"execution_time":547,"id":8384023,"language":"Octave (4.0.2)","length":58,"point":100.0,"problem_id":"abc033_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383086,"execution_time":4,"id":8384130,"language":"Awk (mawk 1.3.3)","length":18,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383152,"execution_time":696,"id":8384144,"language":"Octave (4.0.2)","length":47,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383189,"execution_time":579,"id":8384151,"language":"Octave (4.0.2)","length":48,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383281,"execution_time":143,"id":8384170,"language":"Octave (4.0.2)","length":48,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383338,"execution_time":142,"id":8384188,"language":"Octave (4.0.2)","length":55,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383479,"execution_time":140,"id":8384210,"language":"Octave (4.0.2)","length":47,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383511,"execution_time":140,"id":8384221,"language":"Octave (4.0.2)","length":51,"point":100.0,"problem_id":"abc038_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc038","epoch_second":1573383542,"execution_time":143,"id":8384225,"language":"Octave (4.0.2)","length":48,"point":0.0,"problem_id":"abc038_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc039","epoch_second":1573384424,"execution_time":546,"id":8384409,"language":"Octave (4.0.2)","length":52,"point":100.0,"problem_id":"abc039_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573384984,"execution_time":3,"id":8384532,"language":"Awk (mawk 1.3.3)","length":22,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573385045,"execution_time":1,"id":8384545,"language":"Awk (mawk 1.3.3)","length":20,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573385116,"execution_time":1,"id":8384576,"language":"Awk (mawk 1.3.3)","length":20,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573385367,"execution_time":2,"id":8384647,"language":"Awk (mawk 1.3.3)","length":19,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573385421,"execution_time":1,"id":8384662,"language":"Awk (mawk 1.3.3)","length":22,"point":0.0,"problem_id":"abc040_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc040","epoch_second":1573385484,"execution_time":144,"id":8384673,"language":"Octave (4.0.2)","length":40,"point":100.0,"problem_id":"abc040_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc041","epoch_second":1573386188,"execution_time":1,"id":8384827,"language":"Awk (mawk 1.3.3)","length":21,"point":0.0,"problem_id":"abc041_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc041","epoch_second":1573386241,"execution_time":1,"id":8384838,"language":"Awk (mawk 1.3.3)","length":27,"point":0.0,"problem_id":"abc041_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc041","epoch_second":1573386285,"execution_time":141,"id":8384849,"language":"Octave (4.0.2)","length":24,"point":100.0,"problem_id":"abc041_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc042","epoch_second":1573386401,"execution_time":1,"id":8384876,"language":"Awk (mawk 1.3.3)","length":19,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc042","epoch_second":1573386462,"execution_time":141,"id":8384891,"language":"Octave (4.0.2)","length":51,"point":100.0,"problem_id":"abc042_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386618,"execution_time":1,"id":8384922,"language":"Awk (mawk 1.3.3)","length":12,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386655,"execution_time":4,"id":8384933,"language":"Awk (mawk 1.3.3)","length":12,"point":0.0,"problem_id":"abc043_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386701,"execution_time":139,"id":8384946,"language":"Octave (4.0.2)","length":25,"point":0.0,"problem_id":"abc043_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386729,"execution_time":143,"id":8384950,"language":"Octave (4.0.2)","length":27,"point":0.0,"problem_id":"abc043_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386761,"execution_time":143,"id":8384963,"language":"Octave (4.0.2)","length":27,"point":0.0,"problem_id":"abc043_a","result":"RE","user_id":"kenketsuzuki"}
+,{"contest_id":"abc043","epoch_second":1573386800,"execution_time":145,"id":8384974,"language":"Octave (4.0.2)","length":26,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc048","epoch_second":1573386918,"execution_time":1,"id":8384997,"language":"Awk (mawk 1.3.3)","length":23,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc048","epoch_second":1573387060,"execution_time":1,"id":8385027,"language":"Awk (mawk 1.3.3)","length":22,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc048","epoch_second":1573387088,"execution_time":1,"id":8385037,"language":"Awk (mawk 1.3.3)","length":21,"point":0.0,"problem_id":"abc048_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc048","epoch_second":1573387229,"execution_time":143,"id":8385075,"language":"Octave (4.0.2)","length":29,"point":100.0,"problem_id":"abc048_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc105","epoch_second":1573392678,"execution_time":5,"id":8386345,"language":"Awk (mawk 1.3.3)","length":11,"point":0.0,"problem_id":"abc105_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc105","epoch_second":1573392749,"execution_time":1,"id":8386364,"language":"Awk (mawk 1.3.3)","length":12,"point":0.0,"problem_id":"abc105_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc105","epoch_second":1573392963,"execution_time":3,"id":8386417,"language":"Awk (mawk 1.3.3)","length":13,"point":100.0,"problem_id":"abc105_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573408889,"execution_time":1,"id":8389278,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573408932,"execution_time":1,"id":8389283,"language":"Awk (mawk 1.3.3)","length":36,"point":0.0,"problem_id":"abc032_a","result":"WA","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573409056,"execution_time":3,"id":8389296,"language":"Awk (mawk 1.3.3)","length":38,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573409549,"execution_time":1,"id":8389330,"language":"Awk (mawk 1.3.3)","length":38,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
+,{"contest_id":"abc032","epoch_second":1573410954,"execution_time":2,"id":8389403,"language":"Awk (mawk 1.3.3)","length":35,"point":100.0,"problem_id":"abc032_a","result":"AC","user_id":"kenketsuzuki"}
 ]

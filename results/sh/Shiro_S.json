@@ -988,6 +988,7 @@
 ,{"contest_id":"abc072","epoch_second":1570570215,"execution_time":98,"id":7912703,"language":"Brainfuck (bf 20041219)","length":14,"point":200.0,"problem_id":"abc072_b","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc004","epoch_second":1570571282,"execution_time":1,"id":7912722,"language":"Brainfuck (bf 20041219)","length":122,"point":100.0,"problem_id":"abc004_2","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc070","epoch_second":1570684558,"execution_time":1,"id":7925088,"language":"Brainfuck (bf 20041219)","length":128,"point":100.0,"problem_id":"abc070_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc129","epoch_second":1570716227,"execution_time":1,"id":7929975,"language":"C (GCC 5.4.1)","length":161,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc133","epoch_second":1570717628,"execution_time":1,"id":7930279,"language":"C (GCC 5.4.1)","length":63,"point":100.0,"problem_id":"abc133_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc135","epoch_second":1570717825,"execution_time":1,"id":7930322,"language":"C (GCC 5.4.1)","length":79,"point":100.0,"problem_id":"abc135_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc136","epoch_second":1570718163,"execution_time":1,"id":7930408,"language":"C (GCC 5.4.1)","length":66,"point":100.0,"problem_id":"abc136_a","result":"AC","user_id":"Shiro_S"}
@@ -1109,6 +1110,7 @@
 ,{"contest_id":"abc103","epoch_second":1571850171,"execution_time":3,"id":8100739,"language":"Fortran (gfortran v4.8.4)","length":65,"point":100.0,"problem_id":"abc103_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc104","epoch_second":1571850274,"execution_time":1,"id":8100751,"language":"Fortran (gfortran v4.8.4)","length":125,"point":100.0,"problem_id":"abc104_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc105","epoch_second":1571850404,"execution_time":1,"id":8100763,"language":"Fortran (gfortran v4.8.4)","length":93,"point":100.0,"problem_id":"abc105_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc129","epoch_second":1571855053,"execution_time":1,"id":8101060,"language":"Fortran (gfortran v4.8.4)","length":56,"point":100.0,"problem_id":"abc129_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc133","epoch_second":1571856462,"execution_time":1,"id":8101133,"language":"Fortran (gfortran v4.8.4)","length":52,"point":100.0,"problem_id":"abc133_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc134","epoch_second":1571856513,"execution_time":1,"id":8101135,"language":"Fortran (gfortran v4.8.4)","length":40,"point":100.0,"problem_id":"abc134_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"abc135","epoch_second":1571856774,"execution_time":1,"id":8101160,"language":"Fortran (gfortran v4.8.4)","length":110,"point":100.0,"problem_id":"abc135_a","result":"AC","user_id":"Shiro_S"}
@@ -1276,4 +1278,62 @@
 ,{"contest_id":"future-contest-2020-qual","epoch_second":1572685630,"execution_time":1,"id":8252829,"language":"C (GCC 5.4.1)","length":420,"point":0.0,"problem_id":"future_contest_2020_qual_a","result":"WA","user_id":"Shiro_S"}
 ,{"contest_id":"future-contest-2020-qual","epoch_second":1572685964,"execution_time":1,"id":8252979,"language":"C (GCC 5.4.1)","length":442,"point":117123.0,"problem_id":"future_contest_2020_qual_a","result":"AC","user_id":"Shiro_S"}
 ,{"contest_id":"future-contest-2020-qual","epoch_second":1572752450,"execution_time":9,"id":8265396,"language":"Brainfuck (bf 20041219)","length":21,"point":48047.0,"problem_id":"future_contest_2020_qual_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"agc040","epoch_second":1572806245,"execution_time":23,"id":8281576,"language":"C++14 (GCC 5.4.1)","length":507,"point":300.0,"problem_id":"agc040_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc079","epoch_second":1572842022,"execution_time":1,"id":8284794,"language":"Brainfuck (bf 20041219)","length":5135,"point":0.0,"problem_id":"abc079_b","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"abc079","epoch_second":1572843181,"execution_time":1,"id":8284996,"language":"Brainfuck (bf 20041219)","length":5144,"point":200.0,"problem_id":"abc079_b","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1572843431,"execution_time":1,"id":8285039,"language":"Brainfuck (bf 20041219)","length":2218,"point":0.0,"problem_id":"tenka1_2012_qualA_1","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1572843494,"execution_time":1,"id":8285055,"language":"Brainfuck (bf 20041219)","length":2231,"point":0.0,"problem_id":"tenka1_2012_qualA_1","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"tenka1-2012-qualA","epoch_second":1572844231,"execution_time":1,"id":8285202,"language":"Brainfuck (bf 20041219)","length":2228,"point":100.0,"problem_id":"tenka1_2012_qualA_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc035","epoch_second":1572844437,"execution_time":3,"id":8285243,"language":"C (GCC 5.4.1)","length":978,"point":0.0,"problem_id":"arc035_b","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"arc035","epoch_second":1572844513,"execution_time":3,"id":8285261,"language":"C (GCC 5.4.1)","length":980,"point":100.0,"problem_id":"arc035_b","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc023","epoch_second":1572848156,"execution_time":1,"id":8285937,"language":"Brainfuck (bf 20041219)","length":173,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc043","epoch_second":1572930154,"execution_time":1,"id":8297170,"language":"Brainfuck (bf 20041219)","length":3342,"point":100.0,"problem_id":"abc043_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc026","epoch_second":1572930472,"execution_time":1,"id":8297214,"language":"Brainfuck (bf 20041219)","length":3741,"point":100.0,"problem_id":"abc026_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"code-festival-2017-qualb","epoch_second":1572937267,"execution_time":6,"id":8298340,"language":"Brainfuck (bf 20041219)","length":30,"point":100.0,"problem_id":"code_festival_2017_qualb_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc011","epoch_second":1572947183,"execution_time":1,"id":8300139,"language":"Brainfuck (bf 20041219)","length":387,"point":100.0,"problem_id":"abc011_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc007","epoch_second":1572947722,"execution_time":1,"id":8300223,"language":"Brainfuck (bf 20041219)","length":57,"point":100.0,"problem_id":"arc007_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc028","epoch_second":1572949008,"execution_time":1,"id":8300440,"language":"Brainfuck (bf 20041219)","length":578,"point":100.0,"problem_id":"abc028_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc014","epoch_second":1572951663,"execution_time":1,"id":8300851,"language":"Brainfuck (bf 20041219)","length":183,"point":100.0,"problem_id":"arc014_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"code-festival-2017-quala","epoch_second":1572953170,"execution_time":11,"id":8301106,"language":"Brainfuck (bf 20041219)","length":310,"point":100.0,"problem_id":"code_festival_2017_quala_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc041","epoch_second":1572957106,"execution_time":1,"id":8301875,"language":"Brainfuck (bf 20041219)","length":232,"point":100.0,"problem_id":"abc041_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc058","epoch_second":1572958328,"execution_time":1,"id":8302158,"language":"Brainfuck (bf 20041219)","length":682,"point":100.0,"problem_id":"abc058_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc069","epoch_second":1572959694,"execution_time":1,"id":8302503,"language":"Brainfuck (bf 20041219)","length":180,"point":200.0,"problem_id":"abc069_b","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day3","epoch_second":1572967676,"execution_time":1,"id":8304589,"language":"Brainfuck (bf 20041219)","length":924,"point":100.0,"problem_id":"iroha2019_day3_k","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"ddcc2019-qual","epoch_second":1572977442,"execution_time":1,"id":8305602,"language":"C (GCC 5.4.1)","length":42,"point":100.0,"problem_id":"ddcc2018_qual_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"ddcc2019-qual","epoch_second":1572977669,"execution_time":9,"id":8305616,"language":"Brainfuck (bf 20041219)","length":117,"point":100.0,"problem_id":"ddcc2018_qual_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"chokudai_S001","epoch_second":1572978336,"execution_time":2,"id":8305649,"language":"Brainfuck (bf 20041219)","length":97,"point":200.0,"problem_id":"chokudai_S001_c","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"chokudai_S001","epoch_second":1572978406,"execution_time":1,"id":8305651,"language":"Brainfuck (bf 20041219)","length":3342,"point":200.0,"problem_id":"chokudai_S001_b","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc004","epoch_second":1572980653,"execution_time":1,"id":8305726,"language":"Brainfuck (bf 20041219)","length":24,"point":100.0,"problem_id":"abc004_2","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573022568,"execution_time":1,"id":8309814,"language":"C (GCC 5.4.1)","length":31,"point":100.0,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc140","epoch_second":1573022678,"execution_time":"","id":8309837,"language":"C (GCC 5.4.1)","length":41,"point":0.0,"problem_id":"abc140_a","result":"CE","user_id":"Shiro_S"}
+,{"contest_id":"abc140","epoch_second":1573022715,"execution_time":1,"id":8309846,"language":"C (GCC 5.4.1)","length":42,"point":100.0,"problem_id":"abc140_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc023","epoch_second":1573023098,"execution_time":1,"id":8309923,"language":"C (GCC 5.4.1)","length":44,"point":0.0,"problem_id":"abc023_a","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"abc023","epoch_second":1573023124,"execution_time":1,"id":8309927,"language":"C (GCC 5.4.1)","length":46,"point":100.0,"problem_id":"abc023_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc020","epoch_second":1573023636,"execution_time":1,"id":8310015,"language":"C (GCC 5.4.1)","length":44,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc002","epoch_second":1573041990,"execution_time":1,"id":8313562,"language":"C (GCC 5.4.1)","length":161,"point":100.0,"problem_id":"arc002_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc009","epoch_second":1573042057,"execution_time":1,"id":8313581,"language":"C (GCC 5.4.1)","length":202,"point":100.0,"problem_id":"arc009_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc026","epoch_second":1573042237,"execution_time":1,"id":8313625,"language":"C (GCC 5.4.1)","length":115,"point":100.0,"problem_id":"arc026_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc033","epoch_second":1573042453,"execution_time":0,"id":8313668,"language":"C (GCC 5.4.1)","length":49,"point":100.0,"problem_id":"arc033_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc016","epoch_second":1573044869,"execution_time":1,"id":8314156,"language":"C (GCC 5.4.1)","length":364,"point":100.0,"problem_id":"arc016_2","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc029","epoch_second":1573045440,"execution_time":1,"id":8314289,"language":"C (GCC 5.4.1)","length":486,"point":100.0,"problem_id":"arc029_1","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc054","epoch_second":1573047725,"execution_time":1,"id":8314890,"language":"C (GCC 5.4.1)","length":311,"point":100.0,"problem_id":"arc054_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc051","epoch_second":1573048492,"execution_time":1,"id":8315111,"language":"C (GCC 5.4.1)","length":284,"point":0.0,"problem_id":"arc051_a","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"abc020","epoch_second":1573050316,"execution_time":1,"id":8315628,"language":"C (GCC 5.4.1)","length":43,"point":100.0,"problem_id":"abc020_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573050540,"execution_time":1,"id":8315684,"language":"C (GCC 5.4.1)","length":27,"point":100.0,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc141","epoch_second":1573051737,"execution_time":0,"id":8316018,"language":"C (GCC 5.4.1)","length":65,"point":100.0,"problem_id":"abc141_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc051","epoch_second":1573053132,"execution_time":1,"id":8316347,"language":"C (Clang 3.8.0)","length":286,"point":0.0,"problem_id":"arc051_a","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"arc051","epoch_second":1573053671,"execution_time":1,"id":8316450,"language":"C (GCC 5.4.1)","length":364,"point":100.0,"problem_id":"arc051_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"abc033","epoch_second":1573054385,"execution_time":1,"id":8316577,"language":"C (GCC 5.4.1)","length":331,"point":0.0,"problem_id":"abc033_c","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"abc033","epoch_second":1573056185,"execution_time":1,"id":8316824,"language":"C (GCC 5.4.1)","length":360,"point":100.0,"problem_id":"abc033_c","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"arc033","epoch_second":1573057525,"execution_time":161,"id":8316981,"language":"C++14 (GCC 5.4.1)","length":343,"point":100.0,"problem_id":"arc033_2","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day3","epoch_second":1573137861,"execution_time":2,"id":8327521,"language":"Unlambda (0.1.3)","length":31,"point":0.0,"problem_id":"iroha2019_day3_j","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day3","epoch_second":1573141076,"execution_time":4,"id":8328200,"language":"Unlambda (0.1.3)","length":31,"point":0.0,"problem_id":"iroha2019_day3_j","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573142505,"execution_time":13,"id":8328410,"language":"Unlambda (0.1.3)","length":5,"point":100.0,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573144754,"execution_time":1,"id":8328722,"language":"Brainfuck (bf 20041219)","length":2250,"point":0.0,"problem_id":"iroha2019_day1_c","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573145034,"execution_time":1,"id":8328754,"language":"Brainfuck (bf 20041219)","length":2248,"point":100.0,"problem_id":"iroha2019_day1_c","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day1","epoch_second":1573145176,"execution_time":1,"id":8328778,"language":"Fortran (gfortran v4.8.4)","length":32,"point":100.0,"problem_id":"iroha2019_day1_a","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"iroha2019-day3","epoch_second":1573253631,"execution_time":11,"id":8340171,"language":"Unlambda (0.1.3)","length":31,"point":100.0,"problem_id":"iroha2019_day3_j","result":"AC","user_id":"Shiro_S"}
+,{"contest_id":"code-formula-2014-quala","epoch_second":1573285737,"execution_time":18,"id":8344206,"language":"Python3 (3.4.3)","length":83,"point":0.0,"problem_id":"code_formula_2014_qualA_a","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"code-formula-2014-quala","epoch_second":1573285851,"execution_time":17,"id":8344228,"language":"Python3 (3.4.3)","length":85,"point":0.0,"problem_id":"code_formula_2014_qualA_a","result":"WA","user_id":"Shiro_S"}
+,{"contest_id":"code-formula-2014-quala","epoch_second":1573285896,"execution_time":17,"id":8344242,"language":"Python3 (3.4.3)","length":87,"point":100.0,"problem_id":"code_formula_2014_qualA_a","result":"AC","user_id":"Shiro_S"}
 ]
